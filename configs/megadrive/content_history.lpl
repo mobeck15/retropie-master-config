@@ -1,0 +1,531 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Addams Family Values (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Addams Family, The (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Action 52 (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/AAAHH!!! Real Monsters (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/777 Casino (Unl) [c].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/688 Attack Sub (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Genesis 6-Pak (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/3 Ninjas Kick Back (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/16 Tiles Mahjong (Unl) [c].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Pele's World Tournament Soccer (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Pele! (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Teenage Mutant Ninja Turtles - Return of the Shredder (J).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Super Smash TV (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Smash TV (JUE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Valis SD (J) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Volfied (JUE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Valis (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Populous 2 - Wrath of the Gods (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Hercules (J) [p1][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Dune - The Building of a Dynasty (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Legend of Galahad, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Land Stalker (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Landstalker - The Treasures of King Nole (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/James Bond - The Duel (UEJ) (Tengen).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/James Bond 007 - The Duel (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Hook (U) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Home Alone (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Zombies (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Thunder Force IV (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Congo - The Game (Beta).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Capt'n Havoc (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/A Bug's Life (Unl).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Bug's Life, A (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Beavis and Butt-head (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Battle Mania (U) [h1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Devilish - The Next Possession (U) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Devilish (U) [b1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Bad Omen (J) [x].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Ambition of Caesar 2 (A) [x].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Steel Empire, The (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Empire of Steel (UE).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/ESWAT Cyber Police - City Under Siege (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/E-Swat (U) [a1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Dominus (JUE) [b1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Divine Sealing (JU) [c][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Batman (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Bastard!! (PD).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/After Burner 32X (A) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Other/Abrams Battle Tanks (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Aladdin (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/World Cup Soccer (JU) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Sensible Soccer - International Edition (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Sensible Soccer (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/NHL Hockey 92 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/NHL Hockey 94 (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/NHL 94 (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/John Madden Football (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/John Madden Football 91 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Joe Montana Sports Talk Football (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/NFL '95 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/John Madden NFL 94 (UEJ) [b1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Joe Montana NFL 94 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Sports/Grand Slam Tennis (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Phantasy Star - The End of the Millenium (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/megadrive/Another World (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

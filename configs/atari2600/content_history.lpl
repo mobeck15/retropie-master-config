@@ -1,0 +1,115 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/A-VCS-tec Challenge.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Demo/A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Demo/Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Demo/Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/Knight on the Town (1982) (PlayAround - J.H.M.) (203).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/2005 Minigame Multicart.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/Space Tunnel - Weltraum-Tunnel (1982) (Bit Corporation) (PG202) (PAL) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Other/Go Go Home Monster (1983) (Home Vision - Gem International Corp.) (PAL) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/atari2600/Q-bert (1983) (Parker Brothers, Dave Hampton, Tom Sloper) (PB5360) ~.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-stella2014/stella2014_libretro.so",
+      "core_name": "Stella 2014",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

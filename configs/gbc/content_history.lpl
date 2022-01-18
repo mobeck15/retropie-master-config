@@ -1,0 +1,363 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Action Man - Search for Base X (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Sports/720 Degrees (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/3-D Ultra Pinball - Thrillride (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/1942 (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Sports/10-Pin Bowling (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Legend of Zelda, The - Oracle of Ages (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Megaman Xtreme (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Wario Land II (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/AirForce Delta (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/007 - The World is Not Enough (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Legend of Zelda, The - Oracle of Seasons (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Legend of Zelda, The - Link's Awakening DX (U) (V1.2) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Wizardry III - Knights of Diamonds (J) [C][T+Eng_Opus].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Wizardry II - Legacy of Llylgamyn (J) [C][T+Eng_Opus].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Wizardry I - Proving Grounds of the Mad Overlord (J) [C][T+Eng_Opus].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon - Yellow Version (UE) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon Silver.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon Puzzle Challenge.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon - Gold Version (UE) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Pokemon Crystal.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Metal Gear Solid (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Megaman Xtreme 2 (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Wario Land 3 (JU) (M2) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Grand Theft Auto (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Super Mario Bros. Deluxe (USA, Europe).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Ghosts 'N Goblins (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior Monsters 2 - Tara's Adventure (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior Monsters 2 - Cobi's Journey (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior Monsters (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior III (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Dragon Warrior I & II (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Donkey Kong Country (UE) (M5) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Crystalis (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Commander Keen (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Bubble Bobble (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Blaster Master - Enemy Below (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Bionic Commando - Elite Forces (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/LEGO Racers (U) (M3) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Wizardry Empire (J) (V1.0) [C][T-Eng0.45_Magecraft].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Woody Woodpecker (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Stone Age (Unl) [C].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Metal Walker (U) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Game & Watch Gallery 3 (UE) [C][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gbc/Other/Funk the 9 Ball (J) [C][T+Eng_PR].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

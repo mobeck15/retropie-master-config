@@ -1,0 +1,1 @@
+console=serial0,115200 root=PARTUUID=523e08e9-02 rootfstype=ext4 elevator=deadline fsck.repair=yes rootwait plymouth.enable=0 logo.nologo

@@ -1,0 +1,43 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Other/Aerial Assault.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Other/Addams Family.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Other/5 in 1 Funpak.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gamegear/Sports/Poker Faced Paul's Poker.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-genesis-plus-gx/genesis_plus_gx_libretro.so",
+      "core_name": "Genesis Plus GX",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,1611 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Addams Family Values (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Addams Family, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/ActRaiser 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/ActRaiser (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/ACME Animation Factory (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Sports/ABC Monday Night Football (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/AAAHH!!! Real Monsters (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/A.S.P. Air Strike Patrol (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Sports/90 Minutes - European Prime Goal (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/3 Ninjas Kick Back (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Sports/2020 Super Baseball (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/7th Saga, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Super Mario RPG - Legend of the Seven Stars (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Cool Spot (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Chrono Trigger (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Batman Returns (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Batman (Beta).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Metroid Redesign.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Secret of Mana - Relocalized v1.7.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/reLocalaized Equipment Overhaul.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Equipment Overhaul.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Zelda3 - Goddess of Wisdom v3-0 (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Hyper Metroid UH v1.00.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Earthbound - Radiation's Halloween - Bad Fur Day Edition v1.08 (2009)(Radiation)[hack].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Tyjet66StardustV1.7.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/SMRPGRevolutionV5.0.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Yoshi's Strange Quest V1.3.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/MSZ ver2.4_Headerles_HARD.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/MSZ ver2.3_Headerless.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/d4s_mario_kart_r_v11.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/project_base_0.7.3_smc.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Earthbound - Mother 2.5 - The Giftman Chronicles.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Return to Dinosaur Land.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/SMW2+Complete.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/SMW2+2Complete.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Hyoer Street Kart.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Chrono_Trigger_[Flames_of_Eternity].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Chrono_Trigger_[ProphetsGuile1.0].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Oh No! More Zombies Ate My Neighbors! (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/SuperGhoulsNGhosts - Super Arthur.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Mega Man X3 - Zero Project 3.1 (Base Mod).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Super Mario World Winter.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Zelda3_Parallel_Worlds_v1-23.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Mods/Zelda3-Parallel-Remodel.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Zoop (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Zool (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Ghoul Patrol (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Zombies Ate My Neighbors (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Zero the Kamikaze Squirrel (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wanderers from Ys 3.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Young Merlin (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Yogi Bear (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Xardion (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/X Zone (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/X-Kaliber 2097 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Worms (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/World Heroes 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/World Heroes (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wordtris (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wolfenstein 3D (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wolf Child (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wizardry V - Heart of the Maelstrom (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wizard of Oz, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wings 2 - Aces High (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wing Commander - The Secret Missions (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wing Commander (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/WildSnake (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wild Guns (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Widget (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Whizz (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Whirlo (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Where in Time is Carmen Sandiego (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Where in the World is Carmen Sandiego (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wheel of Fortune (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wheel of Fortune - Deluxe Edition (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Weapon Lord (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/We're Back! - A Dinosaur's Story (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Wayne's World (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Waterworld (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/WarpSpeed (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Warlock (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/War 3010 - The Revolution (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/War 2410 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Great Waldo Search, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Vortex (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Valis IV (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Utopia - The Creation of a Nation (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Urban Strike (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Untouchables, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Universal Soldier (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Uncharted Waters - New Horizons (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Uncharted Waters (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Ultraman - Towards the Future (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Ultimate Fighter (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/U.N. Squadron (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Twisted Tales of Spike McFang, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Turrican 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Turrican (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Turn and Burn - No-Fly Zone (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tuff E Nuff (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/True Lies (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Troll Islands (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Troddlers (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Toys (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Total Carnage (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tom & Jerry (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tiny Toon Adventures - Buster Busts Loose! (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Adventures of Tintin, The - Prisoners of the Sun (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tin Star (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Time Trax (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/TimeSlip (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Timecop (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tick, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Thunder Spirits (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Thomas the Tank Engine and Friends (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Theme Park (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tetris Attack (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tetris 2 (U) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Terranigma (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/T2 - The Arcade Game (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Terminator 2 - Judgment Day (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Terminator, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Teenage Mutant Ninja Turtles - Tournament Fighters (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Teenage Mutant Ninja Turtles IV - Turtles in Time (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Taz-Mania (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Tales of Phantasia (ENG) # SNES.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Syvalion (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Syndicate (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/SWAT Kats - The Radical Squadron (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Death and Return of Superman, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Dai 3 Ji - Super Robot Taisen (ENG) # SNES.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Nova (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sunset Riders (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Strike Gunner (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Strike Eagle (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Street Fighter Alpha 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Street Combat (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Stone Protectors (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Steel Talons (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Stargate (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Star Trek - The Next Generation - Future's Past (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Star Trek - Starfleet Academy Starship Bridge Simulator (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Star Trek - Deep Space Nine - Crossroads of Time (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/StarWing Super Weekend Competition (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Star Fox 2 (USA).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spirou (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spindizzy Worlds (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spell Craft (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Speedy Gonzales - Los Gatos Bandidos (U) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spectre (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spawn (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sparkster (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Spanky's Quest (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Space Megaforce (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Space Invaders (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Space Ace (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Soul Blazer (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/SOS (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sonic Blast Man II (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sonic Blast Man (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Soldiers of Fortune (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Snow White in Happily Ever After (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Smurfs 2, The (E) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Smurfs, The (E).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Smart Ball (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sky Blazer (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Skuljagger - Revolt of the Westicans (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sink or Swim (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Virtual Bart (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Krusty's Super Fun House (U) (V1.1).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Itchy & Scratchy Game, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Simpsons, The - Bart's Nightmare (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sim Earth - The Living Planet (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sim City 2000 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sim City (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sim Ant (U) (49046).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Shien's Revenge (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Shaq Fu (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Shanghai II - Dragon's Eye (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Shadow Run (US) (63540).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Super Shadow of the Beast (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Shadow, The (U) [a1].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Secret of the Stars (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/SeaQuest DSV (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Scooby-Doo (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Saturday Night Slam Masters (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Samurai Shodown (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sailor-Moon RPG - Another Story (ENG) # SNES.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Sailor-Moon (ENG) # SNES.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Run Saber (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Romance of the Three Kingdoms IV - Wall of Fire (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Romance of the Three Kingdoms III - Dragon of Destiny (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Romance of the Three Kingdoms II (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Rocky Rodent (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Adventures of Rocky and Bullwinkle and Friends, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Rocko's Modern Life - Spunky's Dangerous Day (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Rocketeer, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Robotrek (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/snes/Other/Robocop Versus The Terminator (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-snes9x/snes9x_libretro.so",
+      "core_name": "Snes9x",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

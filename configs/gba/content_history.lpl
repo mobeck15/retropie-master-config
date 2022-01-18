@@ -1,0 +1,155 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Activision Anthology (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Fire Red Version (U) (V1.1).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Mega-man & Bass (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Super Mario Advance 2 - Super Mario W.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Breath of Fire (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/LEGO Bionicle - The Game (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/LEGO Bionicle (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Ninja Cop # GBA.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Medabots AX - Rokusho Version (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Medabots - Metabee Version (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Iridion 3D (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Game & Watch Gallery 4 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Game & Watch Gallery Advance # GBA.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Dr. Seuss' The Cat in the Hat - Super.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Other/Dr. Seuss' The Cat in the Hat (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Volume 3 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Volume 2 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gba/Pokemon - Volume 1 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-mgba/mgba_libretro.so",
+      "core_name": "mGBA",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Addams Family, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Dr. Mario (W) (V1.0) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Legend of Zelda, The - Link's Awakening (U) (V1.2) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Ultima - Runes of Virtue II (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Ultima - Runes of Virtue (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Tetris (W) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Teenage Mutant Ninja Turtles III - Radical Rescue (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Teenage Mutant Ninja Turtles - Back From the Sewers (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Robocopy (U) (V1.1).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Pokemon Green (U) [p1][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Pokemon Red (UE) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Pokemon - Blue Version (UE) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Metroid II - Return of Samus (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Megaman V (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Megaman IV (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Megaman III (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Megaman II (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Megaman - Dr. Wily's Revenge (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Wario Land II (UE) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Wario Land - Super Mario Land 3 (W) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Super Mario Land 2 - 6 Golden Coins (UE) (V1.2) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Super Mario Land (W) (V1.1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Kirby's Dream Land 2 (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Kirby's Dream Land (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Gargoyle's Quest - Ghosts'n Goblins (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Final Fantasy Legend III (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Final Fantasy Legend II (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Final Fantasy Legend, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Final Fantasy Adventure (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Earthworm Jim (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Donkey Kong Land III (U) (V1.1) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Donkey Kong Land 2 (UE) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Donkey Kong Land (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Donkey Kong (JU) (V1.1) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Duck Tales 2 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Duck Tales (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Contra - The Alien Wars (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Castlevania - Legends (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Castlevania Adventure, The ('89) (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Max (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Heiankyo Alien (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Real Ghostbusters, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/SeaQuest DSV (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Castlevania II - Belmont's Revenge (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Bugs Bunny (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Bonk's Revenge (U) [S][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Other/Batman (JU) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Sports/Nigel Mansell's World Championship '93 (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Sports/Nigel Mansell's World Championship '92 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Sports/Grand Prix (UE) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/gb/Sports/Bo Jackson Hit and Run (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-gambatte/gambatte_libretro.so",
+      "core_name": "Gambatte",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

@@ -1,0 +1,1611 @@
+{
+  "version": "1.4",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Addams Family, The - Pugsley's Scavenger Hunt (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Addams Family, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fester's Quest (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Abadox - The Deadly Inner War (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/8 Eyes (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Sports/Lucky 777 (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/720 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Super Mario Bros. (JU) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/3-D Battles of World Runner, The (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/1943.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/1942.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Sports/10-Yard Fight (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Bionic Commando (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mods/Super Mario Bros 3 Mix.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mods/mario_adventure_file.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mods/Super Mario Unlimited.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mods/Extra Mario Bros.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Megaman II (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Crystalis (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/BATMAN.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Batman Returns (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Wario's Woods (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Mods/Zelda Challenge Outlands.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Battletoads.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Who Framed Roger Rabbit (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Wanpaku Kokkun no Gourmet World (J) [T+Eng1.00_HelloTabo].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Wai Wai World (J) [T+Eng3.0_Demiforce].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Venus Senki (J) [T-Eng].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Valkyrie no Bouken - Toki no Kagi Densetsu (J) [T+Eng1.0_SGST].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Uninvited (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/TwinBee 3 - Poko Poko Dai Maou (J) [T+Eng1.02_Demiforce].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Trolls on Treasure Island (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Trojan (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Trog (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Treasure Master (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Toxic Crusaders (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Totally Rad (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Total Recall (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Tombs & Treasure (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Tokkyuu Shirei - Solbrain (J) [T+Eng1.01_AGTP].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Times of Lore (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Time Diver Eon Man (U) (Prototype).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Terminator 2 - Judgment Day (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Terminator, The (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Tenchi wo Kurau II - Shokatsu Koumei Den (J) [T+Eng1.12_MagicDestiny].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Tashiro Masashi no Princess ga Ippai (J) [T+Eng1.00_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Taro's Quest (U) (Prototype).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Target - Renegade (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/AdventureIsland4.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Takahashi Meijin no Bouken Shima IV (J) [T+Eng1.0_NeoDemiforce].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Taiyou no Yuusha Firebird (J) [T+Eng1.01_Dragoon-X].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Tagin' Dragon (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Taboo - The Sixth Sense (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Swords and Serpents (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Where's Waldo (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Solstice - The Quest for the Staff of Demnos (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Shockwave (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Shingen The Ruler (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Xenophobe (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Yuu Yuu Hakusho Final - Makai Saikyou Retsuden (English) (Unl).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Zen Intergalactic Ninja (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Shatterhand (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Shadow of the Ninja (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Seicross (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Section Z (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Secret Scout in the Temple of Demise (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Sanrio Carnival 2 (J) [T+Eng1.0_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Whomp'Em (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/WURM - Journey to the Center of the Earth (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Xevious (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Xexyz (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hottaaman no Chitei Tanken (J) [T+Eng1.0_SixFeetUnder].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kaijuu Monogatari (J) [T+Eng1.0b_KingMike].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kaiketsu Yanchamaru 2 - Karakuri Land (J) [T+Eng1.01_Shadow].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kaiketsu Yanchamaru 3 - Taiketsu! Zouringen (J) [T+Eng1.00_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi (J) [T+Eng_KingMike].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Musashi no Bouken (J) [T+Eng.98_MadHacker+Gaijin].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mystery Quest (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Niji no Silk Road (J) [T+Eng1.01_Gaijin Productions].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Ninja Jajamaru - Ginga Daisakusen (J) [T+Eng1.00_HTI].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Ninja Kun - Ashura no Shou (J) [T+Eng].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Saiyuuki World 2 - Tenjoukai no Majin (J) [T+Eng1.00_PentarouZero].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Saint Seiya - Ougon Densetsu (J) [T+Eng1.00_KingMike].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rollergames (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rollerblade Racer (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rollerball (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rockin' Kats (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rocket Ranger (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rockball (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Bomber King (2).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Robodemons (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Robocop Vs The Terminator (Prototype) (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/RoboCop (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Robo Warrior (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rescue - The Embassy Mission (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Remote Control (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Rambo (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Raid on Bungeling Bay (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Raid 2020 (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Radia Senki - Reimei Hen (J) [T+Eng1.00_dreamless+Jair+cx].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Adventures of Rad Gravity, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Q Boy (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Puyo Puyo (J) [T+Eng1.0_AGTP].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Puss 'n Boots - Pero's Great Adventure (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Punisher, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Princess Tomato in Salad Kingdom (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (J) [T+Eng1.00_KingMike].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Penguin Kun Wars (J) [T+Eng1.012_Penguin].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Palamedes (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/P.O.W. - Prisoners of War (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/P'radikus Conflict, The (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Overlord (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Orb 3D (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Operation Wolf (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Ninja Kid (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Nightshade (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Nekketsu Kakutou Densetsu (J) [T-Eng].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mutant Virus, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Shui Guan Pipe (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Moon Ranger (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Moon Crystal (J) [T+Eng1.0_AWJ].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Moai Kun (J) [T+Eng1.00_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mitsume ga Tooru (J) [T+Eng1.99_Toma].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/M.U.L.E. (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mirai Senshi - Lios (J) [T+Eng1.00_AGTP].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Minna no Taabou no Nakayoshi Daisakusen (J) [T+Eng1.01_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mighty Final Fight (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Might and Magic (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/MiG 29 - Soviet Fighter (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Metal Storm (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Metal Mech - Man & Machine (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Metal Fighter (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Mendel Palace (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Master Chu & The Drunkard Hu (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Magmax (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Magician (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Magic Block (Unl).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/macross.zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Low G Man - The Low Gravity Man (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Little Magic (J) [T+Eng0.33Alpha_TransBRC].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Cosmic Crusade (Unl) (M4).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Life Force (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Legacy of the Wizard (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Last Ninja, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Krion Conquest, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Krazy Kreatures (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kouryuu Densetsu Villgust Gaiden (J) [T+Eng1.1_J2e].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Knight Rider (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Klax (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kiwi Kraze - A Bird-Brained Adventure! (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/King's Knight (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/King Neptune's Adventure (Unl) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kid Niki - Radical Ninja (U) (PRG1) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kid Kool and the Quest for the 7 Wonder Herbs (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kid Klown (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kickle Cubicle (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Keroppi to Keroriinu no Splash Bomb! (J) [T+Eng1.0_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kero Kero Keroppi no Daibouken 2 - Donuts Ike ha Oosawagi! (J) [T+Eng1.0_Toma].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kero Kero Keroppi no Daibouken (J) [T+Eng1.00_Gaijin].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Kabuki - Quantum Fighter (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Just Breed (J) [T+Eng1.00_Stealth].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Jurassic Boy 2 (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Joy Mech Fight (J) [T+Eng100%_AlanMidas].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Jovial Race (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Joe & Mac - Caveman Ninja (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Jetsons, The - Cogswell's Caper! (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Isolated Warrior (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Indiana Jones and the Last Crusade (U) (Taito) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Indiana Jones and the Temple of Doom (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Impossible Mission II (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Image Fight (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hydlide (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Huge Insect (Sachen) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hirake! Ponkikki (J) [T-Eng_Gil Galad].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hero Quest (U) (Prototype) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Herakles no Eikou 2 - Titan no Metsubou (J) [T+Eng1.31_Toma].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hello Kitty World (J) [T+Eng1.00_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hello Kitty no Ohanabatake (J) [T+Eng1.0_Suicidal].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Hell Fighter (Sachen) [U][!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Heavy Barrel (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Gyruss (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Gun Nac (U).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Guardian Legend, The (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Gradius (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Godzilla 2 - War of the Monsters (U) [!p].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Godzilla - Monster of Monsters! (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Getsufuu Maden (J) [T+Eng1.0_RPGe].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Gemfire (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Ganbare Goemon! - Karakuri Douchuu (J) [T+Eng1.02_Dragoon-X].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fuzzical Fighter (J) [b1][T+Eng1.00b_WakdHacks].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fushigi no Umi no Nadia (J) [T-Eng_J2e].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Flying Warriors (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fire Hawk (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fire Emblem Gaiden (J) [T-Eng97b_J2e].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Faria - A World of Mystery & Danger! (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Fantasy Zone (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Dynowarz - The Destruction of Spondylus (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Dungeon Magic - Sword of the Elements (U) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Dudes With Attitude (Unl) [!].zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/pi/RetroPie/roms/nes/Other/Duck (Unl).zip",
+      "label": "",
+      "core_path": "/opt/retropie/libretrocores/lr-fceumm/fceumm_libretro.so",
+      "core_name": "FCEUmm",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}
