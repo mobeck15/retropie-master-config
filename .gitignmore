@@ -1,0 +1,10 @@
+*.lnk
+*.zip
+*.png
+*.jpg
+*.rom
+*.img
+*.bin
+*.url
+**/splashscreens
+**/overlay
