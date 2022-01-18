@@ -1,0 +1,906 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Wizardry 7.conf</path>
+		<name>Wizardry 7: Crusaders of the Dark Savant</name>
+		<desc>For the First Time
+Outdoor Campaigns
+Full Soundtrack and Effects
+True Point &amp; Click Mouse Interface
+Auto-Mapping
+Unprecedented Depth of Story
+
+Begin your adventure in Crusaders of the Dark Savant. Import your characters from Bane of the Cosmic Forge or create a new party capable of surviving the rigors of a strange alien world.
+
+Both friends and foes you'll discover as you search for the forgotton secret of a once madman - the secret of the very universe itself. And you won't be alone in your search. Others as enterprising as you have also entered this dimension. Only your actions - both past and present - will determine just how well you fare. From the depths of a dungeon to the blue and limitless skies, you'll see it all - you'll hear it all - in this latest Wizardry adventure.
+
+Never
+Never has a game been as true to authentic fantasy role playing. Never has a game had four different beginnings. Never has a game been so vast.
+
+Sometimes
+Sometimes you won't find everything as you left it; you're not alone in this world. Sometimes the people you meet will like you... if you've been nice to their friends.
+
+Forever
+Forever true to the most acclaimed fantasy role-playing simulation ever, the sequel to Bane of the Cosmic Forge. Forever beautiful graphics and sound - indoors and out. Forever in the tradition of... Wizardry
+
+Wizardry 7 Gold is currently only available in English and on the Windows platform.</desc>
+		<image>./images/Wizardry 7-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20130910T000000</releasedate>
+		<developer>Sir-Tech Software, Inc.</developer>
+		<genre>Adventure, Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211010T150626</lastplayed>
+	</game>
+	<game>
+		<path>./+Start DOSBox.sh</path>
+		<name>DOSBox</name>
+		<sortname>0 Dosbox</sortname>
+		<desc>DOSBox is a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
+
+DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
+
+You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
+
+DOSBox is totally free of charge and OpenSource.</desc>
+		<image>./images/+Start DOSBox-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>20020722T000000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211010T150208</lastplayed>
+	</game>
+	<game>
+		<path>./castle adventure.conf</path>
+		<name>Castle Adventure</name>
+		<desc>Castle Adventure is an adventure game designed by Kevin Bales and originally released in 1984. It was also illegally included in Keypunch's Swords and Sorcery under the title Golden Wombat. It is compiled from Microsoft BASIC; however the source has never been released.</desc>
+		<image>./images/castle adventure-image.png</image>
+		<rating>0.2</rating>
+		<developer>Kevin Bales</developer>
+		<publisher>Kevin Bales</publisher>
+		<genre>Adventure</genre>
+		<releasedate>19840101T000000</releasedate>
+		<playcount>6</playcount>
+		<lastplayed>20211016T000544</lastplayed>
+	</game>
+	<game>
+		<path>./Wizardry 6.conf</path>
+		<name>Wizardry 6: Bane of the Cosmic Forge</name>
+		<desc>It is said the the Cosmic Forge is a magical pen possessing an enormous power: whatever is written with it instantly becomes true. A group of explorers ventures into the castle that where the king, the queen, and the wizard who created the pen used to dwell. Nobody knows what has been happening there for the last hundred years, since nobody dares to enter the haunted castle. As the heroes step in, the doors behind them close forever. They are left alone to discover the truth about the Cosmic Forge and the drama that occurred between the castle's inhabitants.
+
+Bane of the Cosmic Forge is the sixth entry in the Wizardry series. While retaining the basic premise of creating a party of up to six adventurers to roam first-person dungeons and fight enemies in turn-based combat, this installment contains numerous enhancements and new features. It was the first game in the series to feature full color graphics and a mouse-driven interface. Combat options are more detailed, with precise weapon moves (such as thrust and bash) available. Magic is divided into six different schools, the spellcaster's powers increasing if he/she concentrates on one of them. Picking locks or disarming traps is done actively by participating in a simple mini-game. Characters can learn skills unique to their class when leveling up. These skills range from weapon proficiencies to field abilities that can be used outside of combat.
+
+In addition to the traditional races of humans, elves, dwarves, hobbits, and gnomes, the player can choose between the Lizardman, the cat-like Felpurr, the canine Rawulf, the pixie-like Faerie, the intimidating Dracon, and the furry Mook. Exotic character classes such as Valkyrie, Alchemist, Psionic, Ninja, Samurai, and Monk are also available during character creation beside the classes seen in the previous game.
+
+Conversations with NPCs have been extended, the player being able to talk about various topics with the same character. The game also features a branching storyline: depending on the player's choice to believe or mistrust a key character, the plot will split into different directions, resulting in several different endings.</desc>
+		<rating>0.2</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Sir-Tech</developer>
+		<publisher>Sir-Tech</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>4</playcount>
+		<lastplayed>20211015T233640</lastplayed>
+	</game>
+	<game>
+		<path>./battlespire.conf</path>
+		<name>An Elder Scrolls Legend: Battlespire</name>
+		<sortname>Elder Scrolls Legend: Battlespire</sortname>
+		<desc>An Elder Scrolls Legend: Battlespire is an action role-playing open world video game developed and published by Bethesda Softworks, set in the world of The Elder Scrolls.</desc>
+		<image>./images/battlespire-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Action, Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T001904</lastplayed>
+	</game>
+	<game>
+		<path>./beyond the titanic.conf</path>
+		<name>beyond the titanic</name>
+		<desc>Beyond the Titanic is an interactive fiction adventure, that was build and delivered by none other than the action and platformer extraordinaire Apogee; this was its sword with two facets, in fact, as it didn't really gain much traction, as the developer had made a name for itself with action games. At any rate, that matters little today, and what is important, if you want to play it, is if it is any good. In the game you are a passenger on the wretched Titanic, looking to escape its final doom. The game can end in quite a few ways, depending on the choices you make. It's quite a heartwarming experience at times, as you can choose to make more thought out choices, that put you in danger, or you can be the biggest douche the world has seen and just have nothing but your survival in focus. Naturally, it can be quite hard not to get involved, and the writing is pretty well done. So, if you love the history of the Titanic, and if you love a charged survival story, this game here can be a good companion for a few wretched hours. Alternatively, see the other Apogee adventure in IF clothes, Supernova, in which you have, in similar fashion, to escape a mine but in a distant future. Whatever survival story grinds your gears better!</desc>
+		<image>./images/beyond-the-titanic_2.gif</image>
+		<rating>0.2</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Adventure</genre>
+		<playcount>3</playcount>
+		<lastplayed>20170709T014444</lastplayed>
+	</game>
+	<game>
+		<path>./oregon trail.conf</path>
+		<name>The Oregon Trail</name>
+		<desc>As a covered wagon party of pioneers, you head out west from Independence, Missouri to the Willamette River and valley in Oregon. You first must stock up on provisions, and then, while traveling, make decisions such as when to rest, how much food to eat, etc. The Oregon Trail incorporates simulation elements and planning ahead, along with discovery and adventure, as well as mini-game-like activities (hunting and floating down the Dalles River).</desc>
+		<image>./images/oregon trail-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>MECC</developer>
+		<publisher>MECC</publisher>
+		<genre>Adventure</genre>
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20170710T052240</lastplayed>
+	</game>
+	<game>
+		<path>./secret agent.conf</path>
+		<name>Secret Agent</name>
+		<desc>As Agent 006, you are the world's only hope: the terrorist organization known as the D.V.S. has captured the blueprints to a new, powerful weapon known as the "Red Rock Rover". Your mission is to infiltrate an island occupied by the D.V.S. and retrieve the first part of the blueprints.
+
+Secret Agent is a side-scrolling platform game, where your objective is to complete 15 levels, allowing you to gain access to the "main fortress" which is the 16th level. On each level, you have to find and destroy a radar dish, and also find a bundle of dynamite and place it at the exit to blow it open.
+
+On your way, you'll be threatened by human henchmen and robots, as well as various hazards, such as spikes, deadly laser beams (which have to be de-activated by finding a floppy disk and bringing it to a computer terminal) or pools of acid. The only weapon you have is a rifle which can be used to kill most opponents, though some are immune to bullets or require a little more than shooting blindly if you want to kill them! Agent 006 has three health points, and losing all three will kill him (though you have unlimited lives) - not to mention that some hazards kill instantly! You'll also have to make good use of pushable barrels which you can occasionally find: they'll be used as stepping-stones to reach higher ground, but make sure you don't drop them into a pit from which they cannot be retrieved.
+
+There's a variety of objects to collect - ammunition, bonus objects that give score (such as bags of money, briefcases, walkie-talkies etc.), and an opportunity to get a big score bonus: on each level, if you find three letters S, P, Y and collect them in the exactly right order, you'll get a lot of points - but it won't be easy! You can also find a few power-ups: boots that speed you up for a while, goggles that makes a few more platforms appear (thus giving you access to unreachable spots), an "increased shot power" item which allows you to fire faster, but also a question mark which reverses your movement for a moment (very confusing) or a "1/2" fraction which slows you down.</desc>
+		<image>./images/secretagent-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Action</genre>
+		<playcount>6</playcount>
+		<lastplayed>20170710T215330</lastplayed>
+	</game>
+	<game>
+		<path>./quickbasic.conf</path>
+		<name>quick basic</name>
+		<desc>Microsoft QuickBASIC (also QB) is an Integrated Development Environment (or IDE) and compiler for the BASIC programming language that was developed by Microsoft. QuickBASIC runs mainly on DOS, though there was also a short-lived version for the classic Mac OS. It is loosely based on GW-BASIC but adds user-defined types, improved programming structures, better graphics and disk support and a compiler in addition to the interpreter. Microsoft marketed QuickBASIC as the introductory level for their BASIC Professional Development System.[1] Microsoft marketed two other similar IDEs for C and Pascal, viz QuickC and QuickPascal.</desc>
+		<image>./images/quickbasic-image.png</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Application</genre>
+		<rating>0.2</rating>
+		<playcount>2</playcount>
+		<lastplayed>20170712T043824</lastplayed>
+	</game>
+	<game>
+		<path>./Universal SaveGame Editor.conf</path>
+		<name>Universal SaveGame Editor</name>
+		<desc>Universal Game Editor is a program designed to edit SAVED GAMES. This shareware release comes with five pre-configured MODULES that can be used to edit four different games. These games are Civilization, Betrayal at Krondor, Master of Orion (2 MODULES) and Lands of Lore. This shareware release is fully functional, and is not crippled in any way. This program will allow you to change many aspects of your games. Military unit strengths and weaknesses may be adjusted in wargames. Character skills and attributes may be changed in role-playing games. In fact, almost any game that allows you to save your game is a candidate for editing. Universal Game Editor requires an IBM-PC or compatible and 640K of RAM. The program may run with less RAM but has only been tested with 640K. (This package also includes the modules for Castle Of The Winds Parts 1 &amp; 2)</desc>
+		<image>./images/Universal SaveGame Editor-image.jpg</image>
+		<developer>Abandonware</developer>
+		<publisher>Abandonware</publisher>
+		<genre>Application</genre>
+		<releasedate>19930101T000000</releasedate>
+		<rating>0.2</rating>
+		<playcount>2</playcount>
+		<lastplayed>20170712T043824</lastplayed>
+	</game>
+	<game>
+		<path>./sopwith 1.conf</path>
+		<name>Sopwith</name>
+		<desc>Sopwith is a side-scrolling shoot 'em up created by David L. Clark of BMB Compuscience in 1984. It was originally written to run on the IBM PC under MS-DOS. The game involves piloting a Sopwith biplane, attempting to bomb enemy buildings while avoiding fire from enemy planes and various other obstacles.</desc>
+		<image>./images/sopwith 1-image.gif</image>
+		<developer>BMB Compuscience</developer>
+		<publisher>BMB Compuscience</publisher>
+		<genre>Arcade</genre>
+		<releasedate>19840101T000000</releasedate>
+		<rating>0.2</rating>
+		<playcount>2</playcount>
+		<lastplayed>20170712T043824</lastplayed>
+	</game>
+	<game>
+		<path>./sopwith 2.conf</path>
+		<name>Sopwith 2</name>
+		<desc>You play single player or against the computer, flying a sopwith biplane, and trying to shoot down the enemy planes and destroy all the enemy buildings. Sopwith II is an update to Sopwith that adds gravity, smoother graphics, birds and oxen, recording and playback of games, multiple levels, and runs at the right speed on modern machines.
+
+A classic game that has developed a small cult following.</desc>
+		<image>./images/sopwith 2-image.jpg</image>
+		<developer>BMB Compuscience</developer>
+		<publisher>BMB Compuscience</publisher>
+		<genre>Arcade</genre>
+		<releasedate>19850101T000000</releasedate>
+		<rating>0.2</rating>
+		<playcount>2</playcount>
+		<lastplayed>20170712T043824</lastplayed>
+	</game>
+	<game>
+		<path>./quickbasic nibbles.conf</path>
+		<name>quickbasic nibbles</name>
+		<desc>Nibbles is a QBASIC game created by Microsoft in 1990, where 1 or 2 players must control a snake (or snakes) as they move around a playing area trying to eat numbers which appear.</desc>
+		<image>./images/quickbasic nibbles-image.png</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Arcade</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170713T061939</lastplayed>
+	</game>
+	<game>
+		<path>./quickbasic gorilla.conf</path>
+		<name>Quickbasic Gorillas</name>
+		<desc>Gorillas is a video game first distributed with MS-DOS 5 and published at 1991 by IBM corporation. It is a turn-based artillery game. The game consists of two gorillas throwing explosive bananas at each other above a city skyline. The players can adjust the angle and velocity of each throw, as well as the gravitational pull of the planet. Written in QBasic, it is one of the programs included as a demonstration of that programming language.</desc>
+		<image>./images/quickbasic gorilla-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Rogue.conf</path>
+		<name>Rogue</name>
+		<desc>In the early 1980s, a computer game emerged that changed the world of fantasy gaming forever. Randomly generated rooms meant that each journey into the infamous Dungeons of Doom was unique. The potent combination of random generation with perma-death proved to be intoxicating, and the game was so influential it spawned an entire genre: "Rogue-likes".</desc>
+		<image>./images/Rogue-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Adventure</genre>
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20170713T062144</lastplayed>
+	</game>
+	<game>
+		<path>./SimCity 2000.conf</path>
+		<name>SimCity 2000</name>
+		<desc>SimCity 2000 is the successor to the city simulation game Sim City. You are once again the mayor, but this time you can fully customize the terrain before building your city. The graphics are isometric, whereas the original had graphics displayed in a top-down fashion.
+
+This title adds numerous features over the original such as the ability of building "light" zones, subways, hospitals, colleges, zoos, and arcos which are actually cities in cities. You can now give names to places, and your city is surrounded by neighboring towns with which you can make trade. Finally, instead of the poll in the first game you now have the option of reading several newspapers to get an idea of your progress.</desc>
+		<image>./images/SimCity 2000-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Maxis</developer>
+		<publisher>Maxis</publisher>
+		<genre>Construction and Management Simulation</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Pirates.conf</path>
+		<name>Pirates!</name>
+		<desc>Take on the life of a buccaneer in the golden age of Caribbean Piracy! This game lets you choose from 6 different "ages" (for example, "The Silver Empire" from 1560-1600, "War For Profit" from 1640-1660, etc.), one of 4 nationalities (English, French, Dutch, Spanish), 4 difficulty levels, and one of 5 special abilities (skill at fencing, skill at navigation, etc.). Nine different types of ships were represented.
+
+The goal of the game is to retire with as much gold and land as possible, as many ranks/titles as possible (Colonel, Admiral, Marquis, Duke), and a wife. Finding long lost relatives helps too. You accomplish these goals by plundering cities, capturing and sinking enemy ships, getting in good with governors to receive titles, learn news of "evil Spaniards" holding your relatives, capturing evil pirates, etc.
+
+The game is educational, as you will learn about piracy through the thoroughly researched manual. You'll smell the sea salt as you participate in wild sword fights, desperate sea battles, and daring attacks by land.</desc>
+		<image>./images/Pirates-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>MicroProse Software, Inc.</developer>
+		<publisher>MicroProse Software, Inc.</publisher>
+		<genre>Action, Adventure, Strategy</genre>
+	</game>
+	<game>
+		<path>./Pirates Gold.conf</path>
+		<name>Pirates! Gold</name>
+		<desc>As with the original, this is a blend of strategy, action and adventure. Pirates! Gold lets you play the role of a beginning buccaneer in the 17th century Spanish Main, in search of fame and fortune. Each town in this untamed raw region has different surprises and dangers.
+
+How you acquire stature is up to you; you can make your living through honest trade and the search for hidden treasure, or you can be a little more daring and attack and plunder ships. As you can choose a specific skill to stand out in, the game can vary each time. Sword fighting is played out in side-view action sequences.</desc>
+		<image>./images/Pirates Gold-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>MicroProse Software, Inc.</developer>
+		<publisher>MicroProse Software, Inc.</publisher>
+		<genre>Action, Adventure, Strategy</genre>
+	</game>
+	<game>
+		<path>./raptor.conf</path>
+		<name>Raptor: Call of the Shadows</name>
+		<desc>It's the BEST IBM shooter yet! A fast paced slugfest, with a pulse-pounding sound track, and jaw-dropping VGA animation &amp; cinematics. In the future as a mercenary flying the super-tech Raptor, you'll be sent on interplanetary missions to knock off top competitors of MegaCorp. Battle against hordes of relentless enemies. Spend the bounty you receive from their demise to expand your devastating arsenal, which can be upgraded with 14 hard core weapons!
+
+"Raptor has some of the hottest graphics ever seen in a shareware game, and blows away most commercial games, too! The graphics will amaze you and the sound will astound you. It's a super star!" -- Interactive Entertainment
+
+Raptor sets the new standard for PC shooters. This game will do for shooters what Wolfenstein did for 3D games. Incredibly smooth VGA graphics and animation are only half the story. The heart-pounding music in Raptor will leave you breathless, especially if you have a high-end sound card like the Roland or Wave Blaster. (Raptor supports the Midi music format, which provides very high quality music for PC games.) All other major sound cards are also supported!
+
+The addictive quality and replay value of this game is unreal. Discover secrets, find the bonuses, and battle the boss ships that appear at the end of EVERY WAVE! With each ship and ground target you destroy, you'll earn more cash to increase your ship's technology for the next wave. You'll be driven to kill and destroy--but then, it's in your blood.</desc>
+		<image>./images/raptor-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Cygnus Software</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
+	<game>
+		<path>./rockyboot.conf</path>
+		<name>Rocky's Boots</name>
+		<desc>Rocky's Boots is an educational logic puzzle game by Warren Robinett and Leslie Grimm, published by The Learning Company in 1982. It was released for the Apple II, the CoCo, the Commodore 64 the IBM PC and the IBM PCjr.[1] It was followed by a more difficult sequel, Robot Odyssey. It won Software of the Year awards from Learning Magazine (1983), Parent's Choice magazine (1983), and Infoworld magazine (1982, runner-up), and received the Gold Award (for selling 100,000 copies) from the Software Publishers Association. It was one of the first educational software products for personal computers to successfully use an interactive graphical simulation as a learning environment.</desc>
+		<image>./images/rockyboot-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Warren Robinett</developer>
+		<publisher>The Learning Company</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./street rod.conf</path>
+		<name>Street Rod</name>
+		<sortname>Street Rod 1</sortname>
+		<desc>Year is 1963 and you're one of the hotshots aspiring to be king of the county. You're given a small sum of money to buy your first car. Tune it for maximum performance and off you go. In the diner where other hotshots are waiting to take your prized possession, you race for money and pink slips and if you win, you get to take home their cars! 
+
+The game's interface is relatively easy and fun to use. You have your own garage as the interface itself. Options are in the form of the garage's elements such as the clock for the game's main menu and the newspaper as your source for buying cars and parts. Add to that a third person with an attitude that talks to you as you play It's really a neat idea by which up to now, no other racing games have that style. You feel that you're living a virtual world as opposed to just going from menu to menu. Another realistic part is the ability for you to sell your car and haggle.</desc>
+		<image>./images/street rod-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Magic Partners</developer>
+		<publisher>California Dreams</publisher>
+		<genre>Racing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170713T062237</lastplayed>
+	</game>
+	<game>
+		<path>./street rod 2.conf</path>
+		<name>Street Rod 2: The Next Generation</name>
+		<desc>Interface is thankfully the same as the first but that's where the similarity ends. More is the name here, more cars and parts to buy giving you every edge to regain your crown. Gameplay is it's most significant thing that you will ever remember in this classic. Gameplay control is really tight.
+
+You're given 3 venues to race your blood thirsty opponent, betting for money and pink slips. The drag race tests how fast you can engage 1st gear.
+
+You're ultimate goal is to beat the new king on these three courses that if you do you get to regain your long lost crown and take home his girl, again.</desc>
+		<image>./images/street rod 2-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Logical Design Works, Inc., P.Z.Karen Co. Development Group</developer>
+		<publisher>California Dreams</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./tyrian2000.conf</path>
+		<name>Tyrian 2000</name>
+		<desc>Re-Release of "Tyrian" (http://thegamesdb.net/game/6566/)
+
+In 1999, Tyrian was re-released as Tyrian 2000, which includes an additional fifth episode and bug fixes.
+
+Additional ships include Phoenix II, Storm, Red Dragon, Pretzel Pete Truck (from the Pretzel Pete video game published by XSIV Games). Datacube TRANSMISSION SOURCE: Epic Megagames game and was renamed to TRANSMISSION SOURCE: XSIV Games with Pretzel Pete game ad (however, other references to Epic Megagames titles remain).
+
+Although it claims Windows compatibility, this is achieved using a .PIF file, not by building a native Windows application.
+
+(from: http://en.wikipedia.org/wiki/Tyrian_%28video_game%29)</desc>
+		<image>./images/tyrian2000-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Eclipse Productions</developer>
+		<publisher>Eclipse Productions</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Ultima 1.conf</path>
+		<name>Ultima I: The First Age of Darkness</name>
+		<sortname>Ultima 01: The First Age of Darkness</sortname>
+		<desc>In the realm of Sosaria, a land divided by a thousand years of agony brought about by the malevolent sorcerer Mondain, a lone hero capable of turning back the tides of darkness has finally emerged. That hero is you. Your mission, a slight variation on the standard kill-the-evil-wizard theme, is to assemble a time machine, go back in time before the evil wizard developed unstoppable power and, then, of course, eliminate him.</desc>
+		<image>./images/Ultima 1-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 2.conf</path>
+		<name>Ultima II: The Revenge of the Enchantress</name>
+		<sortname>Ultima 02: The Revenge of the Enchantress</sortname>
+		<desc>After obtaining aid from the lords of the realm in Ultima I, your character travels back in time, locates the mad wizard Mondain, slays him, and ends his reign of terror. In Ultima II: Revenge of the Enchantress, Mondain's protégé, Minax, who studied the mad wizard's teachings and writings, returns to wreak vengeance on the person who slew her teacher and lover -- you. And, instead of waiting for you to return to her native land of Sosaria, she wreaks havoc on your own Earth.
+
+Throughout Ultima II: Revenge of the Enchantress, your quest is quite different in scope from its predecessor. Earth is turned into a half-modern, half-fantasy world by the forces of magic and, as a result, things are much stranger than one might expect. As explained in the introduction, your tasks in the game are to "Battle strange creatures across the face of the Earth, search for clues in careless words spoken at the local pub, traverse deep, dark, deadly dungeons and tall, terrifying towers...and conquer Time itself to battle Minax the Enchantress."</desc>
+		<image>./images/Ultima 2-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Sierra</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 3.conf</path>
+		<name>Ultima III: Exodus</name>
+		<sortname>Ultima 03: Exodus</sortname>
+		<desc>The third title in the Ultima series was the first game in the series to feature a party of adventurers instead of a single player character. The party is created at the beginning of the game by assigning various class combinations and determining the characters' attributes. The game has larger and more detailed towns, populated by NPCs the protagonist can converse with to obtain clues. Like in earlier Ultima games, exploration is divided between top-down overworld locations and first-person 3D dungeons. This installment introduces separate combat screens where player-controlled party fights multiple monsters in a turn-based tile-based system.</desc>
+		<image>./images/Ultima 3-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19830823T000000</releasedate>
+		<developer>Lord British</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 4.conf</path>
+		<name>Ultima IV: Quest of the Avatar</name>
+		<sortname>Ultima 04: Quest of the Avatar</sortname>
+		<desc>Following the defeat of the evil triad in the previous three Ultima games, the world of Sosaria changed beyond recognition: continents rose and sank, and new cities were built, heralding the advent of a different civilization. Unified by the reign of the benevolent monarch Lord British, the new world was renamed Britannia. Lord British wished to base people's well-being on the ethical principles of Truth, Love, and Courage, proclaiming the Eight Virtues (Honesty, Compassion, Valor, Justice, Sacrifice, Honor, Spirituality, and Humility) as the ideal everyone should strive for. The person who could accomplish full understanding and realization of these virtues would serve as a spiritual leader and a moral example for the inhabitants of Britannia; he alone would be able to obtain holy artifacts, descend into the Stygian Abyss, and access the Codex of Ultimate Wisdom. This person is the Avatar.</desc>
+		<image>./images/Ultima 4-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima Underworld 2.conf</path>
+		<name>Ultima Underworld II: Labyrinth Of Worlds</name>
+		<sortname>Ultima Underworld 2: Labyrinth Of Worlds</sortname>
+		<desc>In an attempt to conquer the world, The Guardian encases Castle Britannia and its occupants--including the Avatar--in a giant blackrock gem.
+
+The game takes place one year after the events of Ultima 7: The Black Gate. To celebrate the defeat of the Guardian, Lord British invites the Avatar and his companions to his castle. However, in the night of the feast the Guardian attacks again, encasing the castle in a giant gem of blackrock. Deep in the sewers of the castle, another blackrock gem resides, being a teleporter to other worlds controlled by the Guardian. Now you, the Avatar, must travel to these worlds in order to free the castle from the Guardian's spell. This sequel to Ultima Underworld plays exactly as the original, except for a larger game world, a richer storyline and better graphics and sound.</desc>
+		<image>./images/Ultima Underworld 2-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Looking Glass Studios, Inc.</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima Underworld.conf</path>
+		<name>Ultima Underworld: The Stygian Abyss</name>
+		<sortname>Ultima Underworld 1: The Stygian Abyss</sortname>
+		<desc>Ultima Underworld is a role-playing game that takes place from a first-person perspective in a three-dimensional environment. The player's goal is to adventure through a large, multi-level dungeon, in which the entire game is set. The player uses a freely movable mouse cursor to interact with the game's world, and with the icon-based interface on the heads-up display (HUD). Each icon has a specific effect; for example, the Look icon allows the player to examine objects closely, while the Fight icon causes the player character to ready its weapon. The player's progression through the game is non-linear: areas may be explored, and puzzles and quests finished, in any order. An automatically filling map, to which the player may add notes, records what the player has seen above a minimum level of brightness. The player character may carry light sources to extend the line of sight in varying amounts. Exploratory actions include looking up and down, jumping, and swimming.</desc>
+		<image>./images/Ultima Underworld-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>BlueSky Software</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 5.conf</path>
+		<name>Ultima V: Warriors of Destiny</name>
+		<sortname>Ultima 05: Warriors of Destiny</sortname>
+		<desc>The Avatar, the embodiment of the Eight Virtues and the hero of Britannia, is called back to deal with a grave threat. Lord British, the country's benevolent monarch, has disappeared, and a man named Blackthorn has usurped his throne. The tyrant rules the land by enforcing the virtues upon the will of the people, corrupting their meaning in the process. His fundamentalist visions led him to create a police state, where failure to adhere to the virtues is punishable by death. Behind Blackthorn are the three Shadowlords, anti-thesis to the three principles of Truth, Love, and Courage. The Avatar must understand their meaning and origins, find a way to defeat them, rescue Lord British, and restore the former ethical principles of Britannia.</desc>
+		<image>./images/Ultima 5-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 6.conf</path>
+		<name>Ultima VI: The False Prophet</name>
+		<sortname>Ultima 06: The False Prophet</sortname>
+		<desc>Several years after having restored Lord British to his rightful position as the monarch of Britannia, the Avatar is captured by demon-like creatures and placed on a sacrificial altar. His friends Iolo, Shamino and Dupre appear just in time to save him. In the Britannia castle, the Avatar learns that his abductors were gargoyles, a race of enigmatic creatures who have recently invaded Britannia and occupied the shrines of Virtue. As the Avatar embarks on a quest to liberate Britannia, he begins to gain insight into the gargoyles' true motives, and realizes that it is his duty to achieve peace and understanding between the two races.
+
+Ultima VI is notable for having a fully continuous world. There is no "world map" in the game; all the locations are seamlessly connected to each other, turning the game world into an open environment. Compared to the previous installments in the series, the game focuses more on quests and exploration rather than on combat. The latter no longer involves separate screens; battles occur during exploration, without any transitions. The turn-based system from the previous games has been preserved.
+
+The interface has been re-designed, the original key-bound commands co-existing with selectable command icons and mouse-based interaction. The game world is more detailed than in the previous games, with a large number of various objects that can be manipulated or added to the inventory. Conversations are more extended, with a wider selection of topics, including many personal ones unique to specific characters. The player is also able to conduct extensive conversations with the Avatar's companions, as well as split the party and control the characters separately. Some important topics may be highlighted during text display, to facilitate further dialogue, which requires the player to type the desired conversation topics.
+
+Like in the predecessors, the player is free to explore the game world from the beginning of the game, and visit locations in any order. Following the main quest and obtaining specific items and information is necessary to complete the story; however, the player can also opt to bypass a large part of it by using previous knowledge of the game or outside help. The FM Towns version has full voice acting for all the conversations, in English and in Japanese.</desc>
+		<image>./images/Ultima 6-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 7 Serpent Isle.conf</path>
+		<name>Ultima VII Part Two: Serpent Isle</name>
+		<sortname>Ultima 07-2: Serpent Isle</sortname>
+		<desc>The events of the game take place eighteen months after those described in Ultima VII: The Black Gate. Batlin, the leader of the Fellowship has disappeared, as well as Iolo's wife Gwenno. A map is found that points to the Serpent Isle where the Guardian is still planning to destroy Britannia. Lord British sends the Avatar and his companions to this new land. Once there, the Avatar discovers that a great imbalance is upon the isle and it is up to him to fix it. To do so, he must learn the philosophies of the original inhabitants of this land, who worshipped giant serpents symbolizing the principles of Order, Chaos and Balance.
+
+Serpent Isle uses virtually the same game engine as the first Ultima VII, with some slight modifications in inventory management and NPC portraits (which are now digitized images of actors). The story, however, is more linear and also more extensive. Unlike earlier Ultima games, many tasks have to be accomplished before the player is able to advance to a different area. There are also many scripted events that advance the plot, though the free-roaming is still retained to a large degree, with a vast amount of locations to visit, items to collect, and NPCs to interact with. Combat is handled similarly to the previous game, with a simple real-time point-and-click management of the Avatar's actions, while his/her party members are being controlled by the AI.</desc>
+		<image>./images/Ultima 7 Serpent Isle-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930325T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 7 Black Gate.conf</path>
+		<name>Ultima VII: The Black Gate</name>
+		<sortname>Ultima 07: The Black Gate</sortname>
+		<desc>The Avatar sees a strange message on his computer screen. An unknown being who calls himself the Guardian claims that Britannia has entered a true age of enlightenment, and soon everyone, including the Avatar himself, shall bow before the new lord. At this moment, a moongate materializes, and the Avatar steps through it into Britannia. He emerges in the city of Trinsic, where his old friend Iolo tells him that two hundred years have passed since his last visit. A horrible ritualistic murder has just occurred - the body of the local blacksmith was found in the stables. The Avatar learns that a new organization known as the Fellowship has been recruiting more and more followers recently. The champion of Britannia must solve the murder and find out about the Fellowship's true purpose, while still pursued by the ominous warnings of the mysterious Guardian.
+
+Ultima VII: The Black Gate features revamped graphics and controls. The traditional Ultima top-down view of the world now fills the entire screen, with other informational windows overlaid on top of it only when necessary. Both world interaction and dialogue are fully mouse-controlled. Objects can be physically interacted with by dragging them with the mouse. Objects can also be stacked upon each other, and some puzzles are based on this feature. Equipment screen utilizes a "paper doll" concept: equipped items are graphically displayed on the character. It is also possible to physically manipulate inventory items, arranging them within bags and other containers.
+
+The tactical combat system of previous Ultima games has been replaced with a real-time system where only general strategies can be set and party members fight automatically, the player taking control of the Avatar alone. Combat pauses when the player accesses the inventory. Leveling up system is similar to the previous games, the Avatar's parameters increasing automatically once a sufficient amount of experience points has been accumulated. The Avatar and his companions must regularly eat in order to stay alive.
+
+The game's world is vast, populated by many non-playable characters with their own schedules. There are more extensive dialogue trees and individual conversation topics compared to the series' previous installments. As in the earlier Ultima games, the player is free to explore Britannia from the beginning of the game; certain tasks must be accomplished in a specific order to conclude the story.</desc>
+		<image>./images/Ultima 7 Black Gate-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Ultima 8.conf</path>
+		<name>Ultima VIII Pagan</name>
+		<sortname>Ultima 8 Pagan</sortname>
+		<desc>Ultima VIII: Pagan begins where Ultima VII: Part Two - Serpent Isle ended. The Guardian banishes the Avatar to the land of Pagan, a world under his control. Stranded in this unknown land, without his companions to help him, the Avatar's goal is to find a way back to Britannia. He has to confront four Titans in this world who are embodiments of the four elements, as well as master different styles of magic and fight many opponents on his way.
+
+The gameplay is significantly more action-oriented in this installment than in the previous Ultima games. The Avatar is able to jump and climb, and some puzzles are based on these abilities, adding platform-style elements to the game. There are no companions to help him in battles; combat is action-based and relies on the player's dexterity. The game also abandons the leveling system of the previous entries, utilizing instead a training-based approach, similar to the one implemented in Quest for Glory games: the character's parameters are increased by continuously using correspondent actions (e.g. the Avatar's strength gradually increases as he swings his weapon).
+
+Magic occupies an important place in the game, also departing from the style of the preceding games. The player still needs to gather reagents for spells; however, the exact preparation and casting of the spell differs depending on the elemental school it belongs to. There are four different magic schools in the game, and mastering their spells bears plot-related importance as well.
+
+Like in the two previous Ultima installments, the game features physical interactivity with the environment: the player is able to take, drop, and move most objects from place to place. As opposed to the topic-based dialogue style of the earlier games in the series, Pagan uses conversations with selectable responses. It also reduces NPC interaction, focusing more on exploration of a hostile world and combat.
+
+A speech pack was released separately, which added voices to some of the major game characters. It was included in the CD-ROM edition of the game.</desc>
+		<image>./images/Ultima 8-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Maritan Dreams.conf</path>
+		<name>Ultima Worlds of Adventure 2: Martian Dreams</name>
+		<sortname>Ultima Worlds of Adventure 2: Martian Dreams</sortname>
+		<desc>Explore the Red Planet and save history before it’s too late!
+
+The year is 1893. The World's Columbian Exposition in Chicago. Astronomer Percival Lowell's colossal space cannon is poised to hurl a huge bullet-ship to Mars. Then disaster strikes! The cannon discharges a day early with dozens of history's leading figures aboard. Unprepared for the rigors of Mars, the accidental space travelers have little chance of surviving. You must rescue the stranded expedition or history will be forever changed!
+
+Martian Dreams is the second in the Ultima Worlds of Adventure series, taking you, the Avatar, to exciting new worlds of science fiction, mystery, historic exploration, horror, time travel, espionage, and fantasy. Time and space, past and future, fact and fiction--all are are yours to explore in Ultima Worlds of Adventure!</desc>
+		<image>./images/Maritan Dreams-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./warcraft.conf</path>
+		<name>Warcraft: Orcs &amp; Humans</name>
+		<sortname>Warcraft 1: Orcs &amp; Humans</sortname>
+		<desc>The Orcs originated from another world, where the majority were bloodthirsty warriors driven by strife. However, their Warlocks remained aloof, devoted to the research of magic. The Warlocks noticed a rift between the dimensions and, after many years, opened a small portal to another world. One Warlock explored and found a region, whose Human inhabitants called it "Azeroth", from which the Warlock returned with strange plants as evidence of his discovery.
+
+The Orcs enlarged the portal until they could transport seven warriors, who massacred a Human village. The platoon brought back samples of good food and fine workmanship, and a report that the Humans were defenseless. The Orcs' raiding parties grew larger and bolder, until they assaulted Azeroth's principal castle. However, the Humans had been training warriors of their own, especially the mounted, heavily-armed Knights. These, assisted by Human Sorcerors, gradually forced the Orcs to retreat through the portal, which the Humans had not discovered.
+
+For the next fifteen years, one faction of Orcs demanded that the portal be closed. However a chief of exceptional cunning realized that the Humans, although out-numbered, had prevailed through the use of superior tactics, organization, and by magic. He united the clans, imposed discipline on their army and sought new magics from the Warlocks and Necromancers. Their combined forces were ready to overthrow the Humans.</desc>
+		<image>./images/warcraft-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940115T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170712T044734</lastplayed>
+	</game>
+	<game>
+		<path>./Savage Empire.conf</path>
+		<name>Worlds of Ultima: The Savage Empire</name>
+		<sortname>Ultima Worlds of Adventure 1: Savage Empire</sortname>
+		<desc>You, the Avatar, have been transported by your Moonstone to the primitive and savage world of Eodon. There, you must work towards uniting the native tribes to face a common threat: a race of gigantic ants known as the Myrmidex. You won’t be alone, however, as you will be assisted by Professor Rafkin, ace reporter Jimmy Malone, and the exotic jungle princess Aiela. Take control of strange and powerful shamanistic magics and confront a varied bestiary that includes vicious dinosaurs and even mad high priests.
+
+Worlds of Ultima 1: Savage Empire was built using a modified Ultima VI engine; it’s familiar to long-time fans but it’s also a great starting point for people who are new to the world of Ultima. Featuring a text-based conversation system along with turn-based combat, Worlds of Ultima 1: Savage Empire should find a permanent space on your hard drive.</desc>
+		<image>./images/Savage Empire-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900512T000000</releasedate>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./x-com 2.conf</path>
+		<name>X-COM: Terror from the Deep</name>
+		<sortname>X-COM 02: Terror from the Deep</sortname>
+		<desc>Seeking to take advantage of a weakened Earth, X-COM's deep space foes unexpectedly change strategy and launch a powerful second front against planet Earth.
+In the dark depths of vast oceans, long sleeping forces are awakened by reanimation signals sent out across the galactic silence by their interstellar brothers and sisters. Slowly but surely, an army of hibernating alien sea creatures awakens. Your combat now extends to the strange new worlds of the deep where superior alien technologies threaten the very survival of this planet - your planet - Earth.</desc>
+		<image>./images/x-com 2-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950228T000000</releasedate>
+		<developer>MicroProse Software, Inc.</developer>
+		<publisher>MicroProse Software, Inc.</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./x-com ufo defense.conf</path>
+		<name>X-COM: UFO Defense</name>
+		<sortname>X-COM 01: UFO Defense</sortname>
+		<desc>UFO: Enemy Unknown (marketed as X-COM: UFO Defense in North America) is a science fiction strategy video game developed by Mythos Games and MicroProse. It was published by MicroProse in 1994 for the PC DOS and Amiga computers and the Amiga CD32 console, and in 1995 for the PlayStation. Its European PlayStation release is titled X-COM: Enemy Unknown.
+
+(from en.wikipedia.org)</desc>
+		<image>./images/x-com ufo defense-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mythos Games, MicroProse Software, Culture Brain</developer>
+		<publisher>MicroProse Software, Inc., Spectrum Holobyte, Inc.</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Quickbasic akalabeth.conf</path>
+		<name>Akalabeth: World of Doom -Quickbasic-</name>
+		<sortname>Ultima 00 Akalabeth: World of Doom</sortname>
+		<desc>Richard Garriott's dungeon romp provides a chance for RPG fans to take on the role of a hero in the land of Akalabeth, commissioned by a man named British to rid the land of the evil creatures wrought by a sorcerer named Mondain.
+
+Throughout the course of this adventure, portrayed through color wireframe graphics and featuring attack-related sound effects, your character explores the world of Akalabeth, performing various tasks for British. The world contains several dungeons, each full of treasure, but also containing dangerous creatures like orcs, skeletons, and giant rats.</desc>
+		<image>./images/Quickbasic akalabeth-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>California Pacific Computer</developer>
+		<publisher>California Pacific Computer</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>3</playcount>
+		<lastplayed>20211016T150633</lastplayed>
+	</game>
+	<game>
+		<path>./Cosmo Adventure.conf</path>
+		<name>Cosmo's Cosmic Adventure</name>
+		<desc>The storyline is about a little alien boy named "Cosmo". Cosmo's parents are taking him to Disneyland for his birthday. A comet hits their ship, forcing them to land on an unknown planet and repair the ship. Cosmo goes exploring, and when he returns, his parents are missing. Seeing large footprints, Cosmo thinks that his parents have been captured and sets off to rescue them before they are eaten. There are 3 episodes in the game series in which Cosmo must navigate through 10 alien-themed levels.</desc>
+		<image>./images/Cosmo Adventure-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T151009</lastplayed>
+	</game>
+	<game>
+		<path>./crystal caves.conf</path>
+		<name>Crystal Caves</name>
+		<desc>Mylo Steamwitz, an enterprising space trader, has set out to the perilous mines of the Altairian system. He hopes to collect enough crystals to start a profitable twibble farm. 
+
+Crystal Caves is a side-scrolling platform game, where the objective is to finish all 16 levels, collecting every single crystal within. On his way, Mylo is threatened by numerous monsters, such as bats, robots, mine carts or dinosaurs; there are also a lot of hazards such as stalactites and stalagmites, pipes which leak harmful water or poisonous mushrooms which kill instantly. Mylo has three health points, and if he is harmed enough times to deplete them all, he dies (but thankfully he has unlimited lives). To defend himself, Mylo has a missile pistol, which is able to take out most enemies, but not all. Many levels require the player to act fast and plan beforehand, as it's easy to get Mylo stuck in an impossible-to-win situation - if this happens, the level must be restarted. 
+
+Apart from the crystals, the levels contain a lot of items to collect: ammunition for the pistol, bonus items such as pickaxes or purple mushrooms that give score, and eggs which turn into letters when shot - collecting all 5 letters (B, O, N, U, S) on a level gives a lot of points, but it's not always easy to get them! It's also possible to find a power-up that reverses gravity when picked up, another one which gives your pistol the power to kill every enemy, a stop sign which freezes all enemies and makes them harmless and a red mushroom which allows you to kill enemies by running into them. These power-ups last only for a limited time though, so be careful, as they are always instrumental to victory!</desc>
+		<image>./images/crystal caves-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911023T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T151109</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem.conf</path>
+		<name>Duke Nukem</name>
+		<sortname>Duke Nukem 1</sortname>
+		<desc>Set in the year 1997, your mission is to stop Dr. Proton, a madman bent on ruling the world with his army of Techbots. As the irrepressible hero Duke Nukem, you'll chase Dr. Proton deep into the Earth, then to his lunar space station, and eventually into the Earth's nuclear ravished future.</desc>
+		<image>./images/Duke Nukem-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Action, Shooter, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T151800</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem 2.conf</path>
+		<name>Duke Nukem II</name>
+		<sortname>Duke Nukem 2</sortname>
+		<desc>In the "near future" year 1998, the evil Rigelatins plan to enslave Earth, and they kidnap Duke Nukem (who was performing in an interview about his new autobiography, "Why I'm So Great"), to use his brain to plot the attack for their forces. Duke must break free in order to save the world, once again.</desc>
+		<image>./images/Duke Nukem 2-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931203T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Shooter, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T151411</lastplayed>
+	</game>
+	<game>
+		<path>./Dungeon Keeper.conf</path>
+		<name>Dungeon Keeper</name>
+		<desc>Dungeon Keeper is a strategy video game released for the PC in which the player attempts to build and manage a dungeon or lair while protecting it from (computer-controlled) 'hero' characters intent on stealing the user's accumulated treasures and killing various monsters.</desc>
+		<image>./images/Dungeon Keeper-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19970626T000000</releasedate>
+		<developer>Bullfrog Productions</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20211016T151935</lastplayed>
+	</game>
+	<game>
+		<path>./elder scrolls arena.conf</path>
+		<name>Elder Scrolls: The Arena</name>
+		<sortname>Elder Scrolls 01: The Arena</sortname>
+		<desc>The Elder Scrolls: Arena was released in 1994 and was the first game of the The Elder Scrolls series and 12th game developed by Bethesda Softworks. It was one of the first role-playing video games and one of the largest games created at the time of its release.
+
+Like its sequels, Arena takes place on the continent of Tamriel, complete with wilderness, dungeons, and a spell creation system that allows players to mix various spell effects into a new spell as long as they have the money to pay for it.
+
+Although not as popular as the later games, Arena generated a cult following, and it was successful enough to spawn a sequel, Daggerfall.</desc>
+		<image>./images/elder scrolls arena-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Bethesda</developer>
+		<publisher>Bethesda</publisher>
+		<genre>Role-Playing</genre>
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20211016T153650</lastplayed>
+	</game>
+	<game>
+		<path>./elder scrolls daggerfall.conf</path>
+		<name>The Elder Scrolls: Chapter II - Daggerfall</name>
+		<sortname>Elder Scrolls 2: Chapter II - Daggerfall</sortname>
+		<desc>Daggerfall is a sequel to The Elder Scrolls: Arena; it is set in the same medieval fantasy world Tamriel - more specifically, in the homeland of the Breton race, known as High Rock. The game's title is derived from the name of High Rock's capital city. 
+
+The main protagonist travels to Daggerfall at the request of the emperor Uriel Septim. His mission involves freeing the ghost of the late King Lysandus. Apparently, a letter concerning the king and sent by the emperor to the court in Daggerfall contains information about a dangerous ancient power. It is now up to the hero to retrieve the letter, reveal the dark secret that has been preserved in the king's family, and eventually discover the key to the resurrection of an iron golem who wields immense power. 
+
+Like its predecessor, Daggerfall is an open-ended role-playing game, in which the main quest is but a small fraction of the various missions and assignments the player is able to undertake. The game is notable for breaking records concerning the size of its world (though much of it has been generated randomly). Interaction with hundreds of thousands of non-playable characters is possible. The player is free to join one of the many political and social organizations of Tamriel, as well as pursue a personal quest for power. The player is able to buy houses, ships, and horses, as well as become a werewolf, a vampire, or a wereboar.
+
+Combat in Daggerfall is action-based: the player uses the mouse to determine the direction and the power of sword swings and shots from a ranged weapon. Character growth is handled similarly to that of  Quest for Glory games: the more the player performs an action, the better he/she becomes at it. For example, swinging the sword will eventually increase the player character's attack power and skill with that weapon, etc.</desc>
+		<image>./images/elder scrolls daggerfall-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>9</playcount>
+		<lastplayed>20211016T154441</lastplayed>
+	</game>
+	<game>
+		<path>./Redguard.conf</path>
+		<name>The Elder Scrolls Adventures: Redguard -BROKEN-</name>
+		<sortname>Elder Scrolls Adventures: Redguard</sortname>
+		<desc>You play as Cyrus, a Redguard in search for his sister and a mercenary pirate. After receiving a letter from your old Nord friend captain Tobias about your sister's disappearance, you sail to the island of Stros M'kai – the site of the final clash between the Redguard Crowns and the Empire, and your sister Iszara's last known home. The game begins when you arrive at the port.
+
+In the big box version of the game one would find a 93-page booklet, an addendum, a warranty card and an A3-sized map of Stros M'kai. The booklet features a comic about Cyrus' life prior to the game's events, as well as a 'Pocket Guide to the Empire and its Environs', which describes the histories and cultures of different parts of Tamriel, accompanied by small maps and character art.
+
+The booklet is called 'The Elder Scrolls Adventures: Volume R,' and its cover matches the one of the in-game book that reveals the main menu.</desc>
+		<image>./images/Redguard-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19981031T000000</releasedate>
+		<developer>Bethesda Game Studios</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T154516</lastplayed>
+	</game>
+	<game>
+		<path>./hexxagon.conf</path>
+		<name>hexxagon</name>
+		<desc>An extremely enjoyable puzzle game. It's quite similar to Reversi/Othello, except with a hexagon grid rather than a square grid. The object is to take over the gameboard (which can be edited by the user and saved) with marbles (gems?) of your own color. It includes a single player vs. computer option (with three skill levels) and also a two player option. Definitely fun to play, as it's got a really nice looking interface, and, on the 'easy' setting, I can sometimes actually win! :)</desc>
+		<image>./images/hexxagon-image.jpg</image>
+		<developer>Argo Games</developer>
+		<publisher>Software Creations</publisher>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T154824</lastplayed>
+	</game>
+	<game>
+		<path>./Hocus Pocus.conf</path>
+		<name>Hocus Pocus</name>
+		<desc>This mission will take Hocus to 16 unique realms, each filled with unique dangers and enemies. Few have survived Terexin's final test. For many it's a one-way trip. 
+
+Along the way Hocus will encounter dragons, imps, ghosts and 30 more unique creatures, demons and enemies. Survive, and Hocus becomes a full-fledged, card carrying Wizard. The other option is not so favorable. After every two levels of play the level graphics, background and enemies completely change, giving this game unparalleled variety. Hocus Pocus is a action platform game, with exciting puzzles built into each level's structure. 
+
+Hocus is armed with a standard magic spell (he's not yet a full Wizard, after all), but he can find several potions that give him a temporary boost of magical energy. There are potions that give Hocus the ability to shoot rapidly, jump higher, teleport and fire a devastating energy blast, among others.</desc>
+		<image>./images/Hocus Pocus-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Moonlite Software</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T155018</lastplayed>
+	</game>
+	<game>
+		<path>./jill of the jungle.conf</path>
+		<name>Jill of the Jungle</name>
+		<desc>Jill of the Jungle is a platform sidescroller which was released during the same period as Commander Keen and Duke Nukem. Players play as an Amazon woman who can use various types of weapons and enhancements as she progresses through levels slaying monsters and finding keys. The first episode in the trilogy contains 15 playable levels, including a bonus level, each of which can be entered from an overworld resembling another level.  (Wikipedia)</desc>
+		<image>./images/jill of the jungle-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Epic MegaGames, Inc., Orange Games</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>4</playcount>
+		<lastplayed>20211016T155047</lastplayed>
+	</game>
+	<game>
+		<path>./kingdom of kroz.conf</path>
+		<name>kingdom of kroz</name>
+		<desc>Kroz is a series of Roguelike video games created by Scott Miller for IBM PC compatibles. The first episode in the series, Kingdom of Kroz, was released in 1987 as Apogee Software's first game. It was also published on Big Blue Disk #20. Kroz introduced the scheme of the first episode being free and charging money for additional episodes; a technique which defined the business model for Apogee and was adopted by other MS-DOS shareware publishers.</desc>
+		<image>./images/kingdomofkroz.png</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Apogee Software, Ltd.</developer>
+		<publisher>Apogee Software, Ltd.</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T155119</lastplayed>
+	</game>
+	<game>
+		<path>./god of thunder.conf</path>
+		<name>God of Thunder</name>
+		<desc>God of Thunder is a 2D platform freeware puzzle game created by Ron Davis and published by Software Creations in 1993. The game chronicles the quest of Thor, son of Odin and god of thunder as he tries to reclaim Midgard for his father. Midgard, the beloved land of Odin's, was stolen from the god during his "Odinsleep" by Loki, the god of mischief, with the help of Jormangund the serpent and Nognir, the Prince of the Underworld. To help in his quest, Thor is given the mythical hammer Mjolnir by Odin.</desc>
+		<image>./images/god of thunder-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Adept Software</developer>
+		<publisher>Software Creations, Impulse Games</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T163749</lastplayed>
+	</game>
+	<game>
+		<path>./master of magic.conf</path>
+		<name>Master of Magic</name>
+		<desc>Master of Magic is a classic, one of the most popular strategy games of the 90s. It is a 4X fantasy strategy game that allows you to play as an extremely powerful wizard, leading your troops and overcoming your magical opponents. After over 25 years, the game now receives the first official update with a significantly improved AI and more than 200 spells at your disposal. Dive back into time, relive this epic adventure and conquer Arcanus and Myrror once and for all!</desc>
+		<image>./images/master of magic-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Simtex Software</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Strategy</genre>
+		<players />
+		<playcount>3</playcount>
+		<lastplayed>20211016T163922</lastplayed>
+	</game>
+	<game>
+		<path>./Might and Magic 1.conf</path>
+		<name>Might and Magic: Book One</name>
+		<sortname>Might and Magic 01: Book One</sortname>
+		<image>./images/Might and Magic 1-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19871201T000000</releasedate>
+		<genre>Adventure, Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T164012</lastplayed>
+	</game>
+	<game>
+		<path>./Might and Magic 2.conf</path>
+		<name>Might and Magic II: Gates to Another World</name>
+		<sortname>Might and Magic 02: Gates to Another World</sortname>
+		<desc>Might and Magic II: Gates to Another World (also known as Might and Magic Book Two: Gates to Another World) is a role-playing video game. It is the sequel to the game Might and Magic: The Secret of the Inner Sanctum.</desc>
+		<image>./images/Might and Magic 2-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19890701T000000</releasedate>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T164234</lastplayed>
+	</game>
+	<game>
+		<path>./Might and Magic 3.conf</path>
+		<name>Might and Magic III: Isles of Terra</name>
+		<sortname>Might and Magic 03: Isles of Terra</sortname>
+		<desc>Might and Magic III: Isles of Terra is the third game in the role-playing video game series Might and Magic. Released in 1991, it is the predecessor to Might and Magic IV: Clouds of Xeen and the sequel to Might and Magic II: Gates to Another World.</desc>
+		<image>./images/Might and Magic 3-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211016T164410</lastplayed>
+	</game>
+	<game>
+		<path>./Might and Magic 4-5.conf</path>
+		<name>Might and Magic: World of Xeen</name>
+		<sortname>Might and Magic 04: World of Xeen</sortname>
+		<desc>Enter the land of Xeen, a mythical place ruled by two villainous overlords.  Solve many quests and puzzles as you attempt to unravel the secrets of the World of Xeen.  This special version of the game is really two games (Clouds of Xeen and Darkside of Xeen) rolled into one, with two differences:  One, your characters are able to travel from one game to the other, doubling the size of the world available for exploration.  Two, CD-ROM technology has made possible the use of digitized speech in all places that call for it.</desc>
+		<image>./images/Might and Magic 4-5-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>New World Computing, Inc.</developer>
+		<publisher>New World Computing, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T164646</lastplayed>
+	</game>
+	<game>
+		<path>./Might and Magic 5b Swords of xeen.conf</path>
+		<name>Might and Magic V: (mod) Swords of Xeen</name>
+		<sortname>Might and Magic 05: (mod) Swords of Xeen</sortname>
+		<desc>Might and Magic V: Darkside of Xeen (originally released as Might and Magic: Darkside of Xeen) is a science fantasy role-playing video game, published and developed for multiple platforms by New World Computing in 1993. Based on the Might and Magic III: Isles of Terra game engine, it is the fifth game in the Might and Magic series, and is a direct sequel to Might and Magic IV: Clouds of Xeen, concluding the story arc started in the original Might and Magic Book One: The Secret of the Inner Sanctum.
+
+Like its predecessors, it was well received by both critics and players for its large game world and graphics, and was among the earliest games to make use of both animated cutscenes and PCM sound-based speech. Its unique integration mechanic with the game world of Clouds of Xeen, allowing both games to be played in a combined format - World of Xeen - was considered revolutionary at the time.</desc>
+		<image>./images/might and magic swords of xeen-image.png</image>
+		<rating>0.8</rating>
+		<developer>New World Computing</developer>
+		<publisher>New World Computing</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T164533</lastplayed>
+	</game>
+	<game>
+		<path>./Stronghold.conf</path>
+		<name>D&amp;D Stronghold</name>
+		<sortname>Dungeons &amp; Dragons Stronghold</sortname>
+		<desc>Mixing the gameplay of Civilization and similar games into real-time and with a 3D view, players must build up a small village in the Dungeons and Dragons fantasy universe into a Stronghold. How much micro-management you wish to do is up to you; the computer can take care of much of it.
+
+You recruit and train Fighters, Thieves, Clerics and Magic Users to venture out and claim more land and resources, which include removing hostile forces. Take control of food supply and the production and management of buildings including castles, markets and magic schools.
+
+Your victory condition is based on your alignment: Lawful players must advance to the rank of Emperor, Chaotic players must destroy all enemy strongholds, and Neutral players must do both!</desc>
+		<image>./images/Stronghold-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Stormfront Studios</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing, Strategy</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211016T151211</lastplayed>
+	</game>
+	<game>
+		<path>./fantasy empires.conf</path>
+		<name>D&amp;D Fantasy Empires</name>
+		<sortname>Dungeons &amp; Dragons Fantasy Empires</sortname>
+		<desc>Fantasy Empires is a role-playing fantasy wargame for DOS made by Silicon Knights and published by SSI in 1993. The game uses the Dungeons &amp; Dragons license, and is set in the fictional world of Mystara.</desc>
+		<image>./images/fantasy empires-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Silicon Knights</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>5</playcount>
+		<lastplayed>20211016T152101</lastplayed>
+	</game>
+</gameList>

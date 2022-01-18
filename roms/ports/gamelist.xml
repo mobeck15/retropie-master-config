@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Steam Link.sh</path>
+		<name>Steam Link</name>
+		<desc>Steam Link, enables the streaming of Steam content from a personal computer wirelessly to a mobile device or other monitor. Steam link was originally released as a hardware device along with the debut of Steam Machines in November 2015. Valve discontinued the Steam Link in November 2018, in favor of supporting its software-based Steam Link application for mobile devices and smart televisions, as well as providing Steam Link as a software package for the Raspberry Pi microcomputer.</desc>
+		<image>./images/steam.png</image>
+		<rating>1</rating>
+		<releasedate>19691231T160000</releasedate>
+		<developer>Valve</developer>
+		<publisher>Valve</publisher>
+		<favorite>true</favorite>
+		<playcount>11</playcount>
+		<lastplayed>20200906T213412</lastplayed>
+	</game>
+	<game>
+		<path>./Ur-quan Masters.sh</path>
+		<name>The Ur Quan Masters</name>
+		<sortname>Ur-Quan Masters, The</sortname>
+		<desc>In the last phase of the war between the Alliance of Free Stars and the Hierarchy of Battle Thralls, the Tobermoon, an Earthling ship, discovered an ancient Precursor subterranean installation in a cave on the surface of an uninhabited planet in the Vela star system. The Alliance hastily sent a secret scientific mission to study the relics, but a massive Hierarchy offensive forced the Alliance fleets to retreat beyond Vela; the mission commander, Captain Burton, decided to go into hiding on the planet and sent back the Tobermoon, her only starship, asking for help. Though the Ur-Quan forces didn't find the Earthlings during their sweep of the system, relief never arrived. Years later, with the help of a genius child born on the planet, the colonists activated the Precursor machinery and found out that it was programmed to build a starship. Using the limited store of raw materials available in the planet, in ten years the Precursor factory built a (barely) functional ship, which could be piloted only by the now grown genius child, who alone could interact with the Precursor central computer. In the first test flight, it was discovered that the ship Burton had sent for help had been severely damaged by the Ur-Quan and was orbiting unpowered in the outer solar system: the Alliance had never known of the mission's discoveries. The colonists decided to fix the recovered ship, train new crew members for both the Precursor ship and the Tobermoon and send a mission back to Earth, eager to know how the war had ended. Shortly before reaching Sol the little fleet was attacked by an unknown ship; Captain Burton, commanding the Earthling ship, intercepted the alien ship before it could damage the defenseless Precursor starship, but was killed in the short fight, leaving the genius young man in command</desc>
+		<image>./images/Ur-quan Masters-image.png</image>
+		<rating>0.4</rating>
+		<releasedate>19921101T000000</releasedate>
+		<genre>Adventure, Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T123244</lastplayed>
+	</game>
+	<game>
+		<path>./Planescape Torment.sh</path>
+		<name>Planescape: Torment</name>
+		<sortname>Dungeons &amp; Dragons Planescape Torment</sortname>
+		<desc>Sigil... A place with gates that lead anywhere in existence, provided you have the proper key. It is a neutral ground and a watering hole for races across the multiverse, all under the watchful shadow of the Lady of Pain, the enigmatic ruler of the city. It is a place where the word is mightier than the sword, where thought defines reality, where belief has the power to reshape worlds and change the laws of physics...
+
+But there's a lot more out there than just Sigil. Get outside the city and there's the planes themselves: the throne of the gods, the battleground of the eternal Blood War, and home to more horrors and wonders than ever existed on any Prime Material World. There's enough crusades, exploits, treasures and mysteries to keep a band of adventurers busy for centuries to come.</desc>
+		<image>./images/Planescape Torment-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19991212T000000</releasedate>
+		<developer>Black Isle Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>4</playcount>
+		<lastplayed>20220109T133217</lastplayed>
+	</game>
+	<game>
+		<path>./Baldurs Gate 1.sh</path>
+		<name>Baldur's Gate</name>
+		<sortname>Dungeons &amp; Dragons Baldur's Gate 1</sortname>
+		<desc>Strange things are happening in the Sword Coast.  The iron has gone bad, every weapon forged with it is completely worthless. Bandits plague the Coast stealing everything else that already isn't ruined.  And people are muttering that it is all the work of an outside interest bent on domination. Some say that it is the Zhentarim, some say that it is the Amnish, although they have troubles of their own.
+
+Amidst all of this you have grown up in seclusion in the Candlekeep fortress, a keep of knowledge.  You have never known your parents, instead you were raised by the Sage Gorion.  You might have remained in this sheltered life
+forever, had not fate played its hand.  Because of the growing threat of evil in the world, Gorion feels compelled to remove you from Candlekeep, and take you to another hiding place where he will "explain everything".
+
+And so it began...</desc>
+		<image>./images/Baldurs Gate 1-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981130T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20220115T201407</lastplayed>
+	</game>
+	<game>
+		<path>./Baldurs Gate 2.sh</path>
+		<name>Baldur's Gate II: Shadows of Amn + Throne of Bhaal</name>
+		<sortname>Dungeons &amp; Dragons Baldur's Gate 2</sortname>
+		<desc>Baldur's Gate II: Throne of Bhaal is an add-on to Shadows of Amn and requires it for playing. Despite being an expansion pack, the game directly continues the story from Shadows of Amn, and is the final chapter of the Baldur's Gate saga, following the adventures of the main character through the Forgotten Realms universe. The hero(ine) encounters new characters, new lands, new items, equipment, quests, and monsters, up to the ultimate battle that concludes the overarching story.</desc>
+		<image>./images/Baldurs Gate 2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20010622T000000</releasedate>
+		<developer>BioWare</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220115T203605</lastplayed>
+	</game>
+	<game>
+		<path>./Icewind Dale 1.sh</path>
+		<name>Icewind Dale</name>
+		<sortname>Dungeons &amp; Dragons Icewind Dale</sortname>
+		<desc>BROKEN
+
+Icewind Dale, set in the Advanced Dungeons and Dragon's Forgotten Realms, is a party-based dungeon crawl in the popular Icewind Dale region created by famous author R. A. Salvatore. The game uses an enhanced version of BioWare's Infinity engine, which was used to power Baldur's Gate and Planescape: Torment. Icewind Dale offers six major areas with approximately fifty dungeon levels, an excellent story, multiple plot lines, sixteen different classes, improved multiplayer support, seventy monster-types, new interface, optional 3D graphics support to show off flashy spell effects, lighting and fogging. Expect sixty to eighty hours of gameplay from Icewind Dale.</desc>
+		<image>./images/Icewind Dale 1-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20000629T000000</releasedate>
+		<developer>Black Isle Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<players>4</players>
+		<playcount>3</playcount>
+		<lastplayed>20220115T203216</lastplayed>
+	</game>
+	<game>
+		<path>./Icewind Dale 2.sh</path>
+		<name>Icewind Dale II</name>
+		<sortname>Dungeons &amp; Dragons Icewind Dale 2</sortname>
+		<desc>Return to the frozen North of the Forgotten Realms, for more dungeon-crawling adventure. A generation after the original game, hordes of goblins, orcs, and bugbears under the banner of the Chimera threaten Targos, the port of the Ten Towns. Your party begins trying to save Targos and must learn the cause of this new war. Fifty new spells and a plethora of new magical items will be available to the adventurers. Some features from Baldur's Gate II will also be added like 3D technology, dual-wielding, classes (Barbarian, Sorceror, Monk), and class kits. Icewind Dale will include novel kits like Mercenary, Votary, Giant Killer, and Dreadmaster of Bane, as well as new subraces like Drow, Gold Dwarves, and Tieflings.</desc>
+		<image>./images/Icewind Dale 2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20020822T000000</releasedate>
+		<developer>Black Isle Studios</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220115T203047</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="1631" source="theGamesDB.net">
+		<path>./Kids/Barbie (U) (REVA) [!].zip</path>
+		<name>Barbie</name>
+		<desc>Barbie has a big day tomorrow, so she needs to get a good nights rest. She has strange dreams about all her planned activities. She must traverse five levels made up of a total of thirteen stages to make it through the night.
+
+Barbie travels through various location in the mall, at the beach and in the soda shop trying to make it from the left side of each level to the right. Each level is populated with animals and with living objects of the sort you would find in that location. She can jump with the A button and throw crystals with the B button. The longer you hold the button down, the farther each crystal is thrown. She has three kinds of crystals, each of which has a different effect. One makes creatures help her, one defeats them and one has varying effects.</desc>
+		<image>./images/Barbie (U) (REVA) [!]-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Imagineering Inc.</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="2063" source="theGamesDB.net">
+		<path>./Kids/Big Bird's Hide &amp; Speak (U) [!].zip</path>
+		<name>Sesame Street: Big Bird's Hide &amp; Speak</name>
+		<desc>Sesame Street: Big Bird's Hide and Speak is a game for the Nintendo Entertainment System. It was one of the simplest-to-play NES games ever released commercially. This game stars Big Bird and co-stars Little Bird, and features Bert, Ernie, The Count, Grover, and Elmo. This game was developed by RSP Inc. and published by Hi Tech Expressions. All 4 sides of the D-pad move little bird to the next window clockwise; A and B Buttons both choose a window. The center buttons (Start and Select) exit to the game select screen. The game's objective was to choose the correct character or letter, with six different levels. The first two levels are based on simply choosing the window instructed by Big Bird, while the next two needed memorizing since the windows close. In the fifth level the player had to spell the three-letter word instructed by choosing the right letters and the last level the player must attempt to spell the most number of different words before a time limit, the letters in the windows changing after a new word is created.</desc>
+		<image>./images/Big Bird's Hide &amp; Speak (U) [!]-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>RSP</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game id="2064" source="theGamesDB.net">
+		<path>./Kids/Sesame Street 123 (U) [!].zip</path>
+		<name>Sesame Street 1 2 3</name>
+		<desc>Based on Sesame Street, the long-running PBS children's television show, Sesame Street 123 for the NES stars Bert's best friend and roommate Ernie and the lovable blue muppet Grover. "Ernie's Magic Shapes" consists of six different magic show-themed games that help teach children colors, shapes and pattern recognition. Children are asked to match simple shapes and colors and to choose specific shapes to form things like rocket ships, wheelbarrows, and birds. Astro-Grover features five different outer space-themed games that help teach children simple arithmetic. Children can add, count and subtract little green aliens called "Zips." When a child gets an answer wrong, he or she is gently informed and allowed to try again.</desc>
+		<image>./images/Sesame Street 123 (U) [!]-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Hi Tech Entertainment</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game id="2065" source="theGamesDB.net">
+		<path>./Kids/Sesame Street 123 - ABC (U) [!].zip</path>
+		<name>Sesame Street A-B-C and 1-2-3</name>
+		<desc>Sesame Street 1 2 3/A B C is a compilation of the following Sesame Street NES games:
+Sesame Street 1 2 3
+Sesame Street A B C</desc>
+		<image>./images/Sesame Street 123 - ABC (U) [!]-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Zippo Games</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre />
+	</game>
+	<game id="2066" source="theGamesDB.net">
+		<path>./Kids/Sesame Street ABC (U) [!].zip</path>
+		<name>Sesame Street A B C</name>
+		<desc>Two great games in one! SESAME STREET LETTER-GO-ROUND provides a playful setting in which children practice early reading skills. Children play with the whirling ferris wheel as they practice letter recognition and matching, simple spelling and word formation. ERNIE'S BIG SPLASH: Splish, splash, Ernie's taking a bath. But where's Rubber Duckie? Luckily, children can help by building a wacky pathway that leads Rubber Duckie from his soapdish into Ernie's bathtub - a fun-filled way for children to practice planning, predicting and problem-solving.</desc>
+		<image>./images/Sesame Street ABC (U) [!]-image.jpg</image>
+		<releasedate>19890901T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Hi Tech Entertainment</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game id="2067" source="theGamesDB.net">
+		<path>./Kids/Sesame Street Countdown (U) [!].zip</path>
+		<name>Sesame Street Countdown</name>
+		<desc>Sesame Street: Countdown is an Edutainment game, developed by RSP and published by Hi-Tech, which was released in 1992.</desc>
+		<image>./images/Sesame Street Countdown (U) [!]-image.jpg</image>
+		<releasedate>19920201T000000</releasedate>
+		<developer>RSP</developer>
+		<publisher>Hi Tech Entertainment</publisher>
+		<genre>Puzzle</genre>
+	</game>
+</gameList>
