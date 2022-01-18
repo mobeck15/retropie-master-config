@@ -1,0 +1,43 @@
+Splashscreens
+/home/pi/RetroPie/splashscreens/retropie-extra/
+Copy the splashscreen images you want into the retropie-extra subfolder
+
+
+roms
+/home/pi/RetroPie/roms
+
+
+boot
+/boot/
+cmdline.txt and config.txt control various OS features.
+
+
+Overlay (Bezels)
+/opt/retropie/configs/all/retroarch/overlay/
+
+Bios files
+/home/pi/RetroPie/BIOS
+
+downloaded_images
+/opt/retropie/configs/all/emulationstation/downloaded_images/
+
+
+retroarch.cfg
+/opt/retropie/configs/all/
+
+
+Custom es_systems.cfg
+/opt/retropie/configs/all/emulationstation/
+
+Original es_systems.cfg
+/etc/emulationstation/
+
+Scummvm default save path
+/opt/retropie/configs/scummvm/saves
+change manually in Scummvm paths menu.
+
+runcommand scripts
+/opt/retropie/configs/all/
+
+Atari Configurations
+https://www.raphkoster.com/about-raph/hobbies/emulation/atari-8-bit-guide-for-lr-atari800-and-retropie/
