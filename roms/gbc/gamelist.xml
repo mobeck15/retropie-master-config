@@ -45,17 +45,6 @@
 		<genre>Action, Sandbox</genre>
 	</game>
 	<game>
-		<path>./Other/Aliens - Thanatos Encounter (U) [C][!].zip</path>
-		<name>Aliens: Thanatos Encounter</name>
-		<desc>Prepare for horror and fright beyond your wildest nightmares, as you step into the world of ALIENS: Thanatos Encounter. The terrifying creatures made famous by the popular ALIENS movies come to Game Boy Color in a totally new adventure. You play as one of five space marines who are sent to explore an abandoned freighter. Naturally, the situation is far worse than your squad expected the ship is completely infested with thousands of vicious aliens. In this single-player shooter, you'll make your way through the various sections of the ship in 12 missions. Discover the solution to the mystery of the aliens' reappearance through the cinematic cutscenes you'll see throughout the game. You can use a variety of alien-busting weapons like machine guns and flame-throwers to fend off the incoming horde and, if all else fails, turn tail and run as fast as you can! Battle a wide variety of different breeds of aliens, including some all-new hybrids.</desc>
-		<image>./Other/images/Aliens - Thanatos Encounter (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20010330T000000</releasedate>
-		<developer>Crawfish Interactive</developer>
-		<publisher>THQ</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Alone in the Dark - The New Nightmare (U) (M3) [C][!].zip</path>
 		<name>Alone in the Dark: The New Nightmare</name>
 		<desc>From the moment Edward Carnby and Aline Cedrac set foot on Shadow Island, they are confronted by mysterious, evil creatures intent on thwarting their progress to recover 3 ancient tablets believed to hold the secret key to some incredible menacing phenomenon. Fears threaten from every corner. The slightest shadow could be hiding deep secrets, or concealing worse nightmares...</desc>
@@ -580,25 +569,6 @@ The adventure continues as Sarge and Vikki fight their way over pool tables, aro
 		<players>4</players>
 	</game>
 	<game>
-		<path>./Other/Deja Vu I &amp; II (U) [C][!].zip</path>
-		<name>Deja Vu I &amp; II: The Casebooks of Ace Harding</name>
-		<desc>Take on two thrilling mysteries in one Game Pak!
-
-Life is never boring when you assume the role of Ace Harding, private detective. In Deja Vu I, you will scramble down the dark alleys of Chicago, searching for a cure for you amnesia and a killer who has framed you for a brutal murder. After solving the first case, you'll uncover a few loose strings that gradually unrabel into Deja Vu II. Trapped in the slimy town of Last Vegas, you find yourself dealing with a notorious mob leader who makes you an offer you can't refuse.
-
--Two detailed graphic adventure games in one Game Boy Color Game Pak!
--Detailed commands for interacting with anyone or anything!
--Return to the scene of the crime, or any of the other 140 locations!
--Sort out the real evidence from the red herrings and over 80 other items!
--Battery-backed save option for up to three save game files!</desc>
-		<image>./Other/images/Deja Vu I &amp; II (U) [C][!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19991201T000000</releasedate>
-		<developer>Infinite Ventures</developer>
-		<publisher>Vatical Entertainment LLC</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
 		<path>./Other/Dexter's Laboratory - Robot Rampage (U) [C][!].zip</path>
 		<name>Dexter's Laboratory: Robot Rampage</name>
 		<desc>Robots are running amok in Dexter's lab! Based on the popular cartoon series, DEXTER'S LABORATORY: Robot Rampage for the Game Boy Color puts you in the little boots of the Dexter as he tries to reclaim his lab from Mandark's invading mechanical mayhem. You'll have to ride elevators, dive down shafts, hide in shadows, and occasionally blast the robotic intruders as you hunt down your evil nemesis. There are three different outfits you can wear to make infiltrating the lab easier: wear your standard lab-coat or one of two special robo-suits, depending on what the situation calls for. You can also use Dexter's high-tech weapons to dispatch the enemy through level after level of fast and furious action.</desc>
@@ -663,17 +633,6 @@ Life is never boring when you assume the role of Ace Harding, private detective.
 		<developer>Left Field Productions</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/Donald Duck - Goin' Quackers (U) (M5) [C][!].zip</path>
-		<name>Disney's Donald Duck: Goin' Quackers</name>
-		<desc>In DONALD DUCK: Goin' Quackers for the Game Boy Color you play Donald Duck, who must rescue his girlfriend Daisy from the clutches of the evil Merlock You'll set out on an adventure to rescue Daisy and send Merlock back to his own warped dimension. To do that, you'll have to run, jump, and battle your way through the levels and collect the blueprints to the dimensional transporter that are scattered around four different side-scrolling worlds. Vibrant, full-color graphics with astonishing animation make the presentation of this game top-notch, and colorful cutscenes move the story along between levels. DONALD DUCK: Goin' Quackers is only compatible with Game Boy Color systems.</desc>
-		<image>./Other/images/Donald Duck - Goin' Quackers (U) (M5) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20001019T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft Entertainment</publisher>
-		<genre>Action, Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Doug's Big Game (U) [C][!].zip</path>
@@ -2880,19 +2839,6 @@ There are a few different variations of this game released in different markets 
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Super Breakout! (U) [C][!].zip</path>
-		<name>Super Breakout</name>
-		<sortname>Breakout Super</sortname>
-		<desc>A new version of the classic game with four gameplay modes adding variety to the classic brick buster. You can knock balls in the standard mode, a double wall mode, a "cavity" mode (where you can free two locked balls from gaps in the field), and the intense falling wall "progression" mode. Also features multiplayer mode for two gamers.</desc>
-		<image>./Other/images/Super Breakout! (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19981201T000000</releasedate>
-		<developer>Morning Star Multimedia</developer>
-		<publisher>Majesco Entertainment</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Super Chinese Fighter EX (J) [C][T+Eng_Opus].zip</path>
 		<name>Super Chinese Fighter EX</name>
 		<sortname>Chinese Fighter EX</sortname>
@@ -3630,29 +3576,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy® Colo
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Sports/10-Pin Bowling (U) [C][!].zip</path>
-		<name>10 Pin Bowling</name>
-		<desc>10-PIN BOWLING brings you all the fun of bowling in miniature form on your Game Boy Color. Play by yourself or with a friend in 10 frames of simple straight-up bowling action. Challenge your friend to see who's better or challenge your own scores to see if you can beat them. Aim carefully and apply the right amount of strength and you'll be racking up strikes in no time. This cartridge also uses the Rumble technology so you can feel every strike and spare in the alley. 10-PIN BOWLING features everything but the stinky shoe rentals. Will you rule the lane, or will you just be another gutter ball?</desc>
-		<image>./Sports/images/10-Pin Bowling (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19990801T000000</releasedate>
-		<developer>Morning Star Multimedia</developer>
-		<publisher>Majesco Entertainment</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sports/720 Degrees (U) [C][!].zip</path>
-		<name>720 Degrees</name>
-		<desc>Hop on and hang ten as you crash around corners, swerve on sidewalks, and leap over the locals at Skate City, a skateboarder's fantasy world where virtually every surface is skateable. Flip and twist around the street fighters, Frisbee throwers, hard bodies and killer bees that jam city streets. Polish your skills and take your act to the skate parks where you'll vie for medals and cash in downhill, jump, ramp, and slalom competition. Shoot the tubes, "catch air" as you fly off ramps - master all of the moves including the dangerous 720. You'll need every edge as you try to become champion of the skating world!</desc>
-		<image>./Sports/images/720 Degrees (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19990301T000000</releasedate>
-		<developer>Game Brains</developer>
-		<publisher>Midway Games</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
 		<path>./Sports/All Star Tennis 2000 (U) [C][!].zip</path>
 		<name>All Star Tennis 2000</name>
 		<desc>This is a cartoon style tennis challenge that requires all your skill! Pick a character and journey through the game's tournament mode, or simply try your hand in free mode. Choose from different court surfaces and different match setup options. Offering games for one to four players, All Star Tennis is a great way to enjoy the action on centre court.</desc>
@@ -3661,28 +3584,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy® Colo
 		<releasedate>19990625T000000</releasedate>
 		<developer>Smart Dog</developer>
 		<publisher>Ubisoft Entertainment</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/All-Star Baseball 2000 (U) [C][!].zip</path>
-		<name>All-Star Baseball 2000</name>
-		<desc>Using real licensed teams and players from the 1999 season, ALL-STAR BASEBALL 2000 challenges you to take your favorite MLB team to a World Series victory. ALL-STAR BASEBALL 2000 offers a wide variety of gameplay options. If you think you have what it takes to play through a full season of MLB action, try the Season mode. If you like to cut to the chase, go straight to the Playoffs. Practice up your swing in the Batting Practice mode, and then prove your skills in the Home Run Derby! When you're ready, take to the field with the greats of the sport in an All-Star Game. Choose between manual and automatic fielding. Need to hold off on your pennant race until another day? No problem! Save your team's progress using the handy password function.</desc>
-		<image>./Sports/images/All-Star Baseball 2000 (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19990501T000000</releasedate>
-		<developer>Realtime Associates, Inc.</developer>
-		<publisher>Acclaim Entertainment, Inc.</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/All-Star Baseball 2001 (U) [C][!].zip</path>
-		<name>All-Star Baseball 2001</name>
-		<desc>Are you ready to be an All-Star? In Acclaim's ALL-STAR BASEBALL 2001, that's just what you'll have to be to hang in the dugout with the pros. This single-player game for the PSX brings all of your favorite MLB teams to the small screen with a wide variety of gameplay options. Choose your favorite team and go through a full Season or cut right to the Playoffs to prove you are the best. Take it to a new level by playing an All-Star Game, where the top players from the MLB come to show off their stuff. For this version there's an improved batting system, as well as updated rosters, better computer AI, and enhanced graphics. Make sure to practice with the improved batting interface, because the ever-popular Home Run Derby also makes its return. ALL-STAR BASEBALL 2001...catch it!</desc>
-		<image>./Sports/images/All-Star Baseball 2001 (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20000601T000000</releasedate>
-		<developer>KnowWonder</developer>
-		<publisher>Acclaim Entertainment, Inc.</publisher>
 		<genre>Sports</genre>
 	</game>
 	<game>
@@ -3695,17 +3596,6 @@ It that's not enough, Tetris DX is fully compatible with the new Game Boy® Colo
 		<developer>Natsume</developer>
 		<publisher>THQ</publisher>
 		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/Caesars Palace II (U) [C][!].zip</path>
-		<name>Caesars Palace II</name>
-		<desc>Welcome to Ceasars Palace II, the premiere gambling game where you're the next high roller in the glamerous casino enviroment of the world-famous Caesars Palace. If you're feeling lucky, then you've come to the right place. Test your gambling prowess with 19 games of chance including: Craps, Blackjack, Rouulett, Slotts, Video Poker, Mini-Baccarat, Keno and Poker Challenge.</desc>
-		<image>./Sports/images/Caesars Palace II (U) [C][!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19990701T000000</releasedate>
-		<developer>Runecraft</developer>
-		<publisher>Interplay Entertainment Corp.</publisher>
-		<genre>Strategy</genre>
 	</game>
 	<game>
 		<path>./Sports/Cruis'n Exotica (U) [C][!].zip</path>
@@ -4451,20 +4341,6 @@ There are two modes available: Practice and Xtreme Island Adventure. In the form
 		<lastplayed>20210327T204637</lastplayed>
 	</game>
 	<game>
-		<path>./Donkey Kong Country (UE) (M5) [C][!].zip</path>
-		<name>Donkey Kong Country</name>
-		<sortname>Donkey Kong Country 2000</sortname>
-		<desc>The best-selling Super NES game of all time is back! Remember blasting through levels in barrels and taking wild mine cart rides? All the jammin' jungle hi-jinks are back, along with DK's animal friends Rambi the Rhino, Squawks the Parrot, Enguarde the Swordfish and more! In addition to all the original levels, you get the chest-pounding fun of new bonus levels and 2-player games.</desc>
-		<image>./images/Donkey Kong Country (UE) (M5) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20001123T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T204812</lastplayed>
-	</game>
-	<game>
 		<path>./Dragon Warrior I &amp; II (U) [C][!].zip</path>
 		<name>Dragon Warrior I &amp; II</name>
 		<sortname>Dragon Quest 1 &amp; 2</sortname>
@@ -4736,60 +4612,6 @@ Though it follows the same story told in the Gold and Silver versions, Pokémon 
 		<lastplayed>20210327T213434</lastplayed>
 	</game>
 	<game>
-		<path>./Other/1942 (U) [C][!].zip</path>
-		<name>1942</name>
-		<desc>1942... you and daring fighter pilot "Super Ace" are engaged in realistic, thrilling and challenging high-flying battles with the enemy. Over land, on the sea and in the air, your own skill and dexterity... combined with Super Ace's flying mastery, duel enemy pilots in fighter and bomber craft. 1942... it's airplanes taking off and landing on ocean-going aircraft carriers... disrupting enemy formations ready to attack... intercepting enemy air-warriors you must defeat by "blasting 'em out of the sky." Will it be victory? Or defeat? It's in your skillful hands!</desc>
-		<image>./Other/images/1942 (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20000522T000000</releasedate>
-		<developer>Digital Eclipse Software, Inc.</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action, Shooter</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221128</lastplayed>
-	</game>
-	<game>
-		<path>./Other/3-D Ultra Pinball - Thrillride (U) [C][!].zip</path>
-		<name>3-D Ultra Pinball: Thrillride</name>
-		<desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don’t bump too hard or you’ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
-		<image>./Other/images/3-D Ultra Pinball - Thrillride (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20001201T000000</releasedate>
-		<developer>Left Field Productions</developer>
-		<publisher>Sierra</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221204</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Action Man - Search for Base X (U) [C][!].zip</path>
-		<name>Action Man: Search For Base X</name>
-		<desc>Alex "Action Man" Mann makes a stop over onto the Game Boy Color where once again he must stop the world from falling into the clutches of the evil Dr. X. The player takes control of Action Man as they travel through seven different levels ranging for jungles to the Arctic, battling an army of robots with a variety of weapons and battle suits in search of Base X and stop Dr. X from launching a terrifying new weapon that could very well bring an end to the world.
-
-The gameplay is a standard side-scrolling action platformer where the player advances throughout the level, destroying enemies and avoiding pit falls. Along the way they can pick up more powerful guns as well as a bow and arrow and even different suits that can help them on their quest. Additionally, players can find these weapons and suits by taking different paths throughout the levels.</desc>
-		<image>./Other/images/Action Man - Search for Base X (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20010206T000000</releasedate>
-		<developer>Natsume</developer>
-		<publisher>THQ</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221233</lastplayed>
-	</game>
-	<game>
-		<path>./Other/AirForce Delta (U) [C][!].zip</path>
-		<name>AirForce Delta</name>
-		<desc>Ever been screaming along at Mach 2 and ordered to drop 6,000 pounds of bombs on a target no bigger than a Yugo? Or get that feeling of multiple bogeys closing in on your tail for a lock-on to blow you out of the sky? You've been contracted by a mercenary group to fuel-up, strap-in and snuff out the enemy. And to sweeten the pot in this "The more you take out, the more you take home" deal, you can upgrade your ride, choosing from over 30 different aircraft to get the job done. You in? Then get ready to grab some serious air!</desc>
-		<image>./Other/images/AirForce Delta (U) [C][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20001121T000000</releasedate>
-		<developer>Climax Entertainment</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Flight Simulator</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221259</lastplayed>
-	</game>
-	<game>
 		<path>./Sports/International Superstar Soccer 2000 (U) [C][!].zip</path>
 		<name>International Superstar Soccer 2000</name>
 		<desc>Konami's premier soccer franchise, INTERNATIONAL SUPERSTAR SOCCER, has come to the Game Boy Color. You can choose your team from 36 international squads that include traditional powerhouses like Brazil and Italy, as well as some less-respected teams like the United States and Cameroon. After you select your team you will compete in pool play for the International Cup. If you are not ready for the international limelight, you can play and Exhibition game or participate in a League. During the game there are number of coaching options available, like the ability to pick your formations and match-ups. When you get a big winning streak going, you can keep track of your progress with a password. Now you can enjoy the world's most popular sport without getting dirty with INTERNATIONAL SUPERSTAR SOCCER.</desc>
@@ -4918,5 +4740,193 @@ The island’s inhabitants have no knowledge of the outside world.  One creature
 		<favorite>true</favorite>
 		<playcount>1</playcount>
 		<lastplayed>20210327T212202</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/10-Pin Bowling (U) [C][!].zip</path>
+		<name>10 Pin Bowling</name>
+		<desc>10-PIN BOWLING brings you all the fun of bowling in miniature form on your Game Boy Color. Play by yourself or with a friend in 10 frames of simple straight-up bowling action. Challenge your friend to see who's better or challenge your own scores to see if you can beat them. Aim carefully and apply the right amount of strength and you'll be racking up strikes in no time. This cartridge also uses the Rumble technology so you can feel every strike and spare in the alley. 10-PIN BOWLING features everything but the stinky shoe rentals. Will you rule the lane, or will you just be another gutter ball?</desc>
+		<image>./Sports/images/10-Pin Bowling (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990801T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T101221</lastplayed>
+	</game>
+	<game>
+		<path>./Other/1942 (U) [C][!].zip</path>
+		<name>1942</name>
+		<desc>1942... you and daring fighter pilot "Super Ace" are engaged in realistic, thrilling and challenging high-flying battles with the enemy. Over land, on the sea and in the air, your own skill and dexterity... combined with Super Ace's flying mastery, duel enemy pilots in fighter and bomber craft. 1942... it's airplanes taking off and landing on ocean-going aircraft carriers... disrupting enemy formations ready to attack... intercepting enemy air-warriors you must defeat by "blasting 'em out of the sky." Will it be victory? Or defeat? It's in your skillful hands!</desc>
+		<image>./Other/images/1942 (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Digital Eclipse Software, Inc.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211019T114952</lastplayed>
+	</game>
+	<game>
+		<path>./Other/3-D Ultra Pinball - Thrillride (U) [C][!].zip</path>
+		<name>3-D Ultra Pinball: Thrillride</name>
+		<desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don’t bump too hard or you’ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
+		<image>./Other/images/3-D Ultra Pinball - Thrillride (U) [C][!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20001201T000000</releasedate>
+		<developer>Left Field Productions</developer>
+		<publisher>Sierra</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211019T182822</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/720 Degrees (U) [C][!].zip</path>
+		<name>720 Degrees</name>
+		<desc>Hop on and hang ten as you crash around corners, swerve on sidewalks, and leap over the locals at Skate City, a skateboarder's fantasy world where virtually every surface is skateable. Flip and twist around the street fighters, Frisbee throwers, hard bodies and killer bees that jam city streets. Polish your skills and take your act to the skate parks where you'll vie for medals and cash in downhill, jump, ramp, and slalom competition. Shoot the tubes, "catch air" as you fly off ramps - master all of the moves including the dangerous 720. You'll need every edge as you try to become champion of the skating world!</desc>
+		<image>./Sports/images/720 Degrees (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990301T000000</releasedate>
+		<developer>Game Brains</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Sports</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T184407</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Action Man - Search for Base X (U) [C][!].zip</path>
+		<name>Action Man: Search For Base X</name>
+		<desc>Alex "Action Man" Mann makes a stop over onto the Game Boy Color where once again he must stop the world from falling into the clutches of the evil Dr. X. The player takes control of Action Man as they travel through seven different levels ranging for jungles to the Arctic, battling an army of robots with a variety of weapons and battle suits in search of Base X and stop Dr. X from launching a terrifying new weapon that could very well bring an end to the world.
+
+The gameplay is a standard side-scrolling action platformer where the player advances throughout the level, destroying enemies and avoiding pit falls. Along the way they can pick up more powerful guns as well as a bow and arrow and even different suits that can help them on their quest. Additionally, players can find these weapons and suits by taking different paths throughout the levels.</desc>
+		<image>./Other/images/Action Man - Search for Base X (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010206T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T232052</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aliens - Thanatos Encounter (U) [C][!].zip</path>
+		<name>Aliens: Thanatos Encounter</name>
+		<sortname>Alien 2: Thanatos Encounter</sortname>
+		<desc>Prepare for horror and fright beyond your wildest nightmares, as you step into the world of ALIENS: Thanatos Encounter. The terrifying creatures made famous by the popular ALIENS movies come to Game Boy Color in a totally new adventure. You play as one of five space marines who are sent to explore an abandoned freighter. Naturally, the situation is far worse than your squad expected the ship is completely infested with thousands of vicious aliens. In this single-player shooter, you'll make your way through the various sections of the ship in 12 missions. Discover the solution to the mystery of the aliens' reappearance through the cinematic cutscenes you'll see throughout the game. You can use a variety of alien-busting weapons like machine guns and flame-throwers to fend off the incoming horde and, if all else fails, turn tail and run as fast as you can! Battle a wide variety of different breeds of aliens, including some all-new hybrids.</desc>
+		<image>./Other/images/Aliens - Thanatos Encounter (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Super Breakout! (U) [C][!].zip</path>
+		<name>Super Breakout</name>
+		<sortname>Breakout, Super</sortname>
+		<desc>A new version of the classic game with four gameplay modes adding variety to the classic brick buster. You can knock balls in the standard mode, a double wall mode, a "cavity" mode (where you can free two locked balls from gaps in the field), and the intense falling wall "progression" mode. Also features multiplayer mode for two gamers.</desc>
+		<image>./Other/images/Super Breakout! (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/All-Star Baseball 2000 (U) [C][!].zip</path>
+		<name>All-Star Baseball 2000</name>
+		<sortname>All Star Baseball 2000</sortname>
+		<desc>Using real licensed teams and players from the 1999 season, ALL-STAR BASEBALL 2000 challenges you to take your favorite MLB team to a World Series victory. ALL-STAR BASEBALL 2000 offers a wide variety of gameplay options. If you think you have what it takes to play through a full season of MLB action, try the Season mode. If you like to cut to the chase, go straight to the Playoffs. Practice up your swing in the Batting Practice mode, and then prove your skills in the Home Run Derby! When you're ready, take to the field with the greats of the sport in an All-Star Game. Choose between manual and automatic fielding. Need to hold off on your pennant race until another day? No problem! Save your team's progress using the handy password function.</desc>
+		<image>./Sports/images/All-Star Baseball 2000 (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990501T000000</releasedate>
+		<developer>Realtime Associates, Inc.</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/All-Star Baseball 2001 (U) [C][!].zip</path>
+		<name>All-Star Baseball 2001</name>
+		<sortname>All Star Baseball 2001</sortname>
+		<desc>Are you ready to be an All-Star? In Acclaim's ALL-STAR BASEBALL 2001, that's just what you'll have to be to hang in the dugout with the pros. This single-player game for the PSX brings all of your favorite MLB teams to the small screen with a wide variety of gameplay options. Choose your favorite team and go through a full Season or cut right to the Playoffs to prove you are the best. Take it to a new level by playing an All-Star Game, where the top players from the MLB come to show off their stuff. For this version there's an improved batting system, as well as updated rosters, better computer AI, and enhanced graphics. Make sure to practice with the improved batting interface, because the ever-popular Home Run Derby also makes its return. ALL-STAR BASEBALL 2001...catch it!</desc>
+		<image>./Sports/images/All-Star Baseball 2001 (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000601T000000</releasedate>
+		<developer>KnowWonder</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Other/Deja Vu I &amp; II (U) [C][!].zip</path>
+		<name>Deja Vu I &amp; II: The Casebooks of Ace Harding</name>
+		<sortname>Deja Vu 1 &amp; 2 Casebooks of Ace Harding</sortname>
+		<desc>Take on two thrilling mysteries in one Game Pak!
+
+Life is never boring when you assume the role of Ace Harding, private detective. In Deja Vu I, you will scramble down the dark alleys of Chicago, searching for a cure for you amnesia and a killer who has framed you for a brutal murder. After solving the first case, you'll uncover a few loose strings that gradually unrabel into Deja Vu II. Trapped in the slimy town of Last Vegas, you find yourself dealing with a notorious mob leader who makes you an offer you can't refuse.
+
+-Two detailed graphic adventure games in one Game Boy Color Game Pak!
+-Detailed commands for interacting with anyone or anything!
+-Return to the scene of the crime, or any of the other 140 locations!
+-Sort out the real evidence from the red herrings and over 80 other items!
+-Battery-backed save option for up to three save game files!</desc>
+		<image>./Other/images/Deja Vu I &amp; II (U) [C][!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>Infinite Ventures</developer>
+		<publisher>Vatical Entertainment LLC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Sports/Caesars Palace II (U) [C][!].zip</path>
+		<name>Caesars Palace II</name>
+		<sortname>Caesars Palace 2</sortname>
+		<desc>Welcome to Ceasars Palace II, the premiere gambling game where you're the next high roller in the glamerous casino enviroment of the world-famous Caesars Palace. If you're feeling lucky, then you've come to the right place. Test your gambling prowess with 19 games of chance including: Craps, Blackjack, Rouulett, Slotts, Video Poker, Mini-Baccarat, Keno and Poker Challenge.</desc>
+		<image>./Sports/images/Caesars Palace II (U) [C][!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Runecraft</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Donald Duck - Goin' Quackers (U) (M5) [C][!].zip</path>
+		<name>Disney's Donald Duck: Goin' Quackers</name>
+		<sortname>Disney's Donald Goin Quackers</sortname>
+		<desc>In DONALD DUCK: Goin' Quackers for the Game Boy Color you play Donald Duck, who must rescue his girlfriend Daisy from the clutches of the evil Merlock You'll set out on an adventure to rescue Daisy and send Merlock back to his own warped dimension. To do that, you'll have to run, jump, and battle your way through the levels and collect the blueprints to the dimensional transporter that are scattered around four different side-scrolling worlds. Vibrant, full-color graphics with astonishing animation make the presentation of this game top-notch, and colorful cutscenes move the story along between levels. DONALD DUCK: Goin' Quackers is only compatible with Game Boy Color systems.</desc>
+		<image>./Other/images/Donald Duck - Goin' Quackers (U) (M5) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001019T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft Entertainment</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (UE) (M5) [C][!].zip</path>
+		<name>Donkey Kong Country</name>
+		<sortname>Donkey Kong Country</sortname>
+		<desc>The best-selling Super NES game of all time is back! Remember blasting through levels in barrels and taking wild mine cart rides? All the jammin' jungle hi-jinks are back, along with DK's animal friends Rambi the Rhino, Squawks the Parrot, Enguarde the Swordfish and more! In addition to all the original levels, you get the chest-pounding fun of new bonus levels and 2-player games.</desc>
+		<image>./images/Donkey Kong Country (UE) (M5) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T204812</lastplayed>
+	</game>
+	<game>
+		<path>./Other/AirForce Delta (U) [C][!].zip</path>
+		<name>AirForce Delta</name>
+		<desc>Ever been screaming along at Mach 2 and ordered to drop 6,000 pounds of bombs on a target no bigger than a Yugo? Or get that feeling of multiple bogeys closing in on your tail for a lock-on to blow you out of the sky? You've been contracted by a mercenary group to fuel-up, strap-in and snuff out the enemy. And to sweeten the pot in this "The more you take out, the more you take home" deal, you can upgrade your ride, choosing from over 30 different aircraft to get the job done. You in? Then get ready to grab some serious air!</desc>
+		<image>./Other/images/AirForce Delta (U) [C][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001121T000000</releasedate>
+		<developer>Climax Entertainment</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220115T210427</lastplayed>
 	</game>
 </gameList>

@@ -68,17 +68,6 @@
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~.zip</path>
-		<name>Adventure</name>
-		<desc>Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Robinett even described the dragons as looking like ducks.</desc>
-		<image>./images/Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
 		<path>./Asteroids (1981) (Atari, Brad Stewart - Sears) (CX2649 - 49-75163) ~.zip</path>
 		<name>Asteroids</name>
 		<desc>The objective of Asteroids is to score as many points as possible by destroying asteroids and flying saucers. The player controls a triangular-shaped ship that can rotate left and right, fire shots straight forward, and thrust forward. As the ship moves, momentum is not conserved — the ship eventually comes to a stop again when not thrusting. The player can also send their ship into hyperspace, causing it to disappear and reappear in a random location on the screen (with the risk of self-destructing or appearing on top of an asteroid).</desc>
@@ -481,69 +470,6 @@ Progressive also has the single bat and ball, but as the ball hits the paddle, t
 		<publisher>Atari, Inc.</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/2005 Minigame Multicart.zip</path>
-		<name>2005 Minigame Multicart</name>
-		<desc>Atari 2600 fans Chris Walton (cd-w), Fred Quimby (batari), Bob Montgomery (vdub_bobby), and Zach Matley (Zach) submitted several 1K entries for the 2005 Minigame Competition. They have now teamed up to release their seven 1K games in a single 2005 Minigame Multicart, complete with an on-screen menu that allows easy selection of the games as well as instructions.
-
-The included games are: Hunchy, Jetman, Nightrider, Zirconium, Rocket Command, M-4, and Marble Jumper</desc>
-		<image>./Other/images/2005 Minigame Multicart-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Self-Published</developer>
-		<publisher>Self-Published</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~.zip</path>
-		<name>3-D Tic-Tac-Toe</name>
-		<desc>Modeled after the game "Qubic". Atari released a graphical version of the game for the Atari 2600 console and Atari 8-bit computers in 1978. The program was written by Carol Shaw, who went on to greater fame as the creator of Activision's River Raid. It uses the standard joystick controller. It can be played by two players against each other, or one player can play against the program on one of eight different difficulty settings.</desc>
-		<image>./Other/images/3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19780322T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Strategy</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL).zip</path>
-		<name>32 in 1</name>
-		<desc>32 games in 1 cartridge was 1988 released and is highly common in Europe. Popular Atari 2600 games of the sports- and shootergenre was put into one cartridge. This was a cart that was released in PAL format in Europe, Australia and New Zealand. Most were the pack in game with the Atari 2600 in the UK and Atari 7800 in Australia and New Zealand but it was also released as a boxed separate game for the Atari 2600. A different game was selected every time the Atari 2600 or Atari 7800 was turned on.</desc>
-		<image>./Other/images/32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action, Puzzle, Strategy, Racing, Shooter, Fighting, Sports, Flight Simulator</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/A-VCS-tec Challenge.zip</path>
-		<name>A-VCS-tec Challenge</name>
-		<desc>1475. Tenochtitlán is ruled by the Aztec sovereign Axayacatl, son of Motecuhzoma. Even as he was being defeated by the Tarascans, Axayacatl was expanding his realm by conquering the Mixtecs and Zapotecs.
-
-You, being a warrior of the Zapotecs, managed to escape the battlefield together with two of your brothers, but unfortunately your party was trapped afterwards. Axayacatl offers you the only chance to survive by reaching the coast and leaving the country by boat. He challenges you with spear throwing warriors along your path and stone rolling priests on the pyramids. Reaching the pyramids safe inside allows your team to relax for a short time and prepare for the next trail.
-
-Simon Quernhorst, author of the Atari 2600 homebrew game Mental Kombat, has programmed a new 2600 game: A-VCS-tec Challenge. A-VCS-tec Challenge is a conversion of the popular Aztec Challenge on the Commodore 64. The Atari 2600 version of the game includes the original game's arcade-like first level, called "The Gauntlet", as well as a second level where you must race up the stairs to the top of the pyramid while avoiding large stones being thrown down from the top! A-VCS-tec Challenge features the memorable soundtrack from the Commodore 64 version, composed by Paul Slocum, author of the Synthcart and Marble Craze for the 2600.</desc>
-		<image>./Other/images/A-VCS-tec Challenge-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20060710T000000</releasedate>
-		<developer>Simon Quernhorst</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~.zip</path>
-		<name>Acid Drop</name>
-		<desc>A falling block game similar to Columns. The object of the game is to create a horizontal or vertical line of three or more blocks of the same color, which will then disappear. The remaining blocks will fall down, but won't disappear if they form another line. Every 10,000 points a special block will appear (the Acid Drop) which removes three columns of blocks and marks the beginning of the next level.</desc>
-		<image>./Other/images/Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Salu</developer>
-		<publisher>Salu Ltd.</publisher>
-		<genre>Strategy</genre>
 	</game>
 	<game>
 		<path>./Other/Bachelorette Party (PlayAround).zip</path>
@@ -954,19 +880,6 @@ Countless numbers of these space age creepy-crawlies begin to emerge from massiv
 		<rating>0.2</rating>
 		<releasedate>19830505T000000</releasedate>
 		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Sports/Bump 'n' Jump (1983) (M Network, David Akers, Joe 'Ferreira' King, Patricia Lewis Du Long, Jeff Ratcliff - INTV) (MT7045) ~.zip</path>
-		<name>Bump N Jump</name>
-		<desc>Bump 'n' Jump, known in Japan as Burnin' Rubber (??????? B?nin Rab??), is a 1982 Japanese arcade game created by Data East Corporation, released as both a dedicated board and as part of their DECO Cassette System. The game was published in certain regions by Bally Midway.
-
-In Bump 'n' Jump the goal is to drive from the beginning of a level to the end while bumping enemy vehicles into obstacles and jumping over various large obstacles such as bodies of water.</desc>
-		<image>./Sports/images/Bump 'n' Jump (1983) (M Network, David Akers, Joe 'Ferreira' King, Patricia Lewis Du Long, Jeff Ratcliff - INTV) (MT7045) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830504T000000</releasedate>
-		<developer>M Network</developer>
-		<publisher>M Network</publisher>
-		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./Other/Bumper Bash (Paddle) (1983) (Spectravideo, David Lubar) (SA-218) ~.zip</path>
@@ -1702,27 +1615,6 @@ You use the joystick to move the ship, left, right, up or down. Press the fire b
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Other/Aufruhr im Zoo (AKA Panda Chase) (1983) (Quelle) (719.694 2) (PAL).zip</path>
-		<name>Panda Chase</name>
-		<image>./Other/images/Aufruhr im Zoo (AKA Panda Chase) (1983) (Quelle) (719.694 2) (PAL)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Home Vision</developer>
-		<publisher>Homevision</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Demo/A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype).zip</path>
-		<name>The A-Team</name>
-		<sortname>A-Team, The</sortname>
-		<desc>If The A-Team looks familiar it's because it is little more than a graphic hack of another unreleased Atari game called Saboteur.  At one point it was thought these games were the same except for the graphics, but after analyzing them I've found some slight gameplay differences.  On this page I'll concentrate on the differences between Saboteur and The A-Team, for more information on the gameplay itself look at the Saboteur page.  
-
-It's unknown why Atari decided to change Saboteur into The A-Team, but we assume it's because they wanted a game based on the then popular A-Team TV show and didn't want to wait for a new game to be developed.  At that point Saboteur was ready for release and Atari decided that they would attempt to integrate A-Team characters into a game that was already finished.  The results are interesting at best, confusing to say the least.</desc>
-		<image>./Demo/images/A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19840101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Other/This Planet Sucks.zip</path>
@@ -2526,52 +2418,6 @@ Dodge enemy MCP attackers by jumping, using elevators and hitching a ride on the
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Air Raid (Men-A-Vision) (PAL).zip</path>
-		<name>Air Raid</name>
-		<desc>The quiet pre-dawn sky is suddenly filled with enemy bombers. Can you save Manhattan from your loan command post? You watch as the sky scrapers around you are reduced by each hit until, after 12 hits, nothing but rubble remains. You fire fast and furiously to protect the falling city. Can you withstand the deadly on slaught? With 8 variations of play this debut thrill packed action game by Men-A-Vision, will bring many hours of exciting challenging play.</desc>
-		<image>./Other/images/Air Raid (Men-A-Vision) (PAL)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Men-A-Vision</developer>
-		<publisher>MenAvision</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Air Raiders (Air Battle) (1982) (M Network, Larry Zwick - INTV) (MT5861).zip</path>
-		<name>Air Raiders</name>
-		<desc>Start with lots of ammo and your fuel tank full! Shoot down enemy planes. Dodge enemy ground shells. Get hit and you lose altitude! Watch your gauges. Don't crash! Land to refuel after you make ten hits! Take off again... Game ends when you run out of ammo or crash!</desc>
-		<image>./Other/images/Air Raiders (Air Battle) (1982) (M Network, Larry Zwick - INTV) (MT5861)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>M Network</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Air-Sea Battle - Air Sea Battle - Target Fun (Anti-Aircraft) (1977) (Atari, Larry Kaplan - Sears) (CX2602 - 99802, 6-99802, 49-75102) ~.zip</path>
-		<name>Air-Sea Battle</name>
-		<desc>There are six basic types of game available in Air-Sea Battle, and for each type, there are one or two groups of three games, for a total of twenty-seven game variants. Within each group, variant one is the standard game, variant two features guided missiles which can be directed left or right after being fired, and variant three pits a single player (using the right gun) against a computer opponent, which simply fires continuously at the default angle or speed. In every game, players shoot targets (enemy planes or ships, shooting gallery targets, or each other, depending on the game chosen) competing to get a higher score. Each round lasts two minutes and sixteen seconds; the player with the higher score after time expires is the winner, unless one player wins (and ends the game) by reaching 99 points before the time is up.</desc>
-		<image>./Other/images/Air-Sea Battle - Air Sea Battle - Target Fun (Anti-Aircraft) (1977) (Atari, Larry Kaplan - Sears) (CX2602 - 99802, 6-99802, 49-75102) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19780324T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Airlock (1982) (Data Age) (DA1004) ~.zip</path>
-		<name>Airlock</name>
-		<desc>The player is trapped in a crashed nuclear submarine which has begun taking on water. They need to escape by making their way up the levels of the submarine one at a time. Each floor has two hatch keys that need to be collected in order to unlock the elevator to the next level. There is a time limit, though; if you take too long the floor will flood and you'll be unable to escape. Due to the crash, the torpedoes on board the submarine are now loose and wander across the floor as the boat shakes. The player will need to jump over any torpedoes that cross their path, or they will be stunned momentarily and lose precious time.</desc>
-		<image>./Other/images/Airlock (1982) (Data Age) (DA1004) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Data Age</developer>
-		<publisher>Data Age, Inc.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Alien (1982) (20th Century Fox Video Games, Douglas 'Dallas North' Neubauer) (11006) ~.zip</path>
 		<name>Alien</name>
 		<desc>In this game based, loosely, on the movie of the same name, you have to move through a maze (the halls of your ship in the manual), ala Pac-Man, collecting dots (destroying alien eggs).
@@ -2585,29 +2431,6 @@ After you clear one level, you get a bonus game. You have to move up the screen 
 		<developer>Fox Video Games, Inc.</developer>
 		<publisher>Fox Interactive</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Demo/Alligator People (1983) (20th Century Fox Video Games, John Russell) (Prototype) ~.zip</path>
-		<name>Alligator People, The</name>
-		<desc>Alligator People is an unreleased prototype based on the movie of the same name. This prototype, discovered by Ben Liashenko, appears to have been completed and unlike some prototypes that never saw the light of day, this one is quite enjoyable to play! You are lost in the deepest part of the jungle. Six of your friends have fallen under the spell of the Alligator People. They are slowly being transformed into alligators and you are the only one in the world who can save them! To stop this transformation, you must inoculate each of them with a special antidote that you gather throughout the swamp. You don't have a lot of time! Not to mention, the alligators are chasing you as you attempt to gather vials of the antidote! The longer you wait, the more antidote you need to reverse the effects of the Alligator People!</desc>
-		<image>./Demo/images/Alligator People (1983) (20th Century Fox Video Games, John Russell) (Prototype) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830501T000000</releasedate>
-		<developer>20th Century Fox</developer>
-		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Other/Alpha Beam with Ernie (Kid's Controller) (Children's Computer Workshop) (1983) (Atari, Michael Callahan, Preston Stuart) (CX26103) ~.zip</path>
-		<name>Alpha Beam With Ernie</name>
-		<desc>The object of Alpha Beam is to help Sesame Street's Ernie pilot a small shuttle, collect fuel tanks (marked by a letter of the alphabet), and return them to his space ship so that he can return to Earth.
-
-The game was marketed as a family-friendly game that could teach children pre-reading skills such as identifying and matching letters. Alpha Beam was compatible with the Atari Kid's Controller, which was sold separately, although the regular keyboard controller is also compatible</desc>
-		<image>./Other/images/Alpha Beam with Ernie (Kid's Controller) (Children's Computer Workshop) (1983) (Atari, Michael Callahan, Preston Stuart) (CX26103) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Puzzle</genre>
 	</game>
 	<game>
 		<path>./Other/Amidar (1982) (Parker Brothers, Ed Temple) (PB5310) ~.zip</path>
@@ -2837,17 +2660,6 @@ Also, you'll score 100 points each time your dolphin catches a good wave or each
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Sports/Donald Duck's Speedboat (Donald Duck's Regatta) (04-12-1983) (Atari) (CX26108) (Prototype) ~.zip</path>
-		<name>Donald Duck's Speedboat</name>
-		<desc>Donald has entered the Duckburg boat race and has taken to the sea with his speedboat. The objective is to steer the boat away from the obstacles along the way to the finish line and do so as fast as possible without losing pressure on the throttle. The game takes place across multiple screens which each presents its own obstacle patterns and challenges.</desc>
-		<image>./Sports/images/Donald Duck's Speedboat (Donald Duck's Regatta) (04-12-1983) (Atari) (CX26108) (Prototype) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Polyvox</publisher>
-		<genre>Racing</genre>
-	</game>
-	<game>
 		<path>./Other/Donkey Kong (1982) (Coleco, Dan Kitchen, Garry Kitchen) (2451) ~.zip</path>
 		<name>Donkey Kong</name>
 		<desc>Donkey Kong, the ape has stolen Mario's girlfriend and has taken her to the top of a steel fortress. Mario must get to the top to save her! Use the joystick control to maneuver Mario across the girders and up the ladders. But-as he runs, the ape throws barrels at him to prevent his progress. Use the fire button to get Mario to jump over the barrels. Will Mario make it to the top and rescue his gal in time?</desc>
@@ -2956,17 +2768,6 @@ The object of Dragster is to beat your opponent across the screen, or to race ag
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/Dukes of Hazzard (1983) (Atari, Mark R. Hahn) (CX2678) ~.zip</path>
-		<name>Dukes of Hazzard</name>
-		<desc>Dukes of Hazzard is a driving game with an overhead perspective, based on the popular television series of the same name. Players take on the role of the Duke boys driving the infamous "General Lee," while trying to avoid the police and rescue their sister Daisy from Boss Hogg. While development of this game was reportedly complete, it was not commercially released (and thus it never recieved a packaging design, official instruction manual, etc).</desc>
-		<image>./Other/images/Dukes of Hazzard (1983) (Atari, Mark R. Hahn) (CX2678) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19831102T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action, Racing</genre>
-	</game>
-	<game>
 		<path>./Demo/Dukes of Hazzard version 2.zip</path>
 		<name>Dukes of Hazzard 2</name>
 		<desc>This is another prototype with the Dukes of Hazzard name. However, this is a modified version of Stunt Cycle, another unreleased game. In this case, the graphics have been changed to a Dukes of Hazzard theme.</desc>
@@ -2975,17 +2776,6 @@ The object of Dragster is to beat your opponent across the screen, or to race ag
 		<releasedate>19830101T000000</releasedate>
 		<developer>Atari</developer>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Demo/Dumbo's Flying Circus (05-05-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) ~.zip</path>
-		<name>Dumbo's Flying Circus</name>
-		<desc>Dumbo's Flying Circus was scheduled to be part of Atari's children's series (which included characters from Peanuts, Sesame Street, Disney, Muppets, and Garfield), but for one reason or another it never saw the light of day.  Atari advertised Dumbo in European Atari catalogs and even had a prototype box made, so the decision to shelve it must have been made quite late.  Even though Dumbo was developed as a children's game, the gameplay is quite difficult which may be the reason why it was never released.</desc>
-		<image>./Demo/images/Dumbo's Flying Circus (05-05-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Prototype</developer>
-		<publisher>Prototype</publisher>
-		<genre>Adventure</genre>
 	</game>
 	<game>
 		<path>./Demo/Dune (07-10-1984) (Atari, Bruce Poehlman, Gary Stark) (Prototype) ~.zip</path>
@@ -4673,17 +4463,6 @@ When solved, every face of Rubik's Cube is a solid color. Once you start turning
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Demo/Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~.zip</path>
-		<name>Saboteur</name>
-		<sortname>A-Team Saboteur</sortname>
-		<desc>Saboteur was later reprogrammed as A-Team.
- </desc>
-		<image>./Demo/images/Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Demo/Save Mary! (Saving Mary) (11-21-1989) (Atari - Axlon, Tod Frye) (CX26178) (Prototype) ~.zip</path>
 		<name>Save Mary</name>
 		<desc>Save Mary is an Atari 2600 action game that revolves around creating platforms to save Mary, the damsel in distress. The character is a humble construction worker who must pick up crates to use as platforms to get Mary to climb up, eventually leading to the top of the valley. The villain of the story is a mustachioed fiend who keeps Mary at the bottom of the valley for his own perverse pleasure.
@@ -5243,17 +5022,6 @@ To give you more power over the Forces of Evil the good Sorcerers have provided 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) ~.zip</path>
-		<name>Sorcerer's Apprentice</name>
-		<desc>Help! You are on a magical rescue mission. Your task? Help Mickey stop an army of brooms from flooding the Sorcerer's cavern with water. How? Stop the brooms, and stop the stars from creating more brooms. Turn meteors into empty buckets to bail out water. Where? Meet Mickey in the mountains. When? Immediately!</desc>
-		<image>./Other/images/Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19840207T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Space Attack (1982) (M Network, Hal Finney, Bruce Pedersen - INTV) (MT5659) ~.zip</path>
 		<name>Space Attack</name>
 		<desc>The object of the game is to defend your Mother Ship from attacking aliens. You have 3 squadrons, with 3 ships in each squadron. Aliens have 6 fleets of varying sizes. (Only 3 fleets appear at a time on the Radar Screen.) Destroy all alien fleets and you win! If your squadrons are destroyed first, the aliens move in and annihilate the hidden Mother Ship.</desc>
@@ -5707,18 +5475,6 @@ If a lander is in the process of abducting a humanoid, flying into the Stargate 
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Sports/Steeplechase (Paddle) (1980) (Sears Tele-Games, Jim Huether) (CX2614 - 49-75126) ~.zip</path>
-		<name>Steeplechase</name>
-		<desc>Steeple Chase is a split screen horse racing game.  Challenge the hedges, puddles and fences on your way to the world's fastest time.</desc>
-		<image>./Sports/images/Steeplechase (Paddle) (1980) (Sears Tele-Games, Jim Huether) (CX2614 - 49-75126) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830103T000000</releasedate>
-		<developer>Telegames, Inc.</developer>
-		<publisher>Sears, Roebuck and Co.</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
 	</game>
 	<game>
 		<path>./Sports/Steeplechase (1983) (Video Gems) (VG-03) (PAL) ~.zip</path>
@@ -6329,31 +6085,6 @@ The game is divided up into several rows (planes of existence). Between each of 
 		<developer>Fox</developer>
 		<publisher>Fox Interactive</publisher>
 		<genre>Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/Knight on the Town (1982) (PlayAround - J.H.M.) (203).zip</path>
-		<name>A Knight On The Town</name>
-		<desc>The object of the game is to save the lovely princess, held captive in the castle tower, and become the object of her affections in the least possible time. You accomplish this by maneuvering your knight (who's not in shining armor) to build a bridge across the moat, avoiding the dangers of the beast, a crocodile, and in the more difficult version a flying dragon who drops fireballs.</desc>
-		<image>./Other/images/Knight on the Town (1982) (PlayAround - J.H.M.) (203)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19820501T000000</releasedate>
-		<developer>Playaround</developer>
-		<genre>Life Simulation</genre>
-	</game>
-	<game>
-		<path>./Demo/Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~.zip</path>
-		<name>A Mysterious Thief</name>
-		<desc>Your goal is to steal as many items from the building before the timer expires.  To accomplish this task you're going to have to sneaky, because as we all know a clumsy thief is a dead thief.  Unfortunately you're not alone, killer guard dogs and the local security man have been alerted to your presence and are out to put and end to your one man crime spree.  
- 
-Within a platform system, the player must reach the purple line to be able to go up or down the floors. But beware, as several enemies will appear to disrupt you. 
-
-The Mysterious Thief was canceled before its release, being possible to play only the NTSC prototype version. A PAL version of this game called Criminal Pursuit was later released by Suntek.</desc>
-		<image>./Demo/images/Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Vidco</developer>
-		<publisher>Vidco</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Other/H.E.R.O. (1984) (Activision, John Van Ryzin) (AZ-036-04) ~.zip</path>
@@ -7582,19 +7313,6 @@ The diver loses a life if he is captured by the shark or the octopus's tentacles
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Obelix (1983) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) ~.zip</path>
-		<name>Obelix</name>
-		<desc>CAESAR'S GALLING DEFEAT
-
-The year: 50 B.C. The place: a Gaulish village near the Roman outposts of Totorum, Aquarium, Laudanum, and Compendium. Here we find the last outpost of resistance against the legions of Julius Caesar. And who are the leaders of these indomitable fighters against the mighty Roman empire? Who has the gall to oppose Caesar's will? Why, none other than a humble menhir deliveryman named Obelix, and his small but shrewd friend, Asterix.</desc>
-		<image>./Other/images/Obelix (1983) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) ~-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Off the Wall (Bizarre Breakout, Peasant King, Zip 'n' Zap) (1989) (Atari - Axlon) (CX26168) ~.zip</path>
 		<name>Off The Wall</name>
 		<desc>Off the Wall is a video game developed for the Atari 2600 video game console in 1989. It is essentially a clone of Breakout with a Chinese theme. It was developed by Axlon, a game development studio owned by Atari founder Nolan Bushnell.
@@ -7723,16 +7441,324 @@ This game was only sold in religious bookstores. It’s based on a line of The M
 		<genre>Action</genre>
 	</game>
 	<game>
+		<path>./Other/2005 Minigame Multicart.zip</path>
+		<name>2005 Minigame Multicart</name>
+		<desc>Atari 2600 fans Chris Walton (cd-w), Fred Quimby (batari), Bob Montgomery (vdub_bobby), and Zach Matley (Zach) submitted several 1K entries for the 2005 Minigame Competition. They have now teamed up to release their seven 1K games in a single 2005 Minigame Multicart, complete with an on-screen menu that allows easy selection of the games as well as instructions.
+
+The included games are: Hunchy, Jetman, Nightrider, Zirconium, Rocket Command, M-4, and Marble Jumper</desc>
+		<image>./Other/images/2005 Minigame Multicart-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Self-Published</developer>
+		<publisher>Self-Published</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T120221</lastplayed>
+	</game>
+	<game>
+		<path>./Demo/Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~.zip</path>
+		<name>A Mysterious Thief</name>
+		<desc>Your goal is to steal as many items from the building before the timer expires.  To accomplish this task you're going to have to sneaky, because as we all know a clumsy thief is a dead thief.  Unfortunately you're not alone, killer guard dogs and the local security man have been alerted to your presence and are out to put and end to your one man crime spree.  
+ 
+Within a platform system, the player must reach the purple line to be able to go up or down the floors. But beware, as several enemies will appear to disrupt you. 
+
+The Mysterious Thief was canceled before its release, being possible to play only the NTSC prototype version. A PAL version of this game called Criminal Pursuit was later released by Suntek.</desc>
+		<image>./Demo/images/Mysterious Thief, A (1983) (ZiMAG - Emag - Vidco) (GN-070) (Prototype) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Vidco</developer>
+		<publisher>Vidco</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211019T190216</lastplayed>
+	</game>
+	<game>
+		<path>./Demo/Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~.zip</path>
+		<name>Saboteur</name>
+		<sortname>A-Team Saboteur</sortname>
+		<desc>Saboteur was later reprogrammed as A-Team.
+ </desc>
+		<image>./Demo/images/Saboteur (Sabotage) (12-20-1983) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26119) (Prototype) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T190419</lastplayed>
+	</game>
+	<game>
+		<path>./Demo/A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype).zip</path>
+		<name>The A-Team</name>
+		<sortname>A-Team, The</sortname>
+		<desc>If The A-Team looks familiar it's because it is little more than a graphic hack of another unreleased Atari game called Saboteur.  At one point it was thought these games were the same except for the graphics, but after analyzing them I've found some slight gameplay differences.  On this page I'll concentrate on the differences between Saboteur and The A-Team, for more information on the gameplay itself look at the Saboteur page.  
+
+It's unknown why Atari decided to change Saboteur into The A-Team, but we assume it's because they wanted a game based on the then popular A-Team TV show and didn't want to wait for a new game to be developed.  At that point Saboteur was ready for release and Atari decided that they would attempt to integrate A-Team characters into a game that was already finished.  The results are interesting at best, confusing to say the least.</desc>
+		<image>./Demo/images/A-Team, The (AKA Saboteur) (03-30-1984) (Atari, Jerome Domurat, Howard Scott Warshaw) (CX26133) (Prototype)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840101T000000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211019T190510</lastplayed>
+	</game>
+	<game>
+		<path>./Other/3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~.zip</path>
+		<name>3-D Tic-Tac-Toe</name>
+		<desc>Modeled after the game "Qubic". Atari released a graphical version of the game for the Atari 2600 console and Atari 8-bit computers in 1978. The program was written by Carol Shaw, who went on to greater fame as the creator of Activision's River Raid. It uses the standard joystick controller. It can be played by two players against each other, or one player can play against the program on one of eight different difficulty settings.</desc>
+		<image>./Other/images/3-D Tic-Tac-Toe (1980) (Atari, Carol Shaw - Sears) (CX2618 - 49-75123) ~-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19780322T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T182456</lastplayed>
+	</game>
+	<game>
+		<path>./Other/32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL).zip</path>
+		<name>32 in 1</name>
+		<desc>32 games in 1 cartridge was 1988 released and is highly common in Europe. Popular Atari 2600 games of the sports- and shootergenre was put into one cartridge. This was a cart that was released in PAL format in Europe, Australia and New Zealand. Most were the pack in game with the Atari 2600 in the UK and Atari 7800 in Australia and New Zealand but it was also released as a boxed separate game for the Atari 2600. A different game was selected every time the Atari 2600 or Atari 7800 was turned on.</desc>
+		<image>./Other/images/32 in 1 Game Cartridge (1988) (Atari) (CX26163P) (PAL)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action, Puzzle, Strategy, Racing, Shooter, Fighting, Sports, Flight Simulator</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T183123</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Knight on the Town (1982) (PlayAround - J.H.M.) (203).zip</path>
+		<name>A Knight On The Town</name>
+		<desc>The object of the game is to save the lovely princess, held captive in the castle tower, and become the object of her affections in the least possible time. You accomplish this by maneuvering your knight (who's not in shining armor) to build a bridge across the moat, avoiding the dangers of the beast, a crocodile, and in the more difficult version a flying dragon who drops fireballs.</desc>
+		<image>./Other/images/Knight on the Town (1982) (PlayAround - J.H.M.) (203)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820501T000000</releasedate>
+		<developer>Playaround</developer>
+		<genre>Life Simulation</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T185826</lastplayed>
+	</game>
+	<game>
+		<path>./Other/A-VCS-tec Challenge.zip</path>
+		<name>A-VCS-tec Challenge</name>
+		<desc>1475. Tenochtitlán is ruled by the Aztec sovereign Axayacatl, son of Motecuhzoma. Even as he was being defeated by the Tarascans, Axayacatl was expanding his realm by conquering the Mixtecs and Zapotecs.
+
+You, being a warrior of the Zapotecs, managed to escape the battlefield together with two of your brothers, but unfortunately your party was trapped afterwards. Axayacatl offers you the only chance to survive by reaching the coast and leaving the country by boat. He challenges you with spear throwing warriors along your path and stone rolling priests on the pyramids. Reaching the pyramids safe inside allows your team to relax for a short time and prepare for the next trail.
+
+Simon Quernhorst, author of the Atari 2600 homebrew game Mental Kombat, has programmed a new 2600 game: A-VCS-tec Challenge. A-VCS-tec Challenge is a conversion of the popular Aztec Challenge on the Commodore 64. The Atari 2600 version of the game includes the original game's arcade-like first level, called "The Gauntlet", as well as a second level where you must race up the stairs to the top of the pyramid while avoiding large stones being thrown down from the top! A-VCS-tec Challenge features the memorable soundtrack from the Commodore 64 version, composed by Paul Slocum, author of the Synthcart and Marble Craze for the 2600.</desc>
+		<image>./Other/images/A-VCS-tec Challenge-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20060710T000000</releasedate>
+		<developer>Simon Quernhorst</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T190630</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~.zip</path>
+		<name>Acid Drop</name>
+		<desc>A falling block game similar to Columns. The object of the game is to create a horizontal or vertical line of three or more blocks of the same color, which will then disappear. The remaining blocks will fall down, but won't disappear if they form another line. Every 10,000 points a special block will appear (the Acid Drop) which removes three columns of blocks and marks the beginning of the next level.</desc>
+		<image>./Other/images/Acid Drop (1992) (Salu, Dennis M. Kiss) (460758) (PAL) ~-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Salu</developer>
+		<publisher>Salu Ltd.</publisher>
+		<genre>Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T201240</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Alpha Beam with Ernie (Kid's Controller) (Children's Computer Workshop) (1983) (Atari, Michael Callahan, Preston Stuart) (CX26103) ~.zip</path>
+		<name>Alpha Beam With Ernie</name>
+		<desc>The object of Alpha Beam is to help Sesame Street's Ernie pilot a small shuttle, collect fuel tanks (marked by a letter of the alphabet), and return them to his space ship so that he can return to Earth.
+
+The game was marketed as a family-friendly game that could teach children pre-reading skills such as identifying and matching letters. Alpha Beam was compatible with the Atari Kid's Controller, which was sold separately, although the regular keyboard controller is also compatible</desc>
+		<image>./Other/images/Alpha Beam with Ernie (Kid's Controller) (Children's Computer Workshop) (1983) (Atari, Michael Callahan, Preston Stuart) (CX26103) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<kidgame>true</kidgame>
+	</game>
+	<game>
+		<path>./Other/Obelix (1983) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) ~.zip</path>
+		<name>Obelix</name>
+		<sortname>Asterix Obelix</sortname>
+		<desc>CAESAR'S GALLING DEFEAT
+
+The year: 50 B.C. The place: a Gaulish village near the Roman outposts of Totorum, Aquarium, Laudanum, and Compendium. Here we find the last outpost of resistance against the legions of Julius Caesar. And who are the leaders of these indomitable fighters against the mighty Roman empire? Who has the gall to oppose Caesar's will? Why, none other than a humble menhir deliveryman named Obelix, and his small but shrewd friend, Asterix.</desc>
+		<image>./Other/images/Obelix (1983) (Atari, Andrew Fuchs, Jeffrey Gusman, Dave Jolly, Suki Lee) (CX26117) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sports/Bump 'n' Jump (1983) (M Network, David Akers, Joe 'Ferreira' King, Patricia Lewis Du Long, Jeff Ratcliff - INTV) (MT7045) ~.zip</path>
+		<name>Bump N Jump</name>
+		<sortname>Bump 'N' Jump</sortname>
+		<desc>Bump 'n' Jump, known in Japan as Burnin' Rubber (??????? B?nin Rab??), is a 1982 Japanese arcade game created by Data East Corporation, released as both a dedicated board and as part of their DECO Cassette System. The game was published in certain regions by Bally Midway.
+
+In Bump 'n' Jump the goal is to drive from the beginning of a level to the end while bumping enemy vehicles into obstacles and jumping over various large obstacles such as bodies of water.</desc>
+		<image>./Sports/images/Bump 'n' Jump (1983) (M Network, David Akers, Joe 'Ferreira' King, Patricia Lewis Du Long, Jeff Ratcliff - INTV) (MT7045) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830504T000000</releasedate>
+		<developer>M Network</developer>
+		<publisher>M Network</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Demo/Dumbo's Flying Circus (05-05-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) ~.zip</path>
+		<name>Dumbo's Flying Circus</name>
+		<sortname>Disney's Dumbo Flying Circus</sortname>
+		<desc>Dumbo's Flying Circus was scheduled to be part of Atari's children's series (which included characters from Peanuts, Sesame Street, Disney, Muppets, and Garfield), but for one reason or another it never saw the light of day.  Atari advertised Dumbo in European Atari catalogs and even had a prototype box made, so the decision to shelve it must have been made quite late.  Even though Dumbo was developed as a children's game, the gameplay is quite difficult which may be the reason why it was never released.</desc>
+		<image>./Demo/images/Dumbo's Flying Circus (05-05-1983) (Atari, Jerome Domurat, Peter C. Niday) (CX26115) (Prototype) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Prototype</developer>
+		<publisher>Prototype</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Other/Dukes of Hazzard (1983) (Atari, Mark R. Hahn) (CX2678) ~.zip</path>
+		<name>Dukes of Hazzard</name>
+		<sortname>Dukes of Hazzard 1</sortname>
+		<desc>Dukes of Hazzard is a driving game with an overhead perspective, based on the popular television series of the same name. Players take on the role of the Duke boys driving the infamous "General Lee," while trying to avoid the police and rescue their sister Daisy from Boss Hogg. While development of this game was reportedly complete, it was not commercially released (and thus it never recieved a packaging design, official instruction manual, etc).</desc>
+		<image>./Other/images/Dukes of Hazzard (1983) (Atari, Mark R. Hahn) (CX2678) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19831102T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action, Racing</genre>
+	</game>
+	<game>
+		<path>./Other/Air Raid (Men-A-Vision) (PAL).zip</path>
+		<name>Air Raid</name>
+		<desc>The quiet pre-dawn sky is suddenly filled with enemy bombers. Can you save Manhattan from your loan command post? You watch as the sky scrapers around you are reduced by each hit until, after 12 hits, nothing but rubble remains. You fire fast and furiously to protect the falling city. Can you withstand the deadly on slaught? With 8 variations of play this debut thrill packed action game by Men-A-Vision, will bring many hours of exciting challenging play.</desc>
+		<image>./Other/images/Air Raid (Men-A-Vision) (PAL)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Men-A-Vision</developer>
+		<publisher>MenAvision</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T205846</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air Raiders (Air Battle) (1982) (M Network, Larry Zwick - INTV) (MT5861).zip</path>
+		<name>Air Raiders</name>
+		<desc>Start with lots of ammo and your fuel tank full! Shoot down enemy planes. Dodge enemy ground shells. Get hit and you lose altitude! Watch your gauges. Don't crash! Land to refuel after you make ten hits! Take off again... Game ends when you run out of ammo or crash!</desc>
+		<image>./Other/images/Air Raiders (Air Battle) (1982) (M Network, Larry Zwick - INTV) (MT5861)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>M Network</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T205931</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air-Sea Battle - Air Sea Battle - Target Fun (Anti-Aircraft) (1977) (Atari, Larry Kaplan - Sears) (CX2602 - 99802, 6-99802, 49-75102) ~.zip</path>
+		<name>Air-Sea Battle</name>
+		<desc>There are six basic types of game available in Air-Sea Battle, and for each type, there are one or two groups of three games, for a total of twenty-seven game variants. Within each group, variant one is the standard game, variant two features guided missiles which can be directed left or right after being fired, and variant three pits a single player (using the right gun) against a computer opponent, which simply fires continuously at the default angle or speed. In every game, players shoot targets (enemy planes or ships, shooting gallery targets, or each other, depending on the game chosen) competing to get a higher score. Each round lasts two minutes and sixteen seconds; the player with the higher score after time expires is the winner, unless one player wins (and ends the game) by reaching 99 points before the time is up.</desc>
+		<image>./Other/images/Air-Sea Battle - Air Sea Battle - Target Fun (Anti-Aircraft) (1977) (Atari, Larry Kaplan - Sears) (CX2602 - 99802, 6-99802, 49-75102) ~-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19780324T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220115T210314</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Airlock (1982) (Data Age) (DA1004) ~.zip</path>
+		<name>Airlock</name>
+		<desc>The player is trapped in a crashed nuclear submarine which has begun taking on water. They need to escape by making their way up the levels of the submarine one at a time. Each floor has two hatch keys that need to be collected in order to unlock the elevator to the next level. There is a time limit, though; if you take too long the floor will flood and you'll be unable to escape. Due to the crash, the torpedoes on board the submarine are now loose and wander across the floor as the boat shakes. The player will need to jump over any torpedoes that cross their path, or they will be stunned momentarily and lose precious time.</desc>
+		<image>./Other/images/Airlock (1982) (Data Age) (DA1004) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data Age</developer>
+		<publisher>Data Age, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220115T210714</lastplayed>
+	</game>
+	<game>
+		<path>./Demo/Alligator People (1983) (20th Century Fox Video Games, John Russell) (Prototype) ~.zip</path>
+		<name>Alligator People, The</name>
+		<desc>Alligator People is an unreleased prototype based on the movie of the same name. This prototype, discovered by Ben Liashenko, appears to have been completed and unlike some prototypes that never saw the light of day, this one is quite enjoyable to play! You are lost in the deepest part of the jungle. Six of your friends have fallen under the spell of the Alligator People. They are slowly being transformed into alligators and you are the only one in the world who can save them! To stop this transformation, you must inoculate each of them with a special antidote that you gather throughout the swamp. You don't have a lot of time! Not to mention, the alligators are chasing you as you attempt to gather vials of the antidote! The longer you wait, the more antidote you need to reverse the effects of the Alligator People!</desc>
+		<image>./Demo/images/Alligator People (1983) (20th Century Fox Video Games, John Russell) (Prototype) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830501T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220116T115624</lastplayed>
+	</game>
+	<game>
 		<path>./Other/Space Tunnel - Weltraum-Tunnel (1982) (Bit Corporation) (PG202) (PAL) ~.zip</path>
 		<name>Cosmic Corridor</name>
 		<desc>Cosmic Corridor is similar to Atari's Vanguard, though it's graphically inferior. You control a ship that can fire in multiple directions. Fly through the tunnels in either direction shooting all of the bad guys.</desc>
-		<image>./Other/Space Tunnel - Weltraum-Tunnel (1982) (Bit Corporation) (PG202) (PAL) ~-image.jpg</image>
-		<rating>0.2</rating>
+		<image>~/.emulationstation/downloaded_images/atari2600/Space Tunnel - Weltraum-Tunnel (1982) (Bit Corporation) (PG202) (PAL) ~-image.jpg</image>
+		<rating>0</rating>
 		<releasedate>19821001T000000</releasedate>
 		<developer>Zimag</developer>
 		<publisher>Zimag</publisher>
 		<genre>Action</genre>
 		<playcount>1</playcount>
 		<lastplayed>20210906T101156</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) ~.zip</path>
+		<name>Sorcerer's Apprentice</name>
+		<sortname>Disney's Sorcerer's Apprentice</sortname>
+		<desc>Help! You are on a magical rescue mission. Your task? Help Mickey stop an army of brooms from flooding the Sorcerer's cavern with water. How? Stop the brooms, and stop the stars from creating more brooms. Turn meteors into empty buckets to bail out water. Where? Meet Mickey in the mountains. When? Immediately!</desc>
+		<image>./Other/images/Sorcerer's Apprentice (1983) (Atari, Jerome Domurat, Peter C. Niday, Robert Vieira) (CX26109) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840207T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Aufruhr im Zoo (AKA Panda Chase) (1983) (Quelle) (719.694 2) (PAL).zip</path>
+		<name>Panda Chase</name>
+		<desc>DELETE</desc>
+		<image>./Other/images/Aufruhr im Zoo (AKA Panda Chase) (1983) (Quelle) (719.694 2) (PAL)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Home Vision</developer>
+		<publisher>Homevision</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Sports/Donald Duck's Speedboat (Donald Duck's Regatta) (04-12-1983) (Atari) (CX26108) (Prototype) ~.zip</path>
+		<name>Donald Duck's Speedboat</name>
+		<sortname>Disney's Donald Duck's Speedboat</sortname>
+		<desc>Donald has entered the Duckburg boat race and has taken to the sea with his speedboat. The objective is to steer the boat away from the obstacles along the way to the finish line and do so as fast as possible without losing pressure on the throttle. The game takes place across multiple screens which each presents its own obstacle patterns and challenges.</desc>
+		<image>./Sports/images/Donald Duck's Speedboat (Donald Duck's Regatta) (04-12-1983) (Atari) (CX26108) (Prototype) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Polyvox</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~.zip</path>
+		<name>Adventure</name>
+		<desc>Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Robinett even described the dragons as looking like ducks.</desc>
+		<image>./images/Adventure (1980) (Atari, Warren Robinett - Sears) (CX2613 - 49-75154) ~-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220226T214807</lastplayed>
 	</game>
 </gameList>

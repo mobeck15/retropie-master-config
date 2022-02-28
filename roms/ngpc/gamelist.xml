@@ -1,0 +1,886 @@
+<?xml version="1.0"?>
+<gameList>
+	<folder>
+		<path>./Sports</path>
+		<name>Sports</name>
+		<sortname> Sports</sortname>
+		<desc>Sports games (including casino, fishing and racing)</desc>
+		<rating>0.2</rating>
+		<developer>Sports</developer>
+		<publisher>Folder</publisher>
+		<image>./images/sports.png</image>
+		<releasedate>19691231T160000</releasedate>
+	</folder>
+	<folder>
+		<path>./Other</path>
+		<name>Other</name>
+		<sortname> Other</sortname>
+		<desc>Other games</desc>
+		<rating>0.2</rating>
+		<developer>Other</developer>
+		<publisher>Folder</publisher>
+		<image>./images/stairs.jpg</image>
+		<releasedate>19691231T160000</releasedate>
+	</folder>
+	<game>
+		<path>./Sports/Baseball Stars Color (World) (En,Ja).zip</path>
+		<name>Baseball Stars Color - Pocket Sports Series</name>
+		<desc>Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics</desc>
+		<image>./Sports/images/Baseball Stars Color (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990331T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug: 1st Mission</name>
+		<desc>Metal Slug: 1st Mission is an Action game, developed by Ukiyotei and published by SNK, which was released in Japan in 1999.
+
+As a member of the elite forces squad "Peregrine Falcons," your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</desc>
+		<image>./images/Metal Slug - 1st Mission (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug: 2nd Mission</name>
+		<desc>Metal Slug: 2nd Mission is an Action game, developed by Ukiyotei and published by SNK, which was released in Japan in 2000.
+
+Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
+		<image>./images/Metal Slug - 2nd Mission (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000309T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan).zip</path>
+		<name>SNK vs Capcom: Card Fighters 2 -Expand Edition-</name>
+		<desc>In addition to the 240 character and 60 action cards from the first game, 124 new cards are added, adding cast from Garou: Mark of the Wolves, Samurai Shodown: Warriors Rage, The King of Fighters '99 and 2000 for SNK, and Project Justice, Mega Man Legends, Dino Crisis and Onimusha for Capcom, while also including 40 Reaction cards similar that can be used during the opponent's attack.</desc>
+		<image>./images/SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010913T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle, Strategy</genre>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighter's Clash -Capcom Version-</name>
+		<desc>Cut loose with your favorite characters in the card-battle clash of the century! Choose your characters, customize your deck, and enter the SC Card Clash Tournament. Use strategic card arrangements to win your match, along with more cards to battle with. 300 different cards for you to use, collect and exchange. Create unlimited card battle combinations and customize 5 separate decks. Challenge a friend or exchange data with other NGPC titles via the NGP Link Cable. Starter deck will consist of mostly Capcom characters.</desc>
+		<image>./images/SNK vs. Capcom - Card Fighters' Clash - Capcom Version (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe).zip</path>
+		<name>SNK vs. Capcom: Card Fighter's Clash -SNK Version-</name>
+		<desc>Cut loose with your favorite characters in the card-battle clash of the century! Choose your characters, customize your deck, and enter the SC Card Clash Tournament. Use strategic card arrangements to win your match, along with more cards to battle with. 300 different cards for you to use, collect and exchange. Create unlimited card battle combinations and customize 5 separate decks. Challenge a friend or exchange data with other NGPC titles via the NGP Link Cable. Starter deck will consist of mostly SNK characters.</desc>
+		<image>./images/SNK vs. Capcom - Card Fighters' Clash - SNK Version (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./SNK vs. Capcom - The Match of the Millennium (World) (En,Ja).zip</path>
+		<name>SNK vs. Capcom: The Match of the Millennium</name>
+		<desc>In This Battle, The Mightiest Brawler Is Crowned!!
+It’s Time to Settle the Score... 18 of SNK and CAPCOM's most popular characters collide in the pivotal battle of game history! Truly, a Match of the Millennium!!!
+
+*Thrill to 3 battle formats: SINGLE, TAG &amp; TEAM!
+*Select from 3 Battle Types to suit your playing preferences!
+*Can you play VS MODE battles and exchange various data? Of course!!!
+*Jump into the new SC Olympic Mode and strive to break all records!</desc>
+		<image>./images/SNK vs. Capcom - The Match of the Millennium (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Dimps Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Big Bang Pro Wrestling (Japan) (En,Ja).zip</path>
+		<name>Big Bang Pro Wrestling</name>
+		<desc>Only a handful of top wrestlers can be show their face on the TV for their fans at home. In the I.E.W mat, this rule is no exception. In an event practiced for 300 years, only the best performances are in demand. This year, the great king of the I.E.W, Joseph Steel, returns to defend his throne. The story of eight top wrestlers competing for the greatest prize on the ring, the I.E.W champion belt, is about to begin...</desc>
+		<image>./Sports/images/Big Bang Pro Wrestling (Japan) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Neo Turf Masters (World) (En,Ja).zip</path>
+		<name>Neo Turf Masters</name>
+		<sortname>Turf Masters</sortname>
+		<desc>The player picks one of six available golfers and competes on a number of golf courses around the world, including Japan (Fujiyama Oriental Golf Club), America (Grand Canyon Golf Course), Australia (Blue Lagoon Golf Course), and Germany (Baden Golf Course). The game features two modes of play. The first is Stroke Play, in which the player attempts to get the best score by playing all 18 holes. The second is Match Play, in which two players compete to see who can win more of the 18 holes. Get ready to hit the fairway!</desc>
+		<image>./Sports/images/Neo Turf Masters (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Cool Boarders Pocket (Japan, Europe) (En,Ja).zip</path>
+		<name>Cool Boarders Pocket</name>
+		<desc>Cool Boarders Pocket, is a Snowboarding video game developed by UEP Systems and published by SNK Playmore for the Neo Geo Pocket Color.
+
+Cool Boarders Pocket differs to other games in the Cool Boarders series. It features an isometric (overhead) view instead of a third-person perspective. The game features two play modes a free-ride mode where the player navigates an obstacle course with no restrictions until he/she reaches the goal, and a survival mode where the player snowboards through the obstacle course until they run out of health. The game allows the player to choose one of two characters; a female or male snowboarder.</desc>
+		<image>./Sports/images/Cool Boarders Pocket (Japan, Europe) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000224T000000</releasedate>
+		<developer>UEP Systems</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Other/Crush Roller (World) (En,Ja).zip</path>
+		<name>Crush Roller</name>
+		<desc>More color! More power! The exciting chase of a lifetime is on! Finish painting roads before the monsters stop you! Grab those amusing, pesky irksters.</desc>
+		<image>./Other/images/Crush Roller (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000430T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+		<name>Dark Arms - Beast Buster 1999</name>
+		<desc>"I crave power. Power that only the darkest evil can imagine." Enter the sinister underworld of the Dark Realm! Battle creatures of darkness in your quest for the ultimate bio-weapon. Only then will you be able to conquer the evil and grisly world. Collect multiple weapons to defeat the hideous creatures. Four main areas to explore and complete. Will you be the one to conquer this action/adventure thriller?</desc>
+		<image>./Other/images/Dark Arms - Beast Buster 1999 (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Action, Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan).zip</path>
+		<name>Densetsu no Ogre Battle Gaiden - Zenobia no Ouji</name>
+		<desc>Legend of Ogre Battle Gaiden: Prince of Zenobia (伝説のオウガバトル外伝 ゼノビアの皇子 Densetsu no Ōga Batoru Gaiden: Zenobia no Ōji?, Legend of Ogre Battle Tale: The Prince of Zenobia) is a strategy video game developed by Quest for the Neo Geo Pocket Color, and is currently the only Ogre Battle title to not be released in English due to the system being discontinued in areas outside Japan.
+
+The game serves as a side story (or gaiden) to Ogre Battle: The March of the Black Queen, taking place at the same time and following the quest of Prince Tristan—who also appears in the aforementioned title—from its beginning.
+
+Legend of the Zenobia Prince is almost identical to March of the Black Queen in appearance and game play, but presents different areas and new character classes.</desc>
+		<image>./Other/images/Densetsu no Ogre Battle Gaiden - Zenobia no Ouji (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000622T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Densha de Go! 2 on Neo Geo Pocket (Japan).zip</path>
+		<name>Densha de Go! 2 on Neo Geo Pocket</name>
+		<desc>A train simulator. On the Neo Geo Pocket Color. Actually, a port of an arcade train sim with a dedicated train-like controller. On the Neo-Geo-Pocket Color... Recipe for disaster right? Wrong!</desc>
+		<image>./Other/images/Densha de Go! 2 on Neo Geo Pocket (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990121T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Other/Dive Alert - Becky's Version (USA, Europe).zip</path>
+		<name>Dive Alert : Becky's Version</name>
+		<desc>Dive Alert: Becky's Version is a Role-Playing game, developed by Sacnoth and published by SNK, which was released in Japan in 1999.
+
+The player takes control of a character named Becky. The game is set in the future and the world is primarily surrounded by water. There is a small patch of land called Terra. Terra is the only land. The player must prove their worth to be accepted on to Terra. They do this by proving their skill as a submarine commander and destroying enemy vessels.
+
+Becky's version features different characters, items and boats to Matt's version. These are logged in a device similar to a Pokédex. The battles take place against other ships. A radar view is used to help you guide torpedoes against the enemy. A large part of the game is text based with animated cutscenes. Two players can link-up with the cable to battle and exchange ships.</desc>
+		<image>./Other/images/Dive Alert - Becky's Version (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000416T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Sports/Dynamite Slugger (Japan, Europe) (En,Ja).zip</path>
+		<name>Dynamite Slugger</name>
+		<desc>Dynamite Slugger is a video game. It was released in 2000 for the Neo Geo Pocket Color handheld game console. The game is similar to other Baseball videogames on the Neo Geo Pocket Color such as Baseball Stars and Baseball Stars Color. Due to Dynamite Slugger being the latest baseball videogame to be released for the Neo Geo Pocket Color it features better graphics than other sports titles.</desc>
+		<image>./Sports/images/Dynamite Slugger (Japan, Europe) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000525T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Other/Evolution - Eternal Dungeons (Europe).zip</path>
+		<name>Evolution : Eternal Dungeons</name>
+		<desc>Evolution: Eternal Dungeons is a conventional turn-based role-playing video game for the Neo Geo Pocket Color. It was released in Japan and the United Kingdom in 2000. Probably due to the large amount of text, separate cartridges were produced for the different regions it was released in, rather than allowing the player to choose the game language on the same cartridge. While the Japanese version is somewhat common, the English version is not.
+
+This game is essentially a port of its three dimensional counterpart for the Dreamcast. To accommodate downscaling for the Neo Geo handheld, the 3D graphics of the original were replaced with top-down two-dimensional maps and 2-D sprites.
+
+Both the Japanese and UK version of the game were released in hard plastic boxes rather than soft cardstock.
+
+The English translation has frequent grammar and spelling errors.</desc>
+		<image>./Other/images/Evolution - Eternal Dungeons (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000210T000000</releasedate>
+		<developer>Sting Entertainment</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Fantastic Night Dreams Cotton (Europe).zip</path>
+		<name>Fantastic Night Dreams Cotton</name>
+		<desc>Cotton: Fantastic Night Dreams is an Action game, developed and published by Success, which was released in Japan in 2000.The player controls Cotton, a young witch on a broomstick. The player must blast various monsters and avoid being shot. The player can collect power-ups to enhance their weaponry and unleash a more powerful attack on the enemy. The player has lives represented by an arrow. The player has three lives and is only allowed one hit per life</desc>
+		<image>./Other/images/Fantastic Night Dreams Cotton (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Success Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Adventure, Shooter</genre>
+	</game>
+	<game>
+		<path>./Other/Faselei! (Europe).zip</path>
+		<name>Faselei!</name>
+		<desc>Faselei! is a Strategy game, developed by Sacnoth and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Other/images/Faselei! (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Fatal Fury First Contact</name>
+		<desc>Can you survice this explosive battle?! Build Power Gauge Levels and Unleash Super Powerful Attacks!</desc>
+		<image>./Other/images/Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Ganbare Neo Poke-kun (Ka) (Japan).zip</path>
+		<name>Ganbare Neo Poke-Kun</name>
+		<desc>Ganbare Neo Poke-Kun (ガンバレねおぽけくん) is a simulation game developed Neo Geo Pocket Color released in Japan on June 6, 2000. So far, the game remains exclusive to Japan. It drew direct inspiration from the majority of video game history.</desc>
+		<image>./Other/images/Ganbare Neo Poke-kun (Ka) (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000606T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy, Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Other/Infinity Cure (Japan).zip</path>
+		<name>Infinity Cure</name>
+		<desc>Never 7 takes place in the week of April 1–7, 2019. Makoto Ishihara, the protagonist, is a college student and truant who rarely attends his classes. As a result, he is forced to attend a seminar camp being held on a remote island in order to be allowed to pass to his next grade. Three other students are at the camp: Yuka Kawashima, the leader of the group; Haruka Higuchi, a quiet girl who is an ace student; and Okuhiko Iida, a wealthy playboy who is the heir of the Iida Financial Group. Makoto also meets three girls unrelated to the seminar camp: a wealthy girl named Saki Asakura; and the sisters Kurumi and Izumi Morino, who are temporarily running the café Lunabeach on the island. The seven find they cannot leave the island due to a tropical cyclone that makes the boats unable to leave for a whole week, and become friends during the week.</desc>
+		<image>./Other/images/Infinity Cure (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>KID Corp.</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Other/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan).zip</path>
+		<name>Kikou Seiki Unitron</name>
+		<desc>The game takes place 400 years after Biomotor Unitron. Kikou Seiki Unitron plays similar to Biomotor Unitron with top down dungeons and menu-based combat. The game requires the player to upgrade their unitron robot with various weapons and accessories to compete against various enemies within the dungeon areas. Using a link cable two players can pit their unitrons against each other in a head-to-head battle.</desc>
+		<image>./Other/images/Kikou Seiki Unitron - Sono Tsuide. Hikari Umareru Chi Yori. (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000120T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing, Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>King of Fighters R-2</name>
+		<desc>Mix it up in COLOR with King Of Fighters R-2 now on NEOGEO Pocket Color! Get SKILLS in the MAKING Mode and create your very own custom-made character! You can also play two-player VS. MODE battles and trade SKILLS using the NEOGEO Pocket Link Cable! 14 characters to choose from including 2 new characters make King Of Fighters R-2 H-O-T!</desc>
+		<image>./Other/images/King of Fighters R-2 - Pocket Fighting Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Koi Koi Mahjong (Japan).zip</path>
+		<name>Koi Koi Mahjong</name>
+		<desc>Koi Koi Mahjong is a Miscellaneous game, developed and published by Visco, which was released in Japan in 2000</desc>
+		<image>./Sports/images/Koi Koi Mahjong (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000303T000000</releasedate>
+		<developer>Visco Corporation</developer>
+		<publisher>Visco Corporation</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Magical Drop Pocket (USA, Europe).zip</path>
+		<name>Magical Drop Pocket</name>
+		<desc>Magical Drop Pocket is a Miscellaneous game, developed by SAS Sakata and published by Data East, which was released in Japan in 1999.</desc>
+		<image>./images/Magical Drop Pocket (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Memories Off - Pure (Japan).zip</path>
+		<name>Memories Off Pure</name>
+		<desc>Memories Off: Pure is a prequel to Memories Off. The events of the game take place three years before those of the previous game, when the protagonist Tomoya Mikami was still attending middle school. The game primarily revolves around his relationships with his childhood friend Yue Imasaka and Ayaka Hizuki, whose tragic fate is mentioned in the first game.
+
+Gameplay-wise, the prequel is identical to the preceding game, with the gameplay being reduced to occasional decision-making that influences the course of the story and ultimately leads it to different endings.</desc>
+		<image>./Other/images/Memories Off - Pure (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000427T000000</releasedate>
+		<developer>KID Corp.</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Mezase! Kanji Ou (Japan).zip</path>
+		<name>Mezase! Kanji Ou</name>
+		<desc>Mesaze! Kanji-Ou is an educational kanji tutor game, published by SNK, which was released in Japan in 2000.</desc>
+		<image>./Other/images/Mezase! Kanji Ou (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000120T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sandbox</genre>
+	</game>
+	<game>
+		<path>./Other/Mizuki Shigeru no Youkai Shashinkan (Japan).zip</path>
+		<name>Mizuki Shigeru no Youkai Shashinkan</name>
+		<desc>Mizuki Shigeru no Youkai Shashinkan is a Strategy game, developed by Ukiyotei and published by SNK, which was released in Japan in 1999</desc>
+		<image>./Other/images/Mizuki Shigeru no Youkai Shashinkan (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991229T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Sports/Neo Baccarat - Real Casino Series (World).zip</path>
+		<name>Neo Baccarat</name>
+		<sortname>Baccarat</sortname>
+		<desc>Neo Baccarat is a baccarat game, developed by Dyna Corporation and published by SNK, which was released in Europe in 2000.</desc>
+		<image>./Sports/images/Neo Baccarat - Real Casino Series (World)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip</path>
+		<name>Neo Cherry Master Color</name>
+		<sortname>Cherry Master Color</sortname>
+		<desc>Neo Cherry Master Color is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo Cherry Master Color - Real Casino Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Sports/Neo Derby Champ Daiyosou (Japan).zip</path>
+		<name>Neo Derby Champ Daiyosou</name>
+		<sortname>Derby Champ Daiyosou</sortname>
+		<desc>Neo Derby Champ Daiyosou is a sports game, developed and published by Dyna Corporation, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo Derby Champ Daiyosou (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990422T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).zip</path>
+		<name>Neo Dragon's Wild</name>
+		<sortname>Dragon's Wild</sortname>
+		<desc>Neo Dragon's Wild is a video poker game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Sports/Neo Geo Cup '98 Plus (World) (En,Ja).zip</path>
+		<name>Neo Geo Cup '98 Plus Color</name>
+		<sortname>Geo Cup '98 Plus Color</sortname>
+		<desc>Wherever you go. Wherever you like. Its Kick Off Time! Easy! Simple! And Exciting!
+
+NeoGeo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.</desc>
+		<image>./Sports/images/Neo Geo Cup '98 Plus (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Neo Mystery Bonus - Real Casino Series (World) (En,Ja).zip</path>
+		<name>Neo Mystery Bonus</name>
+		<sortname>Mystery Bonus</sortname>
+		<desc>Neo Mystery Bonus is a slots game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo Mystery Bonus - Real Casino Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Sports/Neo Poke Pro Yakyuu (Japan).zip</path>
+		<name>Neo Poke Pro Yakyuu</name>
+		<sortname>Poke Pro Yakyuu</sortname>
+		<desc>NeoPoke Pro Yakyuu is a Sports game, developed and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo Poke Pro Yakyuu (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990527T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Nigeronpa (Japan).zip</path>
+		<name>Nige-ron-pa</name>
+		<desc>nige-ron-pa is a Role-Playing game, developed and published by Dennou Club, which was released in Japan in 2000.</desc>
+		<image>./Other/images/Nigeronpa (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001123T000000</releasedate>
+		<developer>Dennou Club</developer>
+		<publisher>Dennou Club</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Pac-Man (World) (En,Ja).zip</path>
+		<name>Pac-Man</name>
+		<desc>The original Pac-Man returns, now on NEOGEO Pocket Color! Featuring: Totally cool game screen designs! 2 types of displays to select from! Gobble up fruit to rack up bonus points! Gulp the Power Pellets and strike back against the ghosts! Enjoy the legendary "Coffee Break" screen!</desc>
+		<image>./Other/images/Pac-Man (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Party Mail (Japan).zip</path>
+		<name>Party Mail</name>
+		<desc>Party Mail is a Tamagotchi-style game, developed by ADK and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Other/images/Party Mail (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Other/King of Fighters, The - Battle de Paradise (Japan).zip</path>
+		<name>The King of Fighters: Battle de Paradise</name>
+		<desc>The King of Fighters: Battle de Paradise is a board game style handheld game developed for the Neo Geo Pocket Color. It was released July 6, 2000 and remains exclusively in Japan. Players could transfer game points for the Dreamcast port, The King of Fighters '99: Evolution, to speed up the leveling process for the Extra Strikers. The artistic style of the games is similar to SNK vs. Capcom: Card Fighters Clash.</desc>
+		<image>./Other/images/King of Fighters, The - Battle de Paradise (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000706T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle, Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Last Blade, The - Beyond the Destiny (Europe).zip</path>
+		<name>The Last Blade: Beyond The Destiny</name>
+		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
+		<image>./Other/images/Last Blade, The - Beyond the Destiny (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000321T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Dive Alert - Matt's Version (USA, Europe).zip</path>
+		<name>Dive Alert : Matt's Version</name>
+		<desc>Dive Alert: Matt's Version is a Role-Playing game, developed by Sacnoth and published by SNK, which was released in Japan in 1999.
+
+The player takes control of a character named Matt. The game is set in the future and the world is primarily surrounded by water. The only small patch of land called is called Terra. The player must show their worth to be accepted on to Terra by proving their skill as a submarine commander and destroying enemy vessels.
+
+Matt's version features different characters, items and boats to Becky's version. These are logged in a device similar to a Pokédex. The battles take place against other ships. A radar view is used to help players guide torpedoes against the enemy. A large part of the game is text based with animated cutscenes. Two players can link-up with the cable to battle, exchange ships and accumulate other data.</desc>
+		<image>./Other/images/Dive Alert - Matt's Version (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000416T000000</releasedate>
+		<developer>Sacnoth</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Dai hanabi</name>
+		<desc>Pachi-Slot Aruze Oukoku Pocket: Daihanabi is a Miscellaneous game, published by Aruze Corp, which was released in Japan in 2000.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Oohanabi (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001214T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Del Sol 2</name>
+		<desc>Pachi-Slot Aruze Oukoku Pocket: Del Sol 2 is a Miscellaneous game, published by Aruze Corp, which was released in Japan in 2000.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Delsol 2 (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Hanabi</name>
+		<desc>This game covers the Growing popularity in Japan of Gambling. The game is a slots machine game but it has many modes. A game cant just be a slot machinne game to be fun so there a many a hidden delight for you to find.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Hanabi (Japan) (v1.04)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Porcano 2</name>
+		<desc>Pachi-Slot Aruze Oukoku Pocket: Porcano 2 is a Miscellaneous game, published by Aruze Corp, which was released in Japan in 2000</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Porcano 2 (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000720T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Ward of Lights</name>
+		<desc>Pachi-Slot Aruze Oukoku Pocket: Ward of Lights is a Miscellaneous game, developed and published by Aruze, which was released in Japan in 2000.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Ward of Lights (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000316T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku: e-CUP</name>
+		<desc>Pachi-Slot Aruze Oukoku e-CUP is a Miscellaneous game which was released in Japan in 2001</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - e-Cup (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010329T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan).zip</path>
+		<name>Pachisuro Aruze Oukoku Pocket: Dekahel 2</name>
+		<desc>Pachisuro Aruze Oogoku Pocket: Dekahel 2 is a Miscellaneous game, published by Aruze Corp, which was released in Japan in 2001.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Dekahel 2 (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010115T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+	</game>
+	<game>
+		<path>./Other/Picture Puzzle (USA, Europe).zip</path>
+		<name>Picture Puzzle</name>
+		<desc>Picture Puzzle is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.</desc>
+		<image>./Other/images/Picture Puzzle (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Success Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Pocket Love if (Japan).zip</path>
+		<name>Pocket Love: If</name>
+		<sortname>Love: If</sortname>
+		<desc>Pocket Love: If is a dating sim, developed and published by Kid, which was released in Japan in 1999.</desc>
+		<image>./Other/images/Pocket Love if (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991021T000000</releasedate>
+		<developer>KID Corp.</developer>
+		<publisher>KID Corp.</publisher>
+		<genre>Adventure, Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Other/Pocket Reversi (Europe).zip</path>
+		<name>Pocket Reversi</name>
+		<sortname>Reversi</sortname>
+		<desc>Pocket Reversi is a Miscellaneous game, developed and published by Success, which was released in Japan in 2000.</desc>
+		<image>./Other/images/Pocket Reversi (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000127T000000</releasedate>
+		<developer>Success Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Sports/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja).zip</path>
+		<name>Pocket Tennis Color</name>
+		<sortname>Tennis Color</sortname>
+		<desc>Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.
+
+Exhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).
+
+Tournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final</desc>
+		<image>./Sports/images/Pocket Tennis Color - Pocket Sports Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Prize Game - PP-AA01 Pusher Program (Japan).zip</path>
+		<name>Prize Game - PP-AA01 Pusher Program</name>
+		<desc>Prize Game - PP-AA01 Pusher Program is a game for the Neo Geo Pocket Color.</desc>
+		<image>./Other/images/Prize Game - PP-AA01 Pusher Program (Japan)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Azure</developer>
+		<publisher>Azure</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Puyo Pop (World) (En,Ja) (v1.06).zip</path>
+		<name>Puyo Pop</name>
+		<desc>Puyo Pop is a Miscellaneous game, developed by Compile and published by SNK, which was released in Japan in 1999.</desc>
+		<image>./Other/images/Puyo Pop (World) (En,Ja) (v1.06)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Puzzle Bobble Mini (Japan, Europe) (v1.10).zip</path>
+		<name>Puzzle Bobble Mini</name>
+		<desc>Bust-A-Move Pocket, also called Puzzle Bobble Mini, is a Neo Geo Pocket Color version of the Bust-A-Move (Puzzle Bobble) series of puzzle games. It was released on the Neo Geo Pocket Color by Taito in 1999.
+
+The format is similar to Bust-A-Move 2 for the PlayStation. The game's Puzzle mode includes a feature that saves initials of those who have completed the level in the fastest time. The game contains a survivor mode where the player has to burst the oncoming bubbles, making sure they don't reach the bottom line which spells the end of the game. Also present is a vs CPU mode, where the player can compete against a selection of eight characters.</desc>
+		<image>./Other/images/Puzzle Bobble Mini (Japan, Europe) (v1.10)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Puzzle Link (Europe).zip</path>
+		<name>Puzzle Link</name>
+		<desc>Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are three different modes: In "Normal" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In "Clear Mode" you have to clear a given constellation of blocks. "Battle Mode" is a two player link-cable mode.</desc>
+		<image>./Other/images/Puzzle Link (Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Puzzle Link 2 (USA, Europe).zip</path>
+		<name>Puzzle Link 2</name>
+		<desc>The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.
+
+There are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.</desc>
+		<image>./Other/images/Puzzle Link 2 (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000401T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Rockman - Battle &amp; Fighters (Japan).zip</path>
+		<name>Rockman Battle &amp; Fighters</name>
+		<sortname>Megaman Battle &amp; Fighters</sortname>
+		<desc>Rockman Battle &amp; Fighters is a fighting game similar to the two arcade titles Mega Man: The Power Battle, and Mega Man 2: The Power Fighters. Playing as one of four characters (Mega Man, Proto Man, Bass, and Duo), the player chooses between three sets of boss battles with various Robot Masters from the series. The battles are fought linearly in any order, and after each boss is defeated, a special weapon is added to the player's arsenal. Each boss is weak to one specific weapon, so the player is encouraged to strategize the order in which the bosses are faced. Two players can use a link cable to transfer database information between systems, but no co-op or versus play is supported.</desc>
+		<image>./Other/images/Rockman - Battle &amp; Fighters (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000720T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Samurai Shodown! 2</name>
+		<desc>Here comes the diminutive SAMURAI! A colorful, awesome sword battle that is simply H-O-T! Hook up the NEOGEO Pocket Link Cable for communication battles against your friends!</desc>
+		<image>./Other/images/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./Other/Shanghai Mini (World) (En,Ja).zip</path>
+		<name>Shanghai Mini</name>
+		<desc>Shanghai Mini is a release in the series of Activision's tile matching games. Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.</desc>
+		<image>./Other/images/Shanghai Mini (World) (En,Ja)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990729T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Shougi no Tatsujin Color (Japan).zip</path>
+		<name>Shogi no Tatsujin Color</name>
+		<desc>Shogi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.</desc>
+		<image>./Other/images/Shougi no Tatsujin Color (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/SNK Gals' Fighters (USA, Europe).zip</path>
+		<name>SNK Gals' Fighters</name>
+		<sortname>Gals' Fighters</sortname>
+		<desc>Sugar and spice and everything nice, that's what little girls are made of... NOT! It's time for the ladies to show who's boss in this superb all-girls fighting fantasy! Eight fabulous femme fatales to choose from and five different game modes! Use Super Attacks and collect and trade special items!</desc>
+		<image>./Other/images/SNK Gals' Fighters (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000127T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Soreike!! Hanafuda Doujou (Japan).zip</path>
+		<name>Sore Ike!! Hanafuda Doujou</name>
+		<desc>Sore Ike!! Hanafuda Doujou is a card game, published by Daina, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Soreike!! Hanafuda Doujou (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991216T000000</releasedate>
+		<developer>Daina</developer>
+		<publisher>Daina</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Sports/Super Real Mahjong - Premium Collection (Japan).zip</path>
+		<name>Super Real Mahjong Premium Collection</name>
+		<sortname>Mahjong Premium Collection</sortname>
+		<desc>Super Real Mahjong Premium Collection is the first handheld installment in the Super Real Mahjong series. As usual, you play strip mahjong with pretty girls, this time several from many of the games. However, due to the system's limitations, only a few strip scenes are animated. It also has some visual novel-like qualities, particularly a story mode where you try to focus on one girl each time it is played. This is accomplished by choosing the right options when they are presented to you. If you succeed in focusing on only one girl, her CG is then unlocked in the gallery.</desc>
+		<image>./Sports/images/Super Real Mahjong - Premium Collection (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20010329T000000</releasedate>
+		<developer>SETA</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Sports/Pachinko Hisshou Guide - Pocket Parlor (Japan).zip</path>
+		<name>Pachinko Hisshou Guide: Pocket Parlor</name>
+		<desc>Pachinko Hisshou Guide: Pocket Parlor is a Miscellaneous game, developed and published by Vistec, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Pachinko Hisshou Guide - Pocket Parlor (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991125T000000</releasedate>
+		<developer>Vistec</developer>
+		<publisher>Vistec</publisher>
+	</game>
+	<game>
+		<path>./Biomotor Unitron (USA, Europe).zip</path>
+		<name>Biomotor Unitron</name>
+		<desc>Using the ore mined from the Unitice meteor, humans have been able to develop the man-shaped robots known as UNITRONS. As a Unitron master, you control one of these mighty machines as you explore mysterious dungeons and fight for the ultimate prize in the Unitron Arena! Create - Collect - Trade! Build your own weapons for your Unitron using Arms and Material. There are over 200 possible combinations! Battles against fearsome monsters and skilled Unitron masters await you! If you can defeat them all, you too can become... The Master of Masters!</desc>
+		<image>./images/Biomotor Unitron (USA, Europe)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Role-Playing</genre>
+		<players>2</players>
+		<playcount>6</playcount>
+		<lastplayed>20211014T193855</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan).zip</path>
+		<name>Pachi-Slot Aruze Oukoku Pocket: Azteca</name>
+		<desc>Azteca is a Miscellaneous game, published by Aruze Corp, which was released in Japan in 2000.</desc>
+		<image>./Sports/images/Pachi-Slot Aruze Oukoku Pocket - Azteca (Japan)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20000210T000000</releasedate>
+		<developer>Aruze Corp.</developer>
+		<publisher>Aruze Corp.</publisher>
+		<playcount>1</playcount>
+		<lastplayed>20211018T112731</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Neo 21 - Real Casino Series (World).zip</path>
+		<name>Neo 21</name>
+		<sortname>21</sortname>
+		<desc>Neo 21 is a Miscellaneous game, developed and published by Dyna Corporation, which was released in Japan in 1999.</desc>
+		<image>./Sports/images/Neo 21 - Real Casino Series (World)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991229T000000</releasedate>
+		<developer>Dyna Corporation</developer>
+		<publisher>SNK</publisher>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211019T120850</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Bust-A-Move Pocket (USA).zip</path>
+		<name>Bust-A-Move Pocket</name>
+		<sortname>Bubble Bobble Bust-A-Move Pocket</sortname>
+		<desc>Bust-A-Move Pocket, also called Puzzle Bobble Mini, is a Neo Geo Pocket Color version of the Bust-A-Move (Puzzle Bobble) series of puzzle games. It was released on the Neo Geo Pocket Color by Taito in 1999.
+
+The format is similar to Bust-A-Move 2 for the PlayStation. The game's Puzzle mode includes a feature that saves initials of those who have completed the level in the fastest time. The game contains a survivor mode where the player has to burst the oncoming bubbles, making sure they don't reach the bottom line which spells the end of the game. Also present is a vs CPU mode, where the player can compete against a selection of eight characters.</desc>
+		<image>./Other/images/Bust-A-Move Pocket (USA)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog - Pocket Adventure (World).zip</path>
+		<name>Sonic the Hedgehog Pocket Adventure</name>
+		<sortname>Sonic Hedgehog Pocket Adventure</sortname>
+		<desc>Help Sonic rescue his forest friends from the evil Dr. Robotnik. Grab those golden rings and collect all the chaos emeralds for special bonuses. Rush through multiple bonus levels and challenge the high score record. Collect puzzle pieces and complete the mystery photo. Play against a friend in a 2-player Vs. battle. The action is gonna be super SONIC!</desc>
+		<image>./images/Sonic the Hedgehog - Pocket Adventure (World)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19991220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>

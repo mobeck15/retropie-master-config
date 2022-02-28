@@ -23,43 +23,6 @@
 		<releasedate>19691231T160000</releasedate>
 	</folder>
 	<game>
-		<path>./Alien Brigade (1990) (Atari) (CC2 Hack).zip</path>
-		<name>Alien Brigade</name>
-		<desc>The Plutoid Alien Zombie force has infiltrated the Army. They look like soldiers but are actually Aliens from outer space.
-
-You control a special task force to destroy the Aliens. As you shoot away at nasty enemies, you can earn powerful weapons, rescue hostages and most of all, stay alive. The challenge is there--beat the Aliens or you'll have to join them.</desc>
-		<image>./images/Alien Brigade (1990) (Atari) (CC2 Hack)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900702T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack).zip</path>
-		<name>Beef Drop 7800</name>
-		<desc>Beef Drop is a port of the popular arcade game Burgertime, which Ken Siders first ported to the Atari 5200 and 8-bit computers. This version of Beef Drop beature POKEY sound support, for much better audio than the 7800 can produce without this chip. The 7800 version also features better graphics than the 5200/8-bit version, making the 7800 version the definitive release of Beef Drop.</desc>
-		<image>./images/Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Ken Siders</developer>
-		<publisher>Ken Siders</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Centipede (1987) (Atari).zip</path>
-		<name>Centipede</name>
-		<desc>A good port of the coin-op classic. The 7800 version also features competitive and cooperative 2-player modes.</desc>
-		<image>./images/Centipede (1987) (Atari)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19870601T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Choplifter (1987) (Atari).zip</path>
 		<name>Choplifter</name>
 		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
@@ -339,23 +302,6 @@ Test your racing skills as you tear around treacherous curves, maneuver your way
 		<developer>Froggo Games Corporation</developer>
 		<publisher>Froggo Games Corporation</publisher>
 		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Other/Ace of Aces (1988) (Atari).zip</path>
-		<name>Ace of Aces</name>
-		<desc>Trump That Ace!
-
-It's World War II and Britain's Royal Air Force is up to its neck in Axis attacks. As one of the RAF's most aggressive pilots, you're in on flying the most crucial missions to stall the enemy.
-
-They attack by land, air, and sea. Your only allies are your DeHavilland Mosquito, your weapons, and your wits. Chase the Nazi bombers, sink the U-boats before they can dive, outrun the V-1 buzz bombs, and stop the POW trains from reaching the enemy lines.
-
-Choose your ammunition and fuel wisely -- once you're on a mission, there's no turning back. To be an Ace, you need four enemy defeats. To be Ace of Aces, you've got to be the best!</desc>
-		<image>./Other/images/Ace of Aces (1988) (Atari)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19880601T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Flight Simulator</genre>
 	</game>
 	<game>
 		<path>./Other/Asteroids (1987) (Atari).zip</path>
@@ -667,5 +613,67 @@ In 2004 Curt Vendel of AtariMuseum.com uncovered several Atari 7800 prototypes, 
 		<publisher>Atari, Inc.</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Alien Brigade (1990) (Atari) (CC2 Hack).zip</path>
+		<name>Alien Brigade</name>
+		<desc>The Plutoid Alien Zombie force has infiltrated the Army. They look like soldiers but are actually Aliens from outer space.
+
+You control a special task force to destroy the Aliens. As you shoot away at nasty enemies, you can earn powerful weapons, rescue hostages and most of all, stay alive. The challenge is there--beat the Aliens or you'll have to join them.</desc>
+		<image>./images/Alien Brigade (1990) (Atari) (CC2 Hack)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900702T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210906T141355</lastplayed>
+	</game>
+	<game>
+		<path>./Centipede (1987) (Atari).zip</path>
+		<name>Centipede</name>
+		<desc>A good port of the coin-op classic. The 7800 version also features competitive and cooperative 2-player modes.</desc>
+		<image>./images/Centipede (1987) (Atari)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210906T141427</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Ace of Aces (1988) (Atari).zip</path>
+		<name>Ace of Aces</name>
+		<desc>Trump That Ace!
+
+It's World War II and Britain's Royal Air Force is up to its neck in Axis attacks. As one of the RAF's most aggressive pilots, you're in on flying the most crucial missions to stall the enemy.
+
+They attack by land, air, and sea. Your only allies are your DeHavilland Mosquito, your weapons, and your wits. Chase the Nazi bombers, sink the U-boats before they can dive, outrun the V-1 buzz bombs, and stop the POW trains from reaching the enemy lines.
+
+Choose your ammunition and fuel wisely -- once you're on a mission, there's no turning back. To be an Ace, you need four enemy defeats. To be Ace of Aces, you've got to be the best!</desc>
+		<image>./Other/images/Ace of Aces (1988) (Atari)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19880601T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T200427</lastplayed>
+	</game>
+	<game>
+		<path>./Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack).zip</path>
+		<name>Beef Drop 7800</name>
+		<desc>Beef Drop is a port of the popular arcade game Burgertime, which Ken Siders first ported to the Atari 5200 and 8-bit computers. This version of Beef Drop beature POKEY sound support, for much better audio than the 7800 can produce without this chip. The 7800 version also features better graphics than the 5200/8-bit version, making the 7800 version the definitive release of Beef Drop.</desc>
+		<image>./images/Beef Drop 7800 (Oct 30-Rev 08) (2004) (CC2 Hack)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Ken Siders</developer>
+		<publisher>Ken Siders</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220116T115833</lastplayed>
 	</game>
 </gameList>

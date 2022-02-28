@@ -33,23 +33,6 @@ Wizardry 7 Gold is currently only available in English and on the Windows platfo
 		<lastplayed>20211010T150626</lastplayed>
 	</game>
 	<game>
-		<path>./+Start DOSBox.sh</path>
-		<name>DOSBox</name>
-		<sortname>0 Dosbox</sortname>
-		<desc>DOSBox is a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
-
-DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
-
-You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
-
-DOSBox is totally free of charge and OpenSource.</desc>
-		<image>./images/+Start DOSBox-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>20020722T000000</releasedate>
-		<playcount>1</playcount>
-		<lastplayed>20211010T150208</lastplayed>
-	</game>
-	<game>
 		<path>./castle adventure.conf</path>
 		<name>Castle Adventure</name>
 		<desc>Castle Adventure is an adventure game designed by Kevin Bales and originally released in 1984. It was also illegally included in Keypunch's Swords and Sorcery under the title Golden Wombat. It is compiled from Microsoft BASIC; however the source has never been released.</desc>
@@ -902,5 +885,22 @@ Your victory condition is based on your alignment: Lawful players must advance t
 		<genre>Role-Playing</genre>
 		<playcount>5</playcount>
 		<lastplayed>20211016T152101</lastplayed>
+	</game>
+	<game>
+		<path>./+Start DOSBox.sh</path>
+		<name>DOSBox</name>
+		<sortname>-Dosbox</sortname>
+		<desc>DOSBox is a DOS-emulator that uses the SDL-library which makes DOSBox very easy to port to different platforms. DOSBox has already been ported to many different platforms, such as Windows, BeOS, Linux, MacOS X...
+
+DOSBox also emulates CPU:286/386 realmode/protected mode, Directory FileSystem/XMS/EMS, Tandy/Hercules/CGA/EGA/VGA/VESA graphics, a SoundBlaster/Gravis Ultra Sound card for excellent sound compatibility with older games...
+
+You can "re-live" the good old days with the help of DOSBox, it can run plenty of the old classics that don't run on your new computer!
+
+DOSBox is totally free of charge and OpenSource.</desc>
+		<image>./images/+Start DOSBox-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>20020722T000000</releasedate>
+		<playcount>1</playcount>
+		<lastplayed>20211010T150208</lastplayed>
 	</game>
 </gameList>

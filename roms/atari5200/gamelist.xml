@@ -34,28 +34,6 @@
 		<releasedate>19691231T160000</releasedate>
 	</folder>
 	<game>
-		<path>./Beamrider (1984) (Activision).zip</path>
-		<name>Beamrider</name>
-		<desc>A beam matrix of iridescent blue engulfs the distant blackness of Earth-Space. You stand watching. First mesmerized, you now realize the beams carry weapons. Frightening creations in endless configurations. Intriguing to watch, but will you--yes you, dear reader--take action? You will??!! Then roll up your sleeves, mount these beams and...ride!!</desc>
-		<image>./images/Beamrider (1984) (Activision)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830715T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Berzerk (1983) (Atari).zip</path>
-		<name>Berzerk</name>
-		<desc>After a routine space exploration mission goes awry, you find yourself marooned on the planet Mazeon. To add insult to injury, the robotic residents are out to kill you. Now you're forced to fend off these relentless robots as you move through endless mazelike environments. In Berzerk, the goal is to make your way past the electrified walls forming each screen while using your laser gun to blast the hostile threats known as Automazeons. Firing your weapon involves pointing the joystick in one of eight directions and pressing a button. You can also lead robots into walls and even into their own shots to defeat them.</desc>
-		<image>./images/Berzerk (1983) (Atari)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Stern Electronics</developer>
-		<publisher>Stern Electronics, Inc.</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Centipede (1982) (Atari).zip</path>
 		<name>Centipede</name>
 		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
@@ -77,30 +55,6 @@
 		<developer>Dan Gorlin</developer>
 		<publisher>Atari, Inc.</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Congo Bongo (1983) (Sega).zip</path>
-		<name>Congo Bongo</name>
-		<desc>In the first of three screens, you must climb the cliffs of Jungle Mountain in order to get to Congo Bongo, the jungle gorilla. You must also cross a bridge and jump a chasm. Along the way, Congo will throw coconuts at you, and monkeys will try to jump on your back. The monkeys slow you down tremendously, but a couple of jumps will send them scurrying.</desc>
-		<image>./images/Congo Bongo (1983) (Sega)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19831201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Defender (1982) (Atari).zip</path>
-		<name>Defender</name>
-		<desc>Defender is a two-dimensional, side-scrolling shooting game set on the surface of an unnamed planet. The player controls a space ship as it navigates the terrain, flying either to the left or right. A joystick controls the ship's elevation, and five buttons control its horizontal direction and weapons. The object is to destroy alien invaders, while protecting astronauts on the landscape from abduction. Humans that are successfully abducted return as mutants that attack the ship. Defeating the aliens allows the player to progress to the next level. Failing to protect the astronauts, however, causes the planet to explode and the level to become populated with mutants. Surviving the waves of mutants results in the restoration of the planet. Players are allotted three chances (lives) to progress through the game and are able to earn more by reaching certain scoring benchmarks.</desc>
-		<image>./images/Defender (1982) (Atari)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19821201T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Joust (1984) (Atari).zip</path>
@@ -508,29 +462,6 @@ In each event, there is a qualifying time or level that the player must achieve 
 		<publisher>Atari, Inc.</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Demo/Adventure 2 Demo (2002) (Ron Lloyd).zip</path>
-		<name>Adventure II</name>
-		<desc>This homebrew Atari 5200 cartridge is a direct, yet unofficial sequel to the Atari 2600 action role-playing classic Adventure. The player controls an unnamed knight on a quest to return the stolen chalice to the Seashore Kingdom's Castle. Like the original, Adventure II is played from top-down perspective, with player roaming the large game world.. The player character can carry one item at a time which are used to solve puzzles. While the main player graphic remains a square, the world of Adventure II is far larger and more robust than the original. The game's 32k cartridge features 4 distinct kingdoms, complete with unique inhabitants, items and secrets.</desc>
-		<image>./Demo/images/Adventure 2 Demo (2002) (Ron Lloyd)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>20070507T000000</releasedate>
-		<publisher>AtariAge</publisher>
-	</game>
-	<game>
-		<path>./Other/Asteroids - Vector Edition (Asteroids Hack).zip</path>
-		<name>Asteroids</name>
-		<desc>Trapped in space somewhere between the planets Ortanus and Earth, your ship is suddenly surrounded by a field of massive asteroids. And, as if that weren't enough excitement for one day, a group of alien saucers stage a surprise attack. Quickly you take over the controls to save your ship from imminent doom. You must thrust away from the path of the oncoming asteroids. Put up shields to protect the ship. Hyperspace into thin air. Flip over and get the asteroids attacking from behind. It's all in your hands now. Good luck!
-
-Thought to have been planned to be a launch title for the Atari 5200 system due to the catalog number of CX5201. However it was never officially released but the prototype was found eventually. It's very similar to the Atari 8-Bit version of the game but unfortunately the controls are pretty poor with the 5200 joystick. There was an official controller that was planned to be released along with the game but sadly this was not to be.</desc>
-		<image>./Other/images/Asteroids - Vector Edition (Asteroids Hack)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19820511T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
 	</game>
 	<game>
 		<path>./Other/Astro Chase (1982) (Parker Bros-First Star Software).zip</path>
@@ -1156,5 +1087,86 @@ Your joystick moves you left or right. The lower button fires VTMs, the upper bu
 		<developer>Ronen Habot</developer>
 		<publisher>Self-Published</publisher>
 		<genre>Action, Flight Simulator</genre>
+	</game>
+	<game>
+		<path>./Defender (1982) (Atari).zip</path>
+		<name>Defender</name>
+		<desc>Defender is a two-dimensional, side-scrolling shooting game set on the surface of an unnamed planet. The player controls a space ship as it navigates the terrain, flying either to the left or right. A joystick controls the ship's elevation, and five buttons control its horizontal direction and weapons. The object is to destroy alien invaders, while protecting astronauts on the landscape from abduction. Humans that are successfully abducted return as mutants that attack the ship. Defeating the aliens allows the player to progress to the next level. Failing to protect the astronauts, however, causes the planet to explode and the level to become populated with mutants. Surviving the waves of mutants results in the restoration of the planet. Players are allotted three chances (lives) to progress through the game and are able to earn more by reaching certain scoring benchmarks.</desc>
+		<image>./images/Defender (1982) (Atari)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19821201T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210906T141332</lastplayed>
+	</game>
+	<game>
+		<path>./Demo/Adventure 2 Demo (2002) (Ron Lloyd).zip</path>
+		<name>Adventure II {broken}</name>
+		<desc>This homebrew Atari 5200 cartridge is a direct, yet unofficial sequel to the Atari 2600 action role-playing classic Adventure. The player controls an unnamed knight on a quest to return the stolen chalice to the Seashore Kingdom's Castle. Like the original, Adventure II is played from top-down perspective, with player roaming the large game world.. The player character can carry one item at a time which are used to solve puzzles. While the main player graphic remains a square, the world of Adventure II is far larger and more robust than the original. The game's 32k cartridge features 4 distinct kingdoms, complete with unique inhabitants, items and secrets.</desc>
+		<image>./Demo/images/Adventure 2 Demo (2002) (Ron Lloyd)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>20070507T000000</releasedate>
+		<publisher>AtariAge</publisher>
+		<playcount>2</playcount>
+		<lastplayed>20211020T235658</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Asteroids - Vector Edition (Asteroids Hack).zip</path>
+		<name>Asteroids</name>
+		<desc>Trapped in space somewhere between the planets Ortanus and Earth, your ship is suddenly surrounded by a field of massive asteroids. And, as if that weren't enough excitement for one day, a group of alien saucers stage a surprise attack. Quickly you take over the controls to save your ship from imminent doom. You must thrust away from the path of the oncoming asteroids. Put up shields to protect the ship. Hyperspace into thin air. Flip over and get the asteroids attacking from behind. It's all in your hands now. Good luck!
+
+Thought to have been planned to be a launch title for the Atari 5200 system due to the catalog number of CX5201. However it was never officially released but the prototype was found eventually. It's very similar to the Atari 8-Bit version of the game but unfortunately the controls are pretty poor with the 5200 joystick. There was an official controller that was planned to be released along with the game but sadly this was not to be.</desc>
+		<image>./Other/images/Asteroids - Vector Edition (Asteroids Hack)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19820511T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20211020T235831</lastplayed>
+	</game>
+	<game>
+		<path>./Beamrider (1984) (Activision).zip</path>
+		<name>Beamrider</name>
+		<desc>A beam matrix of iridescent blue engulfs the distant blackness of Earth-Space. You stand watching. First mesmerized, you now realize the beams carry weapons. Frightening creations in endless configurations. Intriguing to watch, but will you--yes you, dear reader--take action? You will??!! Then roll up your sleeves, mount these beams and...ride!!</desc>
+		<image>./images/Beamrider (1984) (Activision)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220116T115708</lastplayed>
+	</game>
+	<game>
+		<path>./Berzerk (1983) (Atari).zip</path>
+		<name>Berzerk</name>
+		<desc>After a routine space exploration mission goes awry, you find yourself marooned on the planet Mazeon. To add insult to injury, the robotic residents are out to kill you. Now you're forced to fend off these relentless robots as you move through endless mazelike environments. In Berzerk, the goal is to make your way past the electrified walls forming each screen while using your laser gun to blast the hostile threats known as Automazeons. Firing your weapon involves pointing the joystick in one of eight directions and pressing a button. You can also lead robots into walls and even into their own shots to defeat them.</desc>
+		<image>./images/Berzerk (1983) (Atari)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics</developer>
+		<publisher>Stern Electronics, Inc.</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220116T115727</lastplayed>
+	</game>
+	<game>
+		<path>./Congo Bongo (1983) (Sega).zip</path>
+		<name>Congo Bongo</name>
+		<desc>In the first of three screens, you must climb the cliffs of Jungle Mountain in order to get to Congo Bongo, the jungle gorilla. You must also cross a bridge and jump a chasm. Along the way, Congo will throw coconuts at you, and monkeys will try to jump on your back. The monkeys slow you down tremendously, but a couple of jumps will send them scurrying.</desc>
+		<image>./images/Congo Bongo (1983) (Sega)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19831201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220116T115800</lastplayed>
 	</game>
 </gameList>

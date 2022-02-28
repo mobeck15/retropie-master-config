@@ -23,17 +23,6 @@
 		<releasedate>19691231T160000</releasedate>
 	</folder>
 	<game>
-		<path>./Battle Wheels (1993).zip</path>
-		<name>Battle Wheels</name>
-		<desc>Battlewheels is an Action game, developed by Beyond Games and published by Atari, which was released in 1992.</desc>
-		<image>./images/Battle Wheels (1993)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931001T000000</releasedate>
-		<developer>Beyond Games</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Blue Lightning (1989).zip</path>
 		<name>Blue Lightning</name>
 		<desc>Flight Command chose you to fly the top secret Blue Lightning combat jet on its first flight. You finished last at flight school so they have nothing to lose.
@@ -85,16 +74,6 @@ Can you help Chip win the cold heart of his one true love and become an official
 		<developer>Epyx</developer>
 		<publisher>Atari, Inc.</publisher>
 		<genre>Puzzle</genre>
-	</game>
-	<game>
-		<path>./Crystal Mines II (1990).zip</path>
-		<name>Crystal Mines II</name>
-		<desc>Great treasure still lies deep in the abandoned Crystal Mines. But over the years, underground demons have made them deadly. Guide your robot through the mines, destroying demons and gathering great wealth. Or fail, and become history.</desc>
-		<image>./images/Crystal Mines II (1990)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920806T000000</releasedate>
-		<developer>Atari</developer>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Desert Strike - Return to the Gulf (1993) (Telegames).zip</path>
@@ -336,20 +315,6 @@ Computer Gaming World criticized the game for only displaying about 10% of the f
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./Awesome Golf (1991).zip</path>
-		<name>Awesome Golf</name>
-		<desc>You are on the 18th tee, one stroke behind the defending champion. Do you take your caddy’s advice and play it safe, or do you risk the water? Awesome Golf provides great realism and a challenge for one to four players.</desc>
-		<image>./images/Awesome Golf (1991)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910314T000000</releasedate>
-		<developer>Hand Made Software</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20210906T132830</lastplayed>
-	</game>
-	<game>
 		<path>./Ninja Gaiden III - The Ancient Ship of Doom (1993).zip</path>
 		<name>Ninja Gaiden III: Ancient Ship of Doom</name>
 		<desc>Immerse yourself in action-acked Ninja adventure as you help Ryu through his greatest challenge. Battle the hideous ancient forces of darkness to save mankind, with the epic adventure unfolding as you complete each level.</desc>
@@ -359,18 +324,6 @@ Computer Gaming World criticized the game for only displaying about 10% of the f
 		<developer>Tecmo</developer>
 		<publisher>Atari, Inc.</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/APB - All Points Bulletin (1990).zip</path>
-		<name>A.P.B. - All Points Bulletin</name>
-		<desc>In this real arcade game you and Officer Bob must search out and collar the perps who've engaged in such heinous criminal activities as littering, speeding, and assorted other forms of misconduct too despicable to mention! But while you're out there, patrolling the streets in Officer Bob's police car, don't forget to refuel! Stop in at your friendly neighborhood donut shop and gain extra time.
-There are innocent bystanders and vehicles in A.P.B. If you hit one you get demerits.</desc>
-		<image>./Other/images/APB - All Points Bulletin (1990)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910801T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari, Inc.</publisher>
-		<genre>Action, Racing, Shooter</genre>
 	</game>
 	<game>
 		<path>./Other/Battlezone 2000 (1996).zip</path>
@@ -501,17 +454,6 @@ Can you save the President's daughter and serve justice to the world's most wick
 		<releasedate>19930811T000000</releasedate>
 		<developer>Telegames, Inc.</developer>
 		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Other/Eye of the Beholder (Prototype) (1990) (NuFX).zip</path>
-		<name>Eye of the Beholder</name>
-		<sortname>Dungeons &amp; Dragons 1993: Eye of the Beholder</sortname>
-		<desc>Put your best fighters up front. Battle Axe wielding Skeletons are among the first horrors you'll encounter in 13 levels of mayhem. Will they be the last? These flinds aren't your friends. And they like to hunt in packs! Ever met a Kuo-Toa? It's an electrifying experience. Even more shocking is The Beholder himself, if you survive long enough to meet him. Don't forget to look behind you! Giant spiders like to watch you pass, then strike.</desc>
-		<image>./Other/images/Eye of the Beholder (Prototype) (1990) (NuFX)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930805T000000</releasedate>
-		<developer>Atari</developer>
-		<genre>Role-Playing</genre>
 	</game>
 	<game>
 		<path>./Other/Fat Bobby (1997) (Telegames).zip</path>
@@ -886,21 +828,6 @@ Steel Talons was ported to the Sega Mega Drive/Genesis, Atari Lynx handheld, Ata
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./Other/Super Asteroids &amp; Missile Command (1995).zip</path>
-		<name>Super Asteroids &amp; Missile Command</name>
-		<sortname>Asteroids &amp; Missile Command</sortname>
-		<desc>Super Asteroids &amp; Missile Command (also known as Super Asteroids and Super Missile Command as seen on the title screen) is an Atari Lynx video game that combines the classic video games Asteroids and Missile Command into a single game cartridge.
-
-Released in 1995 according to Moby Games, The graphics and sound are enhanced from their original incarnations. This game was only released in North America and Europe. Being the final game ever released by Atari for the Atari Lynx, this game would ultimately begin an era where Atari would produce games for other console systems as opposed to their own.
-
-Super Asteroids pits the player against a never ending supply of extraterrestrial debris and enemy UFOs trained to kill any human spacecraft. He must destroy everything while snatching power-ups. Super Missile Command has the player defend various of his space colonies from incoming missiles, satellites, and enemy fighters. Intermissions allow players to buy better missiles and defense system to bolster up his defense of his space colonies.</desc>
-		<image>./Other/images/Super Asteroids &amp; Missile Command (1995)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950802T000000</releasedate>
-		<developer>Atari</developer>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Other/Super Skweek (1991).zip</path>
 		<name>Super Skweek</name>
 		<sortname>Skweek, Super</sortname>
@@ -1040,7 +967,86 @@ Pick from any of six missions from Milk Run to The Swarm to dog fight one-on-one
 		<developer>Atari</developer>
 		<publisher>Atari, Inc.</publisher>
 		<genre>Action</genre>
-		<playcount>2</playcount>
-		<lastplayed>20210906T133626</lastplayed>
+		<playcount>6</playcount>
+		<lastplayed>20210906T143933</lastplayed>
+	</game>
+	<game>
+		<path>./Other/APB - All Points Bulletin (1990).zip</path>
+		<name>A.P.B. - All Points Bulletin</name>
+		<desc>In this real arcade game you and Officer Bob must search out and collar the perps who've engaged in such heinous criminal activities as littering, speeding, and assorted other forms of misconduct too despicable to mention! But while you're out there, patrolling the streets in Officer Bob's police car, don't forget to refuel! Stop in at your friendly neighborhood donut shop and gain extra time.
+There are innocent bystanders and vehicles in A.P.B. If you hit one you get demerits.</desc>
+		<image>./Other/images/APB - All Points Bulletin (1990)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action, Racing, Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T190736</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Super Asteroids &amp; Missile Command (1995).zip</path>
+		<name>Super Asteroids &amp; Missile Command</name>
+		<sortname>Asteroids, Super &amp; Missile Command</sortname>
+		<desc>Super Asteroids &amp; Missile Command (also known as Super Asteroids and Super Missile Command as seen on the title screen) is an Atari Lynx video game that combines the classic video games Asteroids and Missile Command into a single game cartridge.
+
+Released in 1995 according to Moby Games, The graphics and sound are enhanced from their original incarnations. This game was only released in North America and Europe. Being the final game ever released by Atari for the Atari Lynx, this game would ultimately begin an era where Atari would produce games for other console systems as opposed to their own.
+
+Super Asteroids pits the player against a never ending supply of extraterrestrial debris and enemy UFOs trained to kill any human spacecraft. He must destroy everything while snatching power-ups. Super Missile Command has the player defend various of his space colonies from incoming missiles, satellites, and enemy fighters. Intermissions allow players to buy better missiles and defense system to bolster up his defense of his space colonies.</desc>
+		<image>./Other/images/Super Asteroids &amp; Missile Command (1995)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950802T000000</releasedate>
+		<developer>Atari</developer>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Other/Eye of the Beholder (Prototype) (1990) (NuFX).zip</path>
+		<name>Eye of the Beholder</name>
+		<sortname>Dungeons &amp; Dragons Eye of the Beholder</sortname>
+		<desc>Put your best fighters up front. Battle Axe wielding Skeletons are among the first horrors you'll encounter in 13 levels of mayhem. Will they be the last? These flinds aren't your friends. And they like to hunt in packs! Ever met a Kuo-Toa? It's an electrifying experience. Even more shocking is The Beholder himself, if you survive long enough to meet him. Don't forget to look behind you! Giant spiders like to watch you pass, then strike.</desc>
+		<image>./Other/images/Eye of the Beholder (Prototype) (1990) (NuFX)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930805T000000</releasedate>
+		<developer>Atari</developer>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Awesome Golf (1991).zip</path>
+		<name>Awesome Golf</name>
+		<sortname>Golf, awesome</sortname>
+		<desc>You are on the 18th tee, one stroke behind the defending champion. Do you take your caddy’s advice and play it safe, or do you risk the water? Awesome Golf provides great realism and a challenge for one to four players.</desc>
+		<image>./images/Awesome Golf (1991)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910314T000000</releasedate>
+		<developer>Hand Made Software</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20210906T132830</lastplayed>
+	</game>
+	<game>
+		<path>./Crystal Mines II (1990).zip</path>
+		<name>Crystal Mines II</name>
+		<sortname>Crystal Mines 2</sortname>
+		<desc>Great treasure still lies deep in the abandoned Crystal Mines. But over the years, underground demons have made them deadly. Guide your robot through the mines, destroying demons and gathering great wealth. Or fail, and become history.</desc>
+		<image>./images/Crystal Mines II (1990)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920806T000000</releasedate>
+		<developer>Atari</developer>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Battle Wheels (1993).zip</path>
+		<name>Battle Wheels</name>
+		<desc>Battlewheels is an Action game, developed by Beyond Games and published by Atari, which was released in 1992.</desc>
+		<image>./images/Battle Wheels (1993)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Beyond Games</developer>
+		<publisher>Atari, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220116T115927</lastplayed>
 	</game>
 </gameList>

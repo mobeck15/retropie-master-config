@@ -66,23 +66,6 @@
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Sports/All-Star Baseball '99 (U) [!].zip</path>
-		<name>All-Star Baseball '99</name>
-		<desc>All-Star Baseball 99 is the first handheld entry in the All-Star Baseball series and differs from its N64 counterpart.
-
-The game features six different modes: exhibition games, a full season (either all 162 games of the 1998 season or various shortened runs), the '97 playoffs, the '97 All-Star game as well as the Home Run Derby, and a batting practice mode. In season and playoff mode, progress is saved via passwords.
-
-On the field, players will control pitching, fielding and batting (bunts and swings are possible). The game also allows players to set team lineups and positions.
-
-The game includes all 30 MLB teams of the 1998 season, including the '98 expansion teams Arizona and Tampa Bay.</desc>
-		<image>./Sports/images/All-Star Baseball '99 (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19980501T000000</releasedate>
-		<developer>Realtime Associates, Inc.</developer>
-		<publisher>Acclaim Entertainment, Inc.</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
 		<path>./Sports/Baseball (W) [!].zip</path>
 		<name>Baseball</name>
 		<desc>Baseball was one of the first games to launch with the Game Boy.
@@ -95,20 +78,6 @@ Although there is no difference between them other than uniform color, they are 
 		<publisher>Nintendo</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Sports/Bases Loaded (U) [!].zip</path>
-		<name>Bases Loaded</name>
-		<desc>This game is the first installment of the Bases Loaded series, followed by seven sequels across three generations of consoles.
-
-
-Bases Loaded features baseball action with two game modes, USA mode or Japan mode. The difference between the two modes is that the Japan mode contains faster pitches. After selecting your mode of play you are given a choice of two teams: East and West. You can perform all of the basics of major league baseball: pitch, hit, field, pickoffs, pinch hit, and bring in a relief pitcher. Gameplay is viewed from a different perspective when hitting and when pitching. Link with a friend's Game Boy to go head-to-head.</desc>
-		<image>./Sports/images/Bases Loaded (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900701T000000</releasedate>
-		<developer>Jaleco Ltd.</developer>
-		<publisher>Jaleco Ltd.</publisher>
-		<genre>Sports</genre>
 	</game>
 	<game>
 		<path>./Sports/Best of the Best - Championship Karate (U) [!].zip</path>
@@ -1379,53 +1348,6 @@ In and Out of the ring action: Over 40 moves per character! Signature and finish
 		<lastplayed>20210323T205309</lastplayed>
 	</game>
 	<game>
-		<path>./Other/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].zip</path>
-		<name>A-Force</name>
-		<desc>A-Force is an Action game, developed and published by Sachen, which was released in Asia in 1993.</desc>
-		<image>./Other/images/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930104T000000</releasedate>
-		<developer>Sachen</developer>
-		<publisher>Sachen</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Adventure Island (U).zip</path>
-		<name>Adventure Island</name>
-		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
-
-The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-		<image>./Other/images/Adventure Island (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920201T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Adventure Island II (UE) [!].zip</path>
-		<name>Adventure Island II: Aliens in Paradise</name>
-		<sortname>Adventure Island 2: Aliens in Paradise</sortname>
-		<desc>In Adventure Island II the player takes the role of Master Higgins who has to save his cavegirl from aliens which also want to dominate the Earth. The basic gameplay elements are the same as in its predecessor Adventure Island: Master Higgins walks through the levels while fighting against various enemies. One hit results in his untimely death unless he carries one of the various power ups, e.g. weapons or a skateboard which improves his speed. He also needs to collect food to fill up his steadily decreasing starvation bar - death awaits if it hits zero.</desc>
-		<image>./Other/images/Adventure Island II (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930201T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Adventure, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Aero Star (U) [!].zip</path>
-		<name>Aerostar</name>
-		<desc>After the end of the Sixth World War, the Earth has been rendered inhospitable and uninhabitable by humanity. The Intergalactic Council ruled that Earth could once again be used by humans and sent people there to restore civilization there. Meanwhile, mutants have prospered in the long-lost wastelands of Earth and were unwilling to allow the humans to have it again. The Intergalactic Council has sent in a lone fighter called Aerostar to defend the Earth from a second act of total destruction.</desc>
-		<image>./Other/images/Aero Star (U) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910901T000000</releasedate>
-		<developer>Vic Tokai</developer>
-		<publisher>Vic Tokai</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Other/Alfred Chicken (U) [!].zip</path>
 		<name>Alfred Chicken</name>
 		<desc>The player takes the role of a chicken named Alfred who must find his way through bizarre levels full of balloons, telephones, cheese and other strange elements. While he is on the ground, Alfred can walk, jump, and peck balloons and ground switches. While he is in the air he can dive bomb enemies or springs. Dive bombing enemies will destroy them. Dive bombing springs will bounce Alfred much higher so he can reach platforms well above his normal jumping ability. If he does not hit an enemy or a spring, Alfred will get stuck in the ground for a short time.
@@ -1453,32 +1375,6 @@ The player controls Aladdin, who must make his way through several levels based 
 		<developer>Virgin Interactive Entertainment</developer>
 		<publisher>Sega</publisher>
 		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Addams Family, The (U).zip</path>
-		<name>The Addams Family</name>
-		<sortname>Addams Family 1</sortname>
-		<desc>Tully Alford, the Addams Family attorney, has evicted the clan from their home (based towards the end of the movie) and to make matters worse, Morticia Addams, Pugsley Addams, Wednesday Addams, Granny Addams and Lurch have gone missing. It is up to Gomez Addams to find and save his family, defeat the confused Uncle Fester and face his ultimate goal of kicking Alford out of the Addams' rightful home.</desc>
-		<image>./Other/images/Addams Family, The (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920108T000000</releasedate>
-		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210323T210234</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip</path>
-		<name>The Addams Family: Pugsley's Scavenger Hunt</name>
-		<sortname>Addams Family 2: Pugsley's Scavenger Hunt</sortname>
-		<desc>The plot of Pugsley's Scavenger Hunt is centered around Pugsley's attempts to win a scavenger hunt challenge proposed by his sister, Wednesday. His hunt takes him to the bedrooms of each member of the Addams family in order to find one item from each.</desc>
-		<image>./Other/images/Addams Family, The - Pugsley's Scavenger Hunt (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930707T000000</releasedate>
-		<developer>Ocean, Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Adventures of Rocky and Bullwinkle, The (U).zip</path>
@@ -1564,32 +1460,6 @@ The Predator must traverse several side-scrolling levels on his way to the queen
 		<developer>Software Creations</developer>
 		<publisher>Sony Imagesoft</publisher>
 		<genre>Adventure, Puzzle</genre>
-	</game>
-	<game>
-		<path>./Other/Amazing Penguin (U) [!].zip</path>
-		<name>Amazing Penguin</name>
-		<desc>The character controls a penguin who must clear 40 levels worth of action. There are a certain amount of lines with switches and dots that need activating.[3] Once all the lines are cleared, so are any enemies that are remaining in that level. A strict time limit make players lose their lives in addition to bumping into an enemy.
-
-There is no regularity to the movement of the character, giving an element of luck to the game. Some aspects of background graphics appear in certain levels (especially on levels 12, 20, 28, and 36).  Level 40 is essentially a giant maze which leads up to a castle that ends the game.</desc>
-		<image>./Other/images/Amazing Penguin (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19901201T000000</releasedate>
-		<developer>Natsume</developer>
-		<publisher>Natsume</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Amazing Tater (U).zip</path>
-		<name>Amazing Tater</name>
-		<desc>This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.
-
-The game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.</desc>
-		<image>./Other/images/Amazing Tater (U)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19920201T000000</releasedate>
-		<developer>Atlus U.S.A., Inc.</developer>
-		<publisher>Atlus U.S.A., Inc.</publisher>
-		<genre>Puzzle</genre>
 	</game>
 	<game>
 		<path>./Other/Animaniacs (U) [S][!].zip</path>
@@ -1754,18 +1624,6 @@ Powerful Mode, in which players have four bombs to place at a time and a bomb bl
 		<publisher>Hudson Entertainment, Inc.</publisher>
 		<genre>Action, Puzzle</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Attack of the Killer Tomatoes (U) [!].zip</path>
-		<name>Attack of the Killer Tomatoes</name>
-		<desc>The game's protagonist is Chad Finletter, a young boy is on a quest to stop the evil scientist Dr. Putrid T. Gangreen from unleashing his Doomsday Tomato. During his journey he must fight through legions of mutant tomatoes, although this is a feat he will take on alone as the citizens of San Zucchini are too afraid of the mutant tomatoes to aid him.
- Much like other platform games of its time, the main method of killing the enemies is to jump on them, in this case squashing them, or breaking them into smaller tomato enemies. There are several bosses to take on including Zoltan, Beefstake, Mummato, Fang, Ketchuck and Tomacho.</desc>
-		<image>./Other/images/Attack of the Killer Tomatoes (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921231T000000</releasedate>
-		<developer>Imagineering Inc.</developer>
-		<publisher>THQ, Altron Corporation</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Batman Forever (U) [!].zip</path>
@@ -2106,23 +1964,6 @@ The bosses were Morga, Kyurene, Jadeite, and Queen Beryl. Sailor Moon actually h
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Bomberman GB (U) [S][!].zip</path>
-		<name>Bomberman GB</name>
-		<sortname>Bomberman GB</sortname>
-		<desc>Bomberman is searching the depths of the earth in hopes of finding the Legendary Treasure.  In the Story Mode, guide him through 48 levels of puzzle-solving action, collecting power-up items and defeating monsters along the way.  The Battle Mode is the old favorite, where one to four players battle it out on six different maps.
-
-* There are 48 challenging levels in Story Mode!
-* Classic Battle Mode on the Super Game Boy accessory!
-* The SNES Multi-Player Adapter provides four player action with your Super Game Boy.
-* Password save feature!</desc>
-		<image>./Other/images/Bomberman GB (U) [S][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19980401T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Bomberman GB 3 (J) [S][T+Eng1.00_MakoKnight].zip</path>
 		<name>Bomberman GB 3</name>
 		<sortname>Bomberman 3 GB</sortname>
@@ -2135,34 +1976,6 @@ This game was only released in Japan. It is the last game in the Bomberman GB tr
 		<developer>Hudson Entertainment, Inc.</developer>
 		<publisher>Hudson Entertainment, Inc.</publisher>
 		<genre>Action, Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/Bonk's Adventure (U) [!].zip</path>
-		<name>Bonk's Adventure</name>
-		<desc>The game's protagonist is Bonk, a strong caveboy who battles anthropomorphic dinosaurs and other prehistoric themed enemies. Bonk's mission is to rescue Princess Za (a small pink Pleisiosaur-type reptile) who has been kidnapped by the evil King Drool (a large, green, Tyrannosaurus-type dinosaur). In the Arcade version, Bonk is also assisted by a female version of himself.</desc>
-		<image>./Other/images/Bonk's Adventure (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931231T000000</releasedate>
-		<developer>Red Company</developer>
-		<publisher>Hudson Entertainment, Inc., NEC Home Electronics, Ltd.</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Bonk's Revenge (U) [S][!].zip</path>
-		<name>Bonk's Revenge</name>
-		<desc>In the Game Boy version of this title, Bonk can turn into one of three unique heroes: Master Bonk, Hungry Bonk, or Stealth Bonk. Becoming Master Bonk dresses Bonk in a cape and provides him with Vulcan-esque ears, and gives him the ability to move faster and jump higher. Becoming Hungry Bonk gives Bonk an animalistic appearance with evil eyes and a mouth full of razor-sharp teeth, and gives bonk the ability to chew enemies to death, as well as providing him with a much stronger head-butt that can kill nearby foes. Becoming Stealth Bonk dresses Bonk in a striped jail outfit, and gives him the ability to enter special locked doors that lead to areas such as the bank, where Bonk can collect Smileys, the butcher's, where Bonk can eat more slabs of meat in hope for a different power-up, and jail, where Bonk loses a portion of his Smileys.
-
-Grabbing one of many tulips scattered throughout the game carries Bonk to a special bonus stage where he can face off against Mechabonk -- a RoboCop-esque version of Bonk—in a best-of-three battle to "bonk" one another off the edge of a small stage. Winning two rounds provides Bonk with an extra life, while a loss transforms Bonk into Wounded Bonk, where Bonk resembles a mummy and takes twice as much damage as usual.
-
-The game overall is very similar to games in the Mario series, providing linear, side-scrolling action, multiple power-ups, and several small boss confrontations leading up to a final boss. Its treatment of power-ups is similar as well: taking a hit while powered-up causes Bonk to take no damage but instead lose his power. For those who struggle with the game, the game offers passwords after game-overs so the player does not need to start over from the beginning.</desc>
-		<image>./Other/images/Bonk's Revenge (U) [S][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19911231T000000</releasedate>
-		<developer>Red Company</developer>
-		<publisher>Hudson Entertainment, Inc., NEC Home Electronics, Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210324T121641</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Boomer's Adventure in ASMIK World (U) [!].zip</path>
@@ -2196,17 +2009,6 @@ The game overall is very similar to games in the Mario series, providing linear,
 		<releasedate>19900201T000000</releasedate>
 		<developer>Thinking Rabbit</developer>
 		<publisher>Fujisankei Communications International Inc.</publisher>
-		<genre>Puzzle</genre>
-	</game>
-	<game>
-		<path>./Other/Boxxle 2 (U).zip</path>
-		<name>Boxxle II</name>
-		<desc>The player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.</desc>
-		<image>./Other/images/Boxxle 2 (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920601T000000</releasedate>
-		<developer>Atelier Double</developer>
-		<publisher>FCI</publisher>
 		<genre>Puzzle</genre>
 	</game>
 	<game>
@@ -2853,18 +2655,6 @@ Fygars - A race of green dragons who can breathe fire.</desc>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/Double Dragon 3 (U) [!].zip</path>
-		<name>Double Dragon 3: The Arcade Game</name>
-		<desc>Only one man knows the real story behind Marion's disappearance... and he's dead! Now the Double Dragons must rely on a mysterious fortune teller to locate Marion and her ransom - the Sacred Stones of Power! You'll fend off vicious street thugs, evil ninja warriors, deadly gladiators, Manchurian barbarians and more! Defeat your most dreaded enemies and out of pure respect they'll join your side - adding their Iron Claws and Shangai Stars to your all-new martial arts maneuvers - like the awesome mid-air somersault. Double Dragon III. If you survive the action, you'll rescue Marion, retain your honor and discover the truth behind the Sacred Stones. If you fail...</desc>
-		<image>./Other/images/Double Dragon 3 (U) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19930314T000000</releasedate>
-		<developer>The Sales Curve Ltd.</developer>
-		<publisher>Acclaim Entertainment, Inc.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Double Dragon 2 (U) [!].zip</path>
 		<name>Double Dragon II</name>
 		<sortname>Double Dragon 2</sortname>
@@ -2899,18 +2689,6 @@ Fygars - A race of green dragons who can breathe fire.</desc>
 		<developer>MovieTime Ltd.</developer>
 		<publisher>Jaleco Ltd.</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Donald Duck in Maui Mallard (U) [!].zip</path>
-		<name>Maui Mallard in Cold Shadow</name>
-		<sortname>Disney's Maui Mallard in Cold Shadow</sortname>
-		<desc>When he morphs into a ninja, you better duck! Play as Maui. Play as the Ninja. Play as Maui. Play as the Ninja. Try not to get dizzy. Find the missing Shabuhm Shabuhm idol before your island paradise goes kaboom kaboom! 40 hours of intense gameplay. So pack plenty of attitude. And your bug gun. Come beak to beak with MudDrakes, Rotting Pirates, Duck Zombies, Amazon Warriors. And a bunch of fowl-tempered hangers-on. Laugh in the face of danger from the top of a volcano, the bottom of the sea, the Realm of the Dead, and Ninja Training Grounds. Then get the heck out! Live every level like it's your last - 'cuz it may be!</desc>
-		<image>./Other/images/Donald Duck in Maui Mallard (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19980801T000000</releasedate>
-		<developer>Bonsai Entertainment Corp.</developer>
-		<publisher>SUNSOFT</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Other/Chessmaster, The (UE) (V1.1) [!].zip</path>
@@ -4650,48 +4428,6 @@ Mickey Mouse and his friends have become lost while playing near the edge of the
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Other/Mickey's Dangerous Chase (U) [!].zip</path>
-		<name>Mickey's Dangerous Chase</name>
-		<sortname>Disney's Mickey's Dangerous Chase</sortname>
-		<desc>Mickey Goes After a Missing Present and the Culprit Who Swiped It!
-
-Who's got Minnie's missing present? Big Bad Pete is the culprit! He swiped Minnie's present and spoiled the surprise. Now Mickey's after him, and the chase leads through some very dangerous places. Mickey meets barking bulldogs, slippery weasels, hairy tarantulas, and even worse critters. Tricks, traps, and collapsing escape routes make Mickey scurry. He scampers through his Hometown, into the Woods and up the Mountain. He chases Pete through a Factory and up to the Rooftops for a final showdown. Can you help Mickey stop Pete and get the missing present back? Better hurry!
-
--Mickey throws boxes at the bad guys while grabbing Stars and Prizes.
-
--A speedboat, jalopy, and bouquet of balloons add high fun to Mickey's chase.</desc>
-		<image>./Other/images/Mickey's Dangerous Chase (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910515T000000</releasedate>
-		<developer>Now Production Co.</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Mickey's Ultimate Challenge (U).zip</path>
-		<name>Mickey's Ultimate Challenge</name>
-		<sortname>Disney's Mickey's Ultimate Challenge</sortname>
-		<desc>Five Magical Puzzles
-Full Of Family Fun!
-
-"The sky is rumbling!
-The sky is rumbling! What ever can it be?" cry the citizens of Beanwick.
-
-"Is it a storm? Is it a monster? Is it the end of the Kingdom?" I don't know, but I'll find out, says Mickey, "if I have to search every room in the Castle of Beanwick to solve the mystery!"
-
-In Mickey's Ultimate Challenge, volunteer as Mickey or Minnie to help the Kingdom of Beanwick solve the mystery of the rumblings in the sky. But, first you must prove worthy of the challenge--by thinking your way through a series of fiendishly clever puzzles, players from 4 to 104 can take full advantage of the game's interactive capabilities to put their critical thinking skills to the ultimate test. Five incredible locations!
-
-Five brain-teasing challenges starring many of your favorite Disney characters. Solve them all for a chance to see what's really up, up there!
-
-Is this all a dream? Play Mickey's Ultimate Challenge and decide for yourself!</desc>
-		<image>./Other/images/Mickey's Ultimate Challenge (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940223T000000</releasedate>
-		<developer>Designer Software</developer>
-		<publisher>Hi-Tech Expressions, Inc.</publisher>
-		<genre>Puzzle</genre>
-	</game>
-	<game>
 		<path>./Other/Micro Machines 2 (U).zip</path>
 		<name>Micro Machines 2: Turbo Tournament</name>
 		<desc>The second game of the Micro Machines series. Like in its predecessor, you behind the steering wheel of an extremely small car. You race around on interesting places, like a table, a treehouse and many more. The control of the cars is sometimes quite difficult, especially if you don't know the tracks (the top-down view is not very clear). The CD-ROM version additionally features CD-Audio music and a track editor.
@@ -5869,35 +5605,6 @@ Shape up your Nintendo GAME BOY with foot-stomping action. Eat your way to super
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Super Battletank (U) [!].zip</path>
-		<name>Super Battletank</name>
-		<sortname>Battletank, Super</sortname>
-		<desc>Brace yourself for one of the most realistic, authentic military gameplaying experiences ever!
-In Super Batteltank: War in the Gulf, you are an Allied Forces tank commander in charge of the awesome M1A1 battletank, armored warfare champion of Operation Desert Storm.
-At your disposal is all of the state-of-the-art weaponry that gives the M1A1 its fearsome reputation. Smoke grenades, 7.62mm machine guns, 120mm armor-piercing shells controlled by a laser range-finder.
-Add to that power a first-person out-of-tank view, blistering sound effects, and spectacular graphics, and you'll feel you're right at the core of the Persian Gulf War!</desc>
-		<image>./Other/images/Super Battletank (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940401T000000</releasedate>
-		<developer>Imagineering Inc.</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Action, Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng].zip</path>
-		<name>Super Bikkuriman: Densetsu no Sekiban</name>
-		<sortname>Bikkuriman: Densetsu no Sekiban</sortname>
-		<desc>Battle between humans and super demons. Humans can use a cyber-update force to create mecha-like armour.
-
-Human forces has lost to super demons, only few humans flee. One of them - Phoenix, a little boy, wich one become a savior after finding a pieces of stone.</desc>
-		<image>./Other/images/Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921211T000000</releasedate>
-		<developer>Tom Create</developer>
-		<publisher>Yutaka</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Super Hunchback (U).zip</path>
 		<name>Super Hunchback</name>
 		<sortname>Hunchback</sortname>
@@ -6809,51 +6516,6 @@ The game is a direct lift of P.P. Hammer and his Pneumatic Weapon, featuring sim
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Castlevania II - Belmont's Revenge (U) [!].zip</path>
-		<name>Castlevania II: Belmont's Revenge</name>
-		<sortname>Castlevania 1991: Belmont's Revenge</sortname>
-		<desc>Fifteen years after vanquishing the emperor of evil, Count Dracula, Christopher Belmont now faces a vampire swearing vengeance. Drac's back. And he's turned your son, Soleiyu Belmont, into a deadly demon to do his dirty deeds. Now not only do you have to rescue your kid from the Count's clutches, you have to first track him down in four creep packed Castles. Fortunately, you posses weapons like armor piercing Battle Axes, beast burning Holy Water, and the Legendary Mystic Whip. And you can increase your arsenal with power up items like Crystal Balls, Hearts, and Candles. Strap on your shield and step into the shadows. That is, if you're prepared for the dwellers of darkness.</desc>
-		<image>./images/Castlevania II - Belmont's Revenge (U) [!]-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19910712T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20210324T150320</lastplayed>
-	</game>
-	<game>
-		<path>./Castlevania Adventure, The ('89) (U) [!].zip</path>
-		<name>Castlevania: The Adventure</name>
-		<sortname>Castlevania 1989 Adventure</sortname>
-		<desc>Castlevania: The Adventure, known as Dracula Densetsu (ドラキュラ伝説, officially translated The Legend of Dracula) in Japan, is a platform game released for the Game Boy in 1989. It is the first Castlevania title for the system.
-
-Set a century before the events of the original Castlevania, the player controls an ancestor of Simon Belmont named Christopher Belmont who goes on a quest to defeat Dracula.</desc>
-		<image>./images/Castlevania Adventure, The ('89) (U) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19891203T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Adventure</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221405</lastplayed>
-	</game>
-	<game>
-		<path>./Castlevania - Legends (U) [S][!].zip</path>
-		<name>Castlevania Legends</name>
-		<sortname>Castlevania 1998 Legends</sortname>
-		<desc>Every legend has a beginning. Now discover the beginning of the Castlevania Legend in Castlevania Legends for Game Boy. In this single-player adventure, you play as Sonia Belmont, the very first in the line of vampire hunting Belmonts. Use your whip to fend off the forces of darkness, as you work your way through six stages of non-linear gameplay. Explore the legendary areas of Castlevania, including the surrounding forest and the infamous clock tower. Don't forget to collect hearts from the torches that litter the stages to gain extra lives. Adjustable difficulty settings allow you to choose the skill level at which you want to play. At the end of it all, Count Dracula himself awaits. Can you defeat him and put the evil to rest for another 100 years?</desc>
-		<image>./images/Castlevania - Legends (U) [S][!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19980311T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Adventure</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T221522</lastplayed>
-	</game>
-	<game>
 		<path>./Contra - The Alien Wars (U) [S][!].zip</path>
 		<name>Contra: The Alien Wars</name>
 		<sortname>Contra 3 Alien Wars</sortname>
@@ -6894,68 +6556,6 @@ Set a century before the events of the original Castlevania, the player controls
 		<lastplayed>20210327T221834</lastplayed>
 	</game>
 	<game>
-		<path>./Donkey Kong (JU) (V1.1) [S][!].zip</path>
-		<name>Donkey Kong</name>
-		<sortname>Donkey Kong 1982</sortname>
-		<desc>Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climbed to the top of a perilous skyscraper. Challenged by many perils and unending puzzles, Mario must reach his arch rival. As he makes his way Mario will need to gather disappearing keys to unlock doors of hidden rooms. Donkey Kong devises evil tricks to confuse and trap him. Our heroic plumber has his hands full this time!</desc>
-		<image>./images/Donkey Kong (JU) (V1.1) [S][!]-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19940621T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<playcount>2</playcount>
-		<lastplayed>20210327T221911</lastplayed>
-	</game>
-	<game>
-		<path>./Donkey Kong Land (U) [S][!].zip</path>
-		<name>Donkey Kong Land</name>
-		<sortname>Donkey Kong Land 1995</sortname>
-		<desc>Donkey Kong Land is a Jump &amp; Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.
-
-Cranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey &amp; Diddy Kong set out to go throuth another adventure!</desc>
-		<image>./images/Donkey Kong Land (U) [S][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950726T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T222016</lastplayed>
-	</game>
-	<game>
-		<path>./Donkey Kong Land 2 (UE) [S][!].zip</path>
-		<name>Donkey Kong Land 2</name>
-		<sortname>Donkey Kong Land 1996</sortname>
-		<desc>Donkey Kong Land 2 is the first sequel to Donkey Kong Land for the Nintendo Game Boy and was released in 1996.
-
-The story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong, demanding the entire Banana Hoard as ransom, so it's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. A wild assortment of friendly animals like Rambi the Rhino, Squitter the Spider, Squawks the Parrot, Rattly the Rattlesnake and Enguarde the Swordfish help the two little monkeys in their adventurous mission. Each exciting level is filled with special traps, hidden items and dastardly Kremlings! Prepare yourself for the biggest Game Boy adventure yet!</desc>
-		<image>./images/Donkey Kong Land 2 (UE) [S][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19960116T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T222045</lastplayed>
-	</game>
-	<game>
-		<path>./Donkey Kong Land III (U) (V1.1) [S][!].zip</path>
-		<name>Donkey Kong Land III</name>
-		<sortname>Donkey Kong Land 1997</sortname>
-		<desc>Donkey Kong Land III is the last part in the Donkey Kong Land series and was released for the Game Boy by Nintendo in 1997.
-
-Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong &amp; Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!</desc>
-		<image>./images/Donkey Kong Land III (U) (V1.1) [S][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19971001T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210327T222115</lastplayed>
-	</game>
-	<game>
 		<path>./Earthworm Jim (U) [!].zip</path>
 		<name>Earthworm Jim</name>
 		<desc>Now you can eat dirt on the road. Earthworm Jim™, winner of Die-Hard Game Fan's Game of the Year, Game Player's Ultimate and Electronic Gaming Monthly's Genesis Game of the Year has wormed his way onto the Game Boy. This is the tightest conversion from a 16-bit to a hand-held ever! Now the head swinging, blaze blastin' action is totally mobile. So you can eat dirt everywhere you go!</desc>
@@ -6981,18 +6581,6 @@ Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fable
 		<favorite>true</favorite>
 		<playcount>1</playcount>
 		<lastplayed>20210327T222358</lastplayed>
-	</game>
-	<game>
-		<path>./Other/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!].zip</path>
-		<name>2nd Space</name>
-		<desc>Never released, 2nd Space is a Game Boy puzzle game with strongly resembles Pac-Man. In this title, you play as a kind of small car to pass on all the boxes of a fixed screen. When you completely enclose a geometric shape, it turns to show an image fragment. Your objective is to return the entire image pieces without getting hit by the creatures that lurk in the level. These pass through the walls and throw projectiles that you need to ensure dodge them too. Finishing a level, you can admire the sketch as a whole and move to the next stage. Bonus items appear occasionally to freeze your enemies for example. It is also possible to defeat an opponent by turning a piece of image as it passes over.</desc>
-		<image>./Other/images/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930327T000000</releasedate>
-		<developer>Sachen</developer>
-		<genre>Puzzle</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210404T132312</lastplayed>
 	</game>
 	<game>
 		<path>./Final Fantasy Legend, The (U) [!].zip</path>
@@ -7535,5 +7123,437 @@ Enemies in the game include the usual sharks found in underwater levels in addit
 		<players>2</players>
 		<playcount>3</playcount>
 		<lastplayed>20210526T181348</lastplayed>
+	</game>
+	<game>
+		<path>./Other/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!].zip</path>
+		<name>2nd Space</name>
+		<desc>Never released, 2nd Space is a Game Boy puzzle game with strongly resembles Pac-Man. In this title, you play as a kind of small car to pass on all the boxes of a fixed screen. When you completely enclose a geometric shape, it turns to show an image fragment. Your objective is to return the entire image pieces without getting hit by the creatures that lurk in the level. These pass through the walls and throw projectiles that you need to ensure dodge them too. Finishing a level, you can admire the sketch as a whole and move to the next stage. Bonus items appear occasionally to freeze your enemies for example. It is also possible to defeat an opponent by turning a piece of image as it passes over.</desc>
+		<image>./Other/images/2nd Space (Sachen 4-in-1 Vol. 6) (Unl) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19930327T000000</releasedate>
+		<developer>Sachen</developer>
+		<genre>Puzzle</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211019T121616</lastplayed>
+	</game>
+	<game>
+		<path>./Other/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!].zip</path>
+		<name>A-Force</name>
+		<desc>A-Force is an Action game, developed and published by Sachen, which was released in Asia in 1993.</desc>
+		<image>./Other/images/A-Force (Sachen 4-in-1 Vol. 6) (Unl) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930104T000000</releasedate>
+		<developer>Sachen</developer>
+		<publisher>Sachen</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T190303</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The (U).zip</path>
+		<name>The Addams Family</name>
+		<sortname>Addams Family 1</sortname>
+		<desc>Tully Alford, the Addams Family attorney, has evicted the clan from their home (based towards the end of the movie) and to make matters worse, Morticia Addams, Pugsley Addams, Wednesday Addams, Granny Addams and Lurch have gone missing. It is up to Gomez Addams to find and save his family, defeat the confused Uncle Fester and face his ultimate goal of kicking Alford out of the Addams' rightful home.</desc>
+		<image>./Other/images/Addams Family, The (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920108T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T234323</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip</path>
+		<name>The Addams Family: Pugsley's Scavenger Hunt</name>
+		<sortname>Addams Family 2: Pugsley's Scavenger Hunt</sortname>
+		<desc>The plot of Pugsley's Scavenger Hunt is centered around Pugsley's attempts to win a scavenger hunt challenge proposed by his sister, Wednesday. His hunt takes him to the bedrooms of each member of the Addams family in order to find one item from each.</desc>
+		<image>./Other/images/Addams Family, The - Pugsley's Scavenger Hunt (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930707T000000</releasedate>
+		<developer>Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T235101</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Amazing Penguin (U) [!].zip</path>
+		<name>Amazing Penguin</name>
+		<sortname>Penguin, Amazing</sortname>
+		<desc>The character controls a penguin who must clear 40 levels worth of action. There are a certain amount of lines with switches and dots that need activating.[3] Once all the lines are cleared, so are any enemies that are remaining in that level. A strict time limit make players lose their lives in addition to bumping into an enemy.
+
+There is no regularity to the movement of the character, giving an element of luck to the game. Some aspects of background graphics appear in certain levels (especially on levels 12, 20, 28, and 36).  Level 40 is essentially a giant maze which leads up to a castle that ends the game.</desc>
+		<image>./Other/images/Amazing Penguin (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Natsume</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Amazing Tater (U).zip</path>
+		<name>Amazing Tater</name>
+		<sortname>Tater, Amazing</sortname>
+		<desc>This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.
+
+The game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.</desc>
+		<image>./Other/images/Amazing Tater (U)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Atlus U.S.A., Inc.</developer>
+		<publisher>Atlus U.S.A., Inc.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Attack of the Killer Tomatoes (U) [!].zip</path>
+		<name>Attack of the Killer Tomatoes</name>
+		<sortname>Killer Tomatoes, Attack of the</sortname>
+		<desc>The game's protagonist is Chad Finletter, a young boy is on a quest to stop the evil scientist Dr. Putrid T. Gangreen from unleashing his Doomsday Tomato. During his journey he must fight through legions of mutant tomatoes, although this is a feat he will take on alone as the citizens of San Zucchini are too afraid of the mutant tomatoes to aid him.
+ Much like other platform games of its time, the main method of killing the enemies is to jump on them, in this case squashing them, or breaking them into smaller tomato enemies. There are several bosses to take on including Zoltan, Beefstake, Mummato, Fang, Ketchuck and Tomacho.</desc>
+		<image>./Other/images/Attack of the Killer Tomatoes (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921231T000000</releasedate>
+		<developer>Imagineering Inc.</developer>
+		<publisher>THQ, Altron Corporation</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Super Battletank (U) [!].zip</path>
+		<name>Super Battletank</name>
+		<sortname>Battletank 1 Super</sortname>
+		<desc>Brace yourself for one of the most realistic, authentic military gameplaying experiences ever!
+In Super Batteltank: War in the Gulf, you are an Allied Forces tank commander in charge of the awesome M1A1 battletank, armored warfare champion of Operation Desert Storm.
+At your disposal is all of the state-of-the-art weaponry that gives the M1A1 its fearsome reputation. Smoke grenades, 7.62mm machine guns, 120mm armor-piercing shells controlled by a laser range-finder.
+Add to that power a first-person out-of-tank view, blistering sound effects, and spectacular graphics, and you'll feel you're right at the core of the Persian Gulf War!</desc>
+		<image>./Other/images/Super Battletank (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Imagineering Inc.</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Action, Strategy</genre>
+	</game>
+	<game>
+		<path>./Other/Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng].zip</path>
+		<name>Super Bikkuriman: Densetsu no Sekiban</name>
+		<sortname>Bikkuriman: Densetsu no Sekiban, Super</sortname>
+		<desc>Battle between humans and super demons. Humans can use a cyber-update force to create mecha-like armour.
+
+Human forces has lost to super demons, only few humans flee. One of them - Phoenix, a little boy, wich one become a savior after finding a pieces of stone.</desc>
+		<image>./Other/images/Super Bikkuriman - Densetsu no Sekiban (J) [T+Eng]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Tom Create</developer>
+		<publisher>Yutaka</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Bomberman GB (U) [S][!].zip</path>
+		<name>Bomberman GB</name>
+		<sortname>Bomberman 1 GB</sortname>
+		<desc>Bomberman is searching the depths of the earth in hopes of finding the Legendary Treasure.  In the Story Mode, guide him through 48 levels of puzzle-solving action, collecting power-up items and defeating monsters along the way.  The Battle Mode is the old favorite, where one to four players battle it out on six different maps.
+
+* There are 48 challenging levels in Story Mode!
+* Classic Battle Mode on the Super Game Boy accessory!
+* The SNES Multi-Player Adapter provides four player action with your Super Game Boy.
+* Password save feature!</desc>
+		<image>./Other/images/Bomberman GB (U) [S][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19980401T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Bonk's Adventure (U) [!].zip</path>
+		<name>Bonk's Adventure</name>
+		<sortname>Bonk 1 Adventure</sortname>
+		<desc>The game's protagonist is Bonk, a strong caveboy who battles anthropomorphic dinosaurs and other prehistoric themed enemies. Bonk's mission is to rescue Princess Za (a small pink Pleisiosaur-type reptile) who has been kidnapped by the evil King Drool (a large, green, Tyrannosaurus-type dinosaur). In the Arcade version, Bonk is also assisted by a female version of himself.</desc>
+		<image>./Other/images/Bonk's Adventure (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931231T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson Entertainment, Inc., NEC Home Electronics, Ltd.</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Bonk's Revenge (U) [S][!].zip</path>
+		<name>Bonk's Revenge</name>
+		<sortname>Bonk 2 Revenge</sortname>
+		<desc>In the Game Boy version of this title, Bonk can turn into one of three unique heroes: Master Bonk, Hungry Bonk, or Stealth Bonk. Becoming Master Bonk dresses Bonk in a cape and provides him with Vulcan-esque ears, and gives him the ability to move faster and jump higher. Becoming Hungry Bonk gives Bonk an animalistic appearance with evil eyes and a mouth full of razor-sharp teeth, and gives bonk the ability to chew enemies to death, as well as providing him with a much stronger head-butt that can kill nearby foes. Becoming Stealth Bonk dresses Bonk in a striped jail outfit, and gives him the ability to enter special locked doors that lead to areas such as the bank, where Bonk can collect Smileys, the butcher's, where Bonk can eat more slabs of meat in hope for a different power-up, and jail, where Bonk loses a portion of his Smileys.
+
+Grabbing one of many tulips scattered throughout the game carries Bonk to a special bonus stage where he can face off against Mechabonk -- a RoboCop-esque version of Bonk—in a best-of-three battle to "bonk" one another off the edge of a small stage. Winning two rounds provides Bonk with an extra life, while a loss transforms Bonk into Wounded Bonk, where Bonk resembles a mummy and takes twice as much damage as usual.
+
+The game overall is very similar to games in the Mario series, providing linear, side-scrolling action, multiple power-ups, and several small boss confrontations leading up to a final boss. Its treatment of power-ups is similar as well: taking a hit while powered-up causes Bonk to take no damage but instead lose his power. For those who struggle with the game, the game offers passwords after game-overs so the player does not need to start over from the beginning.</desc>
+		<image>./Other/images/Bonk's Revenge (U) [S][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson Entertainment, Inc., NEC Home Electronics, Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210324T121641</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Boxxle 2 (U).zip</path>
+		<name>Boxxle II</name>
+		<sortname>Boxxle 2</sortname>
+		<desc>The player must maneuver boxes in a warehouse in order to make enough money to woo his desired girlfriend.</desc>
+		<image>./Other/images/Boxxle 2 (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Atelier Double</developer>
+		<publisher>FCI</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Sports/All-Star Baseball '99 (U) [!].zip</path>
+		<name>All-Star Baseball '99</name>
+		<sortname>All Star Baseball 1999</sortname>
+		<desc>All-Star Baseball 99 is the first handheld entry in the All-Star Baseball series and differs from its N64 counterpart.
+
+The game features six different modes: exhibition games, a full season (either all 162 games of the 1998 season or various shortened runs), the '97 playoffs, the '97 All-Star game as well as the Home Run Derby, and a batting practice mode. In season and playoff mode, progress is saved via passwords.
+
+On the field, players will control pitching, fielding and batting (bunts and swings are possible). The game also allows players to set team lineups and positions.
+
+The game includes all 30 MLB teams of the 1998 season, including the '98 expansion teams Arizona and Tampa Bay.</desc>
+		<image>./Sports/images/All-Star Baseball '99 (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19980501T000000</releasedate>
+		<developer>Realtime Associates, Inc.</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/Bases Loaded (U) [!].zip</path>
+		<name>Bases Loaded</name>
+		<sortname>Bases Loaded 1</sortname>
+		<desc>This game is the first installment of the Bases Loaded series, followed by seven sequels across three generations of consoles.
+
+
+Bases Loaded features baseball action with two game modes, USA mode or Japan mode. The difference between the two modes is that the Japan mode contains faster pitches. After selecting your mode of play you are given a choice of two teams: East and West. You can perform all of the basics of major league baseball: pitch, hit, field, pickoffs, pinch hit, and bring in a relief pitcher. Gameplay is viewed from a different perspective when hitting and when pitching. Link with a friend's Game Boy to go head-to-head.</desc>
+		<image>./Sports/images/Bases Loaded (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900701T000000</releasedate>
+		<developer>Jaleco Ltd.</developer>
+		<publisher>Jaleco Ltd.</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Castlevania Adventure, The ('89) (U) [!].zip</path>
+		<name>Castlevania: The Adventure</name>
+		<sortname>Castlevania Adventure</sortname>
+		<desc>Castlevania: The Adventure, known as Dracula Densetsu (ドラキュラ伝説, officially translated The Legend of Dracula) in Japan, is a platform game released for the Game Boy in 1989. It is the first Castlevania title for the system.
+
+Set a century before the events of the original Castlevania, the player controls an ancestor of Simon Belmont named Christopher Belmont who goes on a quest to defeat Dracula.</desc>
+		<image>./images/Castlevania Adventure, The ('89) (U) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19891203T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T221405</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania II - Belmont's Revenge (U) [!].zip</path>
+		<name>Castlevania II: Belmont's Revenge</name>
+		<sortname>Castlevania 2 Belmont's Revenge</sortname>
+		<desc>Fifteen years after vanquishing the emperor of evil, Count Dracula, Christopher Belmont now faces a vampire swearing vengeance. Drac's back. And he's turned your son, Soleiyu Belmont, into a deadly demon to do his dirty deeds. Now not only do you have to rescue your kid from the Count's clutches, you have to first track him down in four creep packed Castles. Fortunately, you posses weapons like armor piercing Battle Axes, beast burning Holy Water, and the Legendary Mystic Whip. And you can increase your arsenal with power up items like Crystal Balls, Hearts, and Candles. Strap on your shield and step into the shadows. That is, if you're prepared for the dwellers of darkness.</desc>
+		<image>./images/Castlevania II - Belmont's Revenge (U) [!]-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19910712T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20210324T150320</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Legends (U) [S][!].zip</path>
+		<name>Castlevania Legends</name>
+		<sortname>Castlevania Legends</sortname>
+		<desc>Every legend has a beginning. Now discover the beginning of the Castlevania Legend in Castlevania Legends for Game Boy. In this single-player adventure, you play as Sonia Belmont, the very first in the line of vampire hunting Belmonts. Use your whip to fend off the forces of darkness, as you work your way through six stages of non-linear gameplay. Explore the legendary areas of Castlevania, including the surrounding forest and the infamous clock tower. Don't forget to collect hearts from the torches that litter the stages to gain extra lives. Adjustable difficulty settings allow you to choose the skill level at which you want to play. At the end of it all, Count Dracula himself awaits. Can you defeat him and put the evil to rest for another 100 years?</desc>
+		<image>./images/Castlevania - Legends (U) [S][!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19980311T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T221522</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Donald Duck in Maui Mallard (U) [!].zip</path>
+		<name>Maui Mallard in Cold Shadow</name>
+		<sortname>Disney's Donald Maui Mallard in Cold Shadow</sortname>
+		<desc>When he morphs into a ninja, you better duck! Play as Maui. Play as the Ninja. Play as Maui. Play as the Ninja. Try not to get dizzy. Find the missing Shabuhm Shabuhm idol before your island paradise goes kaboom kaboom! 40 hours of intense gameplay. So pack plenty of attitude. And your bug gun. Come beak to beak with MudDrakes, Rotting Pirates, Duck Zombies, Amazon Warriors. And a bunch of fowl-tempered hangers-on. Laugh in the face of danger from the top of a volcano, the bottom of the sea, the Realm of the Dead, and Ninja Training Grounds. Then get the heck out! Live every level like it's your last - 'cuz it may be!</desc>
+		<image>./Other/images/Donald Duck in Maui Mallard (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19980801T000000</releasedate>
+		<developer>Bonsai Entertainment Corp.</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Mickey's Dangerous Chase (U) [!].zip</path>
+		<name>Mickey's Dangerous Chase</name>
+		<sortname>Disney's Mickey Dangerous Chase</sortname>
+		<desc>Mickey Goes After a Missing Present and the Culprit Who Swiped It!
+
+Who's got Minnie's missing present? Big Bad Pete is the culprit! He swiped Minnie's present and spoiled the surprise. Now Mickey's after him, and the chase leads through some very dangerous places. Mickey meets barking bulldogs, slippery weasels, hairy tarantulas, and even worse critters. Tricks, traps, and collapsing escape routes make Mickey scurry. He scampers through his Hometown, into the Woods and up the Mountain. He chases Pete through a Factory and up to the Rooftops for a final showdown. Can you help Mickey stop Pete and get the missing present back? Better hurry!
+
+-Mickey throws boxes at the bad guys while grabbing Stars and Prizes.
+
+-A speedboat, jalopy, and bouquet of balloons add high fun to Mickey's chase.</desc>
+		<image>./Other/images/Mickey's Dangerous Chase (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910515T000000</releasedate>
+		<developer>Now Production Co.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Mickey's Ultimate Challenge (U).zip</path>
+		<name>Mickey's Ultimate Challenge</name>
+		<sortname>Disney's Mickey Ultimate Challenge</sortname>
+		<desc>Five Magical Puzzles
+Full Of Family Fun!
+
+"The sky is rumbling!
+The sky is rumbling! What ever can it be?" cry the citizens of Beanwick.
+
+"Is it a storm? Is it a monster? Is it the end of the Kingdom?" I don't know, but I'll find out, says Mickey, "if I have to search every room in the Castle of Beanwick to solve the mystery!"
+
+In Mickey's Ultimate Challenge, volunteer as Mickey or Minnie to help the Kingdom of Beanwick solve the mystery of the rumblings in the sky. But, first you must prove worthy of the challenge--by thinking your way through a series of fiendishly clever puzzles, players from 4 to 104 can take full advantage of the game's interactive capabilities to put their critical thinking skills to the ultimate test. Five incredible locations!
+
+Five brain-teasing challenges starring many of your favorite Disney characters. Solve them all for a chance to see what's really up, up there!
+
+Is this all a dream? Play Mickey's Ultimate Challenge and decide for yourself!</desc>
+		<image>./Other/images/Mickey's Ultimate Challenge (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940223T000000</releasedate>
+		<developer>Designer Software</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Double Dragon 3 (U) [!].zip</path>
+		<name>Double Dragon 3: The Arcade Game</name>
+		<sortname>Double Dragon 3 Arcade Game</sortname>
+		<desc>Only one man knows the real story behind Marion's disappearance... and he's dead! Now the Double Dragons must rely on a mysterious fortune teller to locate Marion and her ransom - the Sacred Stones of Power! You'll fend off vicious street thugs, evil ninja warriors, deadly gladiators, Manchurian barbarians and more! Defeat your most dreaded enemies and out of pure respect they'll join your side - adding their Iron Claws and Shangai Stars to your all-new martial arts maneuvers - like the awesome mid-air somersault. Double Dragon III. If you survive the action, you'll rescue Marion, retain your honor and discover the truth behind the Sacred Stones. If you fail...</desc>
+		<image>./Other/images/Double Dragon 3 (U) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930314T000000</releasedate>
+		<developer>The Sales Curve Ltd.</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong (JU) (V1.1) [S][!].zip</path>
+		<name>Donkey Kong</name>
+		<sortname>Donkey Kong</sortname>
+		<desc>Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climbed to the top of a perilous skyscraper. Challenged by many perils and unending puzzles, Mario must reach his arch rival. As he makes his way Mario will need to gather disappearing keys to unlock doors of hidden rooms. Donkey Kong devises evil tricks to confuse and trap him. Our heroic plumber has his hands full this time!</desc>
+		<image>./images/Donkey Kong (JU) (V1.1) [S][!]-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19940621T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210327T221911</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Land (U) [S][!].zip</path>
+		<name>Donkey Kong Land</name>
+		<sortname>Donkey Kong Land</sortname>
+		<desc>Donkey Kong Land is a Jump &amp; Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.
+
+Cranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey &amp; Diddy Kong set out to go throuth another adventure!</desc>
+		<image>./images/Donkey Kong Land (U) [S][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950726T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T222016</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Land 2 (UE) [S][!].zip</path>
+		<name>Donkey Kong Land 2</name>
+		<sortname>Donkey Kong Land 2</sortname>
+		<desc>Donkey Kong Land 2 is the first sequel to Donkey Kong Land for the Nintendo Game Boy and was released in 1996.
+
+The story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong, demanding the entire Banana Hoard as ransom, so it's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. A wild assortment of friendly animals like Rambi the Rhino, Squitter the Spider, Squawks the Parrot, Rattly the Rattlesnake and Enguarde the Swordfish help the two little monkeys in their adventurous mission. Each exciting level is filled with special traps, hidden items and dastardly Kremlings! Prepare yourself for the biggest Game Boy adventure yet!</desc>
+		<image>./images/Donkey Kong Land 2 (UE) [S][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19960116T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T222045</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Land III (U) (V1.1) [S][!].zip</path>
+		<name>Donkey Kong Land III</name>
+		<sortname>Donkey Kong Land 3</sortname>
+		<desc>Donkey Kong Land III is the last part in the Donkey Kong Land series and was released for the Game Boy by Nintendo in 1997.
+
+Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong &amp; Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!</desc>
+		<image>./images/Donkey Kong Land III (U) (V1.1) [S][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210327T222115</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Adventure Island (U).zip</path>
+		<name>Adventure Island</name>
+		<sortname>Adventure Island 1</sortname>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+
+The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<image>./Other/images/Adventure Island (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920201T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T103124</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Adventure Island II (UE) [!].zip</path>
+		<name>Adventure Island II: Aliens in Paradise</name>
+		<sortname>Adventure Island 2: Aliens in Paradise</sortname>
+		<desc>In Adventure Island II the player takes the role of Master Higgins who has to save his cavegirl from aliens which also want to dominate the Earth. The basic gameplay elements are the same as in its predecessor Adventure Island: Master Higgins walks through the levels while fighting against various enemies. One hit results in his untimely death unless he carries one of the various power ups, e.g. weapons or a skateboard which improves his speed. He also needs to collect food to fill up his steadily decreasing starvation bar - death awaits if it hits zero.</desc>
+		<image>./Other/images/Adventure Island II (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Adventure, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T104235</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aero Star (U) [!].zip</path>
+		<name>Aerostar</name>
+		<desc>After the end of the Sixth World War, the Earth has been rendered inhospitable and uninhabitable by humanity. The Intergalactic Council ruled that Earth could once again be used by humans and sent people there to restore civilization there. Meanwhile, mutants have prospered in the long-lost wastelands of Earth and were unwilling to allow the humans to have it again. The Intergalactic Council has sent in a lone fighter called Aerostar to defend the Earth from a second act of total destruction.</desc>
+		<image>./Other/images/Aero Star (U) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Vic Tokai</developer>
+		<publisher>Vic Tokai</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T205130</lastplayed>
 	</game>
 </gameList>

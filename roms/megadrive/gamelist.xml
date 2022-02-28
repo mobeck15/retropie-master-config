@@ -92,32 +92,6 @@ All games have selectable difficulty options. They contain a classic mode as wel
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Bubsy in Claws Encounters of the Furred Kind (UE) [!].zip</path>
-		<name>Bubsy in Claws Encounters of the Furred Kind</name>
-		<sortname>Bubsy 1 in Claws Encounters of the Furred Kind</sortname>
-		<desc>The plot focuses on a race of fabric-stealing aliens called "Woolies", who have stolen the world's yarn ball supply (especially Bubsy's, who owns the world's largest collection). Naturally, Bubsy does not take too kindly to the theft and sets out to "humble" the Woolies.</desc>
-		<image>./images/Bubsy in Claws Encounters of the Furred Kind (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930304T000000</releasedate>
-		<developer>Accolade</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Castlevania - Bloodlines (U) [!].zip</path>
-		<name>Castlevania: Bloodlines</name>
-		<sortname>Castlevania 1994 Bloodlines</sortname>
-		<desc>Time refuses to forget the Belmont family's horrifying, bloody destiny. And in 1917 two of its descendants are summoned by fate into epic battle. Their enemy? The most evil incarnation of Castlevania legacy to ever rise from the grave, the vampiress Countess Bartley. This spine-tingling, 6-stage fear-fest overflows with graphic sights and sounds from your worst nightmares. As John Morris, the whip wielding vampire hunter, or Eric Lecarde, master lanceman, you'll pursue the demonic Countess all across Europe before she resurrects Dracula for a final reign of global terror. Alas, her trail of doom is laden with zombies, hideous mutants, grotesque giants, ghouls and ghastly creatures. Taste the sweat dripping into your mouth as you try rescuing yourself from diabolical traps. Feel the torturous strain on every muscle as you wield again and again sacred weapon power-ups such as Holy Water, the Battle Axe, the Crystal Blade Boomerang and the Mirror of Truth. But in the end, make sure you've saved enough strength to scream!
-
-UPC / Barcode: 083717160052</desc>
-		<image>./images/Castlevania - Bloodlines (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940317T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
 		<path>./Classic Collection (UE) [!].zip</path>
 		<name>Classic Collection</name>
 		<desc>A collection of four games on a single cartridge, selectable from an in-game menu. The games included are:
@@ -213,42 +187,6 @@ While the Mega Drive version has no official credits, it is known that the sound
 		<genre>Fighting</genre>
 	</game>
 	<game>
-		<path>./D&amp;D - Warriors of the Eternal Sun (U) [!].zip</path>
-		<name>D&amp;D: Warriors of the Eternal Sun</name>
-		<sortname>Dungeons &amp; Dragons 1992: Warriors of the Eternal Sun</sortname>
-		<desc>Dungeon &amp; Dragons: Warriors of the Eternal Sun is set in the world of Mystara, a setting of the Dungeons &amp; Dragons game. The characters find themselves in a strange, red-hued world in which the horizon slopes upward in all directions, eventually vanishing into a crimson haze at the limits of sight. Their mission is to find and make allies in this new world or else the kingdom and its culture will perish.
-
-The player leads a party of four characters (either the default party or one that the player has created). Characters and races can be chosen from the normal D&amp;D options. The gameworld is viewed from an isometric perspective and the characters can roam around in realtime. Battles are turn based. Like most role-playing games, the gaming experience focuses on exploration, inventory management and character development.</desc>
-		<image>./images/D&amp;D - Warriors of the Eternal Sun (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Westwood Studios, Inc.</developer>
-		<publisher>Sega</publisher>
-		<genre>Role-Playing</genre>
-	</game>
-	<game>
-		<path>./Earthworm Jim (U) [!].zip</path>
-		<name>Earthworm Jim</name>
-		<desc>Jim wasn't always a studly super-worm. He was once just a spineless, dirt eater with no real mission in life... Then a cosmic twist of fate placed him in control of an ultra-high-tech-indestructible-super-space-cyber-suit. Now Jim must make it to Princess-What's-Her-Name by staying clear of Psy-Crow, the intergalactic bounty hunter, until the final battle with Queen Slug-for-a-Butt.</desc>
-		<image>./images/Earthworm Jim (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940802T000000</releasedate>
-		<developer>Shiny Entertainment, Inc.</developer>
-		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Earthworm Jim 2 (U) [!].zip</path>
-		<name>Earthworm Jim 2</name>
-		<desc>Two times the fun! Two times the excitement! Two times two is four. Too much to list, but keep reading: From Evil the Cat's 'Circus of the Scars' to the planet of Meat, join Jim on a madcap chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapons? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one, play it yourself... or EAT DIRT!</desc>
-		<image>./images/Earthworm Jim 2 (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19951115T000000</releasedate>
-		<developer>Shiny Entertainment, Inc.</developer>
-		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
 		<path>./ECCO Jr. (U) (REV01) [!].zip</path>
 		<name>Ecco Jr.</name>
 		<desc>Ecco Jr. is a prequel to Ecco the Dolphin, set during his childhood. Together with his friends Tara the Whale and Kitney the Dolphin, Ecco goes looking for the legendary blue whale. Released after the two main Ecco games, this title is geared towards younger children with simplified gameplay, lacking the difficulty of the other Ecco games. The game also contains a number of educational facts about dolphins.</desc>
@@ -258,91 +196,6 @@ The player leads a party of four characters (either the default party or one tha
 		<developer>Novotrade International</developer>
 		<publisher>Sega</publisher>
 		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./ECCO The Dolphin (UE) [!].zip</path>
-		<name>Ecco the Dolphin</name>
-		<desc>You are Ecco, a powerful young dolphin. A mysterious storm has swept your family from the sea. The search to find them will take you through vast underwater realms of treachery, beauty and adventure. Use your sonar to discover hidden caverns and unlock the secrets of crystal glyphs. Charge packs of bloodthirsty sharks. Dive deep... but don't linger too long, because you're a mammal and need air to breathe. In your quest, you'll discover that more than your family's safety is at stake. The fate of the whole world rests on your wits and fins. 
-
-• Explore over 25 giant levels of solving puzzles and fighting denizens of the sea. 
-• 8 Megs of acquatic excitement with password save.
-• Knife through the waters, flip above the waves, with motions created from real dolphins.</desc>
-		<image>./images/ECCO The Dolphin (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921229T000000</releasedate>
-		<developer>Novotrade International</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Adventure</genre>
-	</game>
-	<game>
-		<path>./ECCO - The Tides of Time (U) [!].zip</path>
-		<name>Ecco: The Tides of Time</name>
-		<desc>Ecco is older, stronger and engulfed by dangers! The evil Vortex has shattered the mystical Asterite. Ecco and Trellia, a beautiful dolphin of the future, cross 100 million years of time to save the dolphins and all life on Earth! Ecco morphs! Charge a metasphere to become a shark with all its fighting power! Change into a seagull and fly! Safely swim past dangers as a jellyfish! Over 40 levels of spectacular aquatic adventure, with password save. Five levels of challenging 3-D travel, through the vast waters of the open ocean!
-
-UPC / Barcode: 010086015539</desc>
-		<image>./images/ECCO - The Tides of Time (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940825T000000</releasedate>
-		<developer>Novotrade International</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Adventure</genre>
-	</game>
-	<game>
-		<path>./Golden Axe (JU) (REV 00) [!].zip</path>
-		<name>Golden Axe</name>
-		<desc>The game takes place in the fictional land of Yuria, a Conan the Barbarian-style high fantasy medieval world. An evil entity known as Death Adder has captured the King and his daughter, and holds them captive in their castle. He also finds the Golden Axe, the magical emblem of Yuria, and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. The character of Death Adder and the stolen Golden Axe could well be traced to the historical event of the Acquisition of the True Cross during the Sassanid-Byzantine wars, as the Norse mythology is heavily influenced by Greek and Middle Eastern mythologies.
-The player controls one of three Warriors. The first is a battle axe-wielding dwarf, Gilius Thunderhead, from the mines of Wolud, whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian, Ax Battler, wielding a two handed broadsword looking for revenge for the murder of his mother. The last is a long-sword-wielding Tyris Flare, an amazon, whose parents were both killed by Death Adder.
-
-UPC / Barcode: 010086011067</desc>
-		<image>./images/Golden Axe (JU) (REV 00) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19891222T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Golden Axe II (JUE) [!].zip</path>
-		<name>Golden Axe II</name>
-		<sortname>Golden Axe 2</sortname>
-		<desc>The three playable characters from the first Golden Axe, Ax Battler, Tyris Flare, and Gilius Thunderhead, return in Golden Axe II to fight the new evil forces led by Dark Guild. The game features a total of seven levels: six scrolling levels and a final end of game boss battle against Dark Guild.
-
-UPC / Barcode: 010086011227</desc>
-		<image>./images/Golden Axe II (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19911226T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Golden Axe III (J) [!].zip</path>
-		<name>Golden Axe III</name>
-		<sortname>Golden Axe 3</sortname>
-		<desc>Damud Hellstrike, the Prince of Darkness, has taken away the Golden Axe and put an evil curse over all the warriors. However, one of the heroes has their curse relieved and is sent to set things straight – lift the curse off the others, defeat the villain and return with the Golden Axe.
-
-The gameplay has been expanded slightly but is essentially the same hack n' slash as the previous games. New features to the series include new characters, new moves (special attacks, teamwork attacks and teamwork magic spells) and junction points where the players can choose which path to take.</desc>
-		<image>./images/Golden Axe III (J) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930625T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sonic and Knuckles &amp; Sonic 2 (JUE) [!].zip</path>
-		<name>Knuckles the Echidna in Sonic the Hedgehog 2</name>
-		<sortname>Sonic the Hedgehog 2 with Knuckles the Echidna</sortname>
-		<desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
-		<image>./images/Sonic and Knuckles &amp; Sonic 2 (JUE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19941018T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Platform</genre>
 	</game>
 	<game>
 		<path>./Phantasy Star II (UE) (REV02) [!].zip</path>
@@ -428,100 +281,6 @@ Embark on a journey so vast, it spans the lives of three generations. Begin with
 		<developer>Sterling Silver Software</developer>
 		<publisher>Tengen</publisher>
 		<genre>Action, Racing, Shooter</genre>
-	</game>
-	<game>
-		<path>./Sonic and Knuckles (JUE) [!].zip</path>
-		<name>Sonic &amp; Knuckles</name>
-		<desc>Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion! Play Sonic &amp; Knuckles by itself or Lock-on with other Sonic games. This game's revolutionary Lock-on technology adds all new features to your other Sonic games for ultimate replays! Play as Sonic and let loose on Robotnik with amazing new powers. Play as Knuckles and tackle Robotnik and Metal Sonic with bare-fisted attacks, high-speed glides and wall-climbing power! Lock-on with Sonic 3 and transform Floating Island into a huge 34 meg Sonic-epic loaded with new secrets! Play as Sonic, Knuckles, and even Tails - with Game Save! Lock-on with Sonic 2 and play as Knuckles with all his signature moves!</desc>
-		<image>./images/Sonic and Knuckles (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941018T000000</releasedate>
-		<developer>Sega Technical Institute, Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic and Knuckles &amp; Sonic 1 (JUE) [!].zip</path>
-		<name>Sonic &amp; Knuckles + Sonic the Hedgehog</name>
-		<sortname>Sonic the Hedgehog 1 with Knuckles</sortname>
-		<desc>When Sonic 3 is locked-on to the original Sonic the Hedgehog or Sonic Compilation via Lock-On Technology, the result is a deceptive "No Way!" screen. However, by pressing the A, B and C buttons together players can access Special Stage levels, commonly known as the "Blue Sphere" levels. Levels can be accessed by inputting a twelve digit code, every number combination a different variation of a Special Stage level.</desc>
-		<image>./images/Sonic and Knuckles &amp; Sonic 1 (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941018T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic and Knuckles &amp; Sonic 3 (JUE) [!].zip</path>
-		<name>Sonic 3 &amp; Knuckles</name>
-		<sortname>Sonic the Hedgehog 3 with Knuckles</sortname>
-		<desc>Dr. Eggmans (AKA Dr. Robotniks) Death Egg was once again blasted by Sonic, crash-landing on the peak of a volcano on the Floating Island. Dr. Eggman is still at large, and Sonic cant allow him to get his hands on the Master Emerald and repair the Death Egg. Sonic must also keep Knuckles off his back but Knuckles has problems too. As guardian of the Floating Island and all the Emeralds, Knuckles must do his part to keep the island safe. While theyre going the rounds with each other, who will stop Dr. Eggman?</desc>
-		<image>./images/Sonic and Knuckles &amp; Sonic 3 (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941018T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic Classics (Compilation) (UE) (REV01) [!].zip</path>
-		<name>Sonic Classics</name>
-		<desc>Sonic Classics compiles three games from the Sonic The Hedgehog series onto one cartridge. They are: Sonic the Hedgehog, Sonic the Hedgehog 2, Dr. Robotnik's Mean Bean Machine
-
-Each of the three games control the same as their stand-alone versions. The games are selected from a menu, however only one game can be played at once. Also, even though Sonic The Hedgehog 2 is on this cartridge, it is not possible for this game to lock-on to Sonic And Knuckles to create Knuckles the Echidna.</desc>
-		<image>./images/Sonic Classics (Compilation) (UE) (REV01) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Majesco Entertainment</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic Spinball (U) [!].zip</path>
-		<name>Sonic Spinball</name>
-		<desc>Dr. Robotnik has assumed control of Mt. Mobius and turned it into a mechanical base. Utilizing energy produced by the magma flowing under the volcano, this new monstrosity (the Veg-O-Fortress) has the power to transform helpless animals into robot slaves at an astounding rate. Sonic the Hedgehog and Tails fly onto the scene to mount an aerial assault, but Sonic is knocked off the wings of Tails' airplane by a blast from the fortress. He falls into the water, but is rescued and taken to the subterranean levels of the Veg-O-Fortress. The fortress must be destroyed from the inside-out, and the only way to make that happen is to trigger an eruption in the volcano it's built on. Sonic knows this can be done by removing the Chaos Emeralds that keep the volcano stable. Robotnik, however, is also aware of the fragile relationship that exists between the Emeralds and the mountain, and he's set up an elaborate Pinball Defense System to make sure the precious jewels don't go anywhere.</desc>
-		<image>./images/Sonic Spinball (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931123T000000</releasedate>
-		<developer>Polygames, Sega Technical Institute</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Sonic the Hedgehog (JUE) [!].zip</path>
-		<name>Sonic the Hedgehog</name>
-		<desc>Super Speed! Bust the video game speed barrier wide open with Sonic the Hedgehog. Blaze by in a blur using the super sonic spin attack. Loop the loop by defying gravity. Plummet down tunnels. Then dash to safety with Sonic's power sneakers. All at a frenzied pace. Super Graphics! Help Sonic escape bubbling molten lava. Swim through turbulent waterfalls. Scale glistening green mountains. And soar past shimmering city lights. There's even a 360 degree rotating maze. You've never seen anything like it. Supper Attitude! Sonic has an attitude that just won't quit. He's flip and funny, yet tough as nails as he fights to free his friends from evil. So just wait. Sonic may be the world's next SUPER hero...</desc>
-		<image>./images/Sonic the Hedgehog (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910623T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic the Hedgehog 2 (JUE) [!].zip</path>
-		<name>Sonic the Hedgehog 2</name>
-		<desc>Super Speed! Sonic's back and better than ever. He's a blur in blue! A blaze of action! With his new Super Spin Dash. And a new, fabulous friend, "Tails" the Fox. You won't believe it 'til you see it. And when you play, you won't stop. Super Play! Defy gravity in hair-raising loop-de-loops. Grab Power Sneakers and race like lightning through the mazes. Dash in a dizzying whirl across corkscrew speedway. Bounce like a pinball through the bumpers and springs of the amazing Zones. All at break-neck speed! Super Power! Sonic's attitude is can-do. The mad scientist Dr. Robotnik is planning a world takeover. Sonic gets tough in the fight to save his friends and squash Robotnik for good!</desc>
-		<image>./images/Sonic the Hedgehog 2 (JUE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921124T000000</releasedate>
-		<developer>Sega Technical Institute, Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sonic The Hedgehog 3 (U) [!].zip</path>
-		<name>Sonic the Hedgehog 3</name>
-		<desc>Swing from vines, launch new attacks, survive deadly traps and summon Tails to airlift Sonic out of danger. Discover hidden rooms and passageways in the mega-sized Zones. Transform into Super Sonic and experience the ultimate in speed and ultra-sonic power. Save your progress using the new Game Save Feature.</desc>
-		<image>./images/Sonic The Hedgehog 3 (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940202T000000</releasedate>
-		<developer>Sega Technical Institute, Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Chaos Engine, The (E) [!].zip</path>
@@ -1012,30 +771,6 @@ The Genesis version is basically the same game as the NES version with a few min
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<players>4</players>
-	</game>
-	<game>
-		<path>./Sports/College Football USA 96 (U) [!].zip</path>
-		<name>College Football USA '96</name>
-		<desc>College Football USA 96 features gridiron action of the college ranks with 108 Division 1-A teams complete with 45 man rosters for each team. It features the standard game modes including Exhibition and Season along with the ability to play in the four major bowl games (Rose, Orange, Fiesta &amp; Sugar) in an effort to win the National Championship.</desc>
-		<image>./Sports/images/College Football USA 96 (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sports/College Football USA 97 - The Road to New Orleans (U) [!].zip</path>
-		<name>College Football USA '97</name>
-		<desc>September is a wonderful time of year as the leaves start to change, the kids go back to school, and Christmas is only a few months away but it also means the college football season. Well, now you can stage your own college football season anytime you want thanks to COLLEGE FOOTBALL USA '97. Choose from 111 Division I teams and hit the gridiron for some hard-hitting football action as you try to lead your team to the national championship. There are eight different conferences in which you can compete ACC, Big 12, Big East, SEC, WAC, Big 10, Conference USA, and PAC 10 each with their own style of play. If you don't have time for a full schedule, customize your own tournament with up to 16 players! If you're ready to lead your team to the Promised Land of college football, then get your hands on COLLEGE FOOTBALL USA '97.</desc>
-		<image>./Sports/images/College Football USA 97 - The Road to New Orleans (U) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>EA Tiburon</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Sports/College Football's National Championship (U) [!].zip</path>
@@ -2557,19 +2292,6 @@ The Mega Drive version of the game was not released in Japan or North America, t
 		<players>4</players>
 	</game>
 	<game>
-		<path>./Sports/Super Baseball 2020 (UE) [!].zip</path>
-		<name>Super Baseball 2020</name>
-		<sortname>Baseball 2020</sortname>
-		<desc>Different from real baseball and other baseball video games, this game consists of both male and female characters, as well as robots. All three types of players have the same basic abilities and vary only on their personal strengths. In many cases, human players are better than their robot counterparts. One major difference between the human and robot characters is that the robot characters can blow up (or lose all their power) if they are worked too hard during a game. That can happen if you constantly make them dive for a ball, run extra bases, or even if they get hit by a pitch. Under no stress whatsoever, some robots, especially pitchers, will naturally run out of power as the game progresses. When this happens, they will lose all their abilities and be useless, both offensively and defensively. When that occurs, you can either power them up or replace them with another person on the roster. Human players do not blow up, but human pitchers can tire out. When they are tired, they will pant heavily and throw the ball very slowly. This can be remedied by either an upgrade or, as in real baseball, switching to a relief pitcher.</desc>
-		<image>./Sports/images/Super Baseball 2020 (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19940303T000000</releasedate>
-		<developer>NuFX</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Sports/Super Hang-On (JUE) (REV 01) [!].zip</path>
 		<name>Super Hang-On</name>
 		<sortname>Hang-On</sortname>
@@ -3263,87 +2985,6 @@ Sega was also in the process of making a Sega Master System port which would bec
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/16 Tiles Mahjong (Unl) [c].zip</path>
-		<name>16 Tiles Mahjong</name>
-		<desc>16 Tiles Mahjong is a Board game, developed by City Man Technologies and published by Sun Green Technology, which was released in Asia in 1992.</desc>
-		<image>./Other/images/16 Tiles Mahjong (Unl) [c]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>City Man Technologies</developer>
-		<publisher>Sun Green Technology</publisher>
-		<genre>Puzzle, Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/3 Ninjas Kick Back (U) [!].zip</path>
-		<name>3 Ninjas Kick Back</name>
-		<desc>3 Ninjas Kick Back follows 3 young ninja  brothers, Rocky, Colt and Tum-Tum as they assist an old Samurai in retrieving a prized dagger which has been stolen by his rival. The dagger, once given to the Samurai as a reward, will be passed along to younger generations once it is restored to its rightful owner. The boys learn ninjitsu and karate as they fight evil forces that are older, more powerful, and bigger than them.</desc>
-		<image>./Other/images/3 Ninjas Kick Back (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940601T000000</releasedate>
-		<developer>Malibu Interactive, Psygnosis</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/688 Attack Sub (U) [!].zip</path>
-		<name>688 Attack Sub</name>
-		<desc>An early submarine game with ten missions which can be played with both American and Soviet attack submarines. The game focuses on realism with several stations the player can use (sonar, weapons, navigation, helm, radio and periscope) but most duties can be delegated to crew members. The graphics are mostly close-up views of the control panels but in some occasions they feature digitized images of surface ships and crew.</desc>
-		<image>./Other/images/688 Attack Sub (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Electronic Arts, Inc.</developer>
-		<publisher>Sega</publisher>
-		<genre>Strategy</genre>
-	</game>
-	<game>
-		<path>./Other/777 Casino (Unl) [c].zip</path>
-		<name>777 Casino</name>
-		<desc>777 Casino is a Casino game, developed and published by City Man Technologies, which was released in Asia in 1991.</desc>
-		<image>./Other/images/777 Casino (Unl) [c]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>City Man Technologies</developer>
-		<genre>Puzzle</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/AAAHH!!! Real Monsters (UE) [!].zip</path>
-		<name>AAAHH!!! Real Monsters</name>
-		<desc>In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them!
-
-This is a platform game, where you control three characters. Each one of them has a special move that is often used to solve puzzles and overcome obstacles: Ickis can fly for a short time, Oblina can reach high ledges, and Krumm can scan off-screen areas. They can also collect monster books, that will teach them to scare people. Help the three monsters to graduate!</desc>
-		<image>./Other/images/AAAHH!!! Real Monsters (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950915T000000</releasedate>
-		<developer>Realtime Associates, Inc.</developer>
-		<publisher>Viacom New Media</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Action 52 (Unl) [!].zip</path>
-		<name>Action 52</name>
-		<desc>Get 52 "New and Original" exciting games for play on your Sega Genesis. Try to get Billy Bob out of the Dungeon where he is imprisoned, to save MARYLOU. Go along with the ACTION GAMEMASTER as he changes into one of the fearsome CHEETAHMEN to try to defeat all of the ACTION 52 evil attackers. These two games plus an additional 50 games on this one "Multi-GamePak" will keep you entertained for a long time.</desc>
-		<image>./Other/images/Action 52 (Unl) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930528T000000</releasedate>
-		<developer>Active Enterprises</developer>
-		<publisher>Active Enterprises Ltd.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Addams Family Values (U).zip</path>
-		<name>Addams Family Values</name>
-		<desc>Loosely based on the plot of the film, the player takes the role of Uncle Fester as he searches for the recently kidnapped baby Pubert. On the way he receives help from The Addams Family and a host of original characters from the game.</desc>
-		<image>./Other/images/Addams Family Values (U)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19941206T000000</releasedate>
-		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Action, Role-Playing</genre>
-	</game>
-	<game>
 		<path>./Sports/Lotus II RECS (UE) [!].zip</path>
 		<name>Lotus II</name>
 		<sortname>Lotus 2</sortname>
@@ -3374,20 +3015,6 @@ The game's crowning glory, however, was the RECS editor, which allowed you to cr
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/Addams Family, The (UE) [!].zip</path>
-		<name>The Addams Family</name>
-		<sortname>Addams Family 1, The</sortname>
-		<desc>The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.
-
-As Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.</desc>
-		<image>./Other/images/Addams Family, The (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-		<publisher>Flying Edge, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Aladdin (E) [!].zip</path>
 		<name>Aladdin</name>
 		<sortname>Disney's Aladdin</sortname>
@@ -3404,132 +3031,10 @@ UPC / Barcode: 010086010589</desc>
 		<lastplayed>20210529T215437</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Aero Blasters (U) [hI].zip</path>
-		<name>Aero Blasters</name>
-		<desc>Aero Blasters: Trouble Specialty Raid Unit is a 1990 horizontally scrolling shoot 'em up video game developed and published by Kaneko and licensed to Namco. The game was originally released in the arcades in 1990 and was subsequently released for the PC Engine/TurboGrafx-16 (as Aero Blasters) and Sega Mega Drive/Genesis (as Air Buster in North America) in 1990 and 1991 respectively.
-
-In Air Buster, the player controls a fighter jet also designed for space travel and shoots enemies, collects power-ups, and defeats bosses to advance levels. As a console game, Air Buster had the distinction of being two player simultaneous, which was rare among side scrolling shooters on home consoles at the time; all games in the Thunder Force, Gradius, and R-Type series were only 1 player on the home consoles.</desc>
-		<image>./Other/images/Aero Blasters (U) [hI]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910131T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko Co., Ltd.</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Aero the Acro-Bat (U) [b1].zip</path>
-		<name>Aero the Acro-Bat</name>
-		<desc>You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.</desc>
-		<image>./Other/images/Aero the Acro-Bat (U) [b1]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>SUNSOFT</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Aero the Acro-Bat 2 (U) [!].zip</path>
-		<name>Aero the Acro-Bat 2</name>
-		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
-		<image>./Other/images/Aero the Acro-Bat 2 (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>SUNSOFT</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Aerobiz (U) [!].zip</path>
-		<name>Aerobiz</name>
-		<desc>You are the CEO of an airline company. Your goal is to become the most successful airline in the world by connecting all 22 cities with air routes, maintain a profit, and meet the required quota of passengers. If you cannot turn a profit for a year or meet the victory conditions in 32 years you lose. Some strategic decisions you must make include negotiating for open air routes, purchasing or selling aircraft, invest in branch offices and hotels, advertise your airline and set budgets. You must also pay attention to statistics like quarterly and annual sales reports, as well as city data. World events also affect your airline, from natural disasters to war and even the Olympic games, all of which will affect how many passengers you get. All the planes in the game are based on real-life aircraft, such as the Boeing 747 and the Concorde.</desc>
-		<image>./Other/images/Aerobiz (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>KOEI Co., Ltd.</developer>
-		<publisher>Koei Co., Ltd.</publisher>
-		<genre>Construction and Management Simulation, Strategy</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Other/Aerobiz Supersonic (U) [!].zip</path>
-		<name>Aerobiz Supersonic</name>
-		<desc>LEAD YOUR AIRLINE INTO THE FUTURE!
-It’s the beginning of the 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it's up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
-
-ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don’t target as CEO you're still responsible for ings like plane maintenance, advertising and handling those periodic emergencies such as a plane crash or employee strike.
-
-Get ready to make some tough decisions! If you make the right ones. your planes will dominate the skies of the 21st century.
-
-*Offer air service to over 80 major and minor cities around the globe
-
-*Select from four eras in aviation history including two futuristic scenarios Purchase from an extensive list of historical, supersonic and fictitious airplanes
-
-*Invest in business ventures such as concert halls, golf courses and amusement parks
-
-*One to four player fun</desc>
-		<image>./Other/images/Aerobiz Supersonic (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930402T000000</releasedate>
-		<developer>KOEI Co., Ltd.</developer>
-		<publisher>Koei Co., Ltd.</publisher>
-		<genre>Construction and Management Simulation, Strategy</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Other/After Burner 32X (A) [!].zip</path>
 		<name>After Burner 32X (A) [!]</name>
 		<playcount>1</playcount>
 		<lastplayed>20210626T200027</lastplayed>
-	</game>
-	<game>
-		<path>./Other/After Burner II (U) [!].zip</path>
-		<name>After Burner II</name>
-		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
-
-The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.
-
-UPC / Barcode: 010086011043</desc>
-		<image>./Other/images/After Burner II (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900322T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter, Flight Simulator</genre>
-	</game>
-	<game>
-		<path>./Other/Air Buster (U) [c][!].zip</path>
-		<name>Air Buster</name>
-		<desc>This isn't a little skirmish in the air. This is a full-fledged, take-no-prisoners, hyper-drive war to the finish with three-dimensional screens and incredible sound effects. Simultaneous two-player action with horizontal and vertical scrolling means you need cunning, instinct, and flight skills to destroy the enemy...and survive!</desc>
-		<image>./Other/images/Air Buster (U) [c][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910131T000000</releasedate>
-		<developer>Inter State</developer>
-		<publisher>Kaneko Co., Ltd.</publisher>
-		<genre>Action, Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Air Diver (U) [!].zip</path>
-		<name>Air Diver</name>
-		<desc>Your mission is to find and eliminate the enemy terrorists. They are extremely well armed, and central intelligence informs us that they may have the backing of several unfriendly extraterrestrial nations...</desc>
-		<image>./Other/images/Air Diver (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900401T000000</releasedate>
-		<developer>Copya System Ltd.</developer>
-		<publisher>Seismic Software Inc.</publisher>
-		<genre>Shooter, Flight Simulator</genre>
-	</game>
-	<game>
-		<path>./Other/Alex Kidd in the Enchanted Castle (U) [!].zip</path>
-		<name>Alex Kidd in the Enchanted Castle</name>
-		<desc>BASH! BIFF! POW! Alex Kidd is punching, kicking and leaping through Paperock Planet, trying to save his dad! He's having a tough time, what with scorpions, pufferfish, monkeys, and mummies blocking his way. THUD! SPLAT! BOOM! Alex knocks down a rock pile and grabs the gold! Every time he gets gold, he's got a better chance to win. Then he bounces high in the sky and dives deep under the ocean to snare more. PAPER! SCISSORS! ROCK! Alex gets dragged into a frantic game of Janken. He's got to make the right sign - paper, scissors, or rock - to beat his bully opponent and escape with all his money! UP! UP! AND AWAY! Alex speeds in his Pedicopter, right up to the Enchanted Castle! Now he can save his dad by tricking Ashra, the ruler of Paperock. But what's the winning sign? Guess quick!</desc>
-		<image>./Other/images/Alex Kidd in the Enchanted Castle (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19890814T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Alien Soldier (U).zip</path>
@@ -3605,18 +3110,6 @@ The fifth game mode is a basic quiz game show.</desc>
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Sports/Arch Rivals (UE) [!].zip</path>
-		<name>Arch Rivals: The Arcade Game</name>
-		<desc>Arch Rivals is a conversion of the hit Midway arcade game. It's a 2-on-2 basketball game that stands out from the crowd for its "no rules" approach. Fouling out other players is more than accepted, it's encouraged. Choose from twelve different teams and eight players, each with their own traits and personalities.</desc>
-		<image>./Sports/images/Arch Rivals (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Flying Edge, Inc.</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Arcus Odyssey (U) [!].zip</path>
 		<name>Arcus Odyssey</name>
 		<desc>Tonight is the night of the thousand years full moon! At this moment, four brave warriors are rushing up a steep, narrow mountain pass to an ancient ruined shrine. There, they will battle the Dark Lords of Castomira, and ultimately confront the Dark Sorceress. These warriors have pledged their lives to the troubled king of Arcus to recapture the mighty Sword of Light, which Castomira has stolen - the weapon used by Princess Leaty to defeat Castomira a thousand years before this night. They are Jedda the swordsman, Erin the warrior-maiden, Diana the archer, and Bead the magic stick-fighter. To defeat the enemy, the warriors will call upon their individual magic powers: Jedda will wield his fire magic; Erin will harness the power of the wind; Diana will use her healing rays of light; and Bead will mimic the magic of the dark lords. They must not falter in their quest, or the diabolical Castomira will assume absolute power, and darkness will reign... forever.</desc>
@@ -3666,30 +3159,6 @@ The gameplay differs from most fighting games. In this game, you have a Spirit m
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/Asterix and the Great Rescue (U) [!].zip</path>
-		<name>Asterix and the Great Rescue</name>
-		<desc>Wham!!! Biff!!! Pow!!! Asterix is back in another highly exciting adventure. Yet again Asterix and his good friend Obelix are thrown into an amazing adventure, when they find out that Getafix and Dogmatix have been kidnapped by the Romans. Asterix and Obelix must defeat the Romans and bring their friends back home!
-
-UPC / Barcode: 010086015324</desc>
-		<image>./Other/images/Asterix and the Great Rescue (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940601T000000</releasedate>
-		<developer>Core Design Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!].zip</path>
-		<name>Asterix and the Power of The Gods</name>
-		<desc>Emperor Caesar's forces have stolen the legendary shield of Vercingetorix and it is Asterix and Obelix's mission to return it to the Gaulish village. Play as either character as your adventure takes you through over 20 levels, through Lutetia, Egypt, Alexandria and Mesopotamia on your way to Rome itself!</desc>
-		<image>./Other/images/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950814T000000</releasedate>
-		<developer>Core Design Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Atomic Robo Kid (U) [c][!].zip</path>
 		<name>Atomic Robo-Kid</name>
 		<desc>A space colony, known as Terra-12, is bombarded with cosmic radiation, mutating all transplanted life. Plants, animals, etc. On top of this, giant alien invaders, known only as "Governors," invade, destroying whatever unmutated, intelligent life remains, ie humans. The only hope for the colony lies in one little android... You guessed it, Robo-Kid.</desc>
@@ -3710,21 +3179,6 @@ UPC / Barcode: 010086015324</desc>
 		<developer>Data East Corporation</developer>
 		<publisher>Data East Corporation</publisher>
 		<genre>Action, Shooter, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Awesome Possum Kicks Dr. Machino's Butt! (U) [!].zip</path>
-		<name>Awesome Possum</name>
-		<desc>In just a few years, mankind has succeeded in destroying the environment and endangering all living species. Under the guidance of the evil Dr. Machino, robotic machines were built to turn the Earth into a soulless place without live nature. There is only one hero who can save the living beings of the planet - you, a little possum. Fight Dr. Machino's robots and liberate the Earth!
-
-This is an action platformer very similar in gameplay style to Sonic games. The possum can jump and run very quickly, as well as spin to hurt the enemies and breeze through the levels. Various robotic creatures will will try to kill you during your journey to Dr. Machino's lair. You can either avoid or try to defeat them on your way.
-
-UPC / Barcode: 031763065500</desc>
-		<image>./Other/images/Awesome Possum Kicks Dr. Machino's Butt! (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Tengen</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/B.O.B (UE) (REV01) [!].zip</path>
@@ -4038,18 +3492,6 @@ A prototype ROM of the Mega Drive version, dated 1993, has since been unearthed,
 		<lastplayed>20210626T201345</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Donald Duck in Maui Mallard (A) [!].zip</path>
-		<name>Donald In Maui Mallard</name>
-		<sortname>Disney's Maui Mallard</sortname>
-		<desc>Donald Duck as Maui Mallard must recover the Mojo idol of Shabuhm Shabuhm to save this tropical island. An instant classic from the Disney Interactive Studios!</desc>
-		<image>./Other/images/Donald Duck in Maui Mallard (A) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19951208T000000</releasedate>
-		<developer>Eurocom Entertainment Software</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Doom Troopers - The Mutant Chronicles (U) [c][!].zip</path>
 		<name>Doom Troopers: Mutant Chronicles</name>
 		<desc>Based on the popular role-playing and card game, DOOM TROOPERS casts you as a fearless commando who's been commissioned to save the world from an invading force of mutants. Play as either Mitch Hunter or Max Steiner as you embark on the most important mission of your life--the complete annihilation of the Dark Legion. Work your way through eight detailed levels filled with all kinds of evil and dangerous mutants, as you unload with a barrage of high-powered weapons that are readily available. If the pressure is a little too much for you to handle alone, recruit a friend and try to eliminate the Dark Legion together. The world is in grave danger, and only the Doom Troopers can make things right.</desc>
@@ -4059,21 +3501,6 @@ A prototype ROM of the Mega Drive version, dated 1993, has since been unearthed,
 		<developer>Adrenalin Entertainment</developer>
 		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
 		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Dr. Robotnik's Mean Bean Machine (U) [!].zip</path>
-		<name>Dr. Robotnik's Mean Bean Machine</name>
-		<sortname>Sonic Dr. Robotnik's Mean Bean Machine</sortname>
-		<desc>Evil Dr. Robotnik has invented a machine that turns good folks into rotten robots! Village bean folk from the planet Mobius are being rounded up by the Doctor's henchbots and thrown into his dungeons. There they await their turn in his latest evil masterpiece! An addicting, fun-filled puzzle. Unite four beams of the same color so they can stick together and escape. Defeat characters from the Adventures of Sonic The Hedgehog TV series, including Dr. Robotnik and his wicked henchbots. Three ways to play: challenge a friend, go head-to-head with Dr. Robotnik or practice on your own.
-
-UPC / Barcode: 010086017069</desc>
-		<image>./Other/images/Dr. Robotnik's Mean Bean Machine (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931203T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Sega</publisher>
-		<genre>Puzzle</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -4233,20 +3660,6 @@ Unlike other versions of this game, this Genesis cartridge doesn't follow the la
 		<genre>Action, Platform</genre>
 		<playcount>1</playcount>
 		<lastplayed>20210626T201804</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Abrams Battle Tanks (U).zip</path>
-		<name>M-1 Abrams Battle Tank</name>
-		<sortname>Battle Tank M-1 Abrams</sortname>
-		<desc>Take the most powerful NATO tank, the M-1 Abrams, in 8 difficult missions against the Warsaw Pact forces. The four tank stations and the other aspects of the tank are quite nicely simulated, with different types of cannon rounds, coax machine guns, and all that. There's also the independent turret and track rotation commands.</desc>
-		<image>./Other/images/Abrams Battle Tanks (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Dynamix, Inc.</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210626T195618</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Steel Empire, The (UE) [!]</path>
@@ -4463,18 +3876,6 @@ The game is an arcade-style shooter. The player shoots from a first person persp
 		<rating>0.2</rating>
 		<releasedate>19940101T000000</releasedate>
 		<genre>Action, Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Bonanza Bros. (U) [!].zip</path>
-		<name>Bonanza Brothers</name>
-		<desc>As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.</desc>
-		<image>./Other/images/Bonanza Bros. (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910906T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform, Stealth</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Other/Boogerman (U) [!].zip</path>
@@ -4722,20 +4123,6 @@ Each mission has a specific objective, and some feature vehicles such as tanks t
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Castle of Illusion Starring Mickey Mouse (UE) [!].zip</path>
-		<name>Castle of Illusion Starring Mickey Mouse</name>
-		<sortname>Disney's Mickey Mouse Castle of Illusion</sortname>
-		<desc>The search is on! Mickey is on the trail of a wicked Witch named Mizrabel, who has kidnapped Minnie. Mickey must find seven gems hidden in the fantastic chambers of Mizrabel's Castle of Illusion and use them to save Minnie. Can Mickey find them? It's up to you.
-
-Be on your guard! Behind every door lurks an enchanted land of beauty and danger. You must defeat angry chess knights, overcome the evil haunted trees, and do battle with ghoulish ghosts and a deadly dragon. No place is safe -- even the library is fraught with danger. Playing three levels in the practice mode will prepare you for the challenge you will face. Then, just when you think you've mastered the Illusions, you come face to face with the most dangerous of them all -- Witch Mizrabel!</desc>
-		<image>./Other/images/Castle of Illusion Starring Mickey Mouse (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19901120T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Centurion - Defender of Rome (UE) [!].zip</path>
 		<name>Centurion: Defender of Rome</name>
 		<desc>Centurion: Defender of Rome is a turn-based strategy game. You start with one province, Rome, and one legion. To complete the game, you have to conquer all the provinces on the map. 
@@ -4875,19 +4262,6 @@ UPC / Barcode: 052145820142</desc>
 		<developer>Chuck</developer>
 		<publisher>Chuck</publisher>
 		<genre>Sandbox</genre>
-	</game>
-	<game>
-		<path>./Other/Clay Fighter (U) [!].zip</path>
-		<name>ClayFighter</name>
-		<sortname>ClayFighter 1</sortname>
-		<desc>Sticks and stones might make him groan, but clay really ticks him off! Bad Mister Frosty is the name, and action is the game. Fists and feet will fly (and other parts) as Frosty and his friends smack it out in head-to-head fighting action.</desc>
-		<image>./Other/images/Clay Fighter (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Visual Concepts</developer>
-		<publisher>Interplay Entertainment Corp.</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Other/Cliffhanger (U) [c][!].zip</path>
@@ -5059,17 +4433,6 @@ UPC / Barcode: 034912230569</desc>
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Crusader of Centy (U) [!].zip</path>
-		<name>Crusader of Centy</name>
-		<desc>Millions of years ago, heinous creatures that lurked in the shadows and darkness that blanketed the planet inhabited the Earth. When light finally broke through, only a few beasts were able to survive by burrowing into deep caverns. Over time, they multiplied, evolved, and patiently waited for the right time to emerge and rule the Earth once again. You are Corona, and you've just celebrated your 14th birthday. By law of the king, you must now go seek out these creatures of the dark and destroy them. As you travel in search of your destiny, you'll make animal allies that will prove invaluable on your quest. Each level will offer mind-bending puzzles and challenges that will help you get one step closer to completing your mission.</desc>
-		<image>./images/Crusader of Centy (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940616T000000</releasedate>
-		<developer>Nextech</developer>
-		<publisher>Atlus Co., Ltd.</publisher>
-		<genre>Action, Role-Playing</genre>
-	</game>
-	<game>
 		<path>./Other/Crystal's Pony Tale (U) [!].zip</path>
 		<name>Crystal's Pony Tale</name>
 		<desc>You navigate your pony through various locations, collecting horseshoes on your way and "paying" them at level gates to pass to another location. You can explore the locations in any order you wish, traveling directly between them or using teleportation pictures. The game has more adventure than action elements. Crystal Pony cannot die in the game; if an enemy hits her, she merely loses one of her horseshoes. The only battles are against the witch, occurring every time you use a gem at the correct place. The pony would automatically jump over obstacles, but you can also make her jump with a corresponding button. You can get extra items by interacting with various objects and characters, pressing the action button.</desc>
@@ -5155,17 +4518,6 @@ UPC / Barcode: 034912230569</desc>
 		<developer>Novotrade International</developer>
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Daffy Duck in Hollywood (JUE) [!].zip</path>
-		<name>Daffy Duck in Hollywood</name>
-		<desc>Super Hero Daffy Duck PI armed with his bubble gun, sleuths his way around 6 different levels of Hollywood Film Sets to recover Yosemite Sam's Stolen Movie Awards. Amazing cartoon quality graphics and animation will pull you into Daffy's Wacky Quacky Adventure.</desc>
-		<image>./Other/images/Daffy Duck in Hollywood (JUE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19941130T000000</releasedate>
-		<developer>Probe Entertainment</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Dark Castle (UE) [!].zip</path>
@@ -5502,22 +4854,6 @@ As a spiritual sequel to Kick Off 2 (or Super Kick Off, as it appeared on the Me
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Disney Collection - Castle of Illusion &amp; Quackshot (F) [!].zip</path>
-		<name>Disney Collection - Castle of Illusion &amp; Quackshot</name>
-		<sortname>Disney's Castle of Illusion &amp; Quackshot</sortname>
-		<desc>Castle of Illusion Starring Mickey Mouse: In Castle of Illusion Mickey is on the trail of a wicked witch who has kidnapped Minnie, and you must find the seven gems in order to defeat the witch's spellbound baddies and save Minnie. 
-
-Quackshot Starring Donald Duck: Join Donald in the quest to find Garuzia's Great Duck Treasure! Travel the continents searching for clues and tools, and pit your wits against the many dangers in store for you.
-
-</desc>
-		<image>./Other/images/Disney Collection - Castle of Illusion &amp; Quackshot (F) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19960612T000000</releasedate>
-		<developer>Disney Interactive</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Thunder Force IV (U).zip</path>
@@ -6177,24 +5513,6 @@ There is a variety of new levels, some of which are interactive. Characters can 
 		<genre>Construction and Management Simulation, Life Simulation</genre>
 	</game>
 	<game>
-		<path>./Other/Genesis 6-Pak (U) [!].zip</path>
-		<name>6-Pak</name>
-		<desc>6-Pak is a compilation of six of Sega's most popular "franchise" games released in the early days of the Genesis. Included are the following:
-•Super Hang-On
-•The Revenge of Shinobi
-•Golden Axe
-•Columns
-•Sonic the Hedgehog
-•Streets of Rage</desc>
-		<image>./Other/images/Genesis 6-Pak (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Exodus (Unl) [c][!].zip</path>
 		<name>Exodus: Journey to the Promised Land</name>
 		<desc>Crystal Mines is a 1989 unlicensed puzzle game for the NES by Color Dreams. When they established Wisdom Tree, they repackaged the game twice: in 1991 as Exodus: Journey to the Promised Land and in 1992 as Joshua &amp; The Battle of Jericho, with Joshua labeled a sequel to Exodus. These two versions would be remade for the Sega Mega Drive in 1993 and 1994, respectively.
@@ -6595,18 +5913,6 @@ So, we have the premise for a side scrolling shooter. The star attraction here i
 		<genre>Action, Platform</genre>
 	</game>
 	<game>
-		<path>./Other/Super Battle Tank - War in the Gulf (U) [!].zip</path>
-		<name>Garry Kitchen's Super Battletank: War in the Gulf</name>
-		<sortname>Battletank: War in the Gulf Garry Kitchen's Super</sortname>
-		<desc>Garry Kitchen's Super Battletank: War in the Gulf, is a tank simulation game for the Sega Mega Drive and Sega Game Gear. The Game Gear version is simply known as Super Battletank. Both versions were only released in North America.</desc>
-		<image>./Other/images/Super Battle Tank - War in the Gulf (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Imagineering Inc.</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Gauntlet 4 (UE) (Aug 1993) [!].zip</path>
 		<name>Gauntlet IV</name>
 		<sortname>Gauntlet 4</sortname>
@@ -6706,20 +6012,6 @@ Of more significance, however, is the game's Artificial Intelligence system, in 
 		<developer>The Bitmap Brothers</developer>
 		<publisher>Mindscape, Inc.</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Goofy's Hysterical History Tour (U) [!].zip</path>
-		<name>Goofy's Hysterical History Tour</name>
-		<sortname>Disney's Goofy's Hysterical History Tour</sortname>
-		<desc>In Goofy's Hysterical History Tour, the player takes command of Goofy himself who gets his dream job as janitor at The Ludwig von Drake History Museum. However, his rival Pete is determined to get him fired and sabotages the exhibits and scatters pieces throughout various time periods. Armed with a new gadget, the Extend-O-Hand, Goofy must travel to the past and recover the pieces before the morning.
-
-The game is a platformer, where Goofy must travel through various stages ranging from Prehistoric times, Medieval times, Colonial America and the Wild West among many others, collecting items and power-ups and defeating Pete's henchmen using the Extend-O-Hand. After collecting all the pieces, Goofy then must face Pete himself.</desc>
-		<image>./Other/images/Goofy's Hysterical History Tour (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Imagineering Inc.</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Other/Granada (JU) (REV01) [!].zip</path>
@@ -6962,18 +6254,6 @@ As the player progresses through the game, they must manage the research and dev
 		<releasedate>19931022T000000</releasedate>
 		<developer>Taito Corporation</developer>
 		<publisher>Taito Corporation</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!].zip</path>
-		<name>The Great Circus Mystery Starring Mickey &amp; Minnie</name>
-		<sortname>Disney's Great Circus Mystery Starring Mickey &amp; Minnie</sortname>
-		<desc>The Great Circus Mystery Starring Mickey and Minnie, later titled Disney's Magical Quest 2 Starring Mickey &amp; Minnie, was released for the Super Nintendo Entertainment System and Sega Genesis/Mega Drive in 1994 and for the Game Boy Advance in 2003. The game features Mickey Mouse and Minnie Mouse trying to figure out why everyone in the circus has disappeared, and includes four different types of outfits and six different levels. While the SNES and Genesis/Mega Drive versions were practically identical, the GBA re-release in 2003 included some new features. As its predecessor, it received praise for its graphics and outfit system and was criticized for not being challenging enough and short. Notably, it was the first game with Minnie Mouse in a video game role.</desc>
-		<image>./Other/images/Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940602T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
 		<genre>Platform</genre>
 	</game>
 	<game>
@@ -8707,19 +7987,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!].zip</path>
-		<name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
-		<sortname>Disney's Mickey Mouse World of Illusion Starring Mickey Mouse and Donald Duck</sortname>
-		<desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
-		<image>./Other/images/World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921217T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Worms (8) [!].zip</path>
 		<name>Worms</name>
 		<desc>Worms (ワームス) is a turn based strategy game developed by Team 17, and was originally published by Ocean Software for the Amiga in 1995. It is the first in a long-running series of Worms games, and was ported to a variety of platforms, including the Sega Mega Drive and Sega Saturn.</desc>
@@ -9057,41 +8324,6 @@ UPC / Barcode: 735009214409</desc>
 		<developer>Traveller's Tales Ltd.</developer>
 		<publisher>Sony Imagesoft</publisher>
 		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Other/Mickey Mouse - Minnie's Magical Adventure 2 (J) [!].zip</path>
-		<name>Mickey Mouse: Minnie's Magical Adventure 2</name>
-		<sortname>Disney's Mickey Mouse: Minnie's Magical Adventure 2</sortname>
-		<image>./Other/images/Mickey Mouse - Minnie's Magical Adventure 2 (J) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Capcom</publisher>
-		<genre>Adventure, Puzzle, Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Mickey's Ultimate Challenge (U) [!].zip</path>
-		<name>Mickey's Ultimate Challenge</name>
-		<sortname>Disney's Mickey's Ultimate Challenge</sortname>
-		<desc>Five Magical Puzzles
-Full Of Family Fun!
-
-"The sky is rumbling!
-The sky is rumbling! What ever can it be?" cry the citizens of Beanwick.
-
-"Is it a storm? Is it a monster? Is it the end of the Kingdom?" I don't know, but I'll find out, says Mickey, "if I have to search every room in the Castle of Beanwick to solve the mystery!"
-
-In Mickey's Ultimate Challenge, volunteer as Mickey or Minnie to help the Kingdom of Beanwick solve the mystery of the rumblings in the sky. But, first you must prove worthy of the challenge--by thinking your way through a series of fiendishly clever puzzles, players from 4 to 104 can take full advantage of the game's interactive capabilities to put their critical thinking skills to the ultimate test. Five incredible locations!
-
-Five brain-teasing challenges starring many of your favorite Disney characters. Solve them all for a chance to see what's really up, up there!
-
-Is this all a dream? Play Mickey's Ultimate Challenge and decide for yourself!</desc>
-		<image>./Other/images/Mickey's Ultimate Challenge (U) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19940408T000000</releasedate>
-		<developer>Designer Software, WayForward Technologies</developer>
-		<publisher>Hi-Tech Expressions, Inc.</publisher>
-		<genre>Puzzle</genre>
 	</game>
 	<game>
 		<path>./Sports/Micro Machines Military - It's a Blast! (E) [c].zip</path>
@@ -9617,18 +8849,6 @@ Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must a
 		<genre>Action, Puzzle, Platform</genre>
 	</game>
 	<game>
-		<path>./Other/Quack Shot Starring Donald Duck (JUE) (REV 01) [!].zip</path>
-		<name>QuackShot Starring Donald Duck</name>
-		<sortname>Disney's Donald Duck in QuackShot</sortname>
-		<desc>Donald unearths an ancient scroll that reveals a long-lost treasure. Off he dashes on a dangerous expedition! He leaps over cacti, sidesteps scorpions, and slides down slopes to claim the loot before Big Bad Pete can get it. Donald's temperamental tantrums keep the bad guys runnin'! He thonks 'em with his plunger and bounces on the handle to hop over their heads. Then he blasts 'em with gooey bubblegum! Yuck-a-duck! Donald creeps through the evil Count's castle, and plumbs the depths of Aztec ruins. With Huey, Dewey, and Louie's help, he'll find the key to unlock the secret of the most fabulous treasure on earth!</desc>
-		<image>./Other/images/Quack Shot Starring Donald Duck (JUE) (REV 01) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19911219T000000</releasedate>
-		<developer>Sega CS R&amp;D 2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Quad Challenge (U) [c][!].zip</path>
 		<name>Quad Challenge</name>
 		<desc>Saddled on a high-performance all-terrain vehicle, you hear the roar of racing engines and scan the brutal dirt track ahead. The unforgiving clock counts down; THREE... strap helmet, TWO... rev it up, ONE... explode from the gate! Slam into high, and torque up to brain-warping speed! During tight cornering, cut hard, shift low, and fan the brakes. You'll feel huge racing tires claw for traction. Control four-wheel drift or you'll spin out. On straightways, you'll hit rises and go airborne. Throttle down to soften your landing. Challenge a computer-controlled rival, or compete head-to-head against your buddy. Choose from 9 twisting race tracks on practice mode. Choose from 4 vehicles, each with unique horsepower, handling, and acceleration features. Play the Circuit Championship, a 16 track password race to glory!</desc>
@@ -9667,18 +8887,6 @@ The Genesis version lacks the two player cooperative play.</desc>
 		<developer>Seibu</developer>
 		<publisher>Bignet U.S.A., Inc.</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1].zip</path>
-		<name>Rainbow Islands: Story of the Bubble Bobble 2</name>
-		<sortname>Bubble Bobble 2 Rainbow Islands: Story of the Bubble Bobble 2</sortname>
-		<desc>The basic premise of the game is that each level is an island which is slowly sinking into the sea. The player must therefore get to the top of each level, by jumping on platforms and making use of the game's most distinctive feature: the ability to produce solid rainbows, which are used both as platforms to stand on, and as a weapon.</desc>
-		<image>./Other/images/Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Taito Corporation</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Rambo III (JUE) (REV 00).zip</path>
@@ -10549,18 +9757,6 @@ Plug into Socket for a little AC buzz and some fast times!</desc>
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./Other/Soldiers of Fortune (U) [c][!].zip</path>
-		<name>Soldiers of Fortune</name>
-		<desc>Also known as Soldiers of Fortune, this game features solo and co-op top-down shooting action, where players choose one of six hired guns to fight their way through all manner of mutants and beasts in their quest to deactivate the monstrous Chaos Engine.
-</desc>
-		<image>./Other/images/Soldiers of Fortune (U) [c][!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>The Bitmap Brothers</developer>
-		<publisher>Spectrum Holobyte, Inc.</publisher>
-		<genre>Action, Shooter</genre>
-	</game>
-	<game>
 		<path>./Other/Sorcerer's Kingdom (U) (1992).zip</path>
 		<name>Sorcerer's Kingdom</name>
 		<desc>The ear-splitting cry of a Griffin wracks your brain and echoes down the long dark corridors of Sorcerer's Kingdom. Only your sense of duty to your King gives you the courage to venture forth. As you defeat foe after foe in this precarious land, you feel your muscles growing stronger and your reflexes getting swifter. Up ahead you finally glimpse the daylight and run for fear of what is closing in behind you. You find yourself at the edge of a towering cliff where your only hope for escape is to don your magical wings and fly...</desc>
@@ -11092,5 +10288,885 @@ The game lets you punch, kick, swing and do combos throughout streets, the woods
 		<genre>Sports</genre>
 		<playcount>1</playcount>
 		<lastplayed>20210808T161422</lastplayed>
+	</game>
+	<game>
+		<path>./Other/16 Tiles Mahjong (Unl) [c].zip</path>
+		<name>16 Tiles Mahjong {Japanese}</name>
+		<desc>16 Tiles Mahjong is a Board game, developed by City Man Technologies and published by Sun Green Technology, which was released in Asia in 1992.</desc>
+		<image>./Other/images/16 Tiles Mahjong (Unl) [c]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>City Man Technologies</developer>
+		<publisher>Sun Green Technology</publisher>
+		<genre>Puzzle, Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T181814</lastplayed>
+	</game>
+	<game>
+		<path>./Other/3 Ninjas Kick Back (U) [!].zip</path>
+		<name>3 Ninjas Kick Back</name>
+		<desc>3 Ninjas Kick Back follows 3 young ninja  brothers, Rocky, Colt and Tum-Tum as they assist an old Samurai in retrieving a prized dagger which has been stolen by his rival. The dagger, once given to the Samurai as a reward, will be passed along to younger generations once it is restored to its rightful owner. The boys learn ninjitsu and karate as they fight evil forces that are older, more powerful, and bigger than them.</desc>
+		<image>./Other/images/3 Ninjas Kick Back (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Malibu Interactive, Psygnosis</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T182140</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Genesis 6-Pak (U) [!].zip</path>
+		<name>6-Pak</name>
+		<desc>6-Pak is a compilation of six of Sega's most popular "franchise" games released in the early days of the Genesis. Included are the following:
+•Super Hang-On
+•The Revenge of Shinobi
+•Golden Axe
+•Columns
+•Sonic the Hedgehog
+•Streets of Rage</desc>
+		<image>./Other/images/Genesis 6-Pak (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T183819</lastplayed>
+	</game>
+	<game>
+		<path>./Other/688 Attack Sub (U) [!].zip</path>
+		<name>688 Attack Sub</name>
+		<desc>An early submarine game with ten missions which can be played with both American and Soviet attack submarines. The game focuses on realism with several stations the player can use (sonar, weapons, navigation, helm, radio and periscope) but most duties can be delegated to crew members. The graphics are mostly close-up views of the control panels but in some occasions they feature digitized images of surface ships and crew.</desc>
+		<image>./Other/images/688 Attack Sub (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Electronic Arts, Inc.</developer>
+		<publisher>Sega</publisher>
+		<genre>Strategy</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T183924</lastplayed>
+	</game>
+	<game>
+		<path>./Other/AAAHH!!! Real Monsters (UE) [!].zip</path>
+		<name>AAAHH!!! Real Monsters</name>
+		<desc>In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them!
+
+This is a platform game, where you control three characters. Each one of them has a special move that is often used to solve puzzles and overcome obstacles: Ickis can fly for a short time, Oblina can reach high ledges, and Krumm can scan off-screen areas. They can also collect monster books, that will teach them to scare people. Help the three monsters to graduate!</desc>
+		<image>./Other/images/AAAHH!!! Real Monsters (UE) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19950915T000000</releasedate>
+		<developer>Realtime Associates, Inc.</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T191246</lastplayed>
+	</game>
+	<game>
+		<path>./Crusader of Centy (U) [!].zip</path>
+		<name>Crusader of Centy</name>
+		<desc>Millions of years ago, heinous creatures that lurked in the shadows and darkness that blanketed the planet inhabited the Earth. When light finally broke through, only a few beasts were able to survive by burrowing into deep caverns. Over time, they multiplied, evolved, and patiently waited for the right time to emerge and rule the Earth once again. You are Corona, and you've just celebrated your 14th birthday. By law of the king, you must now go seek out these creatures of the dark and destroy them. As you travel in search of your destiny, you'll make animal allies that will prove invaluable on your quest. Each level will offer mind-bending puzzles and challenges that will help you get one step closer to completing your mission.</desc>
+		<image>./images/Crusader of Centy (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940616T000000</releasedate>
+		<developer>Nextech</developer>
+		<publisher>Atlus Co., Ltd.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Earthworm Jim (U) [!].zip</path>
+		<name>Earthworm Jim</name>
+		<desc>Jim wasn't always a studly super-worm. He was once just a spineless, dirt eater with no real mission in life... Then a cosmic twist of fate placed him in control of an ultra-high-tech-indestructible-super-space-cyber-suit. Now Jim must make it to Princess-What's-Her-Name by staying clear of Psy-Crow, the intergalactic bounty hunter, until the final battle with Queen Slug-for-a-Butt.</desc>
+		<image>./images/Earthworm Jim (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940802T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action, Platform</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Earthworm Jim 2 (U) [!].zip</path>
+		<name>Earthworm Jim 2</name>
+		<desc>Two times the fun! Two times the excitement! Two times two is four. Too much to list, but keep reading: From Evil the Cat's 'Circus of the Scars' to the planet of Meat, join Jim on a madcap chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesome new weapons? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one, play it yourself... or EAT DIRT!</desc>
+		<image>./images/Earthworm Jim 2 (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19951115T000000</releasedate>
+		<developer>Shiny Entertainment, Inc.</developer>
+		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
+		<genre>Action, Platform</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ECCO The Dolphin (UE) [!].zip</path>
+		<name>Ecco the Dolphin</name>
+		<desc>You are Ecco, a powerful young dolphin. A mysterious storm has swept your family from the sea. The search to find them will take you through vast underwater realms of treachery, beauty and adventure. Use your sonar to discover hidden caverns and unlock the secrets of crystal glyphs. Charge packs of bloodthirsty sharks. Dive deep... but don't linger too long, because you're a mammal and need air to breathe. In your quest, you'll discover that more than your family's safety is at stake. The fate of the whole world rests on your wits and fins. 
+
+• Explore over 25 giant levels of solving puzzles and fighting denizens of the sea. 
+• 8 Megs of acquatic excitement with password save.
+• Knife through the waters, flip above the waves, with motions created from real dolphins.</desc>
+		<image>./images/ECCO The Dolphin (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921229T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ECCO - The Tides of Time (U) [!].zip</path>
+		<name>Ecco: The Tides of Time</name>
+		<desc>Ecco is older, stronger and engulfed by dangers! The evil Vortex has shattered the mystical Asterite. Ecco and Trellia, a beautiful dolphin of the future, cross 100 million years of time to save the dolphins and all life on Earth! Ecco morphs! Charge a metasphere to become a shark with all its fighting power! Change into a seagull and fly! Safely swim past dangers as a jellyfish! Over 40 levels of spectacular aquatic adventure, with password save. Five levels of challenging 3-D travel, through the vast waters of the open ocean!
+
+UPC / Barcode: 010086015539</desc>
+		<image>./images/ECCO - The Tides of Time (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940825T000000</releasedate>
+		<developer>Novotrade International</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Golden Axe (JU) (REV 00) [!].zip</path>
+		<name>Golden Axe</name>
+		<desc>The game takes place in the fictional land of Yuria, a Conan the Barbarian-style high fantasy medieval world. An evil entity known as Death Adder has captured the King and his daughter, and holds them captive in their castle. He also finds the Golden Axe, the magical emblem of Yuria, and threatens to destroy both the axe and the royal family unless the people of Yuria accept him as their ruler. The character of Death Adder and the stolen Golden Axe could well be traced to the historical event of the Acquisition of the True Cross during the Sassanid-Byzantine wars, as the Norse mythology is heavily influenced by Greek and Middle Eastern mythologies.
+The player controls one of three Warriors. The first is a battle axe-wielding dwarf, Gilius Thunderhead, from the mines of Wolud, whose twin brother was killed by the soldiers of Death Adder. Another is a male barbarian, Ax Battler, wielding a two handed broadsword looking for revenge for the murder of his mother. The last is a long-sword-wielding Tyris Flare, an amazon, whose parents were both killed by Death Adder.
+
+UPC / Barcode: 010086011067</desc>
+		<image>./images/Golden Axe (JU) (REV 00) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19891222T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Golden Axe II (JUE) [!].zip</path>
+		<name>Golden Axe II</name>
+		<sortname>Golden Axe 2</sortname>
+		<desc>The three playable characters from the first Golden Axe, Ax Battler, Tyris Flare, and Gilius Thunderhead, return in Golden Axe II to fight the new evil forces led by Dark Guild. The game features a total of seven levels: six scrolling levels and a final end of game boss battle against Dark Guild.
+
+UPC / Barcode: 010086011227</desc>
+		<image>./images/Golden Axe II (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911226T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Golden Axe III (J) [!].zip</path>
+		<name>Golden Axe III</name>
+		<sortname>Golden Axe 3</sortname>
+		<desc>Damud Hellstrike, the Prince of Darkness, has taken away the Golden Axe and put an evil curse over all the warriors. However, one of the heroes has their curse relieved and is sent to set things straight – lift the curse off the others, defeat the villain and return with the Golden Axe.
+
+The gameplay has been expanded slightly but is essentially the same hack n' slash as the previous games. New features to the series include new characters, new moves (special attacks, teamwork attacks and teamwork magic spells) and junction points where the players can choose which path to take.</desc>
+		<image>./images/Golden Axe III (J) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Other/Action 52 (Unl) [!].zip</path>
+		<name>Action 52</name>
+		<desc>Get 52 "New and Original" exciting games for play on your Sega Genesis. Try to get Billy Bob out of the Dungeon where he is imprisoned, to save MARYLOU. Go along with the ACTION GAMEMASTER as he changes into one of the fearsome CHEETAHMEN to try to defeat all of the ACTION 52 evil attackers. These two games plus an additional 50 games on this one "Multi-GamePak" will keep you entertained for a long time.</desc>
+		<image>./Other/images/Action 52 (Unl) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930528T000000</releasedate>
+		<developer>Active Enterprises</developer>
+		<publisher>Active Enterprises Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211020T231703</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The (UE) [!].zip</path>
+		<name>The Addams Family</name>
+		<sortname>Addams Family 1, The</sortname>
+		<desc>The game takes place towards the end of the movie: the Addams Family has been evicted from their home by a court order issued by a backstabbing attorney (there's one for the books), Tully Alford. Even worse, the other Addamses: Morticia, Pugsley, Wednesday, Granny and Lurch have gone missing.
+
+As Gomez, you must tour the Addams mansion in search of your lost family, battling out mysterious monsters and evading traps, and eventually face your nemesis, Tully.</desc>
+		<image>./Other/images/Addams Family, The (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Flying Edge, Inc.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T234610</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family Values (U).zip</path>
+		<name>Addams Family Values</name>
+		<sortname>Addams Family 3: Values</sortname>
+		<desc>Loosely based on the plot of the film, the player takes the role of Uncle Fester as he searches for the recently kidnapped baby Pubert. On the way he receives help from The Addams Family and a host of original characters from the game.</desc>
+		<image>./Other/images/Addams Family Values (U)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19941206T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T235331</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Alex Kidd in the Enchanted Castle (U) [!].zip</path>
+		<name>Alex Kidd in the Enchanted Castle</name>
+		<sortname>Alex Kidd Enchanted Castle</sortname>
+		<desc>BASH! BIFF! POW! Alex Kidd is punching, kicking and leaping through Paperock Planet, trying to save his dad! He's having a tough time, what with scorpions, pufferfish, monkeys, and mummies blocking his way. THUD! SPLAT! BOOM! Alex knocks down a rock pile and grabs the gold! Every time he gets gold, he's got a better chance to win. Then he bounces high in the sky and dives deep under the ocean to snare more. PAPER! SCISSORS! ROCK! Alex gets dragged into a frantic game of Janken. He's got to make the right sign - paper, scissors, or rock - to beat his bully opponent and escape with all his money! UP! UP! AND AWAY! Alex speeds in his Pedicopter, right up to the Enchanted Castle! Now he can save his dad by tricking Ashra, the ruler of Paperock. But what's the winning sign? Guess quick!</desc>
+		<image>./Other/images/Alex Kidd in the Enchanted Castle (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19890814T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Asterix and the Great Rescue (U) [!].zip</path>
+		<name>Asterix and the Great Rescue</name>
+		<sortname>Asterix Great Rescue</sortname>
+		<desc>Wham!!! Biff!!! Pow!!! Asterix is back in another highly exciting adventure. Yet again Asterix and his good friend Obelix are thrown into an amazing adventure, when they find out that Getafix and Dogmatix have been kidnapped by the Romans. Asterix and Obelix must defeat the Romans and bring their friends back home!
+
+UPC / Barcode: 010086015324</desc>
+		<image>./Other/images/Asterix and the Great Rescue (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!].zip</path>
+		<name>Asterix and the Power of The Gods</name>
+		<sortname>Asterix Power of the Gods</sortname>
+		<desc>Emperor Caesar's forces have stolen the legendary shield of Vercingetorix and it is Asterix and Obelix's mission to return it to the Gaulish village. Play as either character as your adventure takes you through over 20 levels, through Lutetia, Egypt, Alexandria and Mesopotamia on your way to Rome itself!</desc>
+		<image>./Other/images/Asterix and the Power of The Gods (8) (Eng-Ger-Fre-Spa) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950814T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Awesome Possum Kicks Dr. Machino's Butt! (U) [!].zip</path>
+		<name>Awesome Possum</name>
+		<sortname>Possum, Awesome</sortname>
+		<desc>In just a few years, mankind has succeeded in destroying the environment and endangering all living species. Under the guidance of the evil Dr. Machino, robotic machines were built to turn the Earth into a soulless place without live nature. There is only one hero who can save the living beings of the planet - you, a little possum. Fight Dr. Machino's robots and liberate the Earth!
+
+This is an action platformer very similar in gameplay style to Sonic games. The possum can jump and run very quickly, as well as spin to hurt the enemies and breeze through the levels. Various robotic creatures will will try to kill you during your journey to Dr. Machino's lair. You can either avoid or try to defeat them on your way.
+
+UPC / Barcode: 031763065500</desc>
+		<image>./Other/images/Awesome Possum Kicks Dr. Machino's Butt! (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Abrams Battle Tanks (U).zip</path>
+		<name>M-1 Abrams Battle Tank</name>
+		<sortname>BattleTank M1 Abrams</sortname>
+		<desc>Take the most powerful NATO tank, the M-1 Abrams, in 8 difficult missions against the Warsaw Pact forces. The four tank stations and the other aspects of the tank are quite nicely simulated, with different types of cannon rounds, coax machine guns, and all that. There's also the independent turret and track rotation commands.</desc>
+		<image>./Other/images/Abrams Battle Tanks (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Dynamix, Inc.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20210626T195618</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Super Battle Tank - War in the Gulf (U) [!].zip</path>
+		<name>Garry Kitchen's Super Battletank: War in the Gulf</name>
+		<sortname>Battletank 1: War in the Gulf Garry Kitchen's Super</sortname>
+		<desc>Garry Kitchen's Super Battletank: War in the Gulf, is a tank simulation game for the Sega Mega Drive and Sega Game Gear. The Game Gear version is simply known as Super Battletank. Both versions were only released in North America.</desc>
+		<image>./Other/images/Super Battle Tank - War in the Gulf (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Imagineering Inc.</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Bonanza Bros. (U) [!].zip</path>
+		<name>Bonanza Brothers</name>
+		<sortname>Bonanza Bros</sortname>
+		<desc>As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.</desc>
+		<image>./Other/images/Bonanza Bros. (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910906T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform, Stealth</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1].zip</path>
+		<name>Rainbow Islands: Story of the Bubble Bobble 2</name>
+		<sortname>Bubble Bobble 2 Rainbow Islands</sortname>
+		<desc>The basic premise of the game is that each level is an island which is slowly sinking into the sea. The player must therefore get to the top of each level, by jumping on platforms and making use of the game's most distinctive feature: the ability to produce solid rainbows, which are used both as platforms to stand on, and as a weapon.</desc>
+		<image>./Other/images/Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sports/Arch Rivals (UE) [!].zip</path>
+		<name>Arch Rivals: The Arcade Game</name>
+		<sortname>Arch Rivals Arcade</sortname>
+		<desc>Arch Rivals is a conversion of the hit Midway arcade game. It's a 2-on-2 basketball game that stands out from the crowd for its "no rules" approach. Fouling out other players is more than accepted, it's encouraged. Choose from twelve different teams and eight players, each with their own traits and personalities.</desc>
+		<image>./Sports/images/Arch Rivals (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Flying Edge, Inc.</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/Super Baseball 2020 (UE) [!].zip</path>
+		<name>Super Baseball 2020</name>
+		<sortname>Baseball 2020, Super</sortname>
+		<desc>Different from real baseball and other baseball video games, this game consists of both male and female characters, as well as robots. All three types of players have the same basic abilities and vary only on their personal strengths. In many cases, human players are better than their robot counterparts. One major difference between the human and robot characters is that the robot characters can blow up (or lose all their power) if they are worked too hard during a game. That can happen if you constantly make them dive for a ball, run extra bases, or even if they get hit by a pitch. Under no stress whatsoever, some robots, especially pitchers, will naturally run out of power as the game progresses. When this happens, they will lose all their abilities and be useless, both offensively and defensively. When that occurs, you can either power them up or replace them with another person on the roster. Human players do not blow up, but human pitchers can tire out. When they are tired, they will pant heavily and throw the ball very slowly. This can be remedied by either an upgrade or, as in real baseball, switching to a relief pitcher.</desc>
+		<image>./Sports/images/Super Baseball 2020 (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19940303T000000</releasedate>
+		<developer>NuFX</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bubsy in Claws Encounters of the Furred Kind (UE) [!].zip</path>
+		<name>Bubsy in Claws Encounters of the Furred Kind</name>
+		<sortname>Bubsy 1 Claws Encounters of the Furred Kind</sortname>
+		<desc>The plot focuses on a race of fabric-stealing aliens called "Woolies", who have stolen the world's yarn ball supply (especially Bubsy's, who owns the world's largest collection). Naturally, Bubsy does not take too kindly to the theft and sets out to "humble" the Woolies.</desc>
+		<image>./images/Bubsy in Claws Encounters of the Furred Kind (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930304T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./D&amp;D - Warriors of the Eternal Sun (U) [!].zip</path>
+		<name>D&amp;D: Warriors of the Eternal Sun</name>
+		<sortname>Dungeons &amp; Dragons Warriors of the Eternal Sun</sortname>
+		<desc>Dungeon &amp; Dragons: Warriors of the Eternal Sun is set in the world of Mystara, a setting of the Dungeons &amp; Dragons game. The characters find themselves in a strange, red-hued world in which the horizon slopes upward in all directions, eventually vanishing into a crimson haze at the limits of sight. Their mission is to find and make allies in this new world or else the kingdom and its culture will perish.
+
+The player leads a party of four characters (either the default party or one that the player has created). Characters and races can be chosen from the normal D&amp;D options. The gameworld is viewed from an isometric perspective and the characters can roam around in realtime. Battles are turn based. Like most role-playing games, the gaming experience focuses on exploration, inventory management and character development.</desc>
+		<image>./images/D&amp;D - Warriors of the Eternal Sun (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Westwood Studios, Inc.</developer>
+		<publisher>Sega</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Clay Fighter (U) [!].zip</path>
+		<name>ClayFighter</name>
+		<sortname>Clay Fighter 1</sortname>
+		<desc>Sticks and stones might make him groan, but clay really ticks him off! Bad Mister Frosty is the name, and action is the game. Fists and feet will fly (and other parts) as Frosty and his friends smack it out in head-to-head fighting action.</desc>
+		<image>./Other/images/Clay Fighter (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Visual Concepts</developer>
+		<publisher>Interplay Entertainment Corp.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Daffy Duck in Hollywood (JUE) [!].zip</path>
+		<name>Daffy Duck in Hollywood</name>
+		<sortname>Daffy Duck Hollywood</sortname>
+		<desc>Super Hero Daffy Duck PI armed with his bubble gun, sleuths his way around 6 different levels of Hollywood Film Sets to recover Yosemite Sam's Stolen Movie Awards. Amazing cartoon quality graphics and animation will pull you into Daffy's Wacky Quacky Adventure.</desc>
+		<image>./Other/images/Daffy Duck in Hollywood (JUE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19941130T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Soldiers of Fortune (U) [c][!].zip</path>
+		<name>Soldiers of Fortune</name>
+		<sortname>Chaos Engine / Soldiers of Fortune</sortname>
+		<desc>Also known as Soldiers of Fortune, this game features solo and co-op top-down shooting action, where players choose one of six hired guns to fight their way through all manner of mutants and beasts in their quest to deactivate the monstrous Chaos Engine.
+</desc>
+		<image>./Other/images/Soldiers of Fortune (U) [c][!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>Spectrum Holobyte, Inc.</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
+	<game>
+		<path>./Sports/College Football USA 96 (U) [!].zip</path>
+		<name>College Football USA '96</name>
+		<sortname>College Football USA 1996</sortname>
+		<desc>College Football USA 96 features gridiron action of the college ranks with 108 Division 1-A teams complete with 45 man rosters for each team. It features the standard game modes including Exhibition and Season along with the ability to play in the four major bowl games (Rose, Orange, Fiesta &amp; Sugar) in an effort to win the National Championship.</desc>
+		<image>./Sports/images/College Football USA 96 (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sports/College Football USA 97 - The Road to New Orleans (U) [!].zip</path>
+		<name>College Football USA '97</name>
+		<sortname>College Football USA 1997</sortname>
+		<desc>September is a wonderful time of year as the leaves start to change, the kids go back to school, and Christmas is only a few months away but it also means the college football season. Well, now you can stage your own college football season anytime you want thanks to COLLEGE FOOTBALL USA '97. Choose from 111 Division I teams and hit the gridiron for some hard-hitting football action as you try to lead your team to the national championship. There are eight different conferences in which you can compete ACC, Big 12, Big East, SEC, WAC, Big 10, Conference USA, and PAC 10 each with their own style of play. If you don't have time for a full schedule, customize your own tournament with up to 16 players! If you're ready to lead your team to the Promised Land of college football, then get your hands on COLLEGE FOOTBALL USA '97.</desc>
+		<image>./Sports/images/College Football USA 97 - The Road to New Orleans (U) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>EA Tiburon</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania - Bloodlines (U) [!].zip</path>
+		<name>Castlevania: Bloodlines</name>
+		<sortname>Castlevania Bloodlines</sortname>
+		<desc>Time refuses to forget the Belmont family's horrifying, bloody destiny. And in 1917 two of its descendants are summoned by fate into epic battle. Their enemy? The most evil incarnation of Castlevania legacy to ever rise from the grave, the vampiress Countess Bartley. This spine-tingling, 6-stage fear-fest overflows with graphic sights and sounds from your worst nightmares. As John Morris, the whip wielding vampire hunter, or Eric Lecarde, master lanceman, you'll pursue the demonic Countess all across Europe before she resurrects Dracula for a final reign of global terror. Alas, her trail of doom is laden with zombies, hideous mutants, grotesque giants, ghouls and ghastly creatures. Taste the sweat dripping into your mouth as you try rescuing yourself from diabolical traps. Feel the torturous strain on every muscle as you wield again and again sacred weapon power-ups such as Holy Water, the Battle Axe, the Crystal Blade Boomerang and the Mirror of Truth. But in the end, make sure you've saved enough strength to scream!
+
+UPC / Barcode: 083717160052</desc>
+		<image>./images/Castlevania - Bloodlines (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19940317T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Other/Disney Collection - Castle of Illusion &amp; Quackshot (F) [!].zip</path>
+		<name>Disney Collection - Castle of Illusion &amp; Quackshot</name>
+		<sortname>Disney's Mickey Castle of Illusion &amp; Quackshot</sortname>
+		<desc>Castle of Illusion Starring Mickey Mouse: In Castle of Illusion Mickey is on the trail of a wicked witch who has kidnapped Minnie, and you must find the seven gems in order to defeat the witch's spellbound baddies and save Minnie. 
+
+Quackshot Starring Donald Duck: Join Donald in the quest to find Garuzia's Great Duck Treasure! Travel the continents searching for clues and tools, and pit your wits against the many dangers in store for you.
+
+</desc>
+		<image>./Other/images/Disney Collection - Castle of Illusion &amp; Quackshot (F) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19960612T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Quack Shot Starring Donald Duck (JUE) (REV 01) [!].zip</path>
+		<name>QuackShot Starring Donald Duck</name>
+		<sortname>Disney's Donald QuackShot</sortname>
+		<desc>Donald unearths an ancient scroll that reveals a long-lost treasure. Off he dashes on a dangerous expedition! He leaps over cacti, sidesteps scorpions, and slides down slopes to claim the loot before Big Bad Pete can get it. Donald's temperamental tantrums keep the bad guys runnin'! He thonks 'em with his plunger and bounces on the handle to hop over their heads. Then he blasts 'em with gooey bubblegum! Yuck-a-duck! Donald creeps through the evil Count's castle, and plumbs the depths of Aztec ruins. With Huey, Dewey, and Louie's help, he'll find the key to unlock the secret of the most fabulous treasure on earth!</desc>
+		<image>./Other/images/Quack Shot Starring Donald Duck (JUE) (REV 01) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911219T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Goofy's Hysterical History Tour (U) [!].zip</path>
+		<name>Goofy's Hysterical History Tour</name>
+		<sortname>Disney's Goofy Hysterical History Tour</sortname>
+		<desc>In Goofy's Hysterical History Tour, the player takes command of Goofy himself who gets his dream job as janitor at The Ludwig von Drake History Museum. However, his rival Pete is determined to get him fired and sabotages the exhibits and scatters pieces throughout various time periods. Armed with a new gadget, the Extend-O-Hand, Goofy must travel to the past and recover the pieces before the morning.
+
+The game is a platformer, where Goofy must travel through various stages ranging from Prehistoric times, Medieval times, Colonial America and the Wild West among many others, collecting items and power-ups and defeating Pete's henchmen using the Extend-O-Hand. After collecting all the pieces, Goofy then must face Pete himself.</desc>
+		<image>./Other/images/Goofy's Hysterical History Tour (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Imagineering Inc.</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!].zip</path>
+		<name>The Great Circus Mystery Starring Mickey &amp; Minnie</name>
+		<sortname>Disney's Mickey Great Circus Mystery</sortname>
+		<desc>The Great Circus Mystery Starring Mickey and Minnie, later titled Disney's Magical Quest 2 Starring Mickey &amp; Minnie, was released for the Super Nintendo Entertainment System and Sega Genesis/Mega Drive in 1994 and for the Game Boy Advance in 2003. The game features Mickey Mouse and Minnie Mouse trying to figure out why everyone in the circus has disappeared, and includes four different types of outfits and six different levels. While the SNES and Genesis/Mega Drive versions were practically identical, the GBA re-release in 2003 included some new features. As its predecessor, it received praise for its graphics and outfit system and was criticized for not being challenging enough and short. Notably, it was the first game with Minnie Mouse in a video game role.</desc>
+		<image>./Other/images/Great Circus Mystery, The - Starring Mickey &amp; Minnie (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940602T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Donald Duck in Maui Mallard (A) [!].zip</path>
+		<name>Donald In Maui Mallard</name>
+		<sortname>Disney's Donald Maui Mallard</sortname>
+		<desc>Donald Duck as Maui Mallard must recover the Mojo idol of Shabuhm Shabuhm to save this tropical island. An instant classic from the Disney Interactive Studios!</desc>
+		<image>./Other/images/Donald Duck in Maui Mallard (A) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Eurocom Entertainment Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Castle of Illusion Starring Mickey Mouse (UE) [!].zip</path>
+		<name>Castle of Illusion Starring Mickey Mouse</name>
+		<sortname>Disney's Mickey Castle of Illusion</sortname>
+		<desc>The search is on! Mickey is on the trail of a wicked Witch named Mizrabel, who has kidnapped Minnie. Mickey must find seven gems hidden in the fantastic chambers of Mizrabel's Castle of Illusion and use them to save Minnie. Can Mickey find them? It's up to you.
+
+Be on your guard! Behind every door lurks an enchanted land of beauty and danger. You must defeat angry chess knights, overcome the evil haunted trees, and do battle with ghoulish ghosts and a deadly dragon. No place is safe -- even the library is fraught with danger. Playing three levels in the practice mode will prepare you for the challenge you will face. Then, just when you think you've mastered the Illusions, you come face to face with the most dangerous of them all -- Witch Mizrabel!</desc>
+		<image>./Other/images/Castle of Illusion Starring Mickey Mouse (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19901120T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!].zip</path>
+		<name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
+		<sortname>Disney's Mickey World of Illusion</sortname>
+		<desc>Alakazam! Here's classic Disney fun with your favorites, Mickey Mouse and Donald Duck! Transported into a world of wonder, Mickey and Donald must perform amazing feats of magic to defeat a crafty Sorcerer and find their way back home!</desc>
+		<image>./Other/images/World of Illusion Starring Mickey Mouse &amp; Donald Duck (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921217T000000</releasedate>
+		<developer>Sega CS R&amp;D 2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Mickey Mouse - Minnie's Magical Adventure 2 (J) [!].zip</path>
+		<name>Mickey Mouse: Minnie's Magical Adventure 2</name>
+		<sortname>Disney's Mickey Minnie's Magical Adventure 2</sortname>
+		<image>./Other/images/Mickey Mouse - Minnie's Magical Adventure 2 (J) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Capcom</publisher>
+		<genre>Adventure, Puzzle, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Mickey's Ultimate Challenge (U) [!].zip</path>
+		<name>Mickey's Ultimate Challenge</name>
+		<sortname>Disney's Mickey Ultimate Challenge</sortname>
+		<desc>Five Magical Puzzles
+Full Of Family Fun!
+
+"The sky is rumbling!
+The sky is rumbling! What ever can it be?" cry the citizens of Beanwick.
+
+"Is it a storm? Is it a monster? Is it the end of the Kingdom?" I don't know, but I'll find out, says Mickey, "if I have to search every room in the Castle of Beanwick to solve the mystery!"
+
+In Mickey's Ultimate Challenge, volunteer as Mickey or Minnie to help the Kingdom of Beanwick solve the mystery of the rumblings in the sky. But, first you must prove worthy of the challenge--by thinking your way through a series of fiendishly clever puzzles, players from 4 to 104 can take full advantage of the game's interactive capabilities to put their critical thinking skills to the ultimate test. Five incredible locations!
+
+Five brain-teasing challenges starring many of your favorite Disney characters. Solve them all for a chance to see what's really up, up there!
+
+Is this all a dream? Play Mickey's Ultimate Challenge and decide for yourself!</desc>
+		<image>./Other/images/Mickey's Ultimate Challenge (U) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19940408T000000</releasedate>
+		<developer>Designer Software, WayForward Technologies</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Dr. Robotnik's Mean Bean Machine (U) [!].zip</path>
+		<name>Dr. Robotnik's Mean Bean Machine</name>
+		<sortname>Sonic Hedgehog Dr. Robotnik's Mean Bean Machine</sortname>
+		<desc>Evil Dr. Robotnik has invented a machine that turns good folks into rotten robots! Village bean folk from the planet Mobius are being rounded up by the Doctor's henchbots and thrown into his dungeons. There they await their turn in his latest evil masterpiece! An addicting, fun-filled puzzle. Unite four beams of the same color so they can stick together and escape. Defeat characters from the Adventures of Sonic The Hedgehog TV series, including Dr. Robotnik and his wicked henchbots. Three ways to play: challenge a friend, go head-to-head with Dr. Robotnik or practice on your own.
+
+UPC / Barcode: 010086017069</desc>
+		<image>./Other/images/Dr. Robotnik's Mean Bean Machine (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931203T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sonic and Knuckles (JUE) [!].zip</path>
+		<name>Sonic &amp; Knuckles</name>
+		<sortname>Sonic Hedgehog &amp; Knuckles</sortname>
+		<desc>Sonic and Knuckles join forces to defeat rotten Dr. Robotnik's Death Egg invasion! Play Sonic &amp; Knuckles by itself or Lock-on with other Sonic games. This game's revolutionary Lock-on technology adds all new features to your other Sonic games for ultimate replays! Play as Sonic and let loose on Robotnik with amazing new powers. Play as Knuckles and tackle Robotnik and Metal Sonic with bare-fisted attacks, high-speed glides and wall-climbing power! Lock-on with Sonic 3 and transform Floating Island into a huge 34 meg Sonic-epic loaded with new secrets! Play as Sonic, Knuckles, and even Tails - with Game Save! Lock-on with Sonic 2 and play as Knuckles with all his signature moves!</desc>
+		<image>./images/Sonic and Knuckles (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega Technical Institute, Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic 3D Blast (UE) [!].zip</path>
+		<name>Sonic 3D Blast</name>
+		<sortname>Sonic Hedgehog Blast 3D</sortname>
+		<desc>Doctor Robotnik discovered that some strange birds, called Flickies, live on an island in an alternate dimension. He learned that they can travel anywhere using large rings, so he decided to exploit them by turning them into robots to help him search for the Chaos Emeralds. One day, Sonic visited Flickies' Island and saw what Robotnik had done to them. He decided to free the Flickies and stop Robotnik from finding the Emeralds.</desc>
+		<image>./images/Sonic 3D Blast (UE) [!]-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19961107T000000</releasedate>
+		<developer>Sonic Team, Traveller's Tales Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211021T154616</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic Classics (Compilation) (UE) (REV01) [!].zip</path>
+		<name>Sonic Classics</name>
+		<sortname>Sonic Hedgehog Classics</sortname>
+		<desc>Sonic Classics compiles three games from the Sonic The Hedgehog series onto one cartridge. They are: Sonic the Hedgehog, Sonic the Hedgehog 2, Dr. Robotnik's Mean Bean Machine
+
+Each of the three games control the same as their stand-alone versions. The games are selected from a menu, however only one game can be played at once. Also, even though Sonic The Hedgehog 2 is on this cartridge, it is not possible for this game to lock-on to Sonic And Knuckles to create Knuckles the Echidna.</desc>
+		<image>./images/Sonic Classics (Compilation) (UE) (REV01) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic Spinball (U) [!].zip</path>
+		<name>Sonic Spinball</name>
+		<sortname>Sonic Hedgehog Spinball</sortname>
+		<desc>Dr. Robotnik has assumed control of Mt. Mobius and turned it into a mechanical base. Utilizing energy produced by the magma flowing under the volcano, this new monstrosity (the Veg-O-Fortress) has the power to transform helpless animals into robot slaves at an astounding rate. Sonic the Hedgehog and Tails fly onto the scene to mount an aerial assault, but Sonic is knocked off the wings of Tails' airplane by a blast from the fortress. He falls into the water, but is rescued and taken to the subterranean levels of the Veg-O-Fortress. The fortress must be destroyed from the inside-out, and the only way to make that happen is to trigger an eruption in the volcano it's built on. Sonic knows this can be done by removing the Chaos Emeralds that keep the volcano stable. Robotnik, however, is also aware of the fragile relationship that exists between the Emeralds and the mountain, and he's set up an elaborate Pinball Defense System to make sure the precious jewels don't go anywhere.</desc>
+		<image>./images/Sonic Spinball (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931123T000000</releasedate>
+		<developer>Polygames, Sega Technical Institute</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog (JUE) [!].zip</path>
+		<name>Sonic the Hedgehog</name>
+		<sortname>Sonic Hedgehog 1</sortname>
+		<desc>Super Speed! Bust the video game speed barrier wide open with Sonic the Hedgehog. Blaze by in a blur using the super sonic spin attack. Loop the loop by defying gravity. Plummet down tunnels. Then dash to safety with Sonic's power sneakers. All at a frenzied pace. Super Graphics! Help Sonic escape bubbling molten lava. Swim through turbulent waterfalls. Scale glistening green mountains. And soar past shimmering city lights. There's even a 360 degree rotating maze. You've never seen anything like it. Supper Attitude! Sonic has an attitude that just won't quit. He's flip and funny, yet tough as nails as he fights to free his friends from evil. So just wait. Sonic may be the world's next SUPER hero...</desc>
+		<image>./images/Sonic the Hedgehog (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910623T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic and Knuckles &amp; Sonic 1 (JUE) [!].zip</path>
+		<name>Sonic &amp; Knuckles + Sonic the Hedgehog</name>
+		<sortname>Sonic Hedgehog 1 with Knuckles</sortname>
+		<desc>When Sonic 3 is locked-on to the original Sonic the Hedgehog or Sonic Compilation via Lock-On Technology, the result is a deceptive "No Way!" screen. However, by pressing the A, B and C buttons together players can access Special Stage levels, commonly known as the "Blue Sphere" levels. Levels can be accessed by inputting a twelve digit code, every number combination a different variation of a Special Stage level.</desc>
+		<image>./images/Sonic and Knuckles &amp; Sonic 1 (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog 2 (JUE) [!].zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<sortname>Sonic Hedgehog 2</sortname>
+		<desc>Super Speed! Sonic's back and better than ever. He's a blur in blue! A blaze of action! With his new Super Spin Dash. And a new, fabulous friend, "Tails" the Fox. You won't believe it 'til you see it. And when you play, you won't stop. Super Play! Defy gravity in hair-raising loop-de-loops. Grab Power Sneakers and race like lightning through the mazes. Dash in a dizzying whirl across corkscrew speedway. Bounce like a pinball through the bumpers and springs of the amazing Zones. All at break-neck speed! Super Power! Sonic's attitude is can-do. The mad scientist Dr. Robotnik is planning a world takeover. Sonic gets tough in the fight to save his friends and squash Robotnik for good!</desc>
+		<image>./images/Sonic the Hedgehog 2 (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921124T000000</releasedate>
+		<developer>Sega Technical Institute, Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sonic and Knuckles &amp; Sonic 2 (JUE) [!].zip</path>
+		<name>Knuckles the Echidna in Sonic the Hedgehog 2</name>
+		<sortname>Sonic Hedgehog 2 with Knuckles the Echidna</sortname>
+		<desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
+		<image>./images/Sonic and Knuckles &amp; Sonic 2 (JUE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 3 (U) [!].zip</path>
+		<name>Sonic the Hedgehog 3</name>
+		<sortname>Sonic Hedgehog 3</sortname>
+		<desc>Swing from vines, launch new attacks, survive deadly traps and summon Tails to airlift Sonic out of danger. Discover hidden rooms and passageways in the mega-sized Zones. Transform into Super Sonic and experience the ultimate in speed and ultra-sonic power. Save your progress using the new Game Save Feature.</desc>
+		<image>./images/Sonic The Hedgehog 3 (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940202T000000</releasedate>
+		<developer>Sega Technical Institute, Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sonic and Knuckles &amp; Sonic 3 (JUE) [!].zip</path>
+		<name>Sonic 3 &amp; Knuckles</name>
+		<sortname>Sonic Hedgehog 3 with Knuckles</sortname>
+		<desc>Dr. Eggmans (AKA Dr. Robotniks) Death Egg was once again blasted by Sonic, crash-landing on the peak of a volcano on the Floating Island. Dr. Eggman is still at large, and Sonic cant allow him to get his hands on the Master Emerald and repair the Death Egg. Sonic must also keep Knuckles off his back but Knuckles has problems too. As guardian of the Floating Island and all the Emeralds, Knuckles must do his part to keep the island safe. While theyre going the rounds with each other, who will stop Dr. Eggman?</desc>
+		<image>./images/Sonic and Knuckles &amp; Sonic 3 (JUE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Aero Blasters (U) [hI].zip</path>
+		<name>Aero Blasters</name>
+		<desc>Aero Blasters: Trouble Specialty Raid Unit is a 1990 horizontally scrolling shoot 'em up video game developed and published by Kaneko and licensed to Namco. The game was originally released in the arcades in 1990 and was subsequently released for the PC Engine/TurboGrafx-16 (as Aero Blasters) and Sega Mega Drive/Genesis (as Air Buster in North America) in 1990 and 1991 respectively.
+
+In Air Buster, the player controls a fighter jet also designed for space travel and shoots enemies, collects power-ups, and defeats bosses to advance levels. As a console game, Air Buster had the distinction of being two player simultaneous, which was rare among side scrolling shooters on home consoles at the time; all games in the Thunder Force, Gradius, and R-Type series were only 1 player on the home consoles.</desc>
+		<image>./Other/images/Aero Blasters (U) [hI]-image.png</image>
+		<rating>0.4</rating>
+		<releasedate>19910131T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko Co., Ltd.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220109T104938</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aero the Acro-Bat (U) [b1].zip</path>
+		<name>Aero the Acro-Bat</name>
+		<desc>You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.</desc>
+		<image>./Other/images/Aero the Acro-Bat (U) [b1]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T105211</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aero the Acro-Bat 2 (U) [!].zip</path>
+		<name>Aero the Acro-Bat 2</name>
+		<desc>In the sequel to Aero the Acro-Bat you have to defeat evil industrialist Edgar Ektor once again. He is back and again with bad ideas, so you - in the role of Aero - have to find and destroy him before he carries out his diabolical "Plan B". Like in the last installment, you have to jump, escape lethal obstacles and progress in time. This game features more moves for Aero, more mechanisms to use and more items to collect.</desc>
+		<image>./Other/images/Aero the Acro-Bat 2 (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T122041</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aerobiz (U) [!].zip</path>
+		<name>Aerobiz</name>
+		<desc>You are the CEO of an airline company. Your goal is to become the most successful airline in the world by connecting all 22 cities with air routes, maintain a profit, and meet the required quota of passengers. If you cannot turn a profit for a year or meet the victory conditions in 32 years you lose. Some strategic decisions you must make include negotiating for open air routes, purchasing or selling aircraft, invest in branch offices and hotels, advertise your airline and set budgets. You must also pay attention to statistics like quarterly and annual sales reports, as well as city data. World events also affect your airline, from natural disasters to war and even the Olympic games, all of which will affect how many passengers you get. All the planes in the game are based on real-life aircraft, such as the Boeing 747 and the Concorde.</desc>
+		<image>./Other/images/Aerobiz (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>KOEI Co., Ltd.</developer>
+		<publisher>Koei Co., Ltd.</publisher>
+		<genre>Construction and Management Simulation, Strategy</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220109T122221</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aerobiz Supersonic (U) [!].zip</path>
+		<name>Aerobiz Supersonic</name>
+		<desc>LEAD YOUR AIRLINE INTO THE FUTURE!
+It’s the beginning of the 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it's up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
+
+ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don’t target as CEO you're still responsible for ings like plane maintenance, advertising and handling those periodic emergencies such as a plane crash or employee strike.
+
+Get ready to make some tough decisions! If you make the right ones. your planes will dominate the skies of the 21st century.
+
+*Offer air service to over 80 major and minor cities around the globe
+
+*Select from four eras in aviation history including two futuristic scenarios Purchase from an extensive list of historical, supersonic and fictitious airplanes
+
+*Invest in business ventures such as concert halls, golf courses and amusement parks
+
+*One to four player fun</desc>
+		<image>./Other/images/Aerobiz Supersonic (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930402T000000</releasedate>
+		<developer>KOEI Co., Ltd.</developer>
+		<publisher>Koei Co., Ltd.</publisher>
+		<genre>Construction and Management Simulation, Strategy</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20220115T204221</lastplayed>
+	</game>
+	<game>
+		<path>./Other/After Burner II (U) [!].zip</path>
+		<name>After Burner II</name>
+		<sortname>After Burner 2</sortname>
+		<desc>Similar to its predecessor, the premise of After Burner II is to get on the F-14 Tomcat and fly mission after mission of shooting planes out of the sky. At your disposal is a vulcan cannon (basically a machine gun) and a limited number of missiles. In some versions of the game the guns fire automatically all the time. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. You also can speed up and slow down to deal with enemies which appear behind you.
+
+UPC / Barcode: 010086011043</desc>
+		<image>./Other/images/After Burner II (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900322T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter, Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T204838</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air Buster (U) [c][!].zip</path>
+		<name>Air Buster</name>
+		<desc>This isn't a little skirmish in the air. This is a full-fledged, take-no-prisoners, hyper-drive war to the finish with three-dimensional screens and incredible sound effects. Simultaneous two-player action with horizontal and vertical scrolling means you need cunning, instinct, and flight skills to destroy the enemy...and survive!</desc>
+		<image>./Other/images/Air Buster (U) [c][!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19910131T000000</releasedate>
+		<developer>Inter State</developer>
+		<publisher>Kaneko Co., Ltd.</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220115T205356</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air Diver (U) [!].zip</path>
+		<name>Air Diver</name>
+		<desc>Your mission is to find and eliminate the enemy terrorists. They are extremely well armed, and central intelligence informs us that they may have the backing of several unfriendly extraterrestrial nations...</desc>
+		<image>./Other/images/Air Diver (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Copya System Ltd.</developer>
+		<publisher>Seismic Software Inc.</publisher>
+		<genre>Shooter, Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T205638</lastplayed>
+	</game>
+	<game>
+		<path>./Other/777 Casino (Unl) [c].zip</path>
+		<name>777 Casino {Japanese}</name>
+		<desc>{move to sports}
+777 Casino is a Casino game, developed and published by City Man Technologies, which was released in Asia in 1991.</desc>
+		<image>./Other/images/777 Casino (Unl) [c]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>City Man Technologies</developer>
+		<genre>Puzzle</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220115T222704</lastplayed>
 	</game>
 </gameList>

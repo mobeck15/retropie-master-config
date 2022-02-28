@@ -17,12 +17,11 @@
 **/_Hold
 **/pc-files
 
-#/roms/ports/
-#!/roms/ports/*.sh
+!/roms/ports/
+/roms/ports/**
+!/roms/ports/*.sh
 
-**/baldurs1/
-**/baldurs2/
-**/cache/
-**/icewind1/
-**/icewind2/
-**/planescape/
+!/roms/scummvm/
+/roms/scummvm/**
+!/roms/scummvm/*.sh
+!/roms/scummvm/*.svm

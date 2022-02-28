@@ -45,17 +45,6 @@
 		<releasedate>19691231T160000</releasedate>
 	</folder>
 	<game>
-		<path>./ActRaiser 2 (U) [!].zip</path>
-		<name>ActRaiser 2</name>
-		<desc>Gameplay for ActRaiser 2 consists primarily with side-scrolling platform action, similar to the "Professional!"/"Action" mode from the original game. The player, assuming the role of "the Master" (still referred to as "God" in the Japanese version), controls a floating palace to inspect the people of the world below. After hearing their plight the Master descends to the world below to fight the monsters and rid the land of evil. Like the original, each area contains two "acts"; the first act of an area consists of monsters spawned from a lesser demon named after an unfavorable condition, while the second act consists of monsters spawned from the primary evil, named after one of the seven deadly sins, with heightened challenge and peril.</desc>
-		<image>./images/ActRaiser 2 (U) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19931029T000000</releasedate>
-		<developer>Quintet</developer>
-		<publisher>Enix Corporation</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Aladdin (U) [!].zip</path>
 		<name>Disney's Aladdin</name>
 		<desc>Discover a Whole New World of Adventure... For years, Jafar, the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough! Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladdin and Abu outwit Jafar, releasing the power of a wacky blue Genie! Now Aladdin will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
@@ -79,23 +68,6 @@ Being a hero is hard work, and you'll experience it first-hand as you run, jump,
 		<releasedate>19921101T000000</releasedate>
 		<publisher>Interplay Entertainment Corp.</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./7th Saga, The (U) [!].zip</path>
-		<name>The 7th Saga</name>
-		<sortname>7th Saga</sortname>
-		<desc>THIS IS NOT YOUR ORDINARY RPG!
-
-The graphics are eye-popping, breath-taking, stunning and unbelievable, not to mention incredible. This is no hack-and-slash, rip-your guts-out fighter! This is the future of RPGs, right here in your hands! With music this good, you won’t turn the sound off-you’ll turn it up!
-
-No more small elves leading your team! This game contains real, believable figures. You won’t be embarrassed to use your own name; you’ll be proud. It’s just you against six other characters in search of the 7 Sacred Runes. Whoever finds them... Rules the World. It’s that simple, that easy. The only problem is you have some enemies, and I don’t mean a few. I mean an army of things you’ve never seen before ready to raise the hair on the back of your neck and take you out with one swing. This is one powerful RPG. Can you handle it?!</desc>
-		<image>./images/7th Saga, The (U) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19930803T000000</releasedate>
-		<developer>Produce</developer>
-		<publisher>Enix Corporation</publisher>
-		<genre>Role-Playing</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Alien 3 (U) [!].zip</path>
@@ -153,45 +125,6 @@ Centuries have passed. The Dark Dragons are destroying the land in search of the
 		<genre>Action, Adventure</genre>
 	</game>
 	<game>
-		<path>./Castlevania - Dracula X (U) [!].zip</path>
-		<name>Castlevania: Dracula X</name>
-		<sortname>Castlevania 1995: Dracula X</sortname>
-		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
-		<image>./images/Castlevania - Dracula X (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19950905T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Chrono Trigger (U) [!].zip</path>
-		<name>Chrono Trigger</name>
-		<desc>The 32-Meg quest begins.
-The millennium. A portal is opened. The chain of time is broken. A young man is transported into the past, altering the course of history and the outcome of the future. He has to find his way home, but first he must travel to the outer edges of time to repair the world's chronology. On the way he encounters strange friends and foes, utilizes incredible devices and vehicles, and penetrates and neutralizes the fortresses of the past, present, and future. A paradox has been created. If he does not restore the order of time, nothing will ever be the same. He is the one who will become a hero. He is Crono.
-*FROM THE CREATORS OF THE ACCLAIMED FINAL FANTASY SERIES
-*CHARACTER DESIGNS BY AKIRA TORIYAMA</desc>
-		<image>./images/Chrono Trigger (U) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19950311T000000</releasedate>
-		<developer>Squaresoft</developer>
-		<publisher>Squaresoft</publisher>
-		<genre>Role-Playing</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Cool Spot (U) [!].zip</path>
-		<name>Cool Spot</name>
-		<sortname>Cool Spot</sortname>
-		<desc>NO WAY! Your Cool SPOT chums are locked away! YES WAY! You, as Cool SPOT are here to save the day! Quit gawping over the dreamy scenery, the awesome animation and most savoury sound around. Play! Man, this is the hairiest...</desc>
-		<image>./images/Cool Spot (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19931210T000000</releasedate>
-		<developer>Virgin Interactive Entertainment</developer>
-		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Lion King, The (U).zip</path>
 		<name>The Lion King</name>
 		<sortname>Disney's Lion King</sortname>
@@ -206,42 +139,6 @@ Are you sure you want to be King? Then it's time to cut loose in the deadliest o
 		<developer>Westwood Studios, Inc.</developer>
 		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
 		<genre>Adventure, Platform</genre>
-	</game>
-	<game>
-		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].zip</path>
-		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
-		<sortname>Donkey Kong Country 1995: Diddy's Kong Quest</sortname>
-		<desc>O.K. KID, WIPE THAT DROOL OFF YOUR CHIN AND LISTEN UP IF YOU REALLY WANT TO LEARN SOMETHING ABOUT THIS GAME. Sure, it's got NEWFANGLED COMPUTER GRAPHICS and what Diddy calls stereo sound that rocks heavily and with little resistance! BUT, the game play Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!
-
-*PLAY AS DIDDY OR DIXIE KONG, EACH WITH UNIQUE ABILITIES!
-*EIGHT EXCITING WORLDS WITH ALL-NEW LEVELS AND KREMLINGS!
-*BRAND NEW KONG FAMILY MEMBERS AND FRIENDS!
-*TONS OF NEW MOVES AND SPECIAL ABILITIES!
-*MORE SECRETS AND CHALLENGES THAN DONKEY KONG COUNTRY!</desc>
-		<image>./images/Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19951120T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!].zip</path>
-		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble!</name>
-		<sortname>Donkey Kong Country 1996: Dixie Kong's Double Trouble!</sortname>
-		<desc>Monkey Mayhem Lives On!
-
-Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!
-
-Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you've ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
-		<image>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19961122T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Dragon Quest 1 and 2 (ENG) # SNES.zip</path>
@@ -328,18 +225,6 @@ From Evil the Cat's Circus of the Scars' to the planet of Meat, join Jim on a ma
 		<developer>Shiny Entertainment, Inc.</developer>
 		<publisher>Playmates Interactive Entertainment, Inc.</publisher>
 		<genre>Action, Adventure, Platform</genre>
-	</game>
-	<game>
-		<path>./F-ZERO (U) [!].zip</path>
-		<name>F-Zero</name>
-		<sortname>F-000</sortname>
-		<desc>F-Zero is set in the year 2560, when humanity's multiple encounters with alien life forms had resulted in the expansion of Earth's social framework. This led to commercial, technological and cultural interchanges between planets. The multi-billionaires who earned their wealth through intergalactic trade were mainly satisfied with their lifestyles, although most coveted more entertainment in their lives. This resulted in a new entertainment based on the Formula One races to be founded with vehicles that could hover one foot above the track. These Grand Prix races were soon named "F-Zero" after a rise in popularity of the races. The game introduced the first set of F-Zero racers: Captain Falcon, Dr. Stewart, Pico, and Samurai Goroh.</desc>
-		<image>./images/F-ZERO (U) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19910823T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./Final Fantasy II (U) (V1.1).zip</path>
@@ -704,22 +589,6 @@ Annihilate your competition and claim the right to test your skills against the 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Donkey Kong Country (U) (V1.2) [!].zip</path>
-		<name>Donkey Kong Country</name>
-		<sortname>Donkey Kong Country 1994</sortname>
-		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
-
-Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
-		<image>./images/Donkey Kong Country (U) (V1.2) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Secret of Mana (U) [!].zip</path>
 		<name>Secret of Mana</name>
 		<sortname>Secret of Mana 2</sortname>
@@ -854,19 +723,6 @@ Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle 
 		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Super Mario RPG - Legend of the Seven Stars (U) [!].zip</path>
-		<name>Super Mario RPG: Legend of the Seven Stars</name>
-		<sortname>Mario RPG: Legend of the Seven Stars</sortname>
-		<desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
-		<image>./images/Super Mario RPG - Legend of the Seven Stars (U) [!]-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19960513T000000</releasedate>
-		<developer>Squaresoft</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role-Playing</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Super Mario World (U) [!].zip</path>
@@ -1335,88 +1191,6 @@ Championship battles have increased in power! The split-screen function has retu
 		<lastplayed>20201010T204328</lastplayed>
 	</game>
 	<game>
-		<path>./Sports/2020 Super Baseball (U).zip</path>
-		<name>2020 Super Baseball</name>
-		<desc>Welcome to the year 2020, where baseball has evolved into a contest between human and machine! Enter the futuristic Cyber Egg Stadium and test your skill in 2 world-class leagues with a total of 12 different teams! Step up to the plate and play the most mind-blowing baseball game ever seen:
-
-* Collect money for great plays and use it to boost your player armor or energize your robots!
-* Use your Rocket Pack to jump 50 feet into the air and catch that homerun ball!
-* Test your batting skill against an eye-popping 200 mph curveball!
-* Check out the awesome graphics, exciting sound and realistic gameplay for 1 or 2 players!
-* Use the password feature and resume playing at any point during the season! Follow the computer as it tracks all player stats!
-
-Super Baseball 2020: You're traveling into the future of baseball and you won’t want to come back!</desc>
-		<image>./Sports/images/2020 Super Baseball (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930312T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T144808</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/90 Minutes - European Prime Goal (E) [!].zip</path>
-		<name>90 Minutes: European Prime Goal</name>
-		<desc>90 Minutes: European Prime Goal is a Super Nintendo Entertainment System soccer video game. The player(s) get to play in either exhibition, tournament, or in the all-star mode. The view is from a left-right perspective and the national flags of several European countries are used in the game. In the game mode "You're a Hero," the player must make miracle plays that either win and/or change the game. The kick-off is doing using 3D graphics with the camera showing the spectators in the grandstand.
-
-This game is a sequel to J.League Soccer Prime Goal 2 and J.League Soccer Prime Goal, which were both developed by Namco.</desc>
-		<image>./Sports/images/90 Minutes - European Prime Goal (E) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950804T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20201012T144913</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/ABC Monday Night Football (U).zip</path>
-		<name>ABC Monday Night Football</name>
-		<desc>ABC Sports and Data East team up to take you to the gridiron! Strap on your helmet, put that black stuff under your eyes and prepare yourself for football, Frank Gifford style! Features AFB voice synthesis technology.</desc>
-		<image>./Sports/images/ABC Monday Night Football (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931207T000000</releasedate>
-		<developer>Data East Corporation</developer>
-		<publisher>Data East Corporation</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T145047</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Al Unser Jr's Road to the Top (U).zip</path>
-		<name>Al Unser Jr.'s Road to the Top</name>
-		<desc>Al Unser Jr.'s Road to the Top is a Super NES racing video game where the player has to progress from go-karts to snowmobiles, IROC racing cars, and eventually to Indy racing cars.
-
-If the player does well, then his/her final challenge is to take on Al Unser, Jr. in the final event at Vancouver, British Columbia, Canada. This race uses the Molson Indy Vancouver as a final test of the player's hard-earned skills. Of course, the player can also practice every stage of the game except the final stage. Go-kart racing involves regional action in the United States of America while snowmobiles provide challenge for the game's simulated winter months. Competing in the stock cars of the IROC is considered to be gaining experience for the faster and lighter open wheel vehicles of the Indy league.</desc>
-		<image>./Sports/images/Al Unser Jr's Road to the Top (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Radical Entertainment Inc.</developer>
-		<publisher>The Software Toolworks, Inc.</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T145208</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/All-American Championship Football (E) [!].zip</path>
-		<name>All-American Championship Football</name>
-		<desc>All-American Championship Football is an American Football game released in Europe. It appears to be a stand-alone version of Sports Illustrated: Championship Football &amp; Baseball, containing only the Football mode, and without the Sports Illustrated branding. This indicates it could possibly be using an earlier version of the game created before a partnership deal with Sports Illustrated, or possibly that Sports Illustrated was unable to acquire rights to use their license with the game outside of the USA.</desc>
-		<image>./Sports/images/All-American Championship Football (E) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Malibu Interactive</developer>
-		<publisher>Malibu Interactive</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T145244</lastplayed>
-	</game>
-	<game>
 		<path>./Sports/American Gladiators (U).zip</path>
 		<name>American Gladiators</name>
 		<desc>American Gladiators is licensed from the popular TV show of the same name. It features a series of events testing players' strength, speed and skill against a trained team of ten 'Gladiators', five male and five female. The female characters are Ice, Gold, Lace, Blaze and Zap, most of them know by their bodybuilding achievements. Main male characters are Turbo, Nitro (he featured several US National TV commercials), Gemini, Thunder and Laser (Mr. Montana on 1986).
@@ -1480,23 +1254,6 @@ Three courts are available: Grass, Clay and Indoor (Sega versions  add a fourth,
 		<lastplayed>20201012T145758</lastplayed>
 	</game>
 	<game>
-		<path>./Sports/Super Bases Loaded (U) [!].zip</path>
-		<name>Super Bases Loaded</name>
-		<sortname>Bases Loaded, Super</sortname>
-		<desc>Another baseball game in the Bases Loaded series. The game features a 1 and 2 player game plus a watch mode that allows the player to watch two computer players play each other.
-
-During the 1 player game the player selects 1 of 13 fictional teams and plays the other 12 teams in a row. The overall goal, instead of just merely winning baseball games, is to play the perfect game and get a perfect rating. During a game, players start with an overall rating of a 100, and then after the game is finished game points are added or subtracted in 13 different rated categories such as number of errors made, the number of walks, pitched, number of times struck out, etc... The players final game points determines the difficulty level of their next opponent. The game has up to 5 difficulty rankings. Scoring a perfect 100 game points on a level 5 rated team will complete the game.</desc>
-		<image>./Sports/images/Super Bases Loaded (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910901T000000</releasedate>
-		<developer>Tose Co., Ltd.</developer>
-		<publisher>Jaleco Ltd.</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T145904</lastplayed>
-	</game>
-	<game>
 		<path>./Sports/Super Bases Loaded 2 (U).zip</path>
 		<name>Super Bases Loaded 2</name>
 		<sortname>Bases Loaded 2</sortname>
@@ -1554,21 +1311,6 @@ The game also allows the player to create their own team and use them in either 
 		<genre>Sports</genre>
 		<playcount>1</playcount>
 		<lastplayed>20201012T153225</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Super Batter Up (U).zip</path>
-		<name>Super Batter Up</name>
-		<sortname>Batter Up</sortname>
-		<desc>Super Batter Up is a baseball game with both a 1 and 2 player mode plus a league mode. The game carries the MLBPA license, but not an MLB license, so it only features all the players from the 1991 season playing for a team in a city that they really play for. Players get to play in either a dome, modern, or traditional stadium each with their own unique characteristics.</desc>
-		<image>./Sports/images/Super Batter Up (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T155400</lastplayed>
 	</game>
 	<game>
 		<path>./Sports/Battle Grand Prix (U).zip</path>
@@ -1650,23 +1392,6 @@ The game also features four weather conditions (fair, windy, rain and snow), and
 		<genre>Sports</genre>
 		<playcount>1</playcount>
 		<lastplayed>20201012T162105</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Super Bowling (U).zip</path>
-		<name>Super Bowling</name>
-		<sortname>Bowling</sortname>
-		<desc>Super Bowling is a third-person bowling game. Players may bowl in several different environments, which range from ice ponds to neon-lit Chinese temples. Players can face-off against characters in their home stages, much like a fighting game. If the player wins they can then play on these stages in other play modes.
-
-Multi-player modes are also available, with a number of different variations.</desc>
-		<image>./Sports/images/Super Bowling (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Athena Co., Ltd.</developer>
-		<publisher>Technos Japan Corp.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T162520</lastplayed>
 	</game>
 	<game>
 		<path>./Sports/Boxing Legends of the Ring (U).zip</path>
@@ -1771,20 +1496,6 @@ This baseball game is your basic SNES baseball game, play as one of 16 teams, al
 		<lastplayed>20201012T212853</lastplayed>
 	</game>
 	<game>
-		<path>./Sports/California Games II (U).zip</path>
-		<name>California Games II</name>
-		<desc>Push your courage and cool to their limits in several innovative action sports from California. Showcase your skills speeding around the skateboard track, body boarding on foaming breakers, hang gliding over the ocean and snowboarding down perilous slopes.</desc>
-		<image>./Sports/images/California Games II (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Silicon Sorcery</developer>
-		<publisher>DTMC, Inc.</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T213011</lastplayed>
-	</game>
-	<game>
 		<path>./Sports/Cannondale Cup (U) [!].zip</path>
 		<name>Cannondale Cup</name>
 		<desc>Choose from 1 of 8 different racers who compete on 8 different bicycle race courses. The game splits the courses into different stages, with each stage having a requirement to move on to the next stage. The requirements are based on completing a set number of laps or attaining a certain score, except for the final race where the player must come in 1st place in 30 laps. 
@@ -1801,58 +1512,6 @@ It was also re-released as a part of the SNES game Exertainment Mountain Bike Ra
 		<players>4</players>
 		<playcount>1</playcount>
 		<lastplayed>20201012T213108</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Capcom's MVP Football (U).zip</path>
-		<name>Capcom's MVP Football</name>
-		<desc>This is an American Football game which features four different game modes. 
-
-There is the Custom mode which let's the player set up an exhibition game between two teams. The player can either choose to directly control the football players on the field or choose to just coach the team by selecting plays and letting the computer control the on field action. Other parameters that can be adjusted are the quarter length, the field conditions, and the difficulty of the computer opponent.
-
-There is also a Tournament mode where the player tries to take a team through a playoff bracket in order to get to the Super Bowl.
-
-MVP mode puts the player in game situations in which the player has to try to overcome.
-
-Demo mode lets the player watch the computer play against itself.</desc>
-		<image>./Sports/images/Capcom's MVP Football (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Equilibrium</developer>
-		<publisher>Capcom</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T213156</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Capcom's Soccer Shootout (U).zip</path>
-		<name>Capcom's Soccer Shootout</name>
-		<desc>Capcom's Soccer Shootout let's up to four players take the helm of 12 different international soccer teams in a series of games that include Exhibition, Full Season and All-Star Game modes. There are also Penalty Kick, Indoor Soccer, and Training modes.  The season mode lets the player choose from either a 22 or 44 game season in an attempt to become World Champions and the game boasts a realistic style including bicycle kicks, side tackles, diving saves along with several other moves.</desc>
-		<image>./Sports/images/Capcom's Soccer Shootout (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940501T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20201012T213251</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/Super Caesars Palace (U) [!].zip</path>
-		<name>Super Caesars Palace</name>
-		<sortname>Ceasars Palace</sortname>
-		<desc>Super Caesars Palace is the upgraded sequel to the original Caesars Palace for the NES.  This version features nine different games to choose from: Blackjack, Keno, Roulette, Scratchers, Horse Racing, Red Dog, Craps, Video Poker and Slot Machines, each with their own degree of difficulty and strategy.
-
-Once a player reaches a sufficient amount of funds, they can then go to the V.I.P. room and play more high stakes versions of these games to either win big or lose big.  To add more realism, the player can also visit ATMs to draw more cash for playing in case they are running low on on-hand cash.  It also has a password feature that will allow the player to pick up and continue their game at a later time.</desc>
-		<image>./Sports/images/Super Caesars Palace (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Illusion Softworks</developer>
-		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
-		<genre>Life Simulation</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T213338</lastplayed>
 	</game>
 	<game>
 		<path>./Sports/Champions World Class Soccer (U).zip</path>
@@ -1954,20 +1613,6 @@ Choose from the eight fighters or create your own legend. Train to hone your fig
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20201012T213551</lastplayed>
-	</game>
-	<game>
-		<path>./Sports/College Football USA '97 - The Road to New Orleans (U) [!].zip</path>
-		<name>College Football USA 97</name>
-		<desc>September is a wonderful time of year as the leaves start to change, the kids go back to school, and Christmas is only a few months away but it also means the college football season. Well, now you can stage your own college football season anytime you want thanks to COLLEGE FOOTBALL USA '97. Choose from 111 Division I teams and hit the gridiron for some hard-hitting football action as you try to lead your team to the national championship. There are eight different conferences in which you can compete ACC, Big 12, Big East, SEC, WAC, Big 10, Conference USA, and PAC 10 each with their own style of play. If you don't have time for a full schedule, customize your own tournament with up to 16 players! If you're ready to lead your team to the Promised Land of college football, then get your hands on COLLEGE FOOTBALL USA '97.</desc>
-		<image>./Sports/images/College Football USA '97 - The Road to New Orleans (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Black Pearl</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<playcount>2</playcount>
-		<lastplayed>20201012T213620</lastplayed>
 	</game>
 	<game>
 		<path>./Sports/College Slam Basketball (U) [!].zip</path>
@@ -4983,137 +4628,6 @@ Although it is a wrestling title, this game is structured a lot like a one-on-on
 		<lastplayed>20201012T224344</lastplayed>
 	</game>
 	<game>
-		<path>./Other/3 Ninjas Kick Back (U).zip</path>
-		<name>3 Ninjas Kick Back</name>
-		<desc>You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!</desc>
-		<image>./Other/images/3 Ninjas Kick Back (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940619T000000</releasedate>
-		<developer>Malibu Interactive</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225048</lastplayed>
-	</game>
-	<game>
-		<path>./Other/A.S.P. Air Strike Patrol (U).zip</path>
-		<name>A.S.P. - Air Strike Patrol</name>
-		<desc>Zarak has invaded Sweit! You, as Air Force commander, MUST marshall all your resources and defeat them. Using hi-tech intelligence, locate your targets, load your plane, and destroy... chemical weapon plants, radar sites, enemy vehicles, and more. So strap yourself into a cockpit and fly into the challenge of a lifetime.</desc>
-		<image>./Other/images/A.S.P. Air Strike Patrol (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SETA</developer>
-		<publisher>SETA Corporation</publisher>
-		<genre>Shooter</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225103</lastplayed>
-	</game>
-	<game>
-		<path>./Other/AAAHH!!! Real Monsters (U) [!].zip</path>
-		<name>AAAHH!!! Real Monsters</name>
-		<desc>In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them!</desc>
-		<image>./Other/images/AAAHH!!! Real Monsters (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19950815T000000</releasedate>
-		<developer>Realtime Associates, Inc.</developer>
-		<publisher>Viacom New Media</publisher>
-		<genre>Action, Adventure</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225216</lastplayed>
-	</game>
-	<game>
-		<path>./Other/ACME Animation Factory (U).zip</path>
-		<name>ACME Animation Factory</name>
-		<desc>In ACME Animation Factory, the player is given a series of tools to create his or her own cartoons, using the most famous characters of Looney Tunes, including graphics, animation and music. When the cartoon has been created, it can be saved and later replayed.</desc>
-		<image>./Other/images/ACME Animation Factory (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>SUNSOFT</publisher>
-		<genre>Sandbox</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225338</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Addams Family, The (U).zip</path>
-		<name>The Addams Family</name>
-		<sortname>Addams Family 1</sortname>
-		<desc>Creepy, Kooky, Ooky, Spooky.
-
-THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!</desc>
-		<image>./Other/images/Addams Family, The (U)-image.png</image>
-		<rating>0.4</rating>
-		<releasedate>19920301T000000</releasedate>
-		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225413</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip</path>
-		<name>The Addams Family: Pugsley's Scavenger Hunt</name>
-		<sortname>Addams Family 2: Pugsley's Scavenger Hunt</sortname>
-		<desc>As if things weren't ooky enough!  Wednesday has devised a simply torturous game which will drive her darling wretched brother, Pugsley, to happiness.  How absolutely delicious!  She has hidden six wonderfully strange items somewhere about the Addams Family Mansion.  Now, you must guide poor Pugsley on his quest to uncover them.
-
-Traps, traps, traps you say!  Well, yes.  What else would add so much lovely horror to this unnaturally delightful fun?  Little Wednesday has made sure this adventure will be a doom-filled doozie.  There are hidden switches all about, which produce the loveliest blood-curdling effects when Pugsley runs into them.  And let’s not forget all the money that Pugsley will be able to gather on his way.  There’s even magic money which will have an extra lively effect you won’t want to miss.  So get ready to get spooky, and get set to get kooky… it’s Pugsley’s Scavenger Hunt!  En garde!</desc>
-		<image>./Other/images/Addams Family, The - Pugsley's Scavenger Hunt (U)-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19930201T000000</releasedate>
-		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225504</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Addams Family Values (U) [!].zip</path>
-		<name>Addams Family Values</name>
-		<sortname>Addams Family 3: Values</sortname>
-		<desc>Baby Pubert, the most recent addition to the Addams Family, has been abducted by Debbie Jellinski, his former nanny. As Uncle Fester it is your job to rescue little Pubert. You must search the surrounding areas (forests, swamps, gardens and the like) of Addams mansion, while avoiding traps, solving puzzles and killing monsters. You'll face such hellish creatures as vultures, gargoyles, bats, ghosts and ghouls.
-
-During your mission, you'll run into Gomez, Morticia, Lurch and other members of the Addams Family, who are on the grounds to lend advice and provide items. These items include a box of seeds for producing enemy-attacking mini bushes, black beetle cookies which give Fester a dose of ill-health (this is a good thing), stone marbles for turning attackers into rock, a bowling ball for hitting enemies and breaking through walls and a battery, which powers up Fester's standard Zzap attack. Within the seven levels of play, there are tons of other creatures to zap and items to find.</desc>
-		<image>./Other/images/Addams Family Values (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19950201T000000</releasedate>
-		<developer>Ocean Software Ltd., Enigma Variations Ltd</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-		<genre>Action, Role-Playing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201012T225549</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Super Adventure Island (U) [!].zip</path>
-		<name>Super Adventure Island</name>
-		<sortname>Adventure Island 1, Super</sortname>
-		<desc>Master Higgins is back in his wildest and greatest adventure of all! His girlfriend, Jeannie Jungle, has been turned to stone by the evil Dark Cloak. Now he must leap into action to defeat the scores of guardian animals and monsters that protect the wicked wizard.
-Join Master Higgins as he reaches new heights of adventure on his high flying skateboard. Speed through underground caves in a crazy mine car ride! Go from tropical shores to the belly of a whale - all in search of his final battle with the mad magician, Dark Cloak!</desc>
-		<image>./Other/images/Super Adventure Island (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19920401T000000</releasedate>
-		<developer>Produce</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201013T215412</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Super Adventure Island II (U) [!].zip</path>
-		<name>Super Adventure Island II</name>
-		<sortname>Adventure Island 2, Super</sortname>
-		<desc>Master Higgins finally marries his lovely girlfriend Tina. But out of nowhere, a powerful tropical cyclone destroyed the idyllic mood of their honeymoon. And not only this: it separated the ardent lovers again. After the winds stopped blowing, Tina found herself somewhere on a tropical coast. As for Master Higgins, he went to the king of Waku-Waku and, along with his main quest to save his brand new wife, got an assignment to save also a princess, whom the king was about to marry. Is there a connection between those two events?..</desc>
-		<image>./Other/images/Super Adventure Island II (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941001T000000</releasedate>
-		<developer>Make</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201013T215709</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Aero Fighters (U).zip</path>
 		<name>Aero Fighters</name>
 		<desc>Aero Fighters (known as Sonic Wings in Japan) is a vertical-scrolling shoot 'em up ("shmup") arcade game released in 1992 by Video System, ported to the Super Famicom in 1993 and the Super Nintendo in 1994.
@@ -5128,19 +4642,6 @@ There are 8 stages in this game. The beginning stages consists of randomly chose
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20201013T215933</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Aero the Acro-Bat (U) [!].zip</path>
-		<name>Aero the Acro-Bat</name>
-		<desc>You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.</desc>
-		<image>./Other/images/Aero the Acro-Bat (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19931001T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>SUNSOFT</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201013T220208</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Aero the Acro-Bat 2 (U).zip</path>
@@ -5168,47 +4669,6 @@ There are 8 stages in this game. The beginning stages consists of randomly chose
 		<players>4</players>
 		<playcount>1</playcount>
 		<lastplayed>20201013T220555</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Aerobiz Supersonic (U).zip</path>
-		<name>Aerobiz Supersonic</name>
-		<desc>LEAD YOUR AIRLINE INTO THE FUTURE!
-It’s the beginning ofthe 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it‘s up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
-
-ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don’t target as CEO you're still responsible for ings like plane maintenance, advertising and handling those periodic emergencles such as a plane crash or employee strike.
-
-Get ready to make some tough decisions! If you make the right ones. your planes will dominate the skies of the 21st century.
-
-*Offer air service to over 80 major and minor cities around the globe
-
-*Select from four eras in aviation history including two futuristic scenarios Purchase from an extensive list of historical, supersonic and fictitious airplanes
-
-*Invest in business ventures such as concert halls, golf courses and amusement parks
-
-*One to four player fun</desc>
-		<image>./Other/images/Aerobiz Supersonic (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940801T000000</releasedate>
-		<developer>KOEI Co., Ltd.</developer>
-		<publisher>Koei Co., Ltd.</publisher>
-		<genre>Construction and Management Simulation, Strategy</genre>
-		<players>4</players>
-		<playcount>1</playcount>
-		<lastplayed>20201013T220626</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Air Cavalry (U).zip</path>
-		<name>Air Cavalry</name>
-		<desc>A standard helicopter war-game, featuring the Air Cavalry division. The game is played in a third person view using mode 7 graphics, with the cockpit displayed in splitscreen. There are three campaign areas to fly in: Middle East, Indonesia, and Central America. There are also 2 player versus and co-op split-screen modes.</desc>
-		<image>./Other/images/Air Cavalry (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950620T000000</releasedate>
-		<developer>Synergistic Software, Inc.</developer>
-		<publisher>Cybersoft, Inc.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201013T220712</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Super Alfred Chicken (U) [!].zip</path>
@@ -5397,20 +4857,6 @@ Astérix is a platform game based on the eponymous comic books, where the short 
 		<genre>Platform</genre>
 		<playcount>1</playcount>
 		<lastplayed>20201013T222845</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Asterix &amp; Obelix (E).zip</path>
-		<name>Asterix &amp; Obelix</name>
-		<desc>Caesar has erected a new barricade around the village of the indomitable gauls, to keep them trapped inside. Join Asterix and Obelix and travel across the Roman Empire. Here you will enter a bullfight, participate in a rugby match, and even take part in the Olympic Games. Bring a souvenir from each country you visit, in order to prove to Caesar that the Gauls are the strongest heroes.</desc>
-		<image>./Other/images/Asterix &amp; Obelix (E)-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19950928T000000</releasedate>
-		<developer>Bit Managers</developer>
-		<publisher>Infogrames Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201013T222958</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Axelay (U) [!].zip</path>
@@ -6085,23 +5531,6 @@ Players take control of a floating Casper, who is followed by Kat throughout the
 		<lastplayed>20201020T080333</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Super Castlevania IV (U) [!].zip</path>
-		<name>Super Castlevania IV</name>
-		<sortname>Castlevania 1991, Super</sortname>
-		<desc>THE GRAVEST CASTLEVANIA ADVENTURE BREAKS NEW GROUND...AND BURIES YOU IN IT.
-A century of Transylvanian tranquility is about to come to a shocking end. Once again the mortifying screams of helpless villagers shake the ground as they huddle against new nightmarish horrors unleashed by the Duke of Darkness, Count Dracula. And this time he has a tombstone with your name on it, Simon Belmont.
-You must descend into Castle of the Undead and its gruesome ground, accompanied by the most chilling sound effects to ever tingle your spine. Inside, a freshly dug 11 levels maze features the treacherous Terrace of Terror, the dangerous Rotating Dungeon, the Sunken Ruins of Lost Spirits, torture chambers and creature filled caves. Use your whip like a grappling hook and swing past hundreds of traps and a host of ghost freaks, living corpses and hidden goblins. All while dodging or destroying the unpredictable spitting lizards, carnivorous coffins, and more.
-Find the concealed weapons needed to defeat everything from eerie phantoms to haunted furniture. Then prepare to find yourself face-to-thing with hideous torments like the Tongue Lasher, the Darkest Knight, the Bone-Afide Horseman and the Granite Crusher. When your nerves get shot, use your password and take a breather. But forge on, Simon Belmont, because if you though Dracula was down for the count, he's only just begun to fright!</desc>
-		<image>./Other/images/Super Castlevania IV (U) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19911201T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201020T080458</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Chessmaster, The (U).zip</path>
 		<name>The Chessmaster</name>
 		<sortname>Chessmaster</sortname>
@@ -6116,32 +5545,6 @@ To play the game the player must pick up the chess pieces with there hand cursor
 		<genre>Strategy</genre>
 		<playcount>1</playcount>
 		<lastplayed>20201020T080652</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Chester Cheetah - Too Cool to Fool (U) [!].zip</path>
-		<name>Chester Cheetah: Too Cool to Fool</name>
-		<desc>Chester Cheetah: Too Cool to Fool was a 1992 video game that starred Cheetos mascot Chester Cheetah and only released in North America.</desc>
-		<image>./Other/images/Chester Cheetah - Too Cool to Fool (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko Co., Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201020T080827</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Chester Cheetah - Wild Wild Quest (U) (59734).zip</path>
-		<name>Chester Cheetah: Wild Wild Quest</name>
-		<desc>It's a groove to be on the move. But, if you're Chester Cheetah, "chill is the pill." So, when you are spotted in "Not-So-Great Falls, Montana," "Unclear-watter, Florida," and "Little Shock Arkansas" you follow the "law of the paw," and run for the fun. Pity, these cities can't spot a cat that knows where it's at. They want to bring you down in their town. Now, follow your feet and take to the street. It's cool to make the rules. "Wild, Wild Quest" features a full 8 Meg, 16 bit platform of adventure. Cool characters and wild-style graphics make this trip a "Wild, Wild Quest" of the best!</desc>
-		<image>./Other/images/Chester Cheetah - Wild Wild Quest (U) (59734)-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko Co., Ltd.</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201020T080948</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Choplifter III (U) (54553).zip</path>
@@ -6589,72 +5992,6 @@ Besides the common license, this game is totally different from the Genesis game
 		<lastplayed>20201020T114814</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Goof Troop (U) [!].zip</path>
-		<name>Disney's Goof Troop</name>
-		<desc>Goofy and his son Max were enjoying a peaceful day of fishing, when Keelhaul Pete absconds with Pete and PJ.
-
-Now it's up to Goofy and Max to travel to Spoonerville Island and venture through the jungle to rescue their friends. As either character, you'll take on an army of surly swashbucklers as you dodge exploding cannon balls and search dank dungeons on your way to the final showdown with Keelhaul Pete.
-
-Along the way, you'll have to dig for treasure and solve puzzles to find the keys that will allow you to enter the pirate's hideout and face Pete.</desc>
-		<image>./Other/images/Goof Troop (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930701T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure, Puzzle</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201020T114904</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Great Circus Mystery Starring Mickey &amp; Minnie, The (U).zip</path>
-		<name>The Great Circus Mystery Starring Mickey &amp; Minnie</name>
-		<sortname>Disney's Great Circus Mystery Starring Mickey &amp; Minnie</sortname>
-		<desc>Mickey and Minnie plan to spend a fun-filled day at the circus but to their dismay all the performers have disappeared. Some unknown force has replaced them with crazy characters who are out to make Mickey and Minnie's day an unpleasant one. And on top of that, Donald Duck and Pluto are nowhere to be seen.
-
-As Mickey and Minnie search for clue, the trail leads them beyond the circus. Travel along with our hero and heroine as they explore 6 hostile levels like the Haunted House, Frozen Plains and the Jungle. Use special Safari or Western outfits to fend off the enemy and climb through treacherous terrain looking for Donald and Pluto. Hopefully along the way the happenings at the circus will beging to make sense.</desc>
-		<image>./Other/images/Great Circus Mystery Starring Mickey &amp; Minnie, The (U)-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19941001T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201020T115118</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Magical Quest Starring Mickey Mouse, The (U) [!].zip</path>
-		<name>The Magical Quest Starring Mickey Mouse</name>
-		<sortname>Disney's Magical 1 Quest Starring Mickey Mouse</sortname>
-		<desc>Pluto has disappeared and his pal Mickey is hot on his trail! But evil Emperor Pete won't make it easy. He's snatched poor Pluto and hidden him deep within his dungeon. Now, Mickey must summon his courage and begin a treacherous trek through Emperor Pete's magical world to rescure his chum before it's too late!
-
-Jump and touch the clouds as you and Mickey leap past buzzing bees and sinister snakes in the Treetops. Journey through the Dark Forest and dazzle Pete's guards with the power of Mickey's magical turban! Sink into the blazing inferno of the Fire Grotto and help Firefighter Mickey extinguish the flames! Scale the rocky heights of Pete's Peak and head straight for Emperor Pete's castle. Sneak inside, and Mickey must face the awesome might of Emperor Pete's sinister magic! Hurry! Pluto needs your help!</desc>
-		<image>./Other/images/Magical Quest Starring Mickey Mouse, The (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201020T115247</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Maui Mallard in Cold Shadow (U).zip</path>
-		<name>Maui Mallard in Cold Shadow</name>
-		<sortname>Disney's Maui Mallard in Cold Shadow</sortname>
-		<desc>When he morphs into a ninja, you better duck! Play as Maui. Play as the Ninja. Play as Maui. Play as the Ninja. Try not to get dizzy. Find the missing Shabuhm Shabuhm idol before your island paradise goes kaboom kaboom! 40 hours of intense gameplay. So pack plenty of attitude. And your bug gun. Come beak to beak with MudDrakes, Rotting Pirates, Duck Zombies, Amazon Warriors. And a bunch of fowl-tempered hangers-on. Laugh in the face of danger from the top of a volcano, the bottom of the sea, the Realm of the Dead, and Ninja Training Grounds. Then get the heck out! Live every level like it's your last - 'cuz it may be!</desc>
-		<image>./Other/images/Maui Mallard in Cold Shadow (U)-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19961101T000000</releasedate>
-		<developer>Eurocom</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201020T150458</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Mickey Mania (U) [!].zip</path>
 		<name>Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
 		<sortname>Disney's Mickey Mania: The Timeless Adventures of Mickey Mouse</sortname>
@@ -6669,24 +6006,6 @@ The gameplay consists mostly of jumping and marble throwing at enemies, with an 
 		<genre>Platform</genre>
 		<playcount>2</playcount>
 		<lastplayed>20201020T151519</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Mickey's Ultimate Challenge (U).zip</path>
-		<name>Mickey's Ultimate Challenge</name>
-		<sortname>Disney's Mickey's Ultimate Challenge</sortname>
-		<desc>Mickey's Ultimate Challenge is a puzzle game in which the player chooses either Mickey or Minnie to play with. They'll find five characters from the Disney's universe in the kingdom, and will be prompted to help them in several tasks.
-
-Each task is a different puzzle, given by a specific character. Daisy, for instance, will ask help to clean the castle's paintings hanging on a wall. The task is in fact a memory game, where Mickey or Minnie must clean the pictures matching pairs. After completing one task, they'll receive a gift.
-
-After completing all tasks, Mickey or Minnie must trade the gifts they won with the right characters. For instance, after finishing Goofy's task, they will receive his hammer. The player must then guess who among the other characters would like to receive that hammer.</desc>
-		<image>./Other/images/Mickey's Ultimate Challenge (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Designer Software</developer>
-		<publisher>Hi-Tech Expressions, Inc.</publisher>
-		<genre>Puzzle, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201020T151744</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Pinocchio (U).zip</path>
@@ -6830,38 +6149,6 @@ More complex chain reactions give access to special attacks, up to three of whic
 		<players>2</players>
 		<playcount>1</playcount>
 		<lastplayed>20201020T153307</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Double Dragon V - The Shadow Falls (U).zip</path>
-		<name>Double Dragon V: The Shadow Falls</name>
-		<sortname>Double Dragon 5: The Shadow Falls</sortname>
-		<desc>Double Dragon V: The Shadow Falls! Featuring 12 big lightning-fast characters! Four to six special moves for each fighter! Set your own strength, defense and more. Three different fighting modes. Secret moves and codes! Customizable controls. Unique final moves. Hot rock music tracks and 130+ sound effects!</desc>
-		<image>./Other/images/Double Dragon V - The Shadow Falls (U)-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19950805T000000</releasedate>
-		<developer>Leland Interactive Media</developer>
-		<publisher>Tradewest, Inc.</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201020T153457</lastplayed>
-	</game>
-	<game>
-		<path>./Other/Super Double Dragon (U).zip</path>
-		<name>Super Double Dragon</name>
-		<sortname>Double Dragon 4, Super</sortname>
-		<desc>The two greatest martial arts heroes of all time are back -- in SUPER DOUBLE DRAGON, an all-new adventure with awesome new moves, impossible new missions, and a hair-raising new cast of enemies!
-Marian, a beautiful policewoman, is a student of Kung Fu and part-time assistant instructor at the martial arts training school run by Billy and Jimmy Lee. A narcotics investigator, she has disappeared while attempting to infiltrate the rughtless criminal mob known as the Black Shadow Warriors.
-It will take all your incomparable fighting skill and knowledge to find and rescure Marian. Alone, or with the help of your brother, you must face the fearsome onslaught of the Shadow Warriors with the fabled power and ferocity of the DOUBLE DRAGON!</desc>
-		<image>./Other/images/Super Double Dragon (U)-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19921001T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Tradewest, Inc.</publisher>
-		<genre>Action, Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20201020T153822</lastplayed>
 	</game>
 	<game>
 		<path>./Other/Adventures of Dr. Franken, The (U).zip</path>
@@ -7011,23 +6298,6 @@ Dirk the Daring walked steadily toward the castle gate. He felt no fear; but the
 		<lastplayed>20201029T135643</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Dual Orb 2 (ENG) # SNES.zip</path>
-		<name>Dual Orb II</name>
-		<desc>Long time ago, a flourishing civilization was destroyed by the rage of a mighty dragon. The Earth was set in flames, and no one escaped the destruction - no one except one man, who managed to launch himself forward, thousand years into the future. There, he was found by people of Kardosa Empire, who soon understood they have in their hands a human who possesses the secret of a superior ancient technology, that was unknown to the primitive civilization of the present...
-
-You play the role of Aleth, the son of the High Priest in the small kingdom of Garade, whom leads a peaceful life with his friend Lagnus, Prince of Garade. One day Aleth accidentally gains possession of a precious artifact which is sought after by the Kardosa Empire. Aleth and Lagnus get involve in a conflict which will soon lead them to great discoveries of the secrets of the ancient civilization, of the great destruction that occurred thousand years ago, and of their own true identities...
-
-The game is a console-style RPG: your party meets randomly encountered enemies and bosses, and fights them in turn-based combat viewed from isometric perspective. You upgrade armor by buying it, and also can buy weapons, but weapons can also be upgraded for money to different levels, to create powerful attacks called "techs".</desc>
-		<image>./Other/images/Dual Orb 2 (ENG) # SNES-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>I'Max</developer>
-		<publisher>I'Max Corp.</publisher>
-		<genre>Role-Playing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201029T140808</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Dungeon Master (U).zip</path>
 		<name>Dungeon Master</name>
 		<desc>Dungeon Master was a significant enhancement to the 3D dungeon crawl type of role-playing adventure game started by Wizardry and The Bard's Tale. The addition of a mouse-based (real-time) combat and inventory system in Dungeon Master has been repeated by the Eye of the Beholder Trilogy, Lands of Lore series, and other late-classic-era RPG games.</desc>
@@ -7039,20 +6309,6 @@ The game is a console-style RPG: your party meets randomly encountered enemies a
 		<genre>Role-Playing</genre>
 		<playcount>1</playcount>
 		<lastplayed>20201029T141010</lastplayed>
-	</game>
-	<game>
-		<path>./Other/AD&amp;D - Eye of the Beholder (U) [!].zip</path>
-		<name>AD&amp;D: Eye of the Beholder</name>
-		<sortname>Dungeons &amp; Dragons 1994: Eye of the Beholder</sortname>
-		<desc>Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.</desc>
-		<image>./Other/images/AD&amp;D - Eye of the Beholder (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19940318T000000</releasedate>
-		<developer>Westwood Associates</developer>
-		<publisher>Strategic Simulations, Inc.</publisher>
-		<genre>Role-Playing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201029T141118</lastplayed>
 	</game>
 	<game>
 		<path>./Other/E.V.O. Search for Eden (U).zip</path>
@@ -11205,22 +10461,6 @@ Good Smurf!</desc>
 		<lastplayed>20210220T133946</lastplayed>
 	</game>
 	<game>
-		<path>./Other/Soldiers of Fortune (U) [!].zip</path>
-		<name>Soldiers of Fortune</name>
-		<desc>Chaos Engine (Soldiers of Fortune in the US) is a run-and-gun overhead shooter. Sixteen levels (in four groups of four) await the players in the game. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and other features in the maps. The visuals are in the 'metallic and blue' style Bitmap Brothers appeared to favor.
-
-There are six characters available in the game, each with different strengths and weaknesses, and different starting prices. In two-player mode each player chooses a character and plays co-operatively, but in one-player games the player also chooses a character for the computer to control, with its artificial intelligence allowing it to open doors, pick up power-ups and take on enemies away from the ones occupying the player-controlled character.</desc>
-		<image>./Other/images/Soldiers of Fortune (U) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>MicroProse Software, Inc.</developer>
-		<publisher>Laguna GmbH</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20210220T134137</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Sonic Blast Man (U) [!].zip</path>
 		<name>Sonic Blast Man</name>
 		<desc>You take on the role of Sonic Blast Man, a superhero, in this side-scrolling shooter, fighting against various forms of evil. While you have the typical punch, jump, and kick moves, the Sonic Blast Man also has two special power moves: Dynamite Punch and Screw Bomb. You travel through five different stages and fight enemies ranging from local ruffians to robots and even aliens from outer space.</desc>
@@ -13514,6 +12754,177 @@ The Bat-Signal is blazing. Use your power to save this gothic urban gauntlet fro
 		<lastplayed>20210322T142645</lastplayed>
 	</game>
 	<game>
+		<path>./Chrono Trigger (U) [!].zip</path>
+		<name>Chrono Trigger</name>
+		<desc>The 32-Meg quest begins.
+The millennium. A portal is opened. The chain of time is broken. A young man is transported into the past, altering the course of history and the outcome of the future. He has to find his way home, but first he must travel to the outer edges of time to repair the world's chronology. On the way he encounters strange friends and foes, utilizes incredible devices and vehicles, and penetrates and neutralizes the fortresses of the past, present, and future. A paradox has been created. If he does not restore the order of time, nothing will ever be the same. He is the one who will become a hero. He is Crono.
+*FROM THE CREATORS OF THE ACCLAIMED FINAL FANTASY SERIES
+*CHARACTER DESIGNS BY AKIRA TORIYAMA</desc>
+		<image>./images/Chrono Trigger (U) [!]-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19950311T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20211013T191407</lastplayed>
+	</game>
+	<game>
+		<path>./Cool Spot (U) [!].zip</path>
+		<name>Cool Spot</name>
+		<sortname>Cool Spot</sortname>
+		<desc>NO WAY! Your Cool SPOT chums are locked away! YES WAY! You, as Cool SPOT are here to save the day! Quit gawping over the dreamy scenery, the awesome animation and most savoury sound around. Play! Man, this is the hairiest...</desc>
+		<image>./images/Cool Spot (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>Virgin Interactive Entertainment</developer>
+		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211013T191437</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario RPG - Legend of the Seven Stars (U) [!].zip</path>
+		<name>Super Mario RPG: Legend of the Seven Stars</name>
+		<sortname>Mario RPG: Legend of the Seven Stars</sortname>
+		<desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
+		<image>./images/Super Mario RPG - Legend of the Seven Stars (U) [!]-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19960513T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20211018T121141</lastplayed>
+	</game>
+	<game>
+		<path>./7th Saga, The (U) [!].zip</path>
+		<name>The 7th Saga</name>
+		<sortname>7th Saga</sortname>
+		<desc>THIS IS NOT YOUR ORDINARY RPG!
+
+The graphics are eye-popping, breath-taking, stunning and unbelievable, not to mention incredible. This is no hack-and-slash, rip-your guts-out fighter! This is the future of RPGs, right here in your hands! With music this good, you won’t turn the sound off-you’ll turn it up!
+
+No more small elves leading your team! This game contains real, believable figures. You won’t be embarrassed to use your own name; you’ll be proud. It’s just you against six other characters in search of the 7 Sacred Runes. Whoever finds them... Rules the World. It’s that simple, that easy. The only problem is you have some enemies, and I don’t mean a few. I mean an army of things you’ve never seen before ready to raise the hair on the back of your neck and take you out with one swing. This is one powerful RPG. Can you handle it?!</desc>
+		<image>./images/7th Saga, The (U) [!]-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19930803T000000</releasedate>
+		<developer>Produce</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Role-Playing</genre>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20211018T191314</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/2020 Super Baseball (U).zip</path>
+		<name>2020 Super Baseball</name>
+		<desc>Welcome to the year 2020, where baseball has evolved into a contest between human and machine! Enter the futuristic Cyber Egg Stadium and test your skill in 2 world-class leagues with a total of 12 different teams! Step up to the plate and play the most mind-blowing baseball game ever seen:
+
+* Collect money for great plays and use it to boost your player armor or energize your robots!
+* Use your Rocket Pack to jump 50 feet into the air and catch that homerun ball!
+* Test your batting skill against an eye-popping 200 mph curveball!
+* Check out the awesome graphics, exciting sound and realistic gameplay for 1 or 2 players!
+* Use the password feature and resume playing at any point during the season! Follow the computer as it tracks all player stats!
+
+Super Baseball 2020: You're traveling into the future of baseball and you won’t want to come back!</desc>
+		<image>./Sports/images/2020 Super Baseball (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19930312T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211019T120632</lastplayed>
+	</game>
+	<game>
+		<path>./Other/3 Ninjas Kick Back (U).zip</path>
+		<name>3 Ninjas Kick Back</name>
+		<desc>You first saw Rocky, Colt and Tum Tum on the silver screen when their martial arts skills and extreme exploits saved the honor of Grandfather Mori and defeated an evil arms dealer.  Now, it’s up to you!  In this action-packed adventure, you become any one of the 3 Ninjas.  And that’s when the fun begins.  Wild animals and even wilder ninjas attack!  A trio of spaced-out heavy metal rockers join forces with the evil Koga in an all-out effort to do you dirty.  But if you rescue Grandfather Mori and his ceremonial dagger, you’ll have the last laugh… and unlock a secret room filled with more gold than Fort Knox!</desc>
+		<image>./Other/images/3 Ninjas Kick Back (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940619T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211019T182253</lastplayed>
+	</game>
+	<game>
+		<path>./Other/A.S.P. Air Strike Patrol (U).zip</path>
+		<name>A.S.P. - Air Strike Patrol</name>
+		<desc>Zarak has invaded Sweit! You, as Air Force commander, MUST marshall all your resources and defeat them. Using hi-tech intelligence, locate your targets, load your plane, and destroy... chemical weapon plants, radar sites, enemy vehicles, and more. So strap yourself into a cockpit and fly into the challenge of a lifetime.</desc>
+		<image>./Other/images/A.S.P. Air Strike Patrol (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SETA</developer>
+		<publisher>SETA Corporation</publisher>
+		<genre>Shooter</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211019T191054</lastplayed>
+	</game>
+	<game>
+		<path>./Other/AAAHH!!! Real Monsters (U) [!].zip</path>
+		<name>AAAHH!!! Real Monsters</name>
+		<desc>In this game, based on popular Nickelodeon comics, you control three monsters: Ickis, Oblina, and Krumm. The Gromble, a headmaster in monster school, needs you to perform the final test - monster Midterm Exam - in order to prove yourselves to be real monsters. You should collect trash, throw it on people, and scare them!</desc>
+		<image>./Other/images/AAAHH!!! Real Monsters (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950815T000000</releasedate>
+		<developer>Realtime Associates, Inc.</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211019T191459</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/90 Minutes - European Prime Goal (E) [!].zip</path>
+		<name>90 Minutes: European Prime Goal</name>
+		<desc>90 Minutes: European Prime Goal is a Super Nintendo Entertainment System soccer video game. The player(s) get to play in either exhibition, tournament, or in the all-star mode. The view is from a left-right perspective and the national flags of several European countries are used in the game. In the game mode "You're a Hero," the player must make miracle plays that either win and/or change the game. The kick-off is doing using 3D graphics with the camera showing the spectators in the grandstand.
+
+This game is a sequel to J.League Soccer Prime Goal 2 and J.League Soccer Prime Goal, which were both developed by Namco.</desc>
+		<image>./Sports/images/90 Minutes - European Prime Goal (E) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950804T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20211019T185656</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/ABC Monday Night Football (U).zip</path>
+		<name>ABC Monday Night Football</name>
+		<desc>ABC Sports and Data East team up to take you to the gridiron! Strap on your helmet, put that black stuff under your eyes and prepare yourself for football, Frank Gifford style! Features AFB voice synthesis technology.</desc>
+		<image>./Sports/images/ABC Monday Night Football (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931207T000000</releasedate>
+		<developer>Data East Corporation</developer>
+		<publisher>Data East Corporation</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211020T200142</lastplayed>
+	</game>
+	<game>
+		<path>./Other/ACME Animation Factory (U).zip</path>
+		<name>ACME Animation Factory</name>
+		<desc>In ACME Animation Factory, the player is given a series of tools to create his or her own cartoons, using the most famous characters of Looney Tunes, including graphics, animation and music. When the cartoon has been created, it can be saved and later replayed.</desc>
+		<image>./Other/images/ACME Animation Factory (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Sandbox</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T231402</lastplayed>
+	</game>
+	<game>
 		<path>./ActRaiser (U) [!].zip</path>
 		<name>ActRaiser</name>
 		<desc>ACTION &amp; SIMULATION GAME
@@ -13535,7 +12946,617 @@ Help your people develop a new land from that which has been purified and build 
 		<publisher>Enix Corporation</publisher>
 		<genre>Action, Construction and Management Simulation</genre>
 		<favorite>true</favorite>
-		<playcount>3</playcount>
-		<lastplayed>20210528T131529</lastplayed>
+		<playcount>4</playcount>
+		<lastplayed>20211020T232743</lastplayed>
+	</game>
+	<game>
+		<path>./ActRaiser 2 (U) [!].zip</path>
+		<name>ActRaiser 2</name>
+		<desc>Gameplay for ActRaiser 2 consists primarily with side-scrolling platform action, similar to the "Professional!"/"Action" mode from the original game. The player, assuming the role of "the Master" (still referred to as "God" in the Japanese version), controls a floating palace to inspect the people of the world below. After hearing their plight the Master descends to the world below to fight the monsters and rid the land of evil. Like the original, each area contains two "acts"; the first act of an area consists of monsters spawned from a lesser demon named after an unfavorable condition, while the second act consists of monsters spawned from the primary evil, named after one of the seven deadly sins, with heightened challenge and peril.</desc>
+		<image>./images/ActRaiser 2 (U) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix Corporation</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T232759</lastplayed>
+	</game>
+	<game>
+		<path>./F-ZERO (U) [!].zip</path>
+		<name>F-Zero</name>
+		<sortname>F000</sortname>
+		<desc>F-Zero is set in the year 2560, when humanity's multiple encounters with alien life forms had resulted in the expansion of Earth's social framework. This led to commercial, technological and cultural interchanges between planets. The multi-billionaires who earned their wealth through intergalactic trade were mainly satisfied with their lifestyles, although most coveted more entertainment in their lives. This resulted in a new entertainment based on the Formula One races to be founded with vehicles that could hover one foot above the track. These Grand Prix races were soon named "F-Zero" after a rise in popularity of the races. The game introduced the first set of F-Zero racers: Captain Falcon, Dr. Stewart, Pico, and Samurai Goroh.</desc>
+		<image>./images/F-ZERO (U) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The (U).zip</path>
+		<name>The Addams Family</name>
+		<sortname>Addams Family 1</sortname>
+		<desc>Creepy, Kooky, Ooky, Spooky.
+
+THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!</desc>
+		<image>./Other/images/Addams Family, The (U)-image.png</image>
+		<rating>0.4</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T234534</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The - Pugsley's Scavenger Hunt (U).zip</path>
+		<name>The Addams Family: Pugsley's Scavenger Hunt</name>
+		<sortname>Addams Family 2: Pugsley's Scavenger Hunt</sortname>
+		<desc>As if things weren't ooky enough!  Wednesday has devised a simply torturous game which will drive her darling wretched brother, Pugsley, to happiness.  How absolutely delicious!  She has hidden six wonderfully strange items somewhere about the Addams Family Mansion.  Now, you must guide poor Pugsley on his quest to uncover them.
+
+Traps, traps, traps you say!  Well, yes.  What else would add so much lovely horror to this unnaturally delightful fun?  Little Wednesday has made sure this adventure will be a doom-filled doozie.  There are hidden switches all about, which produce the loveliest blood-curdling effects when Pugsley runs into them.  And let’s not forget all the money that Pugsley will be able to gather on his way.  There’s even magic money which will have an extra lively effect you won’t want to miss.  So get ready to get spooky, and get set to get kooky… it’s Pugsley’s Scavenger Hunt!  En garde!</desc>
+		<image>./Other/images/Addams Family, The - Pugsley's Scavenger Hunt (U)-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Ocean Software Ltd., Ocean, Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T234953</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family Values (U) [!].zip</path>
+		<name>Addams Family Values</name>
+		<sortname>Addams Family 3: Values</sortname>
+		<desc>Baby Pubert, the most recent addition to the Addams Family, has been abducted by Debbie Jellinski, his former nanny. As Uncle Fester it is your job to rescue little Pubert. You must search the surrounding areas (forests, swamps, gardens and the like) of Addams mansion, while avoiding traps, solving puzzles and killing monsters. You'll face such hellish creatures as vultures, gargoyles, bats, ghosts and ghouls.
+
+During your mission, you'll run into Gomez, Morticia, Lurch and other members of the Addams Family, who are on the grounds to lend advice and provide items. These items include a box of seeds for producing enemy-attacking mini bushes, black beetle cookies which give Fester a dose of ill-health (this is a good thing), stone marbles for turning attackers into rock, a bowling ball for hitting enemies and breaking through walls and a battery, which powers up Fester's standard Zzap attack. Within the seven levels of play, there are tons of other creatures to zap and items to find.</desc>
+		<image>./Other/images/Addams Family Values (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Ocean Software Ltd., Enigma Variations Ltd</developer>
+		<publisher>Ocean Software Ltd.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20211020T235215</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Asterix &amp; Obelix (E).zip</path>
+		<name>Asterix &amp; Obelix</name>
+		<sortname>Asterix Obelix</sortname>
+		<desc>Caesar has erected a new barricade around the village of the indomitable gauls, to keep them trapped inside. Join Asterix and Obelix and travel across the Roman Empire. Here you will enter a bullfight, participate in a rugby match, and even take part in the Olympic Games. Bring a souvenir from each country you visit, in order to prove to Caesar that the Gauls are the strongest heroes.</desc>
+		<image>./Other/images/Asterix &amp; Obelix (E)-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19950928T000000</releasedate>
+		<developer>Bit Managers</developer>
+		<publisher>Infogrames Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211021T095525</lastplayed>
+	</game>
+	<game>
+		<path>./Other/AD&amp;D - Eye of the Beholder (U) [!].zip</path>
+		<name>AD&amp;D: Eye of the Beholder</name>
+		<sortname>Dungeons &amp; Dragons Eye of the Beholder</sortname>
+		<desc>Something evil is lurking below the city of Waterdeep. The Lords of Waterdeep summon a group of heroes to investigate, but someone or something has been watching the proceedings. After the heroes enter the sewers, the ceiling collapses behind them. The only way out is the way down, into a dungeon filled with monsters, traps and puzzles.</desc>
+		<image>./Other/images/AD&amp;D - Eye of the Beholder (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940318T000000</releasedate>
+		<developer>Westwood Associates</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201029T141118</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/All-American Championship Football (E) [!].zip</path>
+		<name>All-American Championship Football</name>
+		<sortname>All American Championship Football</sortname>
+		<desc>All-American Championship Football is an American Football game released in Europe. It appears to be a stand-alone version of Sports Illustrated: Championship Football &amp; Baseball, containing only the Football mode, and without the Sports Illustrated branding. This indicates it could possibly be using an earlier version of the game created before a partnership deal with Sports Illustrated, or possibly that Sports Illustrated was unable to acquire rights to use their license with the game outside of the USA.</desc>
+		<image>./Sports/images/All-American Championship Football (E) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Malibu Interactive</developer>
+		<publisher>Malibu Interactive</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T145244</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Bases Loaded (U) [!].zip</path>
+		<name>Super Bases Loaded</name>
+		<sortname>Bases Loaded 1, Super</sortname>
+		<desc>Another baseball game in the Bases Loaded series. The game features a 1 and 2 player game plus a watch mode that allows the player to watch two computer players play each other.
+
+During the 1 player game the player selects 1 of 13 fictional teams and plays the other 12 teams in a row. The overall goal, instead of just merely winning baseball games, is to play the perfect game and get a perfect rating. During a game, players start with an overall rating of a 100, and then after the game is finished game points are added or subtracted in 13 different rated categories such as number of errors made, the number of walks, pitched, number of times struck out, etc... The players final game points determines the difficulty level of their next opponent. The game has up to 5 difficulty rankings. Scoring a perfect 100 game points on a level 5 rated team will complete the game.</desc>
+		<image>./Sports/images/Super Bases Loaded (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Tose Co., Ltd.</developer>
+		<publisher>Jaleco Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T145904</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Batter Up (U).zip</path>
+		<name>Super Batter Up</name>
+		<sortname>Batter Up, Super</sortname>
+		<desc>Super Batter Up is a baseball game with both a 1 and 2 player mode plus a league mode. The game carries the MLBPA license, but not an MLB license, so it only features all the players from the 1991 season playing for a team in a city that they really play for. Players get to play in either a dome, modern, or traditional stadium each with their own unique characteristics.</desc>
+		<image>./Sports/images/Super Batter Up (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T155400</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Bowling (U).zip</path>
+		<name>Super Bowling</name>
+		<sortname>Bowling, Super</sortname>
+		<desc>Super Bowling is a third-person bowling game. Players may bowl in several different environments, which range from ice ponds to neon-lit Chinese temples. Players can face-off against characters in their home stages, much like a fighting game. If the player wins they can then play on these stages in other play modes.
+
+Multi-player modes are also available, with a number of different variations.</desc>
+		<image>./Sports/images/Super Bowling (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Athena Co., Ltd.</developer>
+		<publisher>Technos Japan Corp.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T162520</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Super Castlevania IV (U) [!].zip</path>
+		<name>Super Castlevania IV</name>
+		<sortname>Castlevania 4, Super</sortname>
+		<desc>THE GRAVEST CASTLEVANIA ADVENTURE BREAKS NEW GROUND...AND BURIES YOU IN IT.
+A century of Transylvanian tranquility is about to come to a shocking end. Once again the mortifying screams of helpless villagers shake the ground as they huddle against new nightmarish horrors unleashed by the Duke of Darkness, Count Dracula. And this time he has a tombstone with your name on it, Simon Belmont.
+You must descend into Castle of the Undead and its gruesome ground, accompanied by the most chilling sound effects to ever tingle your spine. Inside, a freshly dug 11 levels maze features the treacherous Terrace of Terror, the dangerous Rotating Dungeon, the Sunken Ruins of Lost Spirits, torture chambers and creature filled caves. Use your whip like a grappling hook and swing past hundreds of traps and a host of ghost freaks, living corpses and hidden goblins. All while dodging or destroying the unpredictable spitting lizards, carnivorous coffins, and more.
+Find the concealed weapons needed to defeat everything from eerie phantoms to haunted furniture. Then prepare to find yourself face-to-thing with hideous torments like the Tongue Lasher, the Darkest Knight, the Bone-Afide Horseman and the Granite Crusher. When your nerves get shot, use your password and take a breather. But forge on, Simon Belmont, because if you though Dracula was down for the count, he's only just begun to fright!</desc>
+		<image>./Other/images/Super Castlevania IV (U) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201020T080458</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Chester Cheetah - Too Cool to Fool (U) [!].zip</path>
+		<name>Chester Cheetah: Too Cool to Fool</name>
+		<sortname>Chester Cheetah 1: Too Cool To Fool</sortname>
+		<desc>Chester Cheetah: Too Cool to Fool was a 1992 video game that starred Cheetos mascot Chester Cheetah and only released in North America.</desc>
+		<image>./Other/images/Chester Cheetah - Too Cool to Fool (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko Co., Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201020T080827</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Chester Cheetah - Wild Wild Quest (U) (59734).zip</path>
+		<name>Chester Cheetah: Wild Wild Quest</name>
+		<sortname>Chester Cheetah 2: Wild Wild Quest</sortname>
+		<desc>It's a groove to be on the move. But, if you're Chester Cheetah, "chill is the pill." So, when you are spotted in "Not-So-Great Falls, Montana," "Unclear-watter, Florida," and "Little Shock Arkansas" you follow the "law of the paw," and run for the fun. Pity, these cities can't spot a cat that knows where it's at. They want to bring you down in their town. Now, follow your feet and take to the street. It's cool to make the rules. "Wild, Wild Quest" features a full 8 Meg, 16 bit platform of adventure. Cool characters and wild-style graphics make this trip a "Wild, Wild Quest" of the best!</desc>
+		<image>./Other/images/Chester Cheetah - Wild Wild Quest (U) (59734)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko Co., Ltd.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201020T080948</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Soldiers of Fortune (U) [!].zip</path>
+		<name>Soldiers of Fortune</name>
+		<sortname>Chaos Engine / Soldiers of Fortune</sortname>
+		<desc>Chaos Engine (Soldiers of Fortune in the US) is a run-and-gun overhead shooter. Sixteen levels (in four groups of four) await the players in the game. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and other features in the maps. The visuals are in the 'metallic and blue' style Bitmap Brothers appeared to favor.
+
+There are six characters available in the game, each with different strengths and weaknesses, and different starting prices. In two-player mode each player chooses a character and plays co-operatively, but in one-player games the player also chooses a character for the computer to control, with its artificial intelligence allowing it to open doors, pick up power-ups and take on enemies away from the ones occupying the player-controlled character.</desc>
+		<image>./Other/images/Soldiers of Fortune (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>MicroProse Software, Inc.</developer>
+		<publisher>Laguna GmbH</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20210220T134137</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/California Games II (U).zip</path>
+		<name>California Games II</name>
+		<sortname>California Games 2</sortname>
+		<desc>Push your courage and cool to their limits in several innovative action sports from California. Showcase your skills speeding around the skateboard track, body boarding on foaming breakers, hang gliding over the ocean and snowboarding down perilous slopes.</desc>
+		<image>./Sports/images/California Games II (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Silicon Sorcery</developer>
+		<publisher>DTMC, Inc.</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T213011</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Capcom's MVP Football (U).zip</path>
+		<name>Capcom's MVP Football</name>
+		<sortname>MVP Football Capcom's</sortname>
+		<desc>This is an American Football game which features four different game modes. 
+
+There is the Custom mode which let's the player set up an exhibition game between two teams. The player can either choose to directly control the football players on the field or choose to just coach the team by selecting plays and letting the computer control the on field action. Other parameters that can be adjusted are the quarter length, the field conditions, and the difficulty of the computer opponent.
+
+There is also a Tournament mode where the player tries to take a team through a playoff bracket in order to get to the Super Bowl.
+
+MVP mode puts the player in game situations in which the player has to try to overcome.
+
+Demo mode lets the player watch the computer play against itself.</desc>
+		<image>./Sports/images/Capcom's MVP Football (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Equilibrium</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201012T213156</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Capcom's Soccer Shootout (U).zip</path>
+		<name>Capcom's Soccer Shootout</name>
+		<sortname>Soccer Shootout Capcom's</sortname>
+		<desc>Capcom's Soccer Shootout let's up to four players take the helm of 12 different international soccer teams in a series of games that include Exhibition, Full Season and All-Star Game modes. There are also Penalty Kick, Indoor Soccer, and Training modes.  The season mode lets the player choose from either a 22 or 44 game season in an attempt to become World Champions and the game boasts a realistic style including bicycle kicks, side tackles, diving saves along with several other moves.</desc>
+		<image>./Sports/images/Capcom's Soccer Shootout (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940501T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20201012T213251</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Caesars Palace (U) [!].zip</path>
+		<name>Super Caesars Palace</name>
+		<sortname>Caesars Palace, Super</sortname>
+		<desc>Super Caesars Palace is the upgraded sequel to the original Caesars Palace for the NES.  This version features nine different games to choose from: Blackjack, Keno, Roulette, Scratchers, Horse Racing, Red Dog, Craps, Video Poker and Slot Machines, each with their own degree of difficulty and strategy.
+
+Once a player reaches a sufficient amount of funds, they can then go to the V.I.P. room and play more high stakes versions of these games to either win big or lose big.  To add more realism, the player can also visit ATMs to draw more cash for playing in case they are running low on on-hand cash.  It also has a password feature that will allow the player to pick up and continue their game at a later time.</desc>
+		<image>./Sports/images/Super Caesars Palace (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Illusion Softworks</developer>
+		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
+		<genre>Life Simulation</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201012T213338</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/College Football USA '97 - The Road to New Orleans (U) [!].zip</path>
+		<name>College Football USA 97</name>
+		<sortname>College Football USA 1997</sortname>
+		<desc>September is a wonderful time of year as the leaves start to change, the kids go back to school, and Christmas is only a few months away but it also means the college football season. Well, now you can stage your own college football season anytime you want thanks to COLLEGE FOOTBALL USA '97. Choose from 111 Division I teams and hit the gridiron for some hard-hitting football action as you try to lead your team to the national championship. There are eight different conferences in which you can compete ACC, Big 12, Big East, SEC, WAC, Big 10, Conference USA, and PAC 10 each with their own style of play. If you don't have time for a full schedule, customize your own tournament with up to 16 players! If you're ready to lead your team to the Promised Land of college football, then get your hands on COLLEGE FOOTBALL USA '97.</desc>
+		<image>./Sports/images/College Football USA '97 - The Road to New Orleans (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Black Pearl</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20201012T213620</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X (U) [!].zip</path>
+		<name>Castlevania: Dracula X</name>
+		<sortname>Castlevania Dracula X</sortname>
+		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
+		<image>./images/Castlevania - Dracula X (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19950905T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Goof Troop (U) [!].zip</path>
+		<name>Disney's Goof Troop</name>
+		<sortname>Disney's Goofy Troop</sortname>
+		<desc>Goofy and his son Max were enjoying a peaceful day of fishing, when Keelhaul Pete absconds with Pete and PJ.
+
+Now it's up to Goofy and Max to travel to Spoonerville Island and venture through the jungle to rescue their friends. As either character, you'll take on an army of surly swashbucklers as you dodge exploding cannon balls and search dank dungeons on your way to the final showdown with Keelhaul Pete.
+
+Along the way, you'll have to dig for treasure and solve puzzles to find the keys that will allow you to enter the pirate's hideout and face Pete.</desc>
+		<image>./Other/images/Goof Troop (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201020T114904</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Great Circus Mystery Starring Mickey &amp; Minnie, The (U).zip</path>
+		<name>The Great Circus Mystery Starring Mickey &amp; Minnie</name>
+		<sortname>Disney's Mickey Great Circus Mystery</sortname>
+		<desc>Mickey and Minnie plan to spend a fun-filled day at the circus but to their dismay all the performers have disappeared. Some unknown force has replaced them with crazy characters who are out to make Mickey and Minnie's day an unpleasant one. And on top of that, Donald Duck and Pluto are nowhere to be seen.
+
+As Mickey and Minnie search for clue, the trail leads them beyond the circus. Travel along with our hero and heroine as they explore 6 hostile levels like the Haunted House, Frozen Plains and the Jungle. Use special Safari or Western outfits to fend off the enemy and climb through treacherous terrain looking for Donald and Pluto. Hopefully along the way the happenings at the circus will beging to make sense.</desc>
+		<image>./Other/images/Great Circus Mystery Starring Mickey &amp; Minnie, The (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201020T115118</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Magical Quest Starring Mickey Mouse, The (U) [!].zip</path>
+		<name>The Magical Quest Starring Mickey Mouse</name>
+		<sortname>Disney's Mickey Magical Quest 1</sortname>
+		<desc>Pluto has disappeared and his pal Mickey is hot on his trail! But evil Emperor Pete won't make it easy. He's snatched poor Pluto and hidden him deep within his dungeon. Now, Mickey must summon his courage and begin a treacherous trek through Emperor Pete's magical world to rescure his chum before it's too late!
+
+Jump and touch the clouds as you and Mickey leap past buzzing bees and sinister snakes in the Treetops. Journey through the Dark Forest and dazzle Pete's guards with the power of Mickey's magical turban! Sink into the blazing inferno of the Fire Grotto and help Firefighter Mickey extinguish the flames! Scale the rocky heights of Pete's Peak and head straight for Emperor Pete's castle. Sneak inside, and Mickey must face the awesome might of Emperor Pete's sinister magic! Hurry! Pluto needs your help!</desc>
+		<image>./Other/images/Magical Quest Starring Mickey Mouse, The (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201020T115247</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Maui Mallard in Cold Shadow (U).zip</path>
+		<name>Maui Mallard in Cold Shadow</name>
+		<sortname>Disney's Donald Maui Mallard in Cold Shadow</sortname>
+		<desc>When he morphs into a ninja, you better duck! Play as Maui. Play as the Ninja. Play as Maui. Play as the Ninja. Try not to get dizzy. Find the missing Shabuhm Shabuhm idol before your island paradise goes kaboom kaboom! 40 hours of intense gameplay. So pack plenty of attitude. And your bug gun. Come beak to beak with MudDrakes, Rotting Pirates, Duck Zombies, Amazon Warriors. And a bunch of fowl-tempered hangers-on. Laugh in the face of danger from the top of a volcano, the bottom of the sea, the Realm of the Dead, and Ninja Training Grounds. Then get the heck out! Live every level like it's your last - 'cuz it may be!</desc>
+		<image>./Other/images/Maui Mallard in Cold Shadow (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201020T150458</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Mickey's Ultimate Challenge (U).zip</path>
+		<name>Mickey's Ultimate Challenge</name>
+		<sortname>Disney's Mickey Ultimate Challenge</sortname>
+		<desc>Mickey's Ultimate Challenge is a puzzle game in which the player chooses either Mickey or Minnie to play with. They'll find five characters from the Disney's universe in the kingdom, and will be prompted to help them in several tasks.
+
+Each task is a different puzzle, given by a specific character. Daisy, for instance, will ask help to clean the castle's paintings hanging on a wall. The task is in fact a memory game, where Mickey or Minnie must clean the pictures matching pairs. After completing one task, they'll receive a gift.
+
+After completing all tasks, Mickey or Minnie must trade the gifts they won with the right characters. For instance, after finishing Goofy's task, they will receive his hammer. The player must then guess who among the other characters would like to receive that hammer.</desc>
+		<image>./Other/images/Mickey's Ultimate Challenge (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Designer Software</developer>
+		<publisher>Hi-Tech Expressions, Inc.</publisher>
+		<genre>Puzzle, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201020T151744</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Super Double Dragon (U).zip</path>
+		<name>Super Double Dragon</name>
+		<sortname>Double Dragon 4 Super</sortname>
+		<desc>The two greatest martial arts heroes of all time are back -- in SUPER DOUBLE DRAGON, an all-new adventure with awesome new moves, impossible new missions, and a hair-raising new cast of enemies!
+Marian, a beautiful policewoman, is a student of Kung Fu and part-time assistant instructor at the martial arts training school run by Billy and Jimmy Lee. A narcotics investigator, she has disappeared while attempting to infiltrate the rughtless criminal mob known as the Black Shadow Warriors.
+It will take all your incomparable fighting skill and knowledge to find and rescure Marian. Alone, or with the help of your brother, you must face the fearsome onslaught of the Shadow Warriors with the fabled power and ferocity of the DOUBLE DRAGON!</desc>
+		<image>./Other/images/Super Double Dragon (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201020T153822</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Double Dragon V - The Shadow Falls (U).zip</path>
+		<name>Double Dragon V: The Shadow Falls</name>
+		<sortname>Double Dragon 5 Shadow Falls</sortname>
+		<desc>Double Dragon V: The Shadow Falls! Featuring 12 big lightning-fast characters! Four to six special moves for each fighter! Set your own strength, defense and more. Three different fighting modes. Secret moves and codes! Customizable controls. Unique final moves. Hot rock music tracks and 130+ sound effects!</desc>
+		<image>./Other/images/Double Dragon V - The Shadow Falls (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19950805T000000</releasedate>
+		<developer>Leland Interactive Media</developer>
+		<publisher>Tradewest, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20201020T153457</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Dual Orb 2 (ENG) # SNES.zip</path>
+		<name>Dual Orb II</name>
+		<sortname>Dual Orb 2</sortname>
+		<desc>Long time ago, a flourishing civilization was destroyed by the rage of a mighty dragon. The Earth was set in flames, and no one escaped the destruction - no one except one man, who managed to launch himself forward, thousand years into the future. There, he was found by people of Kardosa Empire, who soon understood they have in their hands a human who possesses the secret of a superior ancient technology, that was unknown to the primitive civilization of the present...
+
+You play the role of Aleth, the son of the High Priest in the small kingdom of Garade, whom leads a peaceful life with his friend Lagnus, Prince of Garade. One day Aleth accidentally gains possession of a precious artifact which is sought after by the Kardosa Empire. Aleth and Lagnus get involve in a conflict which will soon lead them to great discoveries of the secrets of the ancient civilization, of the great destruction that occurred thousand years ago, and of their own true identities...
+
+The game is a console-style RPG: your party meets randomly encountered enemies and bosses, and fights them in turn-based combat viewed from isometric perspective. You upgrade armor by buying it, and also can buy weapons, but weapons can also be upgraded for money to different levels, to create powerful attacks called "techs".</desc>
+		<image>./Other/images/Dual Orb 2 (ENG) # SNES-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>I'Max</developer>
+		<publisher>I'Max Corp.</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201029T140808</lastplayed>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (U) (V1.2) [!].zip</path>
+		<name>Donkey Kong Country</name>
+		<sortname>Donkey Kong Country</sortname>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>./images/Donkey Kong Country (U) (V1.2) [!]-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!].zip</path>
+		<name>Donkey Kong Country 2: Diddy's Kong Quest</name>
+		<sortname>Donkey Kong Country 2 Diddy's Kong Quest</sortname>
+		<desc>O.K. KID, WIPE THAT DROOL OFF YOUR CHIN AND LISTEN UP IF YOU REALLY WANT TO LEARN SOMETHING ABOUT THIS GAME. Sure, it's got NEWFANGLED COMPUTER GRAPHICS and what Diddy calls stereo sound that rocks heavily and with little resistance! BUT, the game play Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!
+
+*PLAY AS DIDDY OR DIXIE KONG, EACH WITH UNIQUE ABILITIES!
+*EIGHT EXCITING WORLDS WITH ALL-NEW LEVELS AND KREMLINGS!
+*BRAND NEW KONG FAMILY MEMBERS AND FRIENDS!
+*TONS OF NEW MOVES AND SPECIAL ABILITIES!
+*MORE SECRETS AND CHALLENGES THAN DONKEY KONG COUNTRY!</desc>
+		<image>./images/Donkey Kong Country 2 - Diddy's Kong Quest (U) (V1.1) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19951120T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!].zip</path>
+		<name>Donkey Kong Country 3: Dixie Kong's Double Trouble!</name>
+		<sortname>Donkey Kong Country 3: Dixie Kong's Double Trouble!</sortname>
+		<desc>Monkey Mayhem Lives On!
+
+Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!
+
+Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you've ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
+		<image>./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble (U) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Super Adventure Island (U) [!].zip</path>
+		<name>Super Adventure Island</name>
+		<sortname>Adventure Island 1, Super</sortname>
+		<desc>Master Higgins is back in his wildest and greatest adventure of all! His girlfriend, Jeannie Jungle, has been turned to stone by the evil Dark Cloak. Now he must leap into action to defeat the scores of guardian animals and monsters that protect the wicked wizard.
+Join Master Higgins as he reaches new heights of adventure on his high flying skateboard. Speed through underground caves in a crazy mine car ride! Go from tropical shores to the belly of a whale - all in search of his final battle with the mad magician, Dark Cloak!</desc>
+		<image>./Other/images/Super Adventure Island (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Produce</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220109T103545</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Super Adventure Island II (U) [!].zip</path>
+		<name>Super Adventure Island II</name>
+		<sortname>Adventure Island 2, Super</sortname>
+		<desc>Master Higgins finally marries his lovely girlfriend Tina. But out of nowhere, a powerful tropical cyclone destroyed the idyllic mood of their honeymoon. And not only this: it separated the ardent lovers again. After the winds stopped blowing, Tina found herself somewhere on a tropical coast. As for Master Higgins, he went to the king of Waku-Waku and, along with his main quest to save his brand new wife, got an assignment to save also a princess, whom the king was about to marry. Is there a connection between those two events?..</desc>
+		<image>./Other/images/Super Adventure Island II (U) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Make</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220109T104148</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aero the Acro-Bat (U) [!].zip</path>
+		<name>Aero the Acro-Bat</name>
+		<desc>You play as bat Aero, who have to stop the mad scientist Edgar Ektor, who is trying to rid the world of amusement and fun. So you jump through the circus-style levels, using different kinds of machines such as catapults, cannons, bubble machines, platforms, etc., collecting various power-ups such as cheese, soda, keys, clocks, etc. and avoiding lethal obstacles.</desc>
+		<image>./Other/images/Aero the Acro-Bat (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>SUNSOFT</publisher>
+		<genre>Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20220109T105351</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aerobiz Supersonic (U).zip</path>
+		<name>Aerobiz Supersonic</name>
+		<desc>LEAD YOUR AIRLINE INTO THE FUTURE!
+It’s the beginning ofthe 21st century and competition in the airline industry is heating up. As a young, ambitious CEO, it‘s up to you to make sure your airline is a survivor and not just another casualty. To succeed, you will have to make some tough decisions including where to fly, which planes to purchase and how to attract visitors to the cities you service. Your goal: to differentiate your airline from the rest while still turning a profit.
+
+ln Aerobiz Supersonic, fashion a powerful fleet of aircraft from more than 50 possible choices. organize routes to 89 global destinations and invest your profits in a variety of new services including amusement parks. ski resorts and airport shuttle services. And don’t target as CEO you're still responsible for ings like plane maintenance, advertising and handling those periodic emergencles such as a plane crash or employee strike.
+
+Get ready to make some tough decisions! If you make the right ones. your planes will dominate the skies of the 21st century.
+
+*Offer air service to over 80 major and minor cities around the globe
+
+*Select from four eras in aviation history including two futuristic scenarios Purchase from an extensive list of historical, supersonic and fictitious airplanes
+
+*Invest in business ventures such as concert halls, golf courses and amusement parks
+
+*One to four player fun</desc>
+		<image>./Other/images/Aerobiz Supersonic (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>KOEI Co., Ltd.</developer>
+		<publisher>Koei Co., Ltd.</publisher>
+		<genre>Construction and Management Simulation, Strategy</genre>
+		<players>4</players>
+		<playcount>2</playcount>
+		<lastplayed>20220115T204420</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air Cavalry (U).zip</path>
+		<name>Air Cavalry</name>
+		<desc>A standard helicopter war-game, featuring the Air Cavalry division. The game is played in a third person view using mode 7 graphics, with the cockpit displayed in splitscreen. There are three campaign areas to fly in: Middle East, Indonesia, and Central America. There are also 2 player versus and co-op split-screen modes.</desc>
+		<image>./Other/images/Air Cavalry (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950620T000000</releasedate>
+		<developer>Synergistic Software, Inc.</developer>
+		<publisher>Cybersoft, Inc.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220115T205511</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Al Unser Jr's Road to the Top (U).zip</path>
+		<name>Al Unser Jr.'s Road to the Top</name>
+		<desc>Al Unser Jr.'s Road to the Top is a Super NES racing video game where the player has to progress from go-karts to snowmobiles, IROC racing cars, and eventually to Indy racing cars.
+
+If the player does well, then his/her final challenge is to take on Al Unser, Jr. in the final event at Vancouver, British Columbia, Canada. This race uses the Molson Indy Vancouver as a final test of the player's hard-earned skills. Of course, the player can also practice every stage of the game except the final stage. Go-kart racing involves regional action in the United States of America while snowmobiles provide challenge for the game's simulated winter months. Competing in the stock cars of the IROC is considered to be gaining experience for the faster and lighter open wheel vehicles of the Indy league.</desc>
+		<image>./Sports/images/Al Unser Jr's Road to the Top (U)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Radical Entertainment Inc.</developer>
+		<publisher>The Software Toolworks, Inc.</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20220115T211025</lastplayed>
 	</game>
 </gameList>

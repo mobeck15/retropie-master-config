@@ -30,20 +30,9 @@
 		<rating>0.2</rating>
 		<developer>Other</developer>
 		<publisher>Folder</publisher>
-		<image>./images/stairs.jpg</image>
+		<image>./images/japan.jpg</image>
 		<releasedate>19691231T160000</releasedate>
 	</folder>
-	<game>
-		<path>./Air Zonk (U).zip</path>
-		<name>Air Zonk</name>
-		<desc>The powered-up Zonk gathers his friends to form Team Cool, and they set out to stop King Drool’s plan to conquer the world. Choose from 3 levels of difficulty and 3 types of Friend Modes. Shoot King Drool's cyber robots and avoid their attacks while collecting the Air Bones to unleash a variety of attacks. Enjoy unique moves such as combining with a friend to create an invincible hybrid form or blasting enemies with a charged attack. Air “Zonk” is filled with humor, like its wacky theme song that plays when you post a huge score or when your game is over.</desc>
-		<image>./images/Air Zonk (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921212T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Red Company Corporation</publisher>
-		<genre>Shooter</genre>
-	</game>
 	<game>
 		<path>./Bonk III - Bonk's Big Adventure (U).zip</path>
 		<name>Bonk 3: Bonk's Big Adventure</name>
@@ -195,50 +184,6 @@
 		<publisher>NEC Home Electronics, Ltd.</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Sports/Davis Cup Tennis (U).zip</path>
-		<name>Davis Cup Tennis</name>
-		<desc>Challenge 32 top-seeded international pros in explosive court action, or take on your friends with tons of real playing options and a true player's view! Command an arsenal of pinpoint serves and powerful baseline passing shots. Attack the net with topspin or dropshot volleys. Then destroy your opponent's lob and morale with your overhead smash. Play singles and doubles on grass, clay, indoors or hard-court in exhibition and worldwide tournaments. Practice against the ball machine to perfect your skills for the ultimate quest, the coveted Davis Cup!</desc>
-		<image>./Sports/images/Davis Cup Tennis (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Loriciel</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Sports/F1 Circus '91 - World Championship (J).zip</path>
-		<name>F1 Circus '91</name>
-		<sortname>F1 Circus 1991</sortname>
-		<desc>A Formula One licensed racing game for the PC Engine and the second game in Nichibutsu's F1 Circus series.
-
-F1 Circus '91 is a top-down Formula One racing game with a strong simulation element. Players kit out their vehicle, take on various prominent Formula One competitors of the era in races that track the vehicle's damage and fuel. Due to the high speeds involved, players need to pay attention to flashing icons that indicate turns coming up in the road.
-
-The game followed 1990's F1 Circus and was followed by 1992's F1 Circus '92. The series would then move to the Super Famicom as Super F1 Circus.</desc>
-		<image>./Sports/images/F1 Circus '91 - World Championship (J)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910712T000000</releasedate>
-		<developer>Nihon Bussan Co., Ltd.</developer>
-		<publisher>Nihon Bussan Co., Ltd.</publisher>
-		<genre>Racing, Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/F1 Circus '92 - The Speed of Sound (J).zip</path>
-		<name>F1 Circus '92</name>
-		<sortname>F1 Circus 1992</sortname>
-		<desc>A Formula One racing game for the PC Engine. The last of the F1 Circus games to be released for the system.
-
-F1 Circus '92, sometimes known as F1 Circus '92: The Speed of Sound, is a racing game for the PC Engine and part of Nichibutsu's F1 Circus series. It is the fourth and last game in the series to be released on the PC Engine platform, and the seventh game in the series overall. Like its predecessors, it is officially licensed by the distributors of Formula One in Japan, and also has the rights to use the real names of teams/drivers.
-
-The game again focuses on top-down races that move at great speed and require a lot of memorization and careful driving. The player can easily be forced to retire from the race early if they take too much damage from collisions with the walls or other drivers. There's a strong customization element as well, and the player can choose to play a Special mode that includes dialogue with NPCs between races.</desc>
-		<image>./Sports/images/F1 Circus '92 - The Speed of Sound (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921218T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Racing, Sports</genre>
 	</game>
 	<game>
 		<path>./Sports/Final Match Tennis (J).zip</path>
@@ -718,137 +663,6 @@ The game has options for singles and doubles with various options for players in
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Japan/15-in-1 Mega Collection - Backtracking Ten Years (J).zip</path>
-		<name>15-in-1 Mega Collection: Backtracking Ten Years</name>
-		<desc>Contains fifteen different games originally released for the VIC-20.</desc>
-		<image>./Japan/images/15-in-1 Mega Collection - Backtracking Ten Years (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Image</developer>
-		<publisher>Image Co., Ltd.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Japan/1941 - Counter Attack (J) (SGX).zip</path>
-		<name>1941: Counter Attack</name>
-		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
-
-The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
-		<image>./Japan/images/1941 - Counter Attack (J) (SGX)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Japan/1943 Kai (J).zip</path>
-		<name>1943: Kai</name>
-		<desc>Developed and released alongside the Family Computer version, 1943 Kai: Midway Kaisen is an arcade game, an "alternate" version of the original 1943, released in 1987[3] only in Japan. Most of the graphics and sounds have been reworked, and the game has been made more "extreme" (laser-firing WWII planes and ships that run on ground). Further, the trademark P-38 has been replaced with a Boeing Stearman E75 N68828.
-
-In 1991, this version was converted to the PC Engine as simply 1943 Kai, again Japan-only; this version itself contains many additional levels and original music.
-
-The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese air fleet that bombed the American aircraft carrier, pursue all Japanese air and sea forces, fly through the 16 stages of play, and make their way to the Japanese battleship Yamato and destroy her. 11 of these stages consist of an air-to-sea battle (with a huge battleship or an aircraft carrier as the stage boss), while 5 stages consist of an all-aerial battle against a squadron of Japanese bombers with a mother bomber at the end.
-
-As in 1942, players pilot a P-38 Lightning. Controls are also similar: button 1 fires main weapons, and button two performs two special actions: a loop maneuver like in 1942, or one of three special attacks in exchange for some of the player's fuel. Indeed, players now have only one life, in the form of a large "fuel" meter; constantly depleting, but refillable by collecting various powerups (chiefly "Pow" icons). In 2-player mode, when both players overlap their planes on screen, the energy bar can be transferred from the player with more fuel to the player with less. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a new main weapon.
-
-There are cheat codes, different for every stage, ranging from holding down a fire button or pointing the joystick in certain direction, player(s) are rewarded with fully upgraded weapons.</desc>
-		<image>./Japan/images/1943 Kai (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Japan/21-Emon - Mezase Hotel Ou!! (J).zip</path>
-		<name>21-Emon</name>
-		<desc>Naturally a manga/TV anime tie-in, 21 Emon is one of those Japanese style board games that have never really made a big impact in the west. Four players (any combination of human and computer) take it in turns to roll dice and move around the isometric board, landing on various event squares. The ultimate aim is to build as many hotels as you can and make more loot than your opponents.
-
-(From The PC Engine Software Bible website)</desc>
-		<image>./Japan/images/21-Emon - Mezase Hotel Ou!! (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19941216T000000</releasedate>
-		<developer>NEC</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<genre>Puzzle, Strategy</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Japan/5-in-1 Fami Collection - NES Collection Nr 1 (J).zip</path>
-		<name>5-in-1 Fami Collection: NES Collection Nr 1</name>
-		<image>./Japan/images/5-in-1 Fami Collection - NES Collection Nr 1 (J)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Image</developer>
-		<publisher>Image Co., Ltd.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Japan/6-in-1 Fami Collection - NES Collection Nr 2 (J).zip</path>
-		<name>6-in-1 Fami Collection: NES Collection Nr 2</name>
-		<image>./Japan/images/6-in-1 Fami Collection - NES Collection Nr 2 (J)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Image</developer>
-		<publisher>Image Co., Ltd.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Japan/Adventure Island (J).zip</path>
-		<name>Adventure Island</name>
-		<desc>Life as a roaming adventurer is never easy. One minute you're shoving several feet of cold steel between the gaping jaws of some evil robot dragon, and the next thing you know, you've been transformed into a fire breathing lizard man. Such is the problem that you first encounter at the beginning of Adventure Island, Hudson Soft's conversion of the Master System game 'Wonder Boy III: The Dragon's Trap'. Taking more of its influence from the second game in the Wonder Boy series than the first, Adventure Island has a more balanced structure and more exploratory gameplay.
-
-The main game is centred around a small village which acts as a sort of 'hub' to the surrounding levels. Each of these levels are gradually accessed over time with the acquisition of keys or new transformations. As the game progresses, you will find yourself transforming into five different creatures, which can (and need to) be switched between in special rooms. The lizard is the basic transformation and does little more than breathe fire at any passing fauna. Mouse man is a tiny little critter and aside from being able to fit under small obstacles, he can also run up and around special chequered walls and ceilings. Next up is a green amphibian that gives you the power to swim around freely, followed by a tiger man who swings his sword around in a wide arc, allowing you to break blocks above and below. Finally, there is the bird transformation which lets you fly around by repeatedly tapping the jump button.
-
-As you progress, your quest will take you over many types of terrain from jungle to desert to the inside of a giant pyramid - but to help you out there is a password/backup save feature in a church in the main village. As you viciously hack up the cute little inhabitants of the island, you find that they considerately drop money and helpful items for you. The money is used in shops to upgrade your armour, or buy healing at the hospital, while the other items are special weapons that can be set from the pause menu. These include homing fireballs, ground based mini whirlwinds and arrows that shoot directly upwards (and are a blessing when you are trying to get rid of flame-dropping clouds).</desc>
-		<image>./Japan/images/Adventure Island (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910419T000000</releasedate>
-		<developer>Westone Co., Ltd.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Adventure, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Aero Blasters (U).zip</path>
-		<name>Aero Blasters</name>
-		<desc>The player controls a small craft through different levels with many enemies. Every level ends with a boss and some section speed up the gameplay, offering fast obstacle courses both horizontally and vertically scrolling. Flying orange pods release many power-ups at once, enhancing the ships with new or more powerful lasers, wing men and shields. The player can also hold the fire key to charge a blast that removes all enemy bullets from the screen and deals damage to all enemies. With an unforgiving difficulty, every hit is fatal, but the game can be continued from any points as long as there are lives and credits left. The game can be played with two players cooperatively.</desc>
-		<image>./Other/images/Aero Blasters (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Kaneko Co., Ltd.</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Japan/After Burner II (J).zip</path>
-		<name>After Burner II</name>
-		<sortname>After Burner 2</sortname>
-		<desc>One of Sega's big arcade hits using their 'super scaler' technology, it was a bold move to try and convert this to any home machine. After Burner II is, quite simply, one of the most mindless shooters that you're ever likely to play: simply fly your F-14 into the screen, dodging missiles like crazy and letting all hell loose with your vulcan cannon. There is precious little strategy - even less than Space Harrier, and often luck plays more of a part than skill. The action is split up by the occasional bonus stage - a run through a canyon blowing up anything that dares to exist in front of you. Fuelling planes and landing strips also make a regular appearance.</desc>
-		<image>./Japan/images/After Burner II (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900928T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Japan/Aldynes (J) (SGX).zip</path>
-		<name>Aldynes: The Mission Code for Rage Crisis</name>
-		<desc>Aldynes: The Mission Code for Rage Crisis, is a horizontal scrolling shoot 'em up game developed by Produce and released in July 22, 1991 for the SuperGrafx only for Japan. The game has a unique option-based combat and features levels with large scaling effects or parallax scrolling effects.
-
-Nearing the year 2020, the societies of mankind fall into global depression just as an alien invasion suddenly comes down on Earth; coming from a large mechanical planetoid, the aliens attack the Earth without reason or communication. With all defenses annihilated, the United Nations corresponds with NASA to make a powerful space fighter known as The Ortega under project name Aldynes. During that time, a particular space fighter pilot - known only by his call sign Fox-A - was killed in action; his bereaved girlfriend Hiroko soon discovered Project Aldynes and its near complete fighter. As the invaders attack the air force housing Project Aldynes, she hijacks one of the ships and throws herself into battle in hopes of getting her revenge.</desc>
-		<image>./Japan/images/Aldynes (J) (SGX)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910222T000000</releasedate>
-		<developer>Produce</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Japan/Fushigi no Yume no Alice (J).zip</path>
 		<name>Alice in Wonderdream</name>
 		<desc>Obviously based on Alice in Wonderland, Fushigi no Yume no Alice is a cute and colourful platform romp. You adventure through forests, caves, castles and such, defeating the many enemies by letting out a loud scream that shoots across the screen. The scream can be powered up by holding down the button, but leave it too long and you'll get out of breath and stand there panting, defenseless for a few moments. Aside from your voice, you can also jump on enemies to dispatch them. As you progress through the stages (each with a boss at the end of course) you also gain magic powers in the form of books. By pushing RUN then selecting your power with BUTTON I, you get the chance to do such things as show hidden power-ups and become invincible for a short time.</desc>
@@ -1109,72 +923,6 @@ One day, A baby boy was born in the castle town of Castle Tatsunda. It was the b
 		<developer>Games Express</developer>
 		<publisher>Games Express</publisher>
 		<genre>Role-Playing</genre>
-	</game>
-	<game>
-		<path>./Other/Bomberman (U).zip</path>
-		<name>Bomberman</name>
-		<desc>The black spaceman kidnapped Bomberman's beloved and brought her to his chambers in the castle, far beyond his reach, over the rivers, forest and mountains. Bomberman's job is to save her, battling the sea of the enemies, with only bombs at his disposal.
-
-The range of Bomberman's bomb explosions can be upgraded with time, but if he dies, the range resets back to the minimum range and Bomberman loses his previous skills. Some updates can make Bomberman walk through the walls, increase his speed, and give him some other assets to aid him in his quest to save the woman he loves.
-
-This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final one consisting of the boss that will have to be dealt with. Bomberman can move horizontally and vertically and lay down bombs behind him, thus evaporating the enemies, but beware: Bomberman can block himself with his own bomb, and thus become a victim of his own bomb.</desc>
-		<image>./Other/images/Bomberman (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Turbo Technologies, Inc.</publisher>
-		<genre>Puzzle</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Other/Bomberman '93 (U).zip</path>
-		<name>Bomberman '93</name>
-		<desc>Tension, strategy, action, excitement - Bomberman's back!
-
-You can now battle against up to four computer-controlled maniacs by yourself for the ultimate five Bomberman mode.
-Choose from seven exciting new stages with loads of new power-up items like worps, conveyer belts, revolving doors and even kicking bombs!
-Or for portable thrills, go head-to-head against a friend using TurboExpress for non-stop action.
-The best competitive game is back, and it's more intense than ever!</desc>
-		<image>./Other/images/Bomberman '93 (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Action</genre>
-		<players>5</players>
-	</game>
-	<game>
-		<path>./Japan/Bomberman '94 (J).zip</path>
-		<name>Bomberman '94</name>
-		<desc>BOMBERMAN has arrived to restore peace on the planet, which has been split into five parts by an evil hand! In addition to the nine members of the Bomber Family, the character ROOI shows up to lend a hand. Jump on the EGGS that appear from destroyed SOFT BLOCKS, and you can ride one of five types of ROOI. Each ROOI has different special abilitiesuse these well and youll ride to victory! Bombs that turn according to arrows and other new gimmicks have been added to BATTLE GAME, increased to ten stages. Tag-team matches are now possible, ensuring that this game will be a blast!
-
-Bomberman '94 is a video game from the Bomberman series which was developed and published by Hudson Soft for the PC Engine and released on December 10, 1993 in Japan. It was later re-developed by Westone and re-published by Sega as Mega Bomberman on the Sega Mega Drive/Genesis in 1994 in other areas. The PC Engine Bomberman '94 was later released outside Japan through the Wii's Virtual Console and the PlayStation 3's PlayStation Network.
-
-The game supports single-player and multi-player modes. In single player, the player navigates several levels of mazes, destroying creatures with bombs. In multi-player mode, players defeat each other with bombs.
-
-Bomberman '94 is the final HuCard title to be made and released by Hudson Soft, the original designers of the PC Engine console.</desc>
-		<image>./Japan/images/Bomberman '94 (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931210T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Japan/Bomberman Users Battle (J) [!].zip</path>
-		<name>Bomberman: Users Battle</name>
-		<desc>This multiplayer-only Bomberman release is exceedingly rare and seems to have been produced for demo kiosks, tournaments, or both.
-
-Users Battle is a Bomberman game for the PC Engine, released only in Japan. It bears a 1990 copyright, just like the original release of Bomberman for the platform. Additionally, it plays the same title screen music upon boot, but it has a different title screen, only allowing for multiplayer play for two to five players. It lacks the skull mode option of the full Bomberman release, but otherwise shows similar menus and styles to Bomberman's multiplayer mode.
-
-It is believed that Users Battle was created in extremely limited quantities for use at tournaments, demo kiosks, or both. Some online sources estimate the number of cards produced at around 1,000.</desc>
-		<image>./Japan/images/Bomberman Users Battle (J) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19901230T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>Hudson Entertainment, Inc.</publisher>
-		<genre>Action</genre>
-		<players>4</players>
 	</game>
 	<game>
 		<path>./Japan/Bouken Danshaku Don - The Lost Sunheart (J).zip</path>
@@ -1552,17 +1300,6 @@ Super Darius (1990): A conversion of Darius for the PC Engine's Super CD-ROM, ve
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./Other/Darkwing Duck (U).zip</path>
-		<name>Darkwing Duck</name>
-		<desc>The kingpins of crime are at it again! The mysterious criminal organization F.O.W.L. has hatched a plan to take control of the peaceful city of St. Canard. Six of their most heinous henchmen are running rampant through the city and only the daring Darkwing Duck can bring them to justice! Join Darkwing as he explores the woods to weed out Bushroot's evil plan. Search the warehouses along the wharf for Mega Volt and pull the plug on an electrifying scheme. Track down all six of FOWL's crafty criminals and then prepare yourself as Darkwing squares off against the sinister Steelbeak in his fiendish floating fortress!</desc>
-		<image>./Other/images/Darkwing Duck (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Interactive Designs, Radiance Software</developer>
-		<publisher>Turbo Technologies, Inc.</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Dead Moon (U).zip</path>
 		<name>Dead Moon</name>
 		<desc>Alpha 27, the one planet in the galaxy that is fit for human habitation. For many years, the space observation system here was used for a wide range of research. One day, horrifying news arrived- a giant comet was hurtling toward the solar system, on its present course, it was going to colide with the moon. and then….Nothing! For some strange reason the humans and the moon seemed completely unaffected. The humans were unaware that a new nightmare had already begun. The giant comet had changed shape- it was not a comet at all, it was an alien mothership!</desc>
@@ -1810,62 +1547,6 @@ The game now supports two-player simultaneous gameplay: Huey, the blue dragon, a
 		<releasedate>19890419T000000</releasedate>
 		<developer>Masaya, NCS Corporation, Quasar Soft</developer>
 		<genre>Action, Adventure, Platform</genre>
-	</game>
-	<game>
-		<path>./Sports/F-1 Dream (J).zip</path>
-		<name>F-1 Dream</name>
-		<desc>F-1 Dream is an automobile racing game for the PC Engine released exclusively in Japan in 1988.
-
-The graphics are identical to the arcade game, even down to the pit crew and lane and fans in the stands. The controls are the same as well: The d-pad controls all eight ways, and the two buttons work as both gas-and-brake and as the transmission. Press the II button to launch the car, and once first gear tops out, quick switch to the I button. If your car is Turbo-equipped, once second gear tops out, hold down both buttons to kick in the afterburner. Letting go of the top gear button will brake the car, and hitting the button again will resume acceleration. The game includes back-markers as well. If you're leading the race or you and an opponent are well ahead of the pack, slower white cars will appear on the track to make things interesting for you, usually just as you're coming up to a particularly tough corner, or drifting across your lane on a straight and forcing you to make a course correction. They're a minor annoyance, but one to keep you on your toes when you've left everyone else in your dust.
-
-The console game designers must have thought that the game needed to be expanded upon, because everything else about the game, outside of the actual racing, is totally different. Instead of jumping right into the F3000 circuit, they've turned it more into a career-mode. You start with street racing your Porsche 911 in races for cash, matching up head to head with another racer and betting on the result. Money that you win in these races can be used to hire yourself a pit crew that comes with you no matter where you're racing. Once you've proven yourself on the street (or you blow all your money, strangely), you get the call: F3000 wants you!</desc>
-		<image>./Sports/images/F-1 Dream (J)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19890825T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<genre>Racing</genre>
-	</game>
-	<game>
-		<path>./Sports/F1 Circus (J).zip</path>
-		<name>F1 Circus</name>
-		<desc>The first game in Nichibutsu's Formula One top-down racing series.
-
-F1 Circus is a top-down Formula 1 racing game and the first game in Nihon Bussan's F1 Circus series. It was first released on the PC Engine in 1990, but a modified version - also partially based on this game's sequel, F1 Circus '91 - would later be released on the Famicom in 1992. As with every other game in the series, the game was never localized in North America or Europe.
-
-The game uses the real life names of drivers and teams from Formula 1, like Nigel Mansell and Ferrari. The series would continue to acquire the various licenses needed to use real names from Formula 1.</desc>
-		<image>./Sports/images/F1 Circus (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900914T000000</releasedate>
-		<developer>Nihon Bussan Co., Ltd.</developer>
-		<publisher>Nihon Bussan Co., Ltd.</publisher>
-		<genre>Racing</genre>
-	</game>
-	<game>
-		<path>./Sports/F-1 Pilot - You're King of Kings (J).zip</path>
-		<name>F1 Pilot</name>
-		<desc>A Formula 1 racing game from Pack-In-Video, developed for the PC Engine. It was never released outside of Japan.
-
-F-1 Pilot is a F1 racing game for the PC Engine, one that depicts the racing from the driver's seat of the vehicle. The player is able to select a car before a race, but they all appear to be functionally identical except for the color. The player can also choose to have engine noises or BGM, but not both. Selecting either of the BGM modes will disable all sound effects from the game, including tire screeching and crashing noises.
-
-The game has some odd uses of English (the game was never fully localized into English): For instance, it refers to F1 drivers as "pilots" and the title screen affirms that the player is the King of Kings.</desc>
-		<image>./Sports/images/F-1 Pilot - You're King of Kings (J)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19890323T000000</releasedate>
-		<developer>Pack-In-Video Co., Ltd</developer>
-		<publisher>Pack-In-Video Co., Ltd</publisher>
-		<genre>Racing, Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/F1 Triple Battle (J).zip</path>
-		<name>F1 Triple Battle</name>
-		<desc>The object is to win all the major international races on the Formula One circuit. The game can be played by either one, two or even three players (Battle Mode-only) simultaneously. Various modes of racing include: regular season, battle (which is similar to exhibition or single race mode in other Formula One video games), and the time trial mode which tests how fast a player can drive his or her race car on any of the world's premier road courses. Only the vehicles from the 1994 season are used. Michael Schumacher and Satoru Nakajima are the most popular racers in this video game, even though Nakajima is a hidden character.</desc>
-		<image>./Sports/images/F1 Triple Battle (J)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19940930T000000</releasedate>
-		<developer>Human</developer>
-		<publisher>Human Entertainment, Inc.</publisher>
-		<genre>Sports</genre>
 	</game>
 	<game>
 		<path>./Other/Falcon (U).zip</path>
@@ -3016,18 +2697,6 @@ The control was designed to be similar to the arcade game Kung-Fu Master, but wi
 		<genre>Racing</genre>
 	</game>
 	<game>
-		<path>./Other/Order of the Griffon (U).zip</path>
-		<name>Dungeons &amp; Dragons: Order of the Griffon</name>
-		<desc>The Vampire has escaped and has arisen again just as the Ancient Ones predicted. The Vampire controls bands of monsters who do his destructive bidding. Using the evil Iron Ring, he bends the will of the common people in an attempt to take over the world. Even the great Radlebb Keep has been conquered by the Dark Once and been bent to his evil will.
-Now, with your character in the Order of the Griffon, we have a chance to defeat the evil Vampire! World peace can be restored!</desc>
-		<image>./Other/images/Order of the Griffon (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Strategic Simulations, Inc.</developer>
-		<publisher>Turbo Technologies, Inc.</publisher>
-		<genre>Role-Playing</genre>
-	</game>
-	<game>
 		<path>./Japan/Toshi Tensou Keikaku - Eternal City (J).zip</path>
 		<name>Eternal City - Toshi Tenso Keikau</name>
 		<desc>You take control of Argyderos, a mecha, which is driven by a girl pilot Minty Geile. It is a traditional shooter/platform game, each stage is pretty huge and a big villain is waiting for you at the bottom of it. You start the game with a simple Vulcan gun which will get warm and you will lose fire power if you use it too often. Each stage has a save point and you will receive a password.</desc>
@@ -3291,21 +2960,6 @@ The spelling of the US title can be verified inside the cover of the US game man
 		<developer>NAXAT Soft</developer>
 		<publisher>Naxat Soft</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Parasol Stars - The Story of Bubble Bobble III (U).zip</path>
-		<name>Parasol Stars: The Story of Bubble Bobble III</name>
-		<sortname>Bubble Bobble 3 Parasol Stars</sortname>
-		<desc>Break out the bandages and get ready for some finger-searing action! Join Bubby on his latest quest to save the universe, this time with a Magic Umbrella. Umbrella!? Yes, Umbrella! This powerful parasol puts the elements themselves at your command! Shock the tonnage out of the whales with Lightning! Fry the feathers off the crazed, beady-eyed birds with Fire! Or, drown the demented dinosaurs with a tidal wave of Raindrops! Need help? Your buddy Bobby is always nearby. Have a friend plug into your TurboTap and blast into two player simultaneous play. Be prepared for a quest that will take you to eight amazing planets, forcing you to uncover the secret that will unleash the Parasol Stars!
-
-Parasol Stars is the third game in the Bubble Bobble franchise (and is often labeled "Parasol Stars: The Story Bubble Bobble III"), as well as a semi-official sequel to the second Bubble Bobble spin-off, Rainbow Island.</desc>
-		<image>./Other/images/Parasol Stars - The Story of Bubble Bobble III (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910115T000000</releasedate>
-		<developer>Taito Corporation</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Japan/Parodius Da! - Shinwa kara Owarai he (J).zip</path>
@@ -4346,25 +4000,11 @@ There are five stages: Jigoku Iriguchi (Gateway to Hell), Kugyou no Michi (Path 
 		<name>Niko Niko Pun</name>
 		<desc>Jajamaru, Pikkoro and Porori one day arrive on an island where they find a cute little pink dragon. The poor thing is starving and they all decide to help him and escort the animal through several stages to collect his favorite food (displayed at the bottom of the screen).</desc>
 		<image>./Japan/images/NHK Okaasan to Issho Niko Niko Pun (J)-image.jpg</image>
-		<rating>0</rating>
+		<rating>0.2</rating>
 		<releasedate>19911213T000000</releasedate>
 		<developer>KSS</developer>
 		<publisher>NHK Software</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Bonk's Adventure (U).zip</path>
-		<name>Bonk's Adventure</name>
-		<sortname>Bonk 1 Adventure</sortname>
-		<desc>Bonk yourself out in this head-buttin', head-splittin' adventure. As Bonk the Caveman, use your head against Kongo Zilla, Tractorhead and wackiest array of prehistoric foes ever seen. Be sure to eat your meat-and-vegetables as you power-up to battle Evil King Drool himself. It's a real head-banger!</desc>
-		<image>./images/Bonk's Adventure (U)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19891215T000000</releasedate>
-		<developer>Hudson Entertainment, Inc.</developer>
-		<publisher>NEC Home Electronics, Ltd.</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<playcount>1</playcount>
-		<lastplayed>20210904T165200</lastplayed>
 	</game>
 	<game>
 		<path>./Bonk's Revenge (U).zip</path>
@@ -4379,5 +4019,384 @@ There are five stages: Jigoku Iriguchi (Gateway to Hell), Kugyou no Michi (Path 
 		<genre>Platform</genre>
 		<playcount>1</playcount>
 		<lastplayed>20210904T170815</lastplayed>
+	</game>
+	<game>
+		<path>./Bonk's Adventure (U).zip</path>
+		<name>Bonk's Adventure</name>
+		<sortname>Bonk 1 Adventure</sortname>
+		<desc>Bonk yourself out in this head-buttin', head-splittin' adventure. As Bonk the Caveman, use your head against Kongo Zilla, Tractorhead and wackiest array of prehistoric foes ever seen. Be sure to eat your meat-and-vegetables as you power-up to battle Evil King Drool himself. It's a real head-banger!</desc>
+		<image>./images/Bonk's Adventure (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>NEC Home Electronics, Ltd.</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<playcount>2</playcount>
+		<lastplayed>20210904T171648</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/15-in-1 Mega Collection - Backtracking Ten Years (J).zip</path>
+		<name>15-in-1 Mega Collection: Backtracking Ten Years</name>
+		<desc>Contains fifteen different games originally released for the VIC-20.</desc>
+		<image>./Japan/images/15-in-1 Mega Collection - Backtracking Ten Years (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Image</developer>
+		<publisher>Image Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T102533</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/1941 - Counter Attack (J) (SGX).zip</path>
+		<name>1941: Counter Attack !BROKEN!</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
+
+The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
+		<image>./Japan/images/1941 - Counter Attack (J) (SGX)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20211019T114514</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/1943 Kai (J).zip</path>
+		<name>1943: Kai {Japanese}</name>
+		<desc>Developed and released alongside the Family Computer version, 1943 Kai: Midway Kaisen is an arcade game, an "alternate" version of the original 1943, released in 1987[3] only in Japan. Most of the graphics and sounds have been reworked, and the game has been made more "extreme" (laser-firing WWII planes and ships that run on ground). Further, the trademark P-38 has been replaced with a Boeing Stearman E75 N68828.
+
+In 1991, this version was converted to the PC Engine as simply 1943 Kai, again Japan-only; this version itself contains many additional levels and original music.
+
+The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese air fleet that bombed the American aircraft carrier, pursue all Japanese air and sea forces, fly through the 16 stages of play, and make their way to the Japanese battleship Yamato and destroy her. 11 of these stages consist of an air-to-sea battle (with a huge battleship or an aircraft carrier as the stage boss), while 5 stages consist of an all-aerial battle against a squadron of Japanese bombers with a mother bomber at the end.
+
+As in 1942, players pilot a P-38 Lightning. Controls are also similar: button 1 fires main weapons, and button two performs two special actions: a loop maneuver like in 1942, or one of three special attacks in exchange for some of the player's fuel. Indeed, players now have only one life, in the form of a large "fuel" meter; constantly depleting, but refillable by collecting various powerups (chiefly "Pow" icons). In 2-player mode, when both players overlap their planes on screen, the energy bar can be transferred from the player with more fuel to the player with less. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a new main weapon.
+
+There are cheat codes, different for every stage, ranging from holding down a fire button or pointing the joystick in certain direction, player(s) are rewarded with fully upgraded weapons.</desc>
+		<image>./Japan/images/1943 Kai (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T115208</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/21-Emon - Mezase Hotel Ou!! (J).zip</path>
+		<name>21-Emon {Japanese}</name>
+		<desc>Naturally a manga/TV anime tie-in, 21 Emon is one of those Japanese style board games that have never really made a big impact in the west. Four players (any combination of human and computer) take it in turns to roll dice and move around the isometric board, landing on various event squares. The ultimate aim is to build as many hotels as you can and make more loot than your opponents.
+
+(From The PC Engine Software Bible website)</desc>
+		<image>./Japan/images/21-Emon - Mezase Hotel Ou!! (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>NEC</developer>
+		<publisher>NEC Home Electronics, Ltd.</publisher>
+		<genre>Puzzle, Strategy</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20211019T121127</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/5-in-1 Fami Collection - NES Collection Nr 1 (J).zip</path>
+		<name>5-in-1 Fami Collection: NES Collection Nr 1</name>
+		<image>./Japan/images/5-in-1 Fami Collection - NES Collection Nr 1 (J)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Image</developer>
+		<publisher>Image Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T183356</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/6-in-1 Fami Collection - NES Collection Nr 2 (J).zip</path>
+		<name>6-in-1 Fami Collection: NES Collection Nr 2</name>
+		<image>./Japan/images/6-in-1 Fami Collection - NES Collection Nr 2 (J)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Image</developer>
+		<publisher>Image Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T183440</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/F-1 Dream (J).zip</path>
+		<name>F-1 Dream</name>
+		<sortname>F001 Dream</sortname>
+		<desc>F-1 Dream is an automobile racing game for the PC Engine released exclusively in Japan in 1988.
+
+The graphics are identical to the arcade game, even down to the pit crew and lane and fans in the stands. The controls are the same as well: The d-pad controls all eight ways, and the two buttons work as both gas-and-brake and as the transmission. Press the II button to launch the car, and once first gear tops out, quick switch to the I button. If your car is Turbo-equipped, once second gear tops out, hold down both buttons to kick in the afterburner. Letting go of the top gear button will brake the car, and hitting the button again will resume acceleration. The game includes back-markers as well. If you're leading the race or you and an opponent are well ahead of the pack, slower white cars will appear on the track to make things interesting for you, usually just as you're coming up to a particularly tough corner, or drifting across your lane on a straight and forcing you to make a course correction. They're a minor annoyance, but one to keep you on your toes when you've left everyone else in your dust.
+
+The console game designers must have thought that the game needed to be expanded upon, because everything else about the game, outside of the actual racing, is totally different. Instead of jumping right into the F3000 circuit, they've turned it more into a career-mode. You start with street racing your Porsche 911 in races for cash, matching up head to head with another racer and betting on the result. Money that you win in these races can be used to hire yourself a pit crew that comes with you no matter where you're racing. Once you've proven yourself on the street (or you blow all your money, strangely), you get the call: F3000 wants you!</desc>
+		<image>./Sports/images/F-1 Dream (J)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19890825T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC Avenue, Ltd.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Sports/F1 Circus (J).zip</path>
+		<name>F1 Circus</name>
+		<sortname>F01 Circus</sortname>
+		<desc>The first game in Nichibutsu's Formula One top-down racing series.
+
+F1 Circus is a top-down Formula 1 racing game and the first game in Nihon Bussan's F1 Circus series. It was first released on the PC Engine in 1990, but a modified version - also partially based on this game's sequel, F1 Circus '91 - would later be released on the Famicom in 1992. As with every other game in the series, the game was never localized in North America or Europe.
+
+The game uses the real life names of drivers and teams from Formula 1, like Nigel Mansell and Ferrari. The series would continue to acquire the various licenses needed to use real names from Formula 1.</desc>
+		<image>./Sports/images/F1 Circus (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900914T000000</releasedate>
+		<developer>Nihon Bussan Co., Ltd.</developer>
+		<publisher>Nihon Bussan Co., Ltd.</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Sports/F1 Circus '91 - World Championship (J).zip</path>
+		<name>F1 Circus '91</name>
+		<sortname>F001 Circus 1991</sortname>
+		<desc>A Formula One licensed racing game for the PC Engine and the second game in Nichibutsu's F1 Circus series.
+
+F1 Circus '91 is a top-down Formula One racing game with a strong simulation element. Players kit out their vehicle, take on various prominent Formula One competitors of the era in races that track the vehicle's damage and fuel. Due to the high speeds involved, players need to pay attention to flashing icons that indicate turns coming up in the road.
+
+The game followed 1990's F1 Circus and was followed by 1992's F1 Circus '92. The series would then move to the Super Famicom as Super F1 Circus.</desc>
+		<image>./Sports/images/F1 Circus '91 - World Championship (J)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910712T000000</releasedate>
+		<developer>Nihon Bussan Co., Ltd.</developer>
+		<publisher>Nihon Bussan Co., Ltd.</publisher>
+		<genre>Racing, Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/F1 Circus '92 - The Speed of Sound (J).zip</path>
+		<name>F1 Circus '92</name>
+		<sortname>F001 Circus 1992</sortname>
+		<desc>A Formula One racing game for the PC Engine. The last of the F1 Circus games to be released for the system.
+
+F1 Circus '92, sometimes known as F1 Circus '92: The Speed of Sound, is a racing game for the PC Engine and part of Nichibutsu's F1 Circus series. It is the fourth and last game in the series to be released on the PC Engine platform, and the seventh game in the series overall. Like its predecessors, it is officially licensed by the distributors of Formula One in Japan, and also has the rights to use the real names of teams/drivers.
+
+The game again focuses on top-down races that move at great speed and require a lot of memorization and careful driving. The player can easily be forced to retire from the race early if they take too much damage from collisions with the walls or other drivers. There's a strong customization element as well, and the player can choose to play a Special mode that includes dialogue with NPCs between races.</desc>
+		<image>./Sports/images/F1 Circus '92 - The Speed of Sound (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Racing, Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/F-1 Pilot - You're King of Kings (J).zip</path>
+		<name>F1 Pilot</name>
+		<sortname>F001 Pilot</sortname>
+		<desc>A Formula 1 racing game from Pack-In-Video, developed for the PC Engine. It was never released outside of Japan.
+
+F-1 Pilot is a F1 racing game for the PC Engine, one that depicts the racing from the driver's seat of the vehicle. The player is able to select a car before a race, but they all appear to be functionally identical except for the color. The player can also choose to have engine noises or BGM, but not both. Selecting either of the BGM modes will disable all sound effects from the game, including tire screeching and crashing noises.
+
+The game has some odd uses of English (the game was never fully localized into English): For instance, it refers to F1 drivers as "pilots" and the title screen affirms that the player is the King of Kings.</desc>
+		<image>./Sports/images/F-1 Pilot - You're King of Kings (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19890323T000000</releasedate>
+		<developer>Pack-In-Video Co., Ltd</developer>
+		<publisher>Pack-In-Video Co., Ltd</publisher>
+		<genre>Racing, Sports</genre>
+	</game>
+	<game>
+		<path>./Sports/F1 Triple Battle (J).zip</path>
+		<name>F1 Triple Battle</name>
+		<sortname>F001 Triple Battle</sortname>
+		<desc>The object is to win all the major international races on the Formula One circuit. The game can be played by either one, two or even three players (Battle Mode-only) simultaneously. Various modes of racing include: regular season, battle (which is similar to exhibition or single race mode in other Formula One video games), and the time trial mode which tests how fast a player can drive his or her race car on any of the world's premier road courses. Only the vehicles from the 1994 season are used. Michael Schumacher and Satoru Nakajima are the most popular racers in this video game, even though Nakajima is a hidden character.</desc>
+		<image>./Sports/images/F1 Triple Battle (J)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19940930T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human Entertainment, Inc.</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Japan/Bomberman '94 (J).zip</path>
+		<name>Bomberman '94</name>
+		<sortname>Bomberman 1994</sortname>
+		<desc>BOMBERMAN has arrived to restore peace on the planet, which has been split into five parts by an evil hand! In addition to the nine members of the Bomber Family, the character ROOI shows up to lend a hand. Jump on the EGGS that appear from destroyed SOFT BLOCKS, and you can ride one of five types of ROOI. Each ROOI has different special abilitiesuse these well and youll ride to victory! Bombs that turn according to arrows and other new gimmicks have been added to BATTLE GAME, increased to ten stages. Tag-team matches are now possible, ensuring that this game will be a blast!
+
+Bomberman '94 is a video game from the Bomberman series which was developed and published by Hudson Soft for the PC Engine and released on December 10, 1993 in Japan. It was later re-developed by Westone and re-published by Sega as Mega Bomberman on the Sega Mega Drive/Genesis in 1994 in other areas. The PC Engine Bomberman '94 was later released outside Japan through the Wii's Virtual Console and the PlayStation 3's PlayStation Network.
+
+The game supports single-player and multi-player modes. In single player, the player navigates several levels of mazes, destroying creatures with bombs. In multi-player mode, players defeat each other with bombs.
+
+Bomberman '94 is the final HuCard title to be made and released by Hudson Soft, the original designers of the PC Engine console.</desc>
+		<image>./Japan/images/Bomberman '94 (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Japan/Bomberman Users Battle (J) [!].zip</path>
+		<name>Bomberman: Users Battle</name>
+		<sortname>Bomberman Users Battle</sortname>
+		<desc>This multiplayer-only Bomberman release is exceedingly rare and seems to have been produced for demo kiosks, tournaments, or both.
+
+Users Battle is a Bomberman game for the PC Engine, released only in Japan. It bears a 1990 copyright, just like the original release of Bomberman for the platform. Additionally, it plays the same title screen music upon boot, but it has a different title screen, only allowing for multiplayer play for two to five players. It lacks the skull mode option of the full Bomberman release, but otherwise shows similar menus and styles to Bomberman's multiplayer mode.
+
+It is believed that Users Battle was created in extremely limited quantities for use at tournaments, demo kiosks, or both. Some online sources estimate the number of cards produced at around 1,000.</desc>
+		<image>./Japan/images/Bomberman Users Battle (J) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19901230T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Other/Bomberman (U).zip</path>
+		<name>Bomberman</name>
+		<sortname>Bomberman 1</sortname>
+		<desc>The black spaceman kidnapped Bomberman's beloved and brought her to his chambers in the castle, far beyond his reach, over the rivers, forest and mountains. Bomberman's job is to save her, battling the sea of the enemies, with only bombs at his disposal.
+
+The range of Bomberman's bomb explosions can be upgraded with time, but if he dies, the range resets back to the minimum range and Bomberman loses his previous skills. Some updates can make Bomberman walk through the walls, increase his speed, and give him some other assets to aid him in his quest to save the woman he loves.
+
+This top-down action-arcade game consists of nine levels per stage, each tougher than the other, and each final one consisting of the boss that will have to be dealt with. Bomberman can move horizontally and vertically and lay down bombs behind him, thus evaporating the enemies, but beware: Bomberman can block himself with his own bomb, and thus become a victim of his own bomb.</desc>
+		<image>./Other/images/Bomberman (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Puzzle</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Other/Bomberman '93 (U).zip</path>
+		<name>Bomberman '93</name>
+		<sortname>Bomberman 1993</sortname>
+		<desc>Tension, strategy, action, excitement - Bomberman's back!
+
+You can now battle against up to four computer-controlled maniacs by yourself for the ultimate five Bomberman mode.
+Choose from seven exciting new stages with loads of new power-up items like worps, conveyer belts, revolving doors and even kicking bombs!
+Or for portable thrills, go head-to-head against a friend using TurboExpress for non-stop action.
+The best competitive game is back, and it's more intense than ever!</desc>
+		<image>./Other/images/Bomberman '93 (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Action</genre>
+		<players>5</players>
+	</game>
+	<game>
+		<path>./Other/Parasol Stars - The Story of Bubble Bobble III (U).zip</path>
+		<name>Parasol Stars: The Story of Bubble Bobble III</name>
+		<sortname>Bubble Bobble 2 Rainbow Islands 2</sortname>
+		<desc>Break out the bandages and get ready for some finger-searing action! Join Bubby on his latest quest to save the universe, this time with a Magic Umbrella. Umbrella!? Yes, Umbrella! This powerful parasol puts the elements themselves at your command! Shock the tonnage out of the whales with Lightning! Fry the feathers off the crazed, beady-eyed birds with Fire! Or, drown the demented dinosaurs with a tidal wave of Raindrops! Need help? Your buddy Bobby is always nearby. Have a friend plug into your TurboTap and blast into two player simultaneous play. Be prepared for a quest that will take you to eight amazing planets, forcing you to uncover the secret that will unleash the Parasol Stars!
+
+Parasol Stars is the third game in the Bubble Bobble franchise (and is often labeled "Parasol Stars: The Story Bubble Bobble III"), as well as a semi-official sequel to the second Bubble Bobble spin-off, Rainbow Island.</desc>
+		<image>./Other/images/Parasol Stars - The Story of Bubble Bobble III (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910115T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>NEC Home Electronics, Ltd.</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Order of the Griffon (U).zip</path>
+		<name>D&amp;D: Order of the Griffon</name>
+		<sortname>Dungeons &amp; Dragons Order of the Griffon</sortname>
+		<desc>The Vampire has escaped and has arisen again just as the Ancient Ones predicted. The Vampire controls bands of monsters who do his destructive bidding. Using the evil Iron Ring, he bends the will of the common people in an attempt to take over the world. Even the great Radlebb Keep has been conquered by the Dark Once and been bent to his evil will.
+Now, with your character in the Order of the Griffon, we have a chance to defeat the evil Vampire! World peace can be restored!</desc>
+		<image>./Other/images/Order of the Griffon (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Strategic Simulations, Inc.</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Darkwing Duck (U).zip</path>
+		<name>Darkwing Duck</name>
+		<sortname>Disney's Darkwing Duck</sortname>
+		<desc>The kingpins of crime are at it again! The mysterious criminal organization F.O.W.L. has hatched a plan to take control of the peaceful city of St. Canard. Six of their most heinous henchmen are running rampant through the city and only the daring Darkwing Duck can bring them to justice! Join Darkwing as he explores the woods to weed out Bushroot's evil plan. Search the warehouses along the wharf for Mega Volt and pull the plug on an electrifying scheme. Track down all six of FOWL's crafty criminals and then prepare yourself as Darkwing squares off against the sinister Steelbeak in his fiendish floating fortress!</desc>
+		<image>./Other/images/Darkwing Duck (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Interactive Designs, Radiance Software</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sports/Davis Cup Tennis (U).zip</path>
+		<name>Davis Cup Tennis</name>
+		<sortname>Davis Cup 1 Tennnis</sortname>
+		<desc>Challenge 32 top-seeded international pros in explosive court action, or take on your friends with tons of real playing options and a true player's view! Command an arsenal of pinpoint serves and powerful baseline passing shots. Attack the net with topspin or dropshot volleys. Then destroy your opponent's lob and morale with your overhead smash. Play singles and doubles on grass, clay, indoors or hard-court in exhibition and worldwide tournaments. Practice against the ball machine to perfect your skills for the ultimate quest, the coveted Davis Cup!</desc>
+		<image>./Sports/images/Davis Cup Tennis (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Loriciel</developer>
+		<publisher>NEC Home Electronics, Ltd.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Japan/Adventure Island (J).zip</path>
+		<name>Adventure Island</name>
+		<sortname>Adventure Island 1</sortname>
+		<desc>Life as a roaming adventurer is never easy. One minute you're shoving several feet of cold steel between the gaping jaws of some evil robot dragon, and the next thing you know, you've been transformed into a fire breathing lizard man. Such is the problem that you first encounter at the beginning of Adventure Island, Hudson Soft's conversion of the Master System game 'Wonder Boy III: The Dragon's Trap'. Taking more of its influence from the second game in the Wonder Boy series than the first, Adventure Island has a more balanced structure and more exploratory gameplay.
+
+The main game is centred around a small village which acts as a sort of 'hub' to the surrounding levels. Each of these levels are gradually accessed over time with the acquisition of keys or new transformations. As the game progresses, you will find yourself transforming into five different creatures, which can (and need to) be switched between in special rooms. The lizard is the basic transformation and does little more than breathe fire at any passing fauna. Mouse man is a tiny little critter and aside from being able to fit under small obstacles, he can also run up and around special chequered walls and ceilings. Next up is a green amphibian that gives you the power to swim around freely, followed by a tiger man who swings his sword around in a wide arc, allowing you to break blocks above and below. Finally, there is the bird transformation which lets you fly around by repeatedly tapping the jump button.
+
+As you progress, your quest will take you over many types of terrain from jungle to desert to the inside of a giant pyramid - but to help you out there is a password/backup save feature in a church in the main village. As you viciously hack up the cute little inhabitants of the island, you find that they considerately drop money and helpful items for you. The money is used in shops to upgrade your armour, or buy healing at the hospital, while the other items are special weapons that can be set from the pause menu. These include homing fireballs, ground based mini whirlwinds and arrows that shoot directly upwards (and are a blessing when you are trying to get rid of flame-dropping clouds).</desc>
+		<image>./Japan/images/Adventure Island (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910419T000000</releasedate>
+		<developer>Westone Co., Ltd.</developer>
+		<publisher>Hudson Entertainment, Inc.</publisher>
+		<genre>Adventure, Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T103206</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Aero Blasters (U).zip</path>
+		<name>Aero Blasters</name>
+		<desc>The player controls a small craft through different levels with many enemies. Every level ends with a boss and some section speed up the gameplay, offering fast obstacle courses both horizontally and vertically scrolling. Flying orange pods release many power-ups at once, enhancing the ships with new or more powerful lasers, wing men and shields. The player can also hold the fire key to charge a blast that removes all enemy bullets from the screen and deals damage to all enemies. With an unforgiving difficulty, every hit is fatal, but the game can be continued from any points as long as there are lives and credits left. The game can be played with two players cooperatively.</desc>
+		<image>./Other/images/Aero Blasters (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Kaneko Co., Ltd.</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220109T105045</lastplayed>
+	</game>
+	<game>
+		<path>./Japan/After Burner II (J).zip</path>
+		<name>After Burner II</name>
+		<sortname>After Burner 2</sortname>
+		<desc>One of Sega's big arcade hits using their 'super scaler' technology, it was a bold move to try and convert this to any home machine. After Burner II is, quite simply, one of the most mindless shooters that you're ever likely to play: simply fly your F-14 into the screen, dodging missiles like crazy and letting all hell loose with your vulcan cannon. There is precious little strategy - even less than Space Harrier, and often luck plays more of a part than skill. The action is split up by the occasional bonus stage - a run through a canyon blowing up anything that dares to exist in front of you. Fuelling planes and landing strips also make a regular appearance.</desc>
+		<image>./Japan/images/After Burner II (J)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19900928T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>NEC Home Electronics, Ltd.</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T204925</lastplayed>
+	</game>
+	<game>
+		<path>./Air Zonk (U).zip</path>
+		<name>Air Zonk</name>
+		<desc>The powered-up Zonk gathers his friends to form Team Cool, and they set out to stop King Drool’s plan to conquer the world. Choose from 3 levels of difficulty and 3 types of Friend Modes. Shoot King Drool's cyber robots and avoid their attacks while collecting the Air Bones to unleash a variety of attacks. Enjoy unique moves such as combining with a friend to create an invincible hybrid form or blasting enemies with a charged attack. Air “Zonk” is filled with humor, like its wacky theme song that plays when you post a huge score or when your game is over.</desc>
+		<image>./images/Air Zonk (U)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921212T000000</releasedate>
+		<developer>Hudson Entertainment, Inc.</developer>
+		<publisher>Red Company Corporation</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T210151</lastplayed>
 	</game>
 </gameList>

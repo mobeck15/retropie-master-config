@@ -74,22 +74,6 @@ Someone must put an end to the fiend's realm of darkness, death and destruction!
 		<genre>Action, Adventure</genre>
 	</game>
 	<game>
-		<path>./Heroes of the Lance (UE) [!].zip</path>
-		<name>Heroes of the Lance</name>
-		<sortname>Dungeons &amp; Dragons 1991: Heroes of the Lance</sortname>
-		<desc>Based on the later parts of the Dragonlance book Dragons of Autumn Twilight, the heroes descend into a ruined city in search of the disks of Mishakal.
-
-The gameplay consists of horizontal fighting with a maze like map using doors to change the view. The party consists of the 8 Heroes of the Lance, using one at a time and the player can switch between them at any time. Each character has different types of attacks and spells making them more suited to fighting different enemies as well as acting as lives.
-
-One of the AD&amp;D games that takes a break from the usual RPG style.</desc>
-		<image>./images/Heroes of the Lance (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>U.S. Gold Ltd.</developer>
-		<publisher>Strategic Simulations, Inc.</publisher>
-		<genre>Role-Playing</genre>
-	</game>
-	<game>
 		<path>./King's Quest (UE) [!].zip</path>
 		<name>King's Quest: Quest for the Crown</name>
 		<sortname>King's Quest 1: Quest for the Crown</sortname>
@@ -173,28 +157,6 @@ Up to three simultaneous players control the monsters George (a King Kong-like g
 		<developer>Sega R&amp;D2</developer>
 		<publisher>Sega</publisher>
 		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic the Hedgehog (UE) [!].zip</path>
-		<name>Sonic the Hedgehog</name>
-		<desc>Bust the video game speed barrier wide open with Sonic The Hedgehog. Blaze by in a blur using the Super Sonic Spin Attack. Plummet down tunnels and spin through space. Bounce around 'til you're dizzy in a pinball machine. You've never seen anything like it!</desc>
-		<image>./images/Sonic the Hedgehog (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19911025T000000</releasedate>
-		<developer>Ancient</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Sonic the Hedgehog 2 (UE) (V1.0) [!].zip</path>
-		<name>Sonic the Hedgehog 2</name>
-		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
-		<image>./images/Sonic the Hedgehog 2 (UE) (V1.0) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921016T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Lion King, The (UE) [!].zip</path>
@@ -623,92 +585,6 @@ Go for the title. Mexican League, Pacific League or World League. Whatever you d
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Other/20-em-1 (Brazil) [!].zip</path>
-		<name>20 em 1</name>
-		<desc>20 em 1 (20 in 1) is a compilation of twenty previously unreleased games in a single cartridge, which came bundled with Tec Toy's Master System III Compact (Master System II in Europe and US).
-
-The game has only two songs, one played at the title screen, the other played during all gameplay. All the text in the game is in Portuguese.</desc>
-		<image>./Other/images/20-em-1 (Brazil) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Atari Games</developer>
-		<genre>Action, Sports</genre>
-	</game>
-	<game>
-		<path>./Other/Ace of Aces (UE) [!].zip</path>
-		<name>Ace of Aces</name>
-		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber. Your mission? Stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
-		<image>./Other/images/Ace of Aces (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>Sega</publisher>
-		<genre>Flight Simulator</genre>
-	</game>
-	<game>
-		<path>./Other/Action Fighter (UE) [!].zip</path>
-		<name>Action Fighter</name>
-		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
-
-By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
-
-There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
-
-Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
-		<image>./Other/images/Action Fighter (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19860817T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing, Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Aerial Assault (UE) [!].zip</path>
-		<name>Aerial Assault</name>
-		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
-		<image>./Other/images/Aerial Assault (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sanritsu</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/After Burner (UE) [!].zip</path>
-		<name>After Burner</name>
-		<desc>The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
-		<image>./Other/images/After Burner (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19871212T000000</releasedate>
-		<developer>Sega R&amp;D2</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter, Flight Simulator</genre>
-	</game>
-	<game>
-		<path>./Other/Air Rescue (UE) [!].zip</path>
-		<name>Air Rescue</name>
-		<desc>Air Rescue is similar to Choplifter!. You are a driver of a helicopter and the object is to rescue hostages without being shot down by soldiers, jeeps, tanks, choppers, and ground-based missiles, and bring them back to base. A maximum of four hostages can fit into the helicopter at any given time, so it is necessary to make more than one trip. You can choose from a variety of weapons that you can use to shoot down enemies. There are five rounds, which take you through theme parks, burning skyscrapers, army bases, sunken submarines, and caverns. The round ends when you have taken the required number of hostages to the bases.</desc>
-		<image>./Other/images/Air Rescue (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SIMS Co., Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Addams Family, The (UE) [!].zip</path>
-		<name>The Addams Family</name>
-		<sortname>Addams Family</sortname>
-		<desc>Morticia has been kidnapped! Uncle Fester has lost his memory and fallen under the spell of Abigail Craven - only Gomez can save the day, finally confronting the evil Judge! Dare you freak out in the kooky spooky climax?</desc>
-		<image>./Other/images/Addams Family, The (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Arc Developments</developer>
-		<publisher>Flying Edge, Inc.</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Altered Beast (UE) [!].zip</path>
 		<name>Altered Beast</name>
 		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been resurrected from the dead by Zeus. In exchange, he ordered the warrior to save his daughter, Athena, from a Demon God called Neff in the Underworld.</desc>
@@ -909,29 +785,6 @@ Aside from the traditional moves, there are special potions that melt ice, creat
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Asterix and the Great Rescue (UE) [!].zip</path>
-		<name>Asterix and the Great Rescue</name>
-		<desc>Getafix the Druid and Dogmatix have been captured by the evil Roman forces. Use your magic potions to help Asterix and Obelix fight their way through 5 levels to Rome itself and free their buddies from Caesar's clutches.</desc>
-		<image>./Other/images/Asterix and the Great Rescue (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19931115T000000</releasedate>
-		<developer>Core Design Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Asterix and the Secret Mission (UE) [!].zip</path>
-		<name>Asterix and the Secret Mission</name>
-		<desc>Getafix the Druid is out of magic potion! If Caesar finds out, it's invasion for sure. Asterix and Obelix set out to find the necessary herbs. A mission through all sorts of Roman-infested terrain - seas and rivers, forests and deserts, temples and ruins.</desc>
-		<image>./Other/images/Asterix and the Secret Mission (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Other/Astro Warrior (UE) [!].zip</path>
 		<name>Astro Warrior</name>
 		<desc>Basic Sega shoot-em-up in which you must guide your ship through three zones while avoiding hazards. Your only weapon are bullets as your only defense, but if you shoot the flashing red pieces on the terrain, chances are that a green ship will approach you, and if you collect this ship, your weapons will be upgraded so that you shoot a laser beam instead. Keep collecting ships and you can shoot up to three laser beams at once. 
@@ -1125,19 +978,6 @@ Only it ain't gonna be seay, 'cuz the pigs have taken them to the dingy Dark Tow
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Bonanza Bros (UE) [!].zip</path>
-		<name>Bonanza Bros</name>
-		<desc>Mobo and Robo Bonanza are enjoying their favorite television show when the picture crackles and a shadowy figure of a mysterious stranger appears on screen. This figure asks them to collect certain items that he has placed inside various buildings to test his security force. If they return the items successfully, Mobo and Robo will be rewarded. The two of them state that they will get the job done in just three minutes. However, little do they know that each building is packed with security guards who will raise the alarm if they are caught red-handed. Fortunately both Mobo and Robo are equipped with bullets that can knock the guards unconscious for a few seconds. An $100 reward will be given out if Mobo and Robo are apprehended.
-
-As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.</desc>
-		<image>./Other/images/Bonanza Bros (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19910516T000000</releasedate>
-		<developer>Synergy Inc.</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Bonkers Wax Up! (UE) [!].zip</path>
 		<name>Bonkers Wax Up</name>
 		<sortname>Disney's Bonkers Wax Up</sortname>
@@ -1207,17 +1047,6 @@ California Games consisted of some sports purportedly popular in California incl
 		<releasedate>19890501T000000</releasedate>
 		<developer>Epyx</developer>
 		<publisher>Epyx, Inc.</publisher>
-		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Sports/California Games 2 (UE) [!].zip</path>
-		<name>California Games II</name>
-		<desc>Push your courage and cool to their limits in four innovative action sports from California. Showcase your skills speeding around the skateboard track, body boarding on foaming breakers, hang gliding over the ocean and snowboarding down perilous slopes.</desc>
-		<image>./Sports/images/California Games 2 (UE) [!]-image.png</image>
-		<rating>0.4</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
 		<genre>Sports</genre>
 	</game>
 	<game>
@@ -1314,19 +1143,6 @@ Para resolver este problema demográfico surge nada mais, nada menos que Chapoli
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Other/Chuck Rock 2 (UE) [!].zip</path>
-		<name>Chuck Rock II: Son of Chuck</name>
-		<desc>The story in this Chuck Rock game takes up a little while after the end of the first game. As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter. Well, he was successful in his efforts, and now Chuck and Ophelia are married. Eventually, they have a son, named Junior. Chuck works in a factory, where he develops great skill at carving automobiles out of stone. A rival manufacturer becomes jealous of Chuck's abilities and kidnaps him. Now it is up to Junior to rescue his dad!
-
-The gameplay in this sequel is similar to the first game, but with some minor differences since you are playing as Junior, rather than Chuck. This is a side-scrolling platform game with occasional rock-moving puzzles thrown in. Unlike Chuck, Junior carries a club that gives his attacks further reach.</desc>
-		<image>./Other/images/Chuck Rock 2 (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Core Design Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Other/Cloud Master (JUE).zip</path>
 		<name>Cloud Master</name>
 		<desc>Enter the wild, fun-filled world of Mike Chen. He's out to learn the secrets of the five lands so he can become a powerful wizard of the skies! Already he has tamed a cloud to carry him around. He has learned the art of the shooting Ki force from his fingertips! but standing against him are more wacky, zany creatures than you can shake your chopsticks at! Bird men. Flying cat heads. Pigs with guns. And flying bowls of soup! Sounds funny...but remember that each can zap you with a touch! You do have a couple of tricks up your sleeve. Collect power-up pots to fly faster and make your Ki force even more powerful! Defeat the mid-round bosses and you will earn the use of true magic...fireballs, guardian flames and bouncing bombs. Defeat the five world guardians and you'll become a Cloud Master! Fail, and you'll be locked in combat forever. Are you really going to let a flying dumpling get the best of you?</desc>
@@ -1396,17 +1212,6 @@ El año: 2242. Eres el cazador de recompensas más duro de la galaxia. Has amasa
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Other/Daffy Duck in Hollywood (UE) [!].zip</path>
-		<name>Daffy Duck in Hollywood</name>
-		<desc>"Presenting the world famous Daffy Duck P.I. Armed with your lethal buble gun search the Hollywood film sets for Yosemite Sam's Golden Cartoon World Movie Awards and the despicable Mad Professor Duck Brain."</desc>
-		<image>./Other/images/Daffy Duck in Hollywood (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19940201T000000</releasedate>
-		<developer>Psionic Systems</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Adventure</genre>
-	</game>
-	<game>
 		<path>./Other/Danan the Jungle Fighter (UE) [!].zip</path>
 		<name>Danan: The Jungle Fighter</name>
 		<desc>Danan, the infant who was rescued from the remains of a wrecked airplane by Jimba, a young Amazon tribesman, came home from hunting one day to find his guardian mortally wounded! What happened to Jimba? Who would do such a thing? Help Danan to find the answers — stalk the hot, wet jungles of the Amazon, putting the pieces together as you go, and avenge Jimba's death!</desc>
@@ -1427,18 +1232,6 @@ El año: 2242. Eres el cazador de recompensas más duro de la galaxia. Has amasa
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Other/Deep Duck Trouble (UE) [!].zip</path>
-		<name>Deep Duck Trouble Starring Donald Duck</name>
-		<sortname>Disney's Donald Duck Deep Duck Trouble</sortname>
-		<desc>Uncle Scrooge found a magical necklace on a mysterious island, but the necklace put a curse on him. Now Uncle Scrooge is doomed to float around in the air forever! (Of course Donald always said Scrooge was full of hot air anyway!) To take the curse off Uncle Scrooge, Donald has to take the necklace back to the island. But there's plenty of danger awaiting Donald there. How about lending him a hand?</desc>
-		<image>./Other/images/Deep Duck Trouble (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19930511T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Desert Speedtrap (UE) [!].zip</path>
@@ -1524,19 +1317,6 @@ Double Hawk has two settings: easy and difficult, and the gameplay is similar to
 		<developer>SIMS Co., Ltd.</developer>
 		<publisher>Sega</publisher>
 		<genre>Action, Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Dr. Robotnik's Mean Bean Machine (UE) [!].zip</path>
-		<name>Dr. Robotnik's Mean Bean Machine</name>
-		<sortname>Sonic Dr. Robotnik's Mean Bean Machine</sortname>
-		<desc>Dr. Robotnik has hatched a plan to ensure that no music or fun remains on Mobius. To do this, he kidnaps the jolly citizens of Beanville and stuffs them into a giant robotising machine called the Mean Bean-Steaming Machine (hence the name, Mean Bean Machine), so that they become devious little robot slaves, as well as getting rid of them. The instruction manual states that the disappearing Beans are sent to the Mean Bean Machine, regardless of which character does this. The game ends after a face-off with Robotnik.</desc>
-		<image>./Other/images/Dr. Robotnik's Mean Bean Machine (UE) [!]-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Sega</publisher>
-		<genre>Puzzle</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Other/Dragon Crystal (UE) [!].zip</path>
@@ -1919,18 +1699,6 @@ Golvellius has a PASSWORD SAVE feature that lets you keep all your possessions. 
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Mickey Mouse - Castle of Illusion (UE) [!].zip</path>
-		<name>Castle of Illusion Starring Mickey Mouse</name>
-		<sortname>Disney's Mickey Mouse Castle of Illusion Starring Mickey Mouse</sortname>
-		<desc>The search is on! Mickey is on the trail of a wicked Witch named Mizrabel, who has kidnapped Minnie. Mickey must find seven gems hidden in the fantastic chambers of Mizrabel's Castle of Illusion and use them to save Minnie. Can Mickey find them? It's up to you!</desc>
-		<image>./images/Mickey Mouse - Castle of Illusion (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19901230T000000</releasedate>
-		<developer>Sega R&amp;D2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Machine Gun Joe (J) [!].zip</path>
 		<name>Comical Machine Gun Joe</name>
 		<desc>This game was originally released only in Japan on Sega Card, though has appeared in several compilations since.</desc>
@@ -2160,18 +1928,6 @@ The original Mark III version game is included along with an enhanced remake in 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Mickey Mouse - Land of Illusion (UE) [!].zip</path>
-		<name>Land of Illusion Starring Mickey Mouse</name>
-		<sortname>Disney's Mickey Mouse Land of Illusion Starring Mickey Mouse</sortname>
-		<desc>Journey with Mickey Mouse through spooky castle ruins, dark caverns, an enchanted forest and a toy shop gone crazy! Use your wits and Mickey's magic to evade challenging traps, explore secret passages, and restore peace and happiness to the Land of Illusion!</desc>
-		<image>./images/Mickey Mouse - Land of Illusion (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920925T000000</releasedate>
-		<developer>Sega R&amp;D2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Other/Laser Ghost (UE) [!].zip</path>
 		<name>Laser Ghost</name>
 		<desc>Poor Katherine is scared stiff. Ghosts and goblins have stolen her soul and imprisoned her. "Help me... somebody please help me..."</desc>
@@ -2181,18 +1937,6 @@ The original Mark III version game is included along with an enhanced remake in 
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./Mickey Mouse - Legend of Illusion (UE) [!].zip</path>
-		<name>Legend of Illusion Starring Mickey Mouse</name>
-		<sortname>Disney's Mickey Mouse Legend of Illusion Starring Mickey Mouse</sortname>
-		<desc>Legend of Illusion Starring Mickey Mouse, known in Japan as Mickey Mouse Densetsu no Oukoku (ミッキーマウス 伝説の王国), is a Sega Master System and Sega Game Gear platform game featuring Disney's Mickey Mouse. It is the sequel to Land of Illusion. The Master System version was released exclusively in Brazil by Tectoy.</desc>
-		<image>./images/Mickey Mouse - Legend of Illusion (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950113T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/Lemmings (UE) [!].zip</path>
@@ -2313,20 +2057,6 @@ Experience the baddest video game ever. Defy physics with Michael's dancing! You
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Mickey's Ultimate Challenge (Brazil) [!].zip</path>
-		<name>Mickey's Ultimate Challenge</name>
-		<sortname>Disney's Mickey's Ultimate Challenge</sortname>
-		<desc>Mickey's Ultimate Challenge is a video game starring Disney's Mickey Mouse, and was published by Hi-Tech Expressions for the Sega Mega Drive and Sega Game Gear in 1994. It was also brought to the Sega Master System, though this version was released exclusively in Brazil and is a port of the Game Gear version by Tectoy. Other versions of the game were exclusive to North America.
-
-Mickey's Ultimate Challenge is primarily aimed at younger children, being a compilation of five simple Disney-themed minigames. The game was developed by WayForward Technologies under supervision from Designer Software.</desc>
-		<image>./Other/images/Mickey's Ultimate Challenge (Brazil) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19981201T000000</releasedate>
-		<developer>Designer Software</developer>
-		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
-		<genre>Puzzle</genre>
 	</game>
 	<game>
 		<path>./Sports/Micro Machines (E) [!].zip</path>
@@ -2471,18 +2201,6 @@ A small team of Raiden's "Chosen Warriors" survives the attack: Mortal Kombat ch
 		<developer>Probe Entertainment</developer>
 		<publisher>U.S. Gold Ltd.</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Lucky Dime Caper Starring Donald Duck, The (UE) [!].zip</path>
-		<name>The Lucky Dime Caper Starring Donald Duck</name>
-		<sortname>Disney's Donald Duck Lucky Dime Caper Starring Donald Duck</sortname>
-		<desc>Evil Magica De Spell has stolen the Lucky Dimes and has captured Huey, Dewey and Louie! Trek through six treacherous lands with Donald to save his nephews and retrieve the Lucky Dimes!</desc>
-		<image>./Other/images/Lucky Dime Caper Starring Donald Duck, The (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19911220T000000</releasedate>
-		<developer>Sega R&amp;D2</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Other/My Hero (UE) [!].zip</path>
@@ -2726,19 +2444,6 @@ Power Strike II takes place in an alternative past, fusing 1930s aircraft with f
 		<developer>Imagineering Inc.</developer>
 		<publisher>Seismic Software Inc.</publisher>
 		<genre>Racing</genre>
-	</game>
-	<game>
-		<path>./Other/Rainbow Islands (UE) [!].zip</path>
-		<name>Rainbow Islands: The Story of Bubble Bobble 2</name>
-		<sortname>Bubble Bobble 2 Rainbow Islands: The Story of Bubble Bobble 2</sortname>
-		<desc>The basic premise of the game is that each level is an island which is slowly sinking into the sea. The player must therefore get to the top of each level, by jumping on platforms and making use of the game's most distinctive feature: the ability to produce solid rainbows, which are used both as platforms to stand on, and as a weapon.</desc>
-		<image>./Other/images/Rainbow Islands (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Taito Corporation</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Other/Rambo 3 (UE) [!].zip</path>
@@ -3080,56 +2785,6 @@ You and Dana, the wizard of Lyrac, must unlock Solomon's scroll of secrets to re
 		<releasedate>19880417T000000</releasedate>
 		<developer>Salio</developer>
 		<publisher>Salio, Inc.</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Other/Sonic Blast (Brazil) [!].zip</path>
-		<name>Sonic Blast</name>
-		<desc>The world famous blue hedgehog is back!
-
-Sonic, Knuckles and their world are fully rendered! The evil genius Robotnik has stolen the Chaos Emeralds and it's up to Sonic and Knuckles to stop him. Luckily, Sonic has new moves and other special power-ups to defeat the evil genius!
-
-- Play as Sonic or Knuckles as you race through 14 levels in search of hidden power-ups.
-- Rendered graphics push Game Gear gameplay to the limits!
-- Use Sonic's new Boost Blast to defeat the evil genius!</desc>
-		<image>./Other/images/Sonic Blast (Brazil) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19971201T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Sonic the Hedgehog 2 (UE) (V2.2).zip</path>
-		<name>Sonic the Hedgehog 2</name>
-		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
-		<image>./Other/images/Sonic the Hedgehog 2 (UE) (V2.2)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19921016T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Sonic Chaos (UE) [!].zip</path>
-		<name>Sonic the Hedgehog Chaos</name>
-		<desc>Dr. Robotnik's stolen the red Chaos Emerald, and it's up to Sonic The Hedgehog to get it back! As Sonic or "Tails" the two-tailed fox, you'll zip through the Zones, using your quick moves and quicker thinking to collect rings and evade Robotnik's latest batch of badniks!</desc>
-		<image>./Other/images/Sonic Chaos (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19931025T000000</releasedate>
-		<developer>Aspect Co. Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Other/Sonic Spinball (UE) [!].zip</path>
-		<name>Sonic the Hedgehog Spinball</name>
-		<desc>From slimy sewers to monstrous machine rooms. Dr. Robotnik's latest fortress is a giant pinball machine! Will it withstand a Sonic spin-vasion? Bounce from giant flippers and hissing steam vents. Rev through dizzying loops and up death-defying ramps!</desc>
-		<image>./Other/images/Sonic Spinball (UE) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950110T000000</releasedate>
-		<developer>SEGA Interactive Development Division</developer>
-		<publisher>Sega</publisher>
 		<genre>Action</genre>
 	</game>
 	<game>
@@ -4005,5 +3660,376 @@ The game is fully licensed by the FIA and Fuji Television, which means all drive
 		<genre>Action, Adventure, Platform</genre>
 		<playcount>1</playcount>
 		<lastplayed>20210528T105346</lastplayed>
+	</game>
+	<game>
+		<path>./Other/20-em-1 (Brazil) [!].zip</path>
+		<name>20 em 1</name>
+		<desc>20 em 1 (20 in 1) is a compilation of twenty previously unreleased games in a single cartridge, which came bundled with Tec Toy's Master System III Compact (Master System II in Europe and US).
+
+The game has only two songs, one played at the title screen, the other played during all gameplay. All the text in the game is in Portuguese.</desc>
+		<image>./Other/images/20-em-1 (Brazil) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<genre>Action, Sports</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211019T115706</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Ace of Aces (UE) [!].zip</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber. Your mission? Stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+		<image>./Other/images/Ace of Aces (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Sega</publisher>
+		<genre>Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T200556</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Action Fighter (UE) [!].zip</path>
+		<name>Action Fighter</name>
+		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
+
+There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
+		<image>./Other/images/Action Fighter (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19860817T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing, Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20211020T231838</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Addams Family, The (UE) [!].zip</path>
+		<name>The Addams Family</name>
+		<sortname>Addams Family 1</sortname>
+		<desc>Morticia has been kidnapped! Uncle Fester has lost his memory and fallen under the spell of Abigail Craven - only Gomez can save the day, finally confronting the evil Judge! Dare you freak out in the kooky spooky climax?</desc>
+		<image>./Other/images/Addams Family, The (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Arc Developments</developer>
+		<publisher>Flying Edge, Inc.</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20211020T234003</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Asterix and the Great Rescue (UE) [!].zip</path>
+		<name>Asterix and the Great Rescue</name>
+		<sortname>Asterix Great Rescue</sortname>
+		<desc>Getafix the Druid and Dogmatix have been captured by the evil Roman forces. Use your magic potions to help Asterix and Obelix fight their way through 5 levels to Rome itself and free their buddies from Caesar's clutches.</desc>
+		<image>./Other/images/Asterix and the Great Rescue (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19931115T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Asterix and the Secret Mission (UE) [!].zip</path>
+		<name>Asterix and the Secret Mission</name>
+		<sortname>Asterix Secret Mission</sortname>
+		<desc>Getafix the Druid is out of magic potion! If Caesar finds out, it's invasion for sure. Asterix and Obelix set out to find the necessary herbs. A mission through all sorts of Roman-infested terrain - seas and rivers, forests and deserts, temples and ruins.</desc>
+		<image>./Other/images/Asterix and the Secret Mission (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Bonanza Bros (UE) [!].zip</path>
+		<name>Bonanza Bros</name>
+		<sortname>Bonanza Bros</sortname>
+		<desc>Mobo and Robo Bonanza are enjoying their favorite television show when the picture crackles and a shadowy figure of a mysterious stranger appears on screen. This figure asks them to collect certain items that he has placed inside various buildings to test his security force. If they return the items successfully, Mobo and Robo will be rewarded. The two of them state that they will get the job done in just three minutes. However, little do they know that each building is packed with security guards who will raise the alarm if they are caught red-handed. Fortunately both Mobo and Robo are equipped with bullets that can knock the guards unconscious for a few seconds. An $100 reward will be given out if Mobo and Robo are apprehended.
+
+As either Mobo or Robo, you must collect all the treasures before leaving the ten buildings and shoot any security guards that get in your way. Remember that you are under a time limit. An in-game map will help you locate the treasures. There is a bonus stage after three buildings, where the object is to collect the gold bars in a limited amount of time without one of the three spotlights shining on you. If it is possible, hide behind open doors. If you manage to get all the gold bars, 10,000 points is added to your score. There are three of these bonus stages, but each of them varies.</desc>
+		<image>./Other/images/Bonanza Bros (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19910516T000000</releasedate>
+		<developer>Synergy Inc.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Rainbow Islands (UE) [!].zip</path>
+		<name>Rainbow Islands: The Story of Bubble Bobble 2</name>
+		<sortname>Bubble Bobble 2 Rainbow Islands</sortname>
+		<desc>The basic premise of the game is that each level is an island which is slowly sinking into the sea. The player must therefore get to the top of each level, by jumping on platforms and making use of the game's most distinctive feature: the ability to produce solid rainbows, which are used both as platforms to stand on, and as a weapon.</desc>
+		<image>./Other/images/Rainbow Islands (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Heroes of the Lance (UE) [!].zip</path>
+		<name>Heroes of the Lance</name>
+		<sortname>Dungeons &amp; Dragons Heroes of the Lance</sortname>
+		<desc>Based on the later parts of the Dragonlance book Dragons of Autumn Twilight, the heroes descend into a ruined city in search of the disks of Mishakal.
+
+The gameplay consists of horizontal fighting with a maze like map using doors to change the view. The party consists of the 8 Heroes of the Lance, using one at a time and the player can switch between them at any time. Each character has different types of attacks and spells making them more suited to fighting different enemies as well as acting as lives.
+
+One of the AD&amp;D games that takes a break from the usual RPG style.</desc>
+		<image>./images/Heroes of the Lance (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>U.S. Gold Ltd.</developer>
+		<publisher>Strategic Simulations, Inc.</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Other/Chuck Rock 2 (UE) [!].zip</path>
+		<name>Chuck Rock II: Son of Chuck</name>
+		<sortname>Chuck Rock 2: Son of Chuck</sortname>
+		<desc>The story in this Chuck Rock game takes up a little while after the end of the first game. As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter. Well, he was successful in his efforts, and now Chuck and Ophelia are married. Eventually, they have a son, named Junior. Chuck works in a factory, where he develops great skill at carving automobiles out of stone. A rival manufacturer becomes jealous of Chuck's abilities and kidnaps him. Now it is up to Junior to rescue his dad!
+
+The gameplay in this sequel is similar to the first game, but with some minor differences since you are playing as Junior, rather than Chuck. This is a side-scrolling platform game with occasional rock-moving puzzles thrown in. Unlike Chuck, Junior carries a club that gives his attacks further reach.</desc>
+		<image>./Other/images/Chuck Rock 2 (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Other/Daffy Duck in Hollywood (UE) [!].zip</path>
+		<name>Daffy Duck in Hollywood</name>
+		<sortname>Daffy Duck Hollywood</sortname>
+		<desc>"Presenting the world famous Daffy Duck P.I. Armed with your lethal buble gun search the Hollywood film sets for Yosemite Sam's Golden Cartoon World Movie Awards and the despicable Mad Professor Duck Brain."</desc>
+		<image>./Other/images/Daffy Duck in Hollywood (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Psionic Systems</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Adventure</genre>
+	</game>
+	<game>
+		<path>./Sports/California Games 2 (UE) [!].zip</path>
+		<name>California Games II</name>
+		<sortname>California Games 2</sortname>
+		<desc>Push your courage and cool to their limits in four innovative action sports from California. Showcase your skills speeding around the skateboard track, body boarding on foaming breakers, hang gliding over the ocean and snowboarding down perilous slopes.</desc>
+		<image>./Sports/images/California Games 2 (UE) [!]-image.png</image>
+		<rating>0.4</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Other/Deep Duck Trouble (UE) [!].zip</path>
+		<name>Deep Duck Trouble Starring Donald Duck</name>
+		<sortname>Disney's Donald Deep Duck Trouble</sortname>
+		<desc>Uncle Scrooge found a magical necklace on a mysterious island, but the necklace put a curse on him. Now Uncle Scrooge is doomed to float around in the air forever! (Of course Donald always said Scrooge was full of hot air anyway!) To take the curse off Uncle Scrooge, Donald has to take the necklace back to the island. But there's plenty of danger awaiting Donald there. How about lending him a hand?</desc>
+		<image>./Other/images/Deep Duck Trouble (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19930511T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Lucky Dime Caper Starring Donald Duck, The (UE) [!].zip</path>
+		<name>The Lucky Dime Caper Starring Donald Duck</name>
+		<sortname>Disney's Donald Lucky Dime Caper</sortname>
+		<desc>Evil Magica De Spell has stolen the Lucky Dimes and has captured Huey, Dewey and Louie! Trek through six treacherous lands with Donald to save his nephews and retrieve the Lucky Dimes!</desc>
+		<image>./Other/images/Lucky Dime Caper Starring Donald Duck, The (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Mickey's Ultimate Challenge (Brazil) [!].zip</path>
+		<name>Mickey's Ultimate Challenge</name>
+		<sortname>Disney's Mickey Ultimate Challenge</sortname>
+		<desc>Mickey's Ultimate Challenge is a video game starring Disney's Mickey Mouse, and was published by Hi-Tech Expressions for the Sega Mega Drive and Sega Game Gear in 1994. It was also brought to the Sega Master System, though this version was released exclusively in Brazil and is a port of the Game Gear version by Tectoy. Other versions of the game were exclusive to North America.
+
+Mickey's Ultimate Challenge is primarily aimed at younger children, being a compilation of five simple Disney-themed minigames. The game was developed by WayForward Technologies under supervision from Designer Software.</desc>
+		<image>./Other/images/Mickey's Ultimate Challenge (Brazil) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Designer Software</developer>
+		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Other/Sonic Blast (Brazil) [!].zip</path>
+		<name>Sonic Blast</name>
+		<sortname>Sonic Hedgehog Blast</sortname>
+		<desc>The world famous blue hedgehog is back!
+
+Sonic, Knuckles and their world are fully rendered! The evil genius Robotnik has stolen the Chaos Emeralds and it's up to Sonic and Knuckles to stop him. Luckily, Sonic has new moves and other special power-ups to defeat the evil genius!
+
+- Play as Sonic or Knuckles as you race through 14 levels in search of hidden power-ups.
+- Rendered graphics push Game Gear gameplay to the limits!
+- Use Sonic's new Boost Blast to defeat the evil genius!</desc>
+		<image>./Other/images/Sonic Blast (Brazil) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19971201T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Dr. Robotnik's Mean Bean Machine (UE) [!].zip</path>
+		<name>Dr. Robotnik's Mean Bean Machine</name>
+		<sortname>Sonic Hedgehog Dr. Robotnik's Mean Bean Machine</sortname>
+		<desc>Dr. Robotnik has hatched a plan to ensure that no music or fun remains on Mobius. To do this, he kidnaps the jolly citizens of Beanville and stuffs them into a giant robotising machine called the Mean Bean-Steaming Machine (hence the name, Mean Bean Machine), so that they become devious little robot slaves, as well as getting rid of them. The instruction manual states that the disappearing Beans are sent to the Mean Bean Machine, regardless of which character does this. The game ends after a face-off with Robotnik.</desc>
+		<image>./Other/images/Dr. Robotnik's Mean Bean Machine (UE) [!]-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Other/Sonic the Hedgehog 2 (UE) (V2.2).zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<sortname>Sonic Hedgehog 2</sortname>
+		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
+		<image>./Other/images/Sonic the Hedgehog 2 (UE) (V2.2)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921016T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Sonic Chaos (UE) [!].zip</path>
+		<name>Sonic the Hedgehog Chaos</name>
+		<sortname>Sonic Hedgehog Chaos</sortname>
+		<desc>Dr. Robotnik's stolen the red Chaos Emerald, and it's up to Sonic The Hedgehog to get it back! As Sonic or "Tails" the two-tailed fox, you'll zip through the Zones, using your quick moves and quicker thinking to collect rings and evade Robotnik's latest batch of badniks!</desc>
+		<image>./Other/images/Sonic Chaos (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19931025T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Sonic Spinball (UE) [!].zip</path>
+		<name>Sonic the Hedgehog Spinball</name>
+		<sortname>Sonic Hedgehog Spinball</sortname>
+		<desc>From slimy sewers to monstrous machine rooms. Dr. Robotnik's latest fortress is a giant pinball machine! Will it withstand a Sonic spin-vasion? Bounce from giant flippers and hissing steam vents. Rev through dizzying loops and up death-defying ramps!</desc>
+		<image>./Other/images/Sonic Spinball (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950110T000000</releasedate>
+		<developer>SEGA Interactive Development Division</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mickey Mouse - Castle of Illusion (UE) [!].zip</path>
+		<name>Castle of Illusion Starring Mickey Mouse</name>
+		<sortname>Disney's Mickey Castle of Illusion</sortname>
+		<desc>The search is on! Mickey is on the trail of a wicked Witch named Mizrabel, who has kidnapped Minnie. Mickey must find seven gems hidden in the fantastic chambers of Mizrabel's Castle of Illusion and use them to save Minnie. Can Mickey find them? It's up to you!</desc>
+		<image>./images/Mickey Mouse - Castle of Illusion (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19901230T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mickey Mouse - Land of Illusion (UE) [!].zip</path>
+		<name>Land of Illusion Starring Mickey Mouse</name>
+		<sortname>Disney's Mickey Land of Illusion</sortname>
+		<desc>Journey with Mickey Mouse through spooky castle ruins, dark caverns, an enchanted forest and a toy shop gone crazy! Use your wits and Mickey's magic to evade challenging traps, explore secret passages, and restore peace and happiness to the Land of Illusion!</desc>
+		<image>./images/Mickey Mouse - Land of Illusion (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920925T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mickey Mouse - Legend of Illusion (UE) [!].zip</path>
+		<name>Legend of Illusion Starring Mickey Mouse</name>
+		<sortname>Disney's Mickey Legend of Illusion</sortname>
+		<desc>Legend of Illusion Starring Mickey Mouse, known in Japan as Mickey Mouse Densetsu no Oukoku (ミッキーマウス 伝説の王国), is a Sega Master System and Sega Game Gear platform game featuring Disney's Mickey Mouse. It is the sequel to Land of Illusion. The Master System version was released exclusively in Brazil by Tectoy.</desc>
+		<image>./images/Mickey Mouse - Legend of Illusion (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19950113T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Tec Toy Indústria de Brinquedos S.A.</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog (UE) [!].zip</path>
+		<name>Sonic the Hedgehog</name>
+		<sortname>Sonic Hedgehog 1</sortname>
+		<desc>Bust the video game speed barrier wide open with Sonic The Hedgehog. Blaze by in a blur using the Super Sonic Spin Attack. Plummet down tunnels and spin through space. Bounce around 'til you're dizzy in a pinball machine. You've never seen anything like it!</desc>
+		<image>./images/Sonic the Hedgehog (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Ancient</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog 2 (UE) (V1.0) [!].zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<sortname>Sonic Hedgehog 2</sortname>
+		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
+		<image>./images/Sonic the Hedgehog 2 (UE) (V1.0) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19921016T000000</releasedate>
+		<developer>Aspect Co. Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Aerial Assault (UE) [!].zip</path>
+		<name>Aerial Assault</name>
+		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
+		<image>./Other/images/Aerial Assault (UE) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T104641</lastplayed>
+	</game>
+	<game>
+		<path>./Other/After Burner (UE) [!].zip</path>
+		<name>After Burner</name>
+		<desc>The game allows the player to control a F-14 Tomcat jet which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the Sega Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
+		<image>./Other/images/After Burner (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19871212T000000</releasedate>
+		<developer>Sega R&amp;D2</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter, Flight Simulator</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T204524</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Air Rescue (UE) [!].zip</path>
+		<name>Air Rescue</name>
+		<desc>Air Rescue is similar to Choplifter!. You are a driver of a helicopter and the object is to rescue hostages without being shot down by soldiers, jeeps, tanks, choppers, and ground-based missiles, and bring them back to base. A maximum of four hostages can fit into the helicopter at any given time, so it is necessary to make more than one trip. You can choose from a variety of weapons that you can use to shoot down enemies. There are five rounds, which take you through theme parks, burning skyscrapers, army bases, sunken submarines, and caverns. The round ends when you have taken the required number of hostages to the bases.</desc>
+		<image>./Other/images/Air Rescue (UE) [!]-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SIMS Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T210045</lastplayed>
 	</game>
 </gameList>

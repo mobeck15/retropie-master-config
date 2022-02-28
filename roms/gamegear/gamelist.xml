@@ -2954,19 +2954,6 @@ Dr. Robotnik has stolen the Red Chaos Emerald, causing the other five to "lose b
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Other/Aerial Assault.zip</path>
-		<name>Aerial Assault</name>
-		<desc>It's the 21st century and N.A.C., a feared terrorist group of the galaxy, threatens to destroy Earth. They've developed the super weapon "EL" that will blast away Earth's ozone layer. And they've threatened to use it! As the world's top jet fighter pilot, you're in command of the of the ultimate in combat aircraft - the "Freedom Fighter." Armed with the latest in new high-tech weaponry, you and your jet are Earth's only chance against the merciless N.A.C. Good luck!</desc>
-		<image>./Other/images/Aerial Assault-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SIMS Co., Ltd.</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<playcount>6</playcount>
-		<lastplayed>20211114T095832</lastplayed>
-	</game>
-	<game>
 		<path>./Other/Addams Family.zip</path>
 		<name>The Addams Family</name>
 		<sortname>Addams Family 1</sortname>
@@ -3022,5 +3009,18 @@ On land, in the air, and at sea, Tails battles some pretty tough birds!
 		<developer>SIMS Co., Ltd.</developer>
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Other/Aerial Assault.zip</path>
+		<name>Aerial Assault</name>
+		<desc>It's the 21st century and N.A.C., a feared terrorist group of the galaxy, threatens to destroy Earth. They've developed the super weapon "EL" that will blast away Earth's ozone layer. And they've threatened to use it! As the world's top jet fighter pilot, you're in command of the of the ultimate in combat aircraft - the "Freedom Fighter." Armed with the latest in new high-tech weaponry, you and your jet are Earth's only chance against the merciless N.A.C. Good luck!</desc>
+		<image>./Other/images/Aerial Assault-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SIMS Co., Ltd.</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<playcount>7</playcount>
+		<lastplayed>20220109T104750</lastplayed>
 	</game>
 </gameList>

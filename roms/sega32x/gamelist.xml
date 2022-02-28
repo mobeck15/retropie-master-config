@@ -72,17 +72,6 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./After Burner 32X (A) [!].zip</path>
-		<name>After Burner</name>
-		<desc>The game allows the player to control a F-14 Tomcat jet, which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the SEGA Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
-		<image>./images/After Burner 32X (A) [!]-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19950113T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Sports/BC Racers 32X (F) [c][!].zip</path>
 		<name>BC Racers</name>
 		<desc>It’s pre-hysterical!  Millionaire playboy caveman Millstone Rockafella arranges a wild n’ wacky BC bike race, the winner of which receives the ultimate boulderdash bike.  Cool n’ crazy Cliff Ace has had his sunglasses set on a boulderdash bike since he was knee-high, so he signs up for the race - taking his cave-babe Roxy along for the ride!  The 32X pushes graphics to the limit with 256 colors for in-game graphics and full 24-bit for static display.  The stone-age never looked better!</desc>
@@ -472,5 +461,18 @@ WWF RAW introduces differences between the characters in that they not only have
 		<publisher>Midway Games</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./After Burner 32X (A) [!].zip</path>
+		<name>After Burner</name>
+		<desc>The game allows the player to control a F-14 Tomcat jet, which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the SEGA Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.</desc>
+		<image>./images/After Burner 32X (A) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19950113T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T204640</lastplayed>
 	</game>
 </gameList>

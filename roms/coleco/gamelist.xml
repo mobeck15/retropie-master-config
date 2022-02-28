@@ -23,33 +23,6 @@
 		<releasedate>19691231T160000</releasedate>
 	</folder>
 	<game>
-		<path>./Sports/Super Action Football (1984) (Coleco).zip</path>
-		<name>Super Action Football</name>
-		<sortname>Action Football</sortname>
-		<desc>Another game in the Super Action series that makes use of Coleco's Super Action Controllers. Play against the computer or go head-to-head with a friend over 4 quarters of football action. Step back and throw the long bomb to your wide receiver dancing in the end zone, kick the field goal, or lay down a bone-crunching tackle as you control one of 3 offensive or 3 defensive players. What victory dance will you do as you dive across the goal line in the final seconds of the game?</desc>
-		<image>./Sports/images/Super Action Football (1984) (Coleco)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19840601T000000</releasedate>
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Sports/Super Action Soccer (1984) (Coleco).zip</path>
-		<name>Super Action Football</name>
-		<sortname>Action Soccer</sortname>
-		<desc>Super Action Soccer gives you the chance to be the most accomplished star player of any team that ever was. You will be the goal-keeper diving to make incredible saves, the full back with fierce last minute tackles, the mid-field "general" directing shrewd passes and the centre forward scoring great goals. You will be involved all the time in the most exciting moments of the game. You will score the winning goal!
-
-Team Pixelboy released Super Action Soccer for the North American audience.</desc>
-		<image>./Sports/images/Super Action Soccer (1984) (Coleco)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19840501T000000</releasedate>
-		<developer>Coleco</developer>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Sports/Decathlon (1983) (Activision).zip</path>
 		<name>Decathlon</name>
 		<desc>The Activision Decathlon is a sports game written by David Crane for the Atari 2600 and published by Activision in 1983. It was ported to the Atari 8-bit family, Atari 5200, Commodore 64, ColecoVision and MSX platforms. Up to four players compete in the ten different events of a real-life decathlon, either in sequence or individually.
@@ -109,30 +82,6 @@ Victory can be achieved in two ways, either by knockout, or by point count if th
 		<developer>Coleco</developer>
 		<publisher>Coleco</publisher>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Other/Adam's Musicbox Demo (1987) (Coleco).zip</path>
-		<name>Adam's Musicbox Demo</name>
-		<desc>Adam's Musicbox Demo was created as an interface to test and demonstrate various sounds from the ColecoVision system in 1987.  This game was only a demo.</desc>
-		<image>./Other/images/Adam's Musicbox Demo (1987) (Coleco)-image.png</image>
-		<rating>0.2</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-		<genre>Sandbox</genre>
-	</game>
-	<game>
-		<path>./Other/Alcazar - The Forgotten Fortress (1985) (Activision).zip</path>
-		<name>Alcazar: The Forgotten Fortress</name>
-		<desc>In this adventure game you control an explorer who's on his way to fortress Alcazar. To reach Alcazar you are travelling through a countryside of fortresses and you need to collect several items that you can find along the way. Once you enter the Alcazar fortress you have to search for the crown.
-
-The strategy map gives you an overview of the countryside, it's fortresses and your location in it. What perils lurk in these mysterious castles? Which path is quick and safe? The Alcazar castle is three stories high, all other castles have only two stories. To enter a castle you just have to follow the path. Each castle has it's own sought-after objects and these objects are always guarded by the castles main demon. Objects to look for are for example: a rope, a gun, raw meat, water or a raft. Collect them and use them properly to master the legendary Alcazar fortress.</desc>
-		<image>./Other/images/Alcazar - The Forgotten Fortress (1985) (Activision)-image.jpg</image>
-		<rating>0.2</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action, Adventure</genre>
 	</game>
 	<game>
 		<path>./Other/Alphabet Zoo (1984) (Spinnaker).zip</path>
@@ -1827,7 +1776,7 @@ Though you can record your animations and play them back, there is no method of 
 		<lastplayed>20211114T152845</lastplayed>
 	</game>
 	<game>
-		<path>./Sports/Super Action Baseball (1983) (Coleco).zip</path> 
+		<path>./Sports/Super Action Baseball (1983) (Coleco).zip</path>
 		<name>Super Action Baseball</name>
 		<sortname>Action Baseball</sortname>
 		<desc>Colecovision's only baseball game and first of the Super Action series, Super Action Baseball was specially designed to work with the Super Action controllers.
@@ -1844,5 +1793,64 @@ Box art is fan made.</desc>
 		<players>2</players>
 		<playcount>2</playcount>
 		<lastplayed>20211114T152508</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Adam's Musicbox Demo (1987) (Coleco).zip</path>
+		<name>Adam's Musicbox Demo</name>
+		<desc>Adam's Musicbox Demo was created as an interface to test and demonstrate various sounds from the ColecoVision system in 1987.  This game was only a demo.</desc>
+		<image>./Other/images/Adam's Musicbox Demo (1987) (Coleco)-image.png</image>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Sandbox</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220109T102904</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Action Football (1984) (Coleco).zip</path>
+		<name>Super Action Football</name>
+		<sortname>Action Football</sortname>
+		<desc>Another game in the Super Action series that makes use of Coleco's Super Action Controllers. Play against the computer or go head-to-head with a friend over 4 quarters of football action. Step back and throw the long bomb to your wide receiver dancing in the end zone, kick the field goal, or lay down a bone-crunching tackle as you control one of 3 offensive or 3 defensive players. What victory dance will you do as you dive across the goal line in the final seconds of the game?</desc>
+		<image>./Sports/images/Super Action Football (1984) (Coleco)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840601T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220109T102716</lastplayed>
+	</game>
+	<game>
+		<path>./Sports/Super Action Soccer (1984) (Coleco).zip</path>
+		<name>Super Action Football</name>
+		<sortname>Action Soccer</sortname>
+		<desc>Super Action Soccer gives you the chance to be the most accomplished star player of any team that ever was. You will be the goal-keeper diving to make incredible saves, the full back with fierce last minute tackles, the mid-field "general" directing shrewd passes and the centre forward scoring great goals. You will be involved all the time in the most exciting moments of the game. You will score the winning goal!
+
+Team Pixelboy released Super Action Soccer for the North American audience.</desc>
+		<image>./Sports/images/Super Action Soccer (1984) (Coleco)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19840501T000000</releasedate>
+		<developer>Coleco</developer>
+		<genre>Sports</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20220109T102808</lastplayed>
+	</game>
+	<game>
+		<path>./Other/Alcazar - The Forgotten Fortress (1985) (Activision).zip</path>
+		<name>Alcazar: The Forgotten Fortress</name>
+		<desc>In this adventure game you control an explorer who's on his way to fortress Alcazar. To reach Alcazar you are travelling through a countryside of fortresses and you need to collect several items that you can find along the way. Once you enter the Alcazar fortress you have to search for the crown.
+
+The strategy map gives you an overview of the countryside, it's fortresses and your location in it. What perils lurk in these mysterious castles? Which path is quick and safe? The Alcazar castle is three stories high, all other castles have only two stories. To enter a castle you just have to follow the path. Each castle has it's own sought-after objects and these objects are always guarded by the castles main demon. Objects to look for are for example: a rope, a gun, raw meat, water or a raft. Collect them and use them properly to master the legendary Alcazar fortress.</desc>
+		<image>./Other/images/Alcazar - The Forgotten Fortress (1985) (Activision)-image.jpg</image>
+		<rating>0.2</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action, Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20220115T211147</lastplayed>
 	</game>
 </gameList>
