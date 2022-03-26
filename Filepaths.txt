@@ -35,6 +35,7 @@ Original es_systems.cfg
 Scummvm default save path
 /opt/retropie/configs/scummvm/saves
 change manually in Scummvm paths menu.
+or /opt/retropie/configs/scummvm/scummvm.ini
 
 runcommand scripts
 /opt/retropie/configs/all/

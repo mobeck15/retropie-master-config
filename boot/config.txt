@@ -24,6 +24,7 @@
 # uncomment if hdmi display is not detected and composite is being output
 ###################
 hdmi_force_hotplug=1
+hdmi_force_edid_audio=1
 ###################
 
 # uncomment to force a specific HDMI mode (this will force VGA)
@@ -100,3 +101,4 @@ hdmi_cvt 1024 600 60 6 0 0 0
 
 #disable the rainbow splash screen
 #disable_splash=1
+#hdmi_enable_4kp60=1
